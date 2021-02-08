@@ -110,6 +110,7 @@ See the following table for the specific code for each data center.
 | San Jose 01      | SJC01 |
 | San Jose 03      | SJC03 |
 | San Jose 04      | SJC04 |
+| Sao Paulo 01     | SAO01 |
 | Seattle 01       | SEA01 |
 | Toronto 01       | TOR01 |
 | Washington DC 01 | WDC01 |

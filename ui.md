@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2020
-lastupdated: "2020-11-23"
+  years: 2015, 2021
+lastupdated: "2021-02-04"
 
 keywords: ui, components, using the console, SoftLayer, classic infrastructure, redirect, catalog, pricing information, get support, dashboard, scoped dashboard
 
@@ -19,7 +19,7 @@ subcollection: overview
 # Navigating the {{site.data.keyword.cloud_notm}} console 
 {: #ui}
 
-The {{site.data.keyword.cloud}} console is a user interface that helps you manage all your {{site.data.keyword.cloud_notm}} resources. When you access the [console](https://cloud.ibm.com){: external} , you can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. After you log in, the menu bar contains a Menu icon ![Menu icon](../icons/icon_hamburger.svg) and more links.
+The [{{site.data.keyword.cloud}} console](https://cloud.ibm.com){: external} is a user interface that you use to manage all your {{site.data.keyword.cloud_notm}} resources. You can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. After you log in, the menu bar contains a **Menu** icon ![Menu icon](../icons/icon_hamburger.svg) and more links.
 {: shortdesc}
 
 ## Watch a tour
@@ -64,13 +64,28 @@ Now that you know how to navigate through the {{site.data.keyword.cloud_notm}} u
 
 When you log in to {{site.data.keyword.cloud_notm}}, your dashboard is displayed, which shows widgets that summarize the status of your account. If you're interested in customizing your dashboard, see [Working with scoped dashboards](/docs/account?topic=account-custom-dashboard).
 
-  * Use the **Catalog** link to create new resources.
+  * Use the **Catalog** link to explore over 350 products that offer options for compute, networking, security management, end-to-end developer solutions, and more.
   * Use the **Docs** link to access the product documentation. 
   * Use the **Support** link to access the Support Center.  
   * From the **Manage** menu, you can access your account, billing and usage, and Identity and Access Management options.
   * Click the {{site.data.keyword.cloud-shell_notm}} icon ![{{site.data.keyword.cloud-shell_notm}} icon](../icons/terminal-cloud-shell.svg) to open a browser-based shell environment that you can use to work with your {{site.data.keyword.cloud_notm}} resources.
   * Click the Cost estimator icon ![Cost estimator icon](../icons/Estimator.svg) to open the cost estimator.
   * Click the Notifications icon ![Notifications icon](../icons/Notification.svg) to view and control all incidents, maintenance, and announcements that are likely to affect your account.
+  
+## Working in the catalog
+{: #catalogcreate}
+
+Click **Catalog** from the console menu bar to explore the available offerings, which are organized in the following categories: 
+
+* From the Services tab, you can explore the {{site.data.keyword.cloud_notm}} services for infrastructure, developer tools, compute, AI, and more for building your apps on the public cloud. The lifecycle and operations of these services are managed by {{site.data.keyword.IBM_notm}}.
+* From the Software tab, you can find Cloud Paks, Bitnami Helm charts, and Terraform templates. The preconfigured software solutions help you to build faster, and each offering is installed by using a simplified installation process to help you get started quickly. You manage the deployment and configuration of these offerings on your own compute resources.
+
+You can quickly search for any specific offering by entering keywords, or you can use the categories and filters to explore the different types of offerings. You can filter by category, offering type, deployment target, or the offering provider. For example, if you want to deploy an analytics offering to {{site.data.keyword.openshiftlong}}, you can select the **Analytics** category, and then filter the results by selecting **Red Hat OpenShift** as the deployment target.
+
+After you select the offering that you want to create, you can define the deployment location.
+
+  * For Cloud Foundry resources, you can select a specific region and then select the org and space for the service instance to be assigned to.
+  * For resources managed by {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM), you select a location to deploy in. Then, you select a resource group to assign the service instance to.
 
 ## Searching for resources
 {: #search}
@@ -91,28 +106,12 @@ You can view all the resources in your account across all locations from your re
 You can work with your resources in various ways from your resource list:
 
   * Each resource is displayed in its own row and an Actions icon ![More Actions icon](../icons/action-menu-icon.svg) is included at the end of the row. Click the Actions icon ![More Actions icon](../icons/action-menu-icon.svg) to start, stop, rename, or delete a resource.
-  * To set up credentials or connections for a resource, click the name of the resource to navigate to the resource details page. Then, select **Service credentials** or **Connections**. For more information, see [Adding a credential](/docs/account?topic=account-service_credentials) and [Managing connections](/docs/account?topic=account-connect_app).
- 
-
-## Working in the catalog
-{: #catalogcreate}
-
-Click **Catalog** from the console menu bar to explore the available offerings, which are organized in the following categories: 
-
-* From the Services tab, you can explore the {{site.data.keyword.cloud_notm}} services for infrastructure, developer tools, compute, AI, and more for building your apps on the public cloud. The lifecycle and operations of these services are managed by {{site.data.keyword.IBM_notm}}.
-* From the Software tab, you can find Cloud Paks, Bitnami Helm charts, and Terraform templates. The preconfigured software solutions help you to build faster, and each offering is installed by using a simplified installation process to help you get started quickly. You manage the deployment and configuration of these offerings on your own compute resources.
-
-You can quickly search for any specific offering by entering keywords, or you can use the categories and filters to explore the different types of offerings. You can filter by category, offering type, deployment target, or the offering provider. For example, if you want to deploy an analytics offering to {{site.data.keyword.openshiftlong}}, you can select the **Analytics** category, and then filter the results by selecting **Red Hat OpenShift** as the deployment target.
-
-After you select the offering that you want create, you can define the deployment location.
-
-  * For Cloud Foundry resources, you can select a specific region and then select the org and space for the service instance to be assigned to.
-  * For resources managed by {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM), you select a location to deploy in. Then, you select a resource group to assign the service instance to.
+  * To set up credentials or connections for a resource, click the name of the resource to go to the resource details page. Then, select **Service credentials** or **Connections**. For more information, see [Adding a credential](/docs/account?topic=account-service_credentials) and [Managing connections](/docs/account?topic=account-connect_app).
 
 ## Transitioning to the {{site.data.keyword.cloud_notm}} experience
 {: #redirect-cloud}
 
-As part of the migration from SoftLayer to {{site.data.keyword.cloud_notm}}, get familiar with the {{site.data.keyword.cloud_notm}} console, which you use to manage both your platform and infrastructure resources. We're currently in the process of linking all SoftLayer and {{site.data.keyword.cloud_notm}} accounts. Therefore, your account might not have access yet. As soon as it does, you can check out the new experience.
+As part of the migration from SoftLayer to {{site.data.keyword.cloud_notm}}, get familiar with the {{site.data.keyword.cloud_notm}} console, which you use to manage both your platform and infrastructure resources. We're currently linking all SoftLayer and {{site.data.keyword.cloud_notm}} accounts. Therefore, your account might not have access yet. As soon as it does, you can check out the new experience.
 
 The formerly named SoftLayer is now called {{site.data.keyword.cloud_notm}} classic infrastructure.
 {: note}
@@ -120,11 +119,11 @@ The formerly named SoftLayer is now called {{site.data.keyword.cloud_notm}} clas
 ### Locating your infrastructure items
 {: #sl-links}
 
-Click the **Menu icon** ![Menu icon](../icons/icon_hamburger.svg) > **Classic Infrastructure** to quickly locate your devices, storage, network, security, and services. 
+Click the **Menu** icon ![Menu icon](../icons/icon_hamburger.svg) > **Classic Infrastructure** to quickly locate your devices, storage, network, security, and services. 
 
 ![Location of classic infrastructure items.](images/iaas-items.png "Locating your infrastructure items"){: caption="Figure 1. Location of classic infrastructure items in the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
 
-You can also find your infrastructure resources by clicking any of the links that are listed in the Classic infrastructure widget on your dashboard. Go to **Menu icon** ![Menu icon](../icons/icon_hamburger.svg) > **Dashboard**.
+You can also find your infrastructure resources by clicking any of the links that are listed in the Classic infrastructure widget on your dashboard. Go to **Menu** icon ![Menu icon](../icons/icon_hamburger.svg) > **Dashboard**.
 {: tip}
 
 ### Managing users, access, and API keys
@@ -133,7 +132,7 @@ You can also find your infrastructure resources by clicking any of the links tha
 You can manage users in your account, classic infrastructure access for your users, and your API keys from the Access (IAM) section of the console. 
 
 * To invite new users, remove users, or manage a specific user's login settings, IP restrictions, VPN password, and more, go to **Manage** > **Access (IAM)**, and select **Users**.
-* To start managing a user's classic infrastructure access, go to **Manage** > **Access (IAM)**, and select **Users**. For more details, see [Managing classic infrastructure access](/docs/account?topic=account-mngclassicinfra).
+* To start managing a user's classic infrastructure access, go to **Manage** > **Access (IAM)**, and select **Users**. For more information, see [Managing classic infrastructure access](/docs/account?topic=account-mngclassicinfra).
 * To create and manage {{site.data.keyword.cloud_notm}} API keys or a classic infrastructure API key, go to **Manage** > **Access (IAM)**, and select **API keys**. For more information, see [Understanding API keys](/docs/account?topic=account-manapikey).
 
 ![Location to manage IAM items.](images/users-access.png "Managing users, access, and API keys"){: caption="Figure 2. Managing IAM items in the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
@@ -144,7 +143,7 @@ You can manage users in your account, classic infrastructure access for your use
 Use the catalog to place an order. You can navigate to the catalog in one of the following ways:
 
   * Click **Catalog** from the menu bar.
-  * Click the **Menu icon** ![Menu icon](../icons/icon_hamburger.svg) > **Resource list**. Then, click **Create resource**.
+  * Click the **Menu** icon ![Menu icon](../icons/icon_hamburger.svg) > **Resource list**. Then, click **Create resource**.
 
 ![Location to place an order.](images/orders.png "Placing an order"){: caption="Figure 3. Placing an order in the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
 
@@ -184,15 +183,15 @@ To access your current support cases, click **Support** > **Manage cases**. You 
 
 You can submit a rave review, a suggestion, or any other feedback. To get in touch with us, choose from the following methods:
 
-  * Click the **Feedback** button that is located on the edge of the console page. 
-  * Click the **Avatar icon** ![Avatar icon](../icons/i-avatar-icon.svg) > **Feedback**. 
+  * Click the **Feedback** button that is on the edge of the console page. 
+  * Click the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg) > **Feedback**. 
 
 ![Location to submit feedback.](images/feedback.png "Submitting feedback"){: caption="Figure 8. Submitting feedback in the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
 
 ### Setting email preferences
 {: #email-prefsl}
 
-You can set your preferences to receive emails about platform and infrastructure notifications. Click the **Avatar icon** ![Avatar icon](../icons/i-avatar-icon.svg) > **Profile and settings**, and select **Notifications**.
+You can set your preferences to receive emails about platform and infrastructure notifications. Click the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg) > **Profile and settings**, and select **Notifications**.
 
 ![Location to set email preferences.](images/email-prefs.png "Setting email preferences"){: caption="Figure 9. Setting your email preferences in the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
 

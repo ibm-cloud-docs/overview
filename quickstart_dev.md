@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2018, 2020
+  years: 2018, 2021
 
-lastupdated: "2020-07-09"
+lastupdated: "2021-01-28"
 
 keywords: quick start steps, dev quick start, dev get started, developer, quick start guide, get coding
 
@@ -38,14 +38,14 @@ Create a Pay-As-You-Go or Subscription account to get full access to all product
     * Use a [starter kit](/docs/apps?topic=apps-tutorial-starterkit) to create an app from a pre-configured custom app. 
     * [Start by programming language](/docs/home/build). 
 3. Use the [API Docs](https://{DomainName}/apidocs) to understand the available endpoints and view examples.
-4. Use the Menu icon ![Menu icon](../icons/icon_hamburger.svg) **> Resource list** to see all apps and resources for your account on one screen or the Menu icon ![Menu icon](../icons/icon_hamburger.svg) **> Dashboard** to get an at-a-glance summary of your {{site.data.keyword.Bluemix_notm}} environment.
+4. Use the Menu icon ![Menu icon](../icons/icon_hamburger.svg) **> Resource list** to see all apps and resources for your account on one screen. Alternatively, use the Menu icon ![Menu icon](../icons/icon_hamburger.svg) **> Dashboard** to get an at-a-glance summary of your {{site.data.keyword.Bluemix_notm}} environment.
 
 ## Next steps
 {: #nextsteps-dev}
 
 * Explore the products in the [catalog](https://{DomainName}/catalog){: external} that you can use to build or enhance your app.
 * If you're interested in a specific service or implementation, check out the [solution tutorials](/docs/solution-tutorials?topic=solution-tutorials-tutorials) that are available to get you up and running.
-* Jump-start your process by downloading ready-to-use [code patterns](https://developer.ibm.com/patterns/){: external}  for specific solutions. 
+* Jump-start your process by downloading ready-to-use [code patterns](https://developer.ibm.com/patterns/){: external} for specific solutions. 
 
 
 

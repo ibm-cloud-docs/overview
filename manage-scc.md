@@ -1,7 +1,7 @@
 ---
 copyright:
-  years: 2020
-lastupdated: "2020-01-21"
+  years: 2020, 2021
+lastupdated: "2021-01-27"
 
 keywords: security and compliance for the platform, security for IBM Cloud, compliance for IBM Cloud, goals, config rules, rules, posture
 
@@ -59,7 +59,7 @@ To start monitoring your resources, see [Getting started with {{site.data.keywor
 * Check whether service ID creation is limited and configured
 * Ensure no more than 3 user administrators are defined for IAM
 
-## Governing resource configuration for platform servcies
+## Governing resource configuration for platform services
 {: #govern-platform}
 
 As a security or compliance focal, you can use the {{site.data.keyword.compliance_short}} to define configuration rules for the platform services that you're working with in {{site.data.keyword.cloud_notm}}. 

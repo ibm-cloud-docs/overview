@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2018, 2020
+  years: 2018, 2021
 
-lastupdated: "2020-08-24"
+lastupdated: "2021-01-28"
 
 keywords: account quick start, account set up, quick start guide, account admins, environment
 
@@ -36,12 +36,12 @@ This quick start guide is intended to help account admins set up their {{site.da
 6. Use the cost estimator to get an idea of how much your environment might cost. Click the Cost estimator icon ![Estimator icon](../icons/Estimator.svg) in the console menu bar. 
 7. Use the cost estimator to get an idea of how much your infrastructure might cost. 
   
-  a. Start by selecting an offering from the [catalog](https://cloud.ibm.com/catalog){: external} . 
+  a. Start by selecting an offering from the [catalog](https://cloud.ibm.com/catalog){: external}. 
   
   b. Enter the configuration details, select your pricing plan, and click **Add to estimate**.
 
 ## Next steps
 {: #next-steps-acc-ad}
 
-* Start creating services within the account to enable your organization and developers to build the solutions they need.  
+* Create services within the account to enable your organization and developers to build the solutions they need.  
 * Tag your resources to help organize how you view billing and usage. By doing so, you can easily identify chargebacks to different organizations. For more information, see [Working with tags](/docs/account?topic=account-tag). 

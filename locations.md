@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2021
-lastupdated: "2021-01-04"
+lastupdated: "2021-01-29"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -19,17 +19,17 @@ subcollection: overview
 # Locations for resource deployment
 {: #locations}
 
-{{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations but with the same billing and usage view, and deploy your apps to the location that is nearest to your customers to achieve low application latency.
+{{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations but with the same billing and usage view. You can also deploy your apps to the location that is nearest to your customers to achieve low application latency.
 {: shortdesc}
 
-{{site.data.keyword.cloud_notm}} provides 3 tiers of regions: multizone regions (MZR), single-zone regions( SZR), and data centers. For more details, see the following sections.
+{{site.data.keyword.cloud_notm}} provides 3 tiers of regions: multizone regions (MZR), single-zone regions (SZR), and data centers. For more details, see the following sections.
 
 ## Multizone regions
 {: #mzr-table}
 
-A [multizone region](#x9774820){: term} (MZR) is comprised of 3 or more zones that are independent from each other to ensure that single failure events affect only a single zone. MZRs provide low latency (< 2 milliseconds latency) and high bandwidth (> 1000 Gbps) connectivity across zones. Any [GA](#x2117947){: term} service in an MZR will be available in all MZRs within 90 days. 
+A [multizone region](#x9774820){: term} (MZR) is composed of 3 or more zones that are independent from each other to ensure that single failure events affect only a single zone. MZRs provide low latency (< 2-milliseconds latency) and high bandwidth (> 1000 Gbps) connectivity across zones. Any [GA](#x2117947){: term} service in an MZR will be available in all MZRs within 90 days.  
 
-The advantage of an MZR is that it provides consistent cloud services across different zones, better resiliency, availability, higher interconnect speed between data centers for your resources. These features can be critical to your applications. Deploying the application in an MZR rather than a SZR can increase the availability from 99.9% to 99.99% when deployed over three zones. 
+The advantage of an MZR is that it provides consistent cloud services across different zones, better resiliency, availability, higher interconnect speed between data centers for your resources. These features can be critical to your applications. Deploying the application in an MZR rather than an SZR can increase the availability from 99.9% to 99.99% when deployed over 3 zones. 
 
 The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the region, zone, and data center codes for each one. 
 
@@ -57,6 +57,7 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 
 | Location      | Region   | Zone | Data Center |
 |-----------|----------|------|----|
+| Osaka         | jp-osa   |jp-osa-1<br>jp-osa-2<br>jp-osa-3 | OSA21<br>OSA22<br>OSA23|
 | Sydney        | au-syd   |au-syd-1<br>au-syd-2<br>au-syd-3 | SYD01<br>SYD04<br>SYD05|
 | Tokyo         | jp-tok   |jp-tok-1<br>jp-tok-2<br>jp-tok-3 | TOK02<br>TOK04<br>TOK05|
 {: caption="Table 1. Multizone regions in Asia Pacific" caption-side="top"}
@@ -66,10 +67,13 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
+Osaka is a single-site MZR. In a single-site MZR, the three data centers that support the three zones are running in the same building. The underlying infrastructure in the Osaka MZR zone has the same SLA as other individual zones in a multi-site MZR. Osaka MZR resiliency to failures in local city and location infrastructures is reduced because of being located in a single building. 
+{: note}
+
 ## Single-zone regions
 {: #szr-table}
 
-You can also choose to deploy resources to a SZR, but you can't spread them across zones. The following table lists the [SZRs](#x9774825){: term} in {{site.data.keyword.cloud_notm}} and the region, zone, and data center codes for each one.
+You can also choose to deploy resources to an SZR, but you can't spread them across zones. The following table lists the [SZRs](#x9774825){: term} in {{site.data.keyword.cloud_notm}} and the region, zone, and data center codes for each one.
 
 | Location      | Region   | Zone | Data Center |
 |-----------|----------|------|----|

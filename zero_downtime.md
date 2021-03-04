@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2018, 2020
-lastupdated: "2020-10-05"
+  years: 2018, 2021
+lastupdated: "2021-01-29"
 
 keywords: load balancing, global load balancing, HA, DR, high availability, disaster recovery, HA for the platform, high availability for platform, disaster recovery plan, disaster event, zero downtime, workloads, failover, failover design
 
@@ -24,7 +24,7 @@ subcollection: overview
 # How {{site.data.keyword.cloud_notm}} ensures high availability and disaster recovery
 {: #zero-downtime}
 
-Your global strategy is important, and {{site.data.keyword.cloud}} uses global load balancing to ensure a redundant, highly-available platform is available for you to host your workloads and applications.
+Your global strategy is important, and {{site.data.keyword.cloud}} uses global load balancing to ensure a redundant, highly available platform is available for you to host your workloads and applications.
 {:shortdesc} 
 
 ## High availability for the platform
@@ -32,7 +32,7 @@ Your global strategy is important, and {{site.data.keyword.cloud}} uses global l
 
 The {{site.data.keyword.cloud_notm}} console is available globally and load balanced from a single URL. It is highly available and continues to run even if your resources are unavailable. 
 
-Other platform services, including catalogs, global search and tagging, identity and access management, and account management are also globally available and load balanced across multiple regions. This means that there is a failover design in place to keep your resources up and running without you having to take any action. 
+Other platform services, including catalogs, global search and tagging, identity and access management, and account management are also globally available and load balanced across multiple regions. A failover design is in place to keep your resources up and running without you having to take action.
 
 Each platform service is categorized as a general availability service with a [Service Level Agreement](/docs/overview?topic=overview-slas) of 99.99% availability. While each platform service might be available from various regions, each region in which the service is deployed has multiple data centers for redundancy.
 
@@ -56,9 +56,9 @@ Some platform services are regionally available, which means that automated glob
 
 High availability and disaster recovery aren't universal across all resources, so the type of high availability and disaster recovery that's available depends on the resource that you're using. All {{site.data.keyword.Bluemix_notm}} resources are hosted in data center locations around the world. The locations that you deploy your app to can spread workloads across data centers, and you can ensure that a failover design is in place to keep your app up and running. 
 
-As an {{site.data.keyword.IBM_notm}} classic infrastructure (non-VPC) customer, you can order bare metal or virtual server instances (VSI) and can deploy to over 60 data centers that are located around the world in addition to several multizone regions (MZR) with multiple availability zones. Whether the data centers are MZRs or not, all of them maintain multiple power feeds, fiber links, dedicated generators, and battery backup to avoid a single-point-of-failure (SPOF) between zones and regions. 
+As an {{site.data.keyword.IBM_notm}} classic infrastructure (non-VPC) customer, you can order bare metal or virtual server instances (VSI) and deploy to over 60 data centers that are located around the world in addition to several multizone regions (MZR) with multiple availability zones. Whether the data centers are MZRs or not, all of them maintain multiple power feeds, fiber links, dedicated generators, and battery backup to avoid a single-point-of-failure (SPOF) between zones and regions. 
 
-Even though all the data centers have multiple power feeds, several of the more mature sites, such as AMS01, DAL05, 06, 08. FRA02. HKG02, MEX01, MIL01, PAR01,SJC01, SNG01, WDC01, and WDC03, have some 1U single socket server chassis that might not accommodate a dual power feed. If you have a 1U single socket server in one of these sites, you might want to consider a 2U chassis with redundant power supplies.
+Even though all the data centers have multiple power feeds, several of the more mature sites, such as AMS01, DAL05, 06, 08. FRA02. HKG02, MEX01, MIL01, PAR01, SJC01, SNG01, WDC01, and WDC03, have some 1U single socket server chassis that might not accommodate a dual power feed. If you have a 1U single socket server in one of these sites, you might want to consider a 2U chassis with redundant power supplies.
 
 For more information about the specific options for deploying your workloads, see [locations for resource deployment](/docs/overview?topic=overview-locations).
 
@@ -68,7 +68,7 @@ For more information about particular high availability and disaster recovery pr
 ## High availability for the network
 {: #ha-network}
 
-Except for the oldest pod that still has some single points of failure, the {{site.data.keyword.cloud_notm}} network is designed in such a way that there is never a single point of failure. Diverse, redundant connectivity exists at every point of the network, by using diverse telecommunication providers for the same service connectivity whenever possible within each region. Diverse dark fiber providers are used to connect every compute facility to the edge, and each edge site is connected to at least three adjacent {{site.data.keyword.cloud_notm}} markets (with rare exception). 
+Except for the oldest pod that still has some single points of failure, the {{site.data.keyword.cloud_notm}} network is designed in such a way that a single point of failure never happens. Diverse, redundant connectivity exists at every point of the network, by using diverse telecommunication providers for the same service connectivity whenever possible within each region. Diverse dark fiber providers are used to connect every compute facility to the edge, and each edge site is connected to at least three adjacent {{site.data.keyword.cloud_notm}} markets (with rare exception). 
 
 In addition, the network is connected to multiple peering partners, either directly or through peering exchanges, in each market at each edge site. No single event should ever result in a service disruption that is noticed by our customers.
 

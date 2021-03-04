@@ -1,10 +1,10 @@
 ---
 
 copyright:
-  years: 2020
-lastupdated: "2020-05-08"
+  years: 2020, 2021
+lastupdated: "2021-01-20"
 
-keywords: compliance, environmental information
+keywords: compliance, environmental information, 
 
 subcollection: overview
 
@@ -22,22 +22,22 @@ subcollection: overview
 # Understanding {{site.data.keyword.Bluemix_notm}} compliance
 {: #compliance}
 
-{{site.data.keyword.cloud_notm}} provides a secure cloud platform that you can trust. {{site.data.keyword.cloud_notm}} compliance results from a platform and services that are built on best-in-industry security standards, including GDPR, HIPAA, ISO 9001, ISO 27001/27017/27018, PCI, SOC2, and others. For more information, see [Compliance on the {{site.data.keyword.cloud_notm}}](https://www.ibm.com/cloud/compliance){: external} .
+{{site.data.keyword.cloud_notm}} provides a secure cloud platform that you can trust. {{site.data.keyword.cloud_notm}} compliance results from a platform and services that are built on best-in-industry security standards, including GDPR, HIPAA, ISO 9001, ISO 27001, ISO 27017, ISO 27018, PCI, SOC2, and others. For more information, see [Compliance on the {{site.data.keyword.cloud_notm}}](https://www.ibm.com/cloud/compliance){: external}.
 
 ## Compliance reports
 {: #reports}
 {{site.data.keyword.cloud_notm}} provides compliance reports for some compliance regulations, for example SOC or PCI, to advise clients. The reports include details of the audit experience and can help users assess and address the high, medium, and low risks identified.
 
-If you have an {{site.data.keyword.cloud_notm}} account and want an infrastructure compliance report, go to [https://cloud.ibm.com/classic/security/compliancereport/request](https://cloud.ibm.com/classic/security/compliancereport/request). Fill out the form and you will receive an email with the requested reports attached.
+If you have an {{site.data.keyword.cloud_notm}} account and want an infrastructure compliance report, go to [https://cloud.ibm.com/classic/security/compliancereport/request](https://cloud.ibm.com/classic/security/compliancereport/request). Fill out the form to receive an email with the requested reports attached.
 
 If you don't have an {{site.data.keyword.cloud_notm}} account or want a PaaS compliance report, go to [https://www.ibm.com/account/reg/us-en/signup?formid=MAIL-wcp](https://www.ibm.com/account/reg/us-en/signup?formid=MAIL-wcp). Fill out the form and you will be contacted by an IBM representative.
 
 ## General Data Protection Regulation (GDPR)
 {: #gdpr}
 
-The GDPR seeks to create a harmonized data protection law framework across the EU and aims to give citizens back the control of their personal data, while imposing strict rules on those hosting and processing this data, anywhere in the world.
+The GDPR seeks to create a harmonized data protection law framework across the EU and aims to give citizens back the control of their personal data. The GDPR imposes strict rules on those hosting and processing personal data, anywhere in the world.
 
-{{site.data.keyword.IBM_notm}} is committed to providing our clients and {{site.data.keyword.IBM_notm}} Business Partners with innovative data privacy, security, and governance solutions to assist them in their journey to GDPR readiness. Data and its protection are becoming increasingly important to individuals and society. Enterprises must earn the client’s trust in their ability to steward information.
+{{site.data.keyword.IBM_notm}} is committed to providing our clients and {{site.data.keyword.IBM_notm}} Business Partners with innovative data privacy, security, and governance solutions to assist them in their journey to GDPR readiness. Data and data protection are becoming increasingly important to individuals and society. Enterprises must earn the client’s trust in their ability to steward information.
 
 {{site.data.keyword.cloud_notm}} is agile and scalable with built-in data security, and privacy services and solutions that can be consumed on premises or through public cloud. Our comprehensive data security platform helps safeguard sensitive data wherever it resides and provides a full range of data protection capabilities.
 

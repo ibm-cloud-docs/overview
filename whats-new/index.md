@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-01-12"
+lastupdated: "2021-03-01"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -27,12 +27,45 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
+
+## Manage user login sessions
+{: #user-session-settings}
+
+New as of: 26 February 2021
+
+You can customize the duration of working sessions for user's on your account. Customize the duration of users active settings and select the amount of time a user can be inactive before they are signed out and need to enter their credentials again. Update your accounts Identity and Access (IAM) log in sessions from [Settings page](https://cloud.ibm.com/iam/settings){: external}. For more information, see [Managing user's log in session durations](https://test.cloud.ibm.com/docs/account?topic=account-iam-work-sessions).
+
+
+## Controlling access to resources by using tags
+{: #controlling-access-using-tags-febr2021}
+
+New as of: 25 February 2021
+
+You can now create tags to control access to your resources and your team's projects can grow without requiring updates to your IAM policies. Incorporating tags into access policies gives you the ability to share a resource across multiple projects and you can change access by simply changing the tags on a resource. For more information, see [Controlling access to resources by using tags](/docs/account?topic=account-access-tags-tutorial).
+
+
+## New notifications experience
+{: #notification-preferences}
+
+New as of: 8 February 2021
+
+A more detailed [Notification preferences page](https://cloud.ibm.com/user/notifications){: external} is now available for you to customize your preferences for receiving email notifications. You receive only one email per event unless you subscribe to them, or you can subscribe to specific incidents from the Status page on an ad hoc basis. For more information, see [Setting email preferences for notifications](/docs/account?topic=account-email-prefs).
+
+Based on which preferences the account owner or administrator sets, users in the account can view all {{site.data.keyword.Bluemix_notm}} incidents, maintenance, announcements, and security bulletins on the [Notifications page](https://cloud.ibm.com/notifications){: external}. They can filter the list by selecting a specific type of event, or by using keyword searches. For more information, see [Viewing notifications](/docs/get-support?topic=get-support-viewing-notifications).
+
+## Manage product availability by location
+{: #catalog-location-feb2021}
+
+New as of: 1 February 2021
+
+As the account owner or administrator, you can manage access to products in both the {{site.data.keyword.Bluemix_notm}} catalog and the private catalogs in your account based on the location in which the products are deployed. For instance, if you want to limit access to products that are deployed in the Dallas 1 (us-south-1) zone, you can set a filter to include only those products. For more information, see [Managing catalog settings](/docs/account?topic=account-filter-account).
+
 ## Pay as you go with Committed Use pricing model
 {: #paygo-commit-jan2021}
 
 New as of: 12 January 2021
 
-Customers with a Subscription account can use the new pricing model, IBM Cloud Pay as you go with Committed Use. The new pricing model provides you with additional benefits as you navigate and build on IBM Cloud.
+Customers with a Subscription account can use the new pricing model, {{site.data.keyword.Bluemix_notm}} Pay as you go with Committed Use. The new pricing model provides you with additional benefits as you navigate and build on {{site.data.keyword.Bluemix_notm}}.
 
 With this pricing model, you commit to spend a certain amount and receive discounts across the entire platform. You are billed monthly based on your usage, and unlike a subscription, you continue to receive a discount even after you reach your committed amount. For more information, see [Pay as you go with Committed Use pricing model](/docs/account?topic=account-accounts#commitment-model).
 
@@ -100,7 +133,7 @@ New as of: 25 November 2020
 By default, users in your account authenticate themselves by logging in with a username and password. To require users to use more secure authentication methods, the following MFA options are now available.
 
   * MFA for users with an IBMid: Users authenticate by using an IBMid, password, and time-based one-time passcode (TOTP). This option applies to all users or just non-federated users.
-  * MFA for all users (IBMid & supported IdPs): Users authenticate by using email-based MFA, TOTP MFA, or U2F MFA. This option applies to users who are using either an IBMid or an external identity provider (IdP). 
+  * MFA for all users (IBMid & supported IdPs): This option applies to users who are using either an IBMid or an external identity provider (IdP). Users authenticate by using email-based MFA, TOTP MFA, or U2F MFA. The U2F MFA method is based on the FIDO U2F standard, and it offers the highest level of security.
 
 For more details, see [Enabling MFA for your account](/docs/account?topic=account-enablemfa).
 

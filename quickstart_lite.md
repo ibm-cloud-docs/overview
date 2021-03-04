@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2018, 2020
+  years: 2018, 2021
 
-lastupdated: "2020-10-29"
+lastupdated: "2021-01-28"
 
 keywords: quick start, get started with IBM Cloud, quick start guide, Lite account, try out, free
 
@@ -23,7 +23,7 @@ subcollection: overview
 # Try out {{site.data.keyword.Bluemix_notm}}, for free
 {: #quickstart_lite}
 
-Looking to try out {{site.data.keyword.Bluemix}}? A Lite account is great for learning about working in the cloud, using Watson, and so on. It’s also perfect for building proof of concepts (POCs) with the many components available in {{site.data.keyword.Bluemix_notm}}. This quick start guide is intended to help you get up and running with our Lite account.  
+Looking to try out {{site.data.keyword.Bluemix}}? A Lite account is great for learning how to work in the cloud, use Watson, and more. It’s also perfect for building proof of concepts (POCs) with the many components available in {{site.data.keyword.Bluemix_notm}}. This quick start guide is intended to help you get up and running with our Lite account.  
 {:shortdesc}  
 
 ## Before you begin
@@ -42,6 +42,6 @@ Go to the [{{site.data.keyword.Bluemix_notm}} console](https://{DomainName}) and
 ## Next steps
 {: #nextsteps-lite}
 
-Start building your apps! See the [Getting started tutorial](/docs/apps?topic=apps-getting-started) for more information.
+Build your apps! For more information, see the [Getting started tutorial](/docs/apps?topic=apps-getting-started).
 
 

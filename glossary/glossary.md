@@ -2,8 +2,8 @@
 
 
 copyright:
-  years: 2016, 2020
-lastupdated: "2020-10-29"
+  years: 2016, 2021
+lastupdated: "2021-02-05"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -511,7 +511,7 @@ The Cloud Foundry component that is responsible for deploying applications.
 ### dynamic secret
 {: #x9968958}
 
-A unique value, such as a password or an API key, that is created dynamically and leased to an application that requires access to a protected resource. After a dynamic secret reaches the end of its lease, access to the protected resource is revoked and the secret is deleted automatically. See also [secret](/docs/overview?topic=overview-glossary#x2789492), [secret engine](/docs/overview?topic=overview-glossary#x9968967).
+A unique value, such as a password or an API key, that is created dynamically and leased to an application that requires access to a protected resource. After a dynamic secret reaches the end of its lease, access to the protected resource is revoked and the secret is deleted automatically. See also [secret](/docs/overview?topic=overview-glossary#x2789492), [secrets engine](/docs/overview?topic=overview-glossary#x9968967).
 
 ## E
 {: #glosse}
@@ -1411,10 +1411,10 @@ A grouping of resources that can be validated or evaluated for security and comp
 
 A type of sensitive information, such as a password or an API key, that is used by an application to access a protected resource. See also [dynamic secret](/docs/overview?topic=overview-glossary#x9968958).
 
-### secret engine
+### secrets engine
 {: #x9968967}
 
-A component that enables a connection between a secrets management instance and another service. The connection grants authorization between the services and allows the secrets management instance to create time-based secrets for the target service on demand. See also [dynamic secret](/docs/overview?topic=overview-glossary#x9968958).
+A component that serves as a back end for a specific type of secret, such as a password or an API key, within a secrets management service. Depending on its type, a secrets engine can store data, generate secrets on demand, and more. See also [dynamic secret](/docs/overview?topic=overview-glossary#x9968958).
 
 ### secret group
 {: #x9968962}

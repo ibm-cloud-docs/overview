@@ -2,8 +2,8 @@
 
 
 copyright:
-  years: 2018, 2019
-lastupdated: "2020-10-29"
+  years: 2018, 2021
+lastupdated: "2021-01-20"
 
 keywords: feedback button, comments, requirements, product improvements, submit feedback, documentation, console, feedback
 
@@ -30,7 +30,7 @@ When you are reading a page of documentation or completing a task within the con
 2. Select to provide **Generic feedback** for the entire page or product, or **Specific feedback** on a certain part of the page you are currently on.
 3. Select an option for what you think about the page or selection.
 4. Enter a short subject line about your feedback and a longer description about what you want to share with the {{site.data.keyword.Bluemix_notm}} team.
-5. Then, leave your email address if you want to receive progress from the team addressing the feedback that you submitted.
+5. Then, leave your email address if you want to receive progress from the team that is addressing the feedback that you submitted.
 
 Common ad blockers block Usabilla and hide the **Feedback** button. Disable any ad blockers to use the **Feedback** button to submit your comments.
 {: tip}
@@ -38,7 +38,7 @@ Common ad blockers block Usabilla and hide the **Feedback** button. Disable any 
 ## Submitting feedback on the documentation
 {: #feedback-topic}
 
-You can submit feedback on a specific documentation topic by using the **Was this page helpful?** buttons that are displayed at the end of each topic. Do you find the information helpful? Click **Yes** and optionally provide a comment. If you don't find it helpful, or you have suggestions for improvements, click **No** and provide more details.  
+You can submit feedback on a specific documentation topic by using the **Was this page helpful?** buttons that are displayed at the end of each topic. Do you find the information helpful? Click **Yes** and optionally provide a comment. If you don't find it helpful or have suggestions for improvements, click **No** and provide more details.  
 
 ## Providing a content update with a pull request
 {: #feedback-pr}
@@ -65,10 +65,10 @@ To open an issue from a documentation page, complete the following steps:
 2. Enter a title and fill out the template.
 3. Click **Submit new issue**. 
 
-The content team receives the issues that you open and works to address the feedback. You can monitor the issue by saving the link after you click **Submit new issue**. As the issue gets resolved, the content team provides status updates as a comment on the issue.
+The content team works to address the issues that you open. You can monitor the issue by saving the link after you click **Submit new issue**. As the issue gets resolved, the content team provides status updates as a comment on the issue.
 
 ## Submitting ideas for product improvements
 {: #ideas}
 
-To submit ideas for {{site.data.keyword.Bluemix_notm}} and services improvements, go to [IBM Cloud Ideas](https://ibmcloud.ideas.aha.io){: external}. For more information on how to use the idea portal, see [Think, write, submit: New ideas portal for IBM Cloud](https://www.ibm.com/blogs/bluemix/2016/10/think-write-submit/){: external}.
+To submit ideas for {{site.data.keyword.Bluemix_notm}} and services improvements, go to [IBM Cloud Ideas ](https://ibmcloud.ideas.aha.io){: external}. For more information on how to use the idea portal, see [Think, write, submit: New ideas portal for IBM Cloud ](https://www.ibm.com/blogs/bluemix/2016/10/think-write-submit/){: external}.
 

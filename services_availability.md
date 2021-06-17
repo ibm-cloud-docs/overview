@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2015, 2020
-lastupdated: "2020-09-24"
+  years: 2015, 2021
+lastupdated: "2021-07-08"
 
 keywords: lifecycle, end of support, service availability, deprecation, product availability, product release level
 
@@ -15,22 +15,28 @@ subcollection: overview
 {:shortdesc: .shortdesc}
 {:note: .note}
 
-# Continued availability for products
+# Extended Support and Offering Release Levels
 {: #services_availability}
 
-{{site.data.keyword.Bluemix}} has identified a set of products as Tier 1. {{site.data.keyword.IBM}} doesn't withdraw any Tier 1 product without either making a functional equivalent available or providing at least five years notice of the withdrawal.
+## Extended Support for Key Offerings
+{: #extended_support}
 
-The following products are classified as Tier 1:
-  * {{site.data.keyword.apiconnect_short}}
-  * {{site.data.keyword.cloudant}}
-  * {{site.data.keyword.openwhisk_short}}
-  * {{site.data.keyword.containershort_notm}}
-  * {{site.data.keyword.databases-for-postgresql}}
-  * {{site.data.keyword.dashdbshort}}
-  * {{site.data.keyword.iot_short}}
-  * {{site.data.keyword.messagehub}}
-  * {{site.data.keyword.objectstorageshort}}
-  * {{site.data.keyword.appid_short}}
+{{site.data.keyword.Bluemix}} is committed to support a number of key services for extended periods. {{site.data.keyword.IBM}} will not withdraw any offering in the following table ahead of the date indicated, unless a functional equivalent is provided.
+
+| Offering Name | Continued support through: |
+| ------------- | -------------------------- |  
+| {{site.data.keyword.apiconnect_short}} | July 31st, 2026 |
+| {{site.data.keyword.cloudant}} | July 31st, 2026 |
+| {{site.data.keyword.openwhisk_short}} | July 31st, 2026 |
+| {{site.data.keyword.containershort_notm}} | July 31st, 2026 |
+| {{site.data.keyword.databases-for-postgresql}} | July 31st, 2026 |
+| {{site.data.keyword.dashdbshort}} | July 31st, 2026 |
+| {{site.data.keyword.iot_short}} | July 31st, 2026 |
+| {{site.data.keyword.messagehub}} | July 31st, 2026 |
+| {{site.data.keyword.objectstorageshort}} | July 31st, 2026 |
+| {{site.data.keyword.appid_short}} | July 31st, 2026 |
+
+For offerings not in the above table, {{site.data.keyword.IBM_notm}} will provide at least 30 days notice of its intention to discontinue or replace a generally available offering. If no replacement is provided, {{site.data.keyword.IBM_notm}} will use commercially reasonable means to continue the operation and support of previously deployed instances of the product for a period of at least 12 months.
 
 To read more about terms of use for products, see [{{site.data.keyword.Bluemix_notm}} Terms](/docs/overview?topic=overview-terms).
 
@@ -45,7 +51,4 @@ Products are available in the {{site.data.keyword.cloud_notm}} catalog at variou
 * Experimental products are made solely available for evaluation and testing purposes, and might be unstable or not compatible with previous versions. An experimental product can be discontinued with short notice. There are no warranties, SLAs, or support provided, and experimental products are not intended for production use.
 
 
-## Product deprecation
-{: #service_deprecation}
 
-{{site.data.keyword.IBM_notm}} provides at least 30 days notice of its intention to discontinue or replace a generally available product. If an equivalent replacement isn't provided, for at least 12 months from the date of that announcement, {{site.data.keyword.IBM_notm}} uses commercially reasonable means to continue the operation and support of previously deployed instances of the product.

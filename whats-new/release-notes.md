@@ -20,6 +20,17 @@ content-type: release-note
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
+## December 2023
+{: #dec-2023}
+
+### 06 December 2023
+{: #overview-dec0623}
+{: release-note}
+
+Limit access with resource attribute-based conditions
+:   {{site.data.keyword.Bluemix_notm}} IAM is excited to give customers the ability to grant access based on multiple resource attribute-based conditions. With this ability, you can create a single policy with various conditions instead of individual access policies. For more information, see [Limiting access with resource attribute-based conditions](/docs/account?topic=account-iam-resource-based&interface=api).
+
+
 ## November 2023
 {: #nov-2023}
 
@@ -71,7 +82,7 @@ Symantec VIP 2FA is deprecated
 {: release-note}
 
 Partner Center Build & Grow is deprecated
-:   As of 19 October 2023, Partner Center Build and Grow is no longer supported. The new simplified and unified build experience has moved to the {{site.data.keyword.IBM_notm}} Partner Plus website, where you can start enrolling. For more information, go to the [Partner Plus](https://www.ibm.com/partnerplus){: external} website and enroll by clicking **Join {{site.data.keyword.IBM_notm}} Partner Plus**.   
+:   As of 19 October 2023, Partner Center Build and Grow is no longer supported. The new simplified and unified build experience has moved to the {{site.data.keyword.IBM_notm}} Partner Plus website, where you can start enrolling. For more information, go to the [Partner Plus](https://www.ibm.com/partnerplus){: external} website and enroll by clicking **Join {{site.data.keyword.IBM_notm}} Partner Plus**.
 
 ## September 2023
 {: #sept-2023}

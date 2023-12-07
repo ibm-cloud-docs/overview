@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2023-12-06"
+lastupdated: "2023-12-07"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -414,7 +414,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Studio |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Workspace for Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | watsonx Assistant | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| watsonx.data |  |  |  |  | 
+| watsonx.data |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | watsonx.governance |  |  |  |  | 
 {: row-headers}
 {: caption="Table 3. Service availability - Asia Pacific" caption-side="top"}

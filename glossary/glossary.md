@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2023
-lastupdated: "2023-06-26"
+lastupdated: "2023-12-11"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -84,6 +84,18 @@ An iterative process for resolving annotation conflicts by comparing the annotat
 
 Two or more container group instances running on the same network node. See also [anti-affinity](#x8888040).
 
+### AI
+{: #x9443388}
+
+See [artificial intelligence](#x3448902).
+
+
+### AI system
+{: #x10065436}
+
+See [artificial intelligence system](#x10065431).
+
+
 ### allowlist
 {: #x3954001}
 
@@ -140,6 +152,16 @@ A web or mobile device application. See also [web application](#x2116500), [mobi
 {: #x2262995}
 
 An entity that is used or produced by a software or systems development process. Examples of artifacts include designs, requirements, source files, plans, scripts, simulations, models, test plans, and binary executable files. In an HTTP context, artifacts have a URI and are called resources.
+
+### artificial intelligence (AI)
+{: #x3448902}
+
+The capability to acquire, process, create and apply knowledge in the form of a model to make predictions, recommendations or decisions.
+
+### artificial intelligence system (AI system)
+{: #x10065431}
+
+A system that can make predictions, recommendations or decisions that influence physical or virtual environments, and whose outputs or behaviors are not necessarily pre-determined by its developer or user. AI systems are typically trained with large quantities of structured or unstructured data, and might be designed to operate with varying levels of autonomy or none, to achieve human-defined objectives.
 
 ### assembly
 {: #x2260813}
@@ -378,7 +400,7 @@ A JSON document that defines the configuration of resources and validates the co
 ### confusion matrix
 {: #x2916277}
 
-A table that provides a detailed numeric breakdown of annotated document sets. The table is used to compare the annotations that were added by a machine learning model to the annotations in the ground truth. The table reports the number of false positives, false negatives, true positives, and true negatives.
+A performance measurement that determines the accuracy between a model's positive and negative predicted outcomes compared to positive and negative actual outcomes.
 
 ### connection
 {: #x2000863}
@@ -462,15 +484,15 @@ Within an enterprise billing unit, a consolidation of credit from all sources, i
 See [cloud resource name](#x9494304).
 
 
-### crypto unit
-{: #x9860404}
-
-A single unit that represents a hardware security module and the corresponding software stack that is dedicated to the hardware security module for cryptography.
-
 ### cryptosystem
 {: #x10293795}
 
 A suite of algorithms that are used to implement a specific security service. Examples include RSA and Ed25519.
+
+### crypto unit
+{: #x9860404}
+
+A single unit that represents a hardware security module and the corresponding software stack that is dedicated to the hardware security module for cryptography.
 
 ### CSR
 {: #x2140147}
@@ -527,6 +549,11 @@ See [data center](#x2439906).
 {: #x8439199}
 
 A private cloud computing environment that provides infrastructure with single-tenant hardware. See also [borderless](#x8439189).
+
+### deep learning
+{: #x9443378}
+
+A computational model that uses multiple layers of interconnected nodes, which are organized into hierarchical layers, to  transform input data (first layer) through a series of computations to produce an output (final layer). Deep learning is inspired by the structure and function of the human brain.
 
 ### deployable architecture
 {: #x10293733}
@@ -730,6 +757,11 @@ A measure of how consistently the same annotation was applied by multiple human 
 
 A public, routable IP address that makes use of 1-to-1 network address translation (NAT) so that a server can communicate with the public internet and private subnet within a cloud environment. Floating IP addresses are associated to an instance, for example, a virtual server instance, a load balancer, or a VPN gateway, by means of a virtual network interface card (vNIC).
 
+### foundation model
+{: #x10298171}
+
+An AI model that can be adapted to a wide range of downstream tasks. Foundation models are typically large-scale generative models that are trained on unlabeled data using self-supervision. As large scale models, foundation models can include billions of parameters.
+
 ### framework
 {: #x2023472}
 
@@ -755,10 +787,21 @@ See [general availability](#x2117947).
 
 The cumulative amount of memory (in gigabytes) that is running for all application instances for a particular buildpack per hour.
 
+### gen AI
+{: #x10445218}
+
+See [generative AI](#x10298036).
+
+
 ### general availability (GA)
 {: #x2117947}
 
 Date when a product is widely available for sale and delivery to customers or channels, usually across multiple geographies.
+
+### generative AI (gen AI)
+{: #x10298036}
+
+A class of AI algorithms that can produce various types of content including text, source code, imagery, audio, and synthetic data.
 
 ### genesis block
 {: #x9076628}
@@ -915,7 +958,7 @@ An open-standards, cloud-based platform for building, managing, and running apps
 ### identity and access management (IAM)
 {: #x7547040}
 
-The process of controlling access of authorized users to data and applications,  while helping companies comply with various regulatory requirements.
+The process of controlling access of authorized users to data and applications, while helping companies comply with various regulatory requirements.
 
 ### identity provider (IdP)
 {: #x2714740}
@@ -1039,6 +1082,11 @@ A model that consolidates typed entities, their relationships, their properties,
 
 A user-defined identifier attached to a grouping of resources that are contained in an instance. Labels are visible only at an instance.
 
+### large language model (LLM)
+{: #x10298052}
+
+A language model with a large number of parameters, trained on a large quantity of text.
+
 ### layer
 {: #x2028320}
 
@@ -1075,6 +1123,12 @@ An open protocol that uses TCP/IP to provide access to directories that support 
 {: #x8888396}
 
 An open source, collaborative effort to advance blockchain technology by identifying and addressing important features for a cross-industry open standard for distributed ledgers that can transform the way business transactions are conducted globally. Hyperledger serves as the foundation code for the IBM Blockchain products, services, and solutions. See also [Hyperledger fabric](#x8889858).
+
+### LLM
+{: #x4472473}
+
+See [large language model](#x10298052).
+
 
 ### load balancer
 {: #x2788902}
@@ -1119,7 +1173,7 @@ See [logical unit number](#x2163327).
 ### machine learning (ML)
 {: #x8397498}
 
-A method of data analysis that iteratively learns from past data and independently adapts when exposed to new data. The mathematical model at the core of machine learning is built from ground truth inputs. Through training and refinement of example input data, the model can deliver accurate, repeatable results when it analyzes new data.
+A branch of artificial intelligence (AI) and computer science that focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving the accuracy of AI models.
 
 ### machine learning annotator
 {: #x8672606}
@@ -1130,7 +1184,7 @@ See [machine learning model](#x7579194).
 ### machine learning model
 {: #x7579194}
 
-A component that identifies entities and entity relationships according to a statistical model that is based on ground truth. The model applies past experience, such as training data, to determine or predict the correct outcome of future experiences based on characteristics of the data. These past experiences are captured in the form of a model by calculating feature scores for each candidate answer or evidence and combining that with known outcomes.
+An AI model that is trained on a a set of data to develop algorithms that it can use to analyze and learn from new data.
 
 ### Managed Service Provider (MSP)
 {: #x6418711}
@@ -1175,6 +1229,11 @@ A set of small, independent architectural components, each with a single purpose
 See [machine learning](#x8397498).
 
 
+### MLOps
+{: #x10072886}
+
+ A methodology that takes a machine learning model from development to production.
+
 ### mobile app
 {: #x7636517}
 
@@ -1195,6 +1254,11 @@ A computing model that connects mobile applications to cloud computing services 
 {: #x4585344}
 
 An infrastructure in which the storage and processing of data for applications is offloaded from a mobile device into the cloud. With mobile cloud computing, applications are not limited to a specific carrier, but are accessed through the Web.
+
+### ModelOps
+{: #x9892255}
+
+A methodology for managing the full lifecycle of an AI model, including training, deployment, scoring, evaluation, retraining, and updating.
 
 ### module
 {: #x2030595}
@@ -1490,6 +1554,26 @@ A collection of artifacts that define and manage resources and Infrastructure as
 
 A code used to apply limited time credits to Pay-As-You-Go and Subscription accounts.
 
+### prompt
+{: #x2035189}
+
+Data, such as text or an image, that prepares, instructs, or conditions a foundation model's output.
+
+### prompt engineering
+{: #x10298092}
+
+The process of designing natural language prompts for a language model to perform a specific task.
+
+### prompting
+{: #x10298087}
+
+The process of providing input to a foundation model to induce it to produce output.
+
+### prompt tuning
+{: #x10298097}
+
+An efficient, low-cost way of adapting a pre-trained model to new tasks without retraining the model or updating its weights. Prompt tuning involves learning a small number of new parameters that are appended to a model’s prompt, while freezing the model’s existing parameters.
+
 ### proxy
 {: #x2267627}
 
@@ -1765,11 +1849,6 @@ An encryption key that is used by the crypto unit administrator to sign commands
 
 A certificate that any entity, such as an organization or admin, attaches to their proposals or proposal responses. These signCerts are unique to an entity and are checked by the ordering service to make sure they match the signCert on file for that entity.
 
-### single sign-on (SSO)
-{: #x2213318}
-
-An authentication process in which a user can access more than one system or application by entering a single user ID and password.
-
 ### single-campus multizone region (single-campus MZR)
 {: #x10127487}
 
@@ -1785,6 +1864,11 @@ See [single-campus multizone region](#x10127487).
 {: #x9829514}
 
 An application that works inside a browser and does not require page reloading during use.
+
+### single sign-on (SSO)
+{: #x2213318}
+
+An authentication process in which a user can access more than one system or application by entering a single user ID and password.
 
 ### smart contract
 {: #x8888420}

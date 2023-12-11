@@ -56,8 +56,6 @@ Visit the IBM Cloud catalog to check out the secure by default deployable archit
 ## Defining your compliance strategy
 {: #define-enterprise-compliance}
 
-<!-- Planning and defining your enterprise's goals for running secure workloads on IBM Cloud is essential to your success, as building infrastructure and applications in the cloud can be time consuming and error-prone.-->
-
 By planning and defining your enterprise's goals for running secure workloads on {{site.data.keyword.cloud_notm}} early in the process, you can reduce the time to production for building infrastructure and applications in the cloud. With {{site.data.keyword.cloud_notm}}, you can save your business time and money by taking advantage of our automation and standardized best practices as you work. Get started by reviewing our predefined, compliant architectures and control libraries to see how your industry fits in the cloud.
 
 ### Understanding security and compliance requirements

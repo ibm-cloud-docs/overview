@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2023
-lastupdated: "2023-12-11"
+lastupdated: "2023-12-12"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -741,6 +741,11 @@ A piece of code that configures an external event source to fire trigger events.
 {: #x2022902}
 
 In the IBM Cloud environment, a persistent storage system where users store and share files. In IBM Cloud Kubernetes Service, users can mount Docker volumes on file shares.
+
+### fine tuning
+{: #x9094307}
+
+The process of adapting a pre-trained model to perform a specific task by conducting additional training. Fine tuning may involve (1) updating the model’s existing parameters, known as full fine tuning, or (2) updating a subset of the model’s existing parameters or adding new parameters to the model and training them while freezing the model’s existing parameters, known as parameter-efficient fine tuning.
 
 ### fire
 {: #x2239904}

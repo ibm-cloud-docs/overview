@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-12-07"
+lastupdated: "2023-12-14"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -67,6 +67,13 @@ Introducing environments and general improvements to projects API and CLI
 
 ## October 2023
 {: #oct-2023}
+
+### 30 October 2023
+{: #overview-oct3023}
+{: release-note}
+
+Selecting currency
+:   The option to select local currency and USD is now available during IBM Cloud registration for users in Canada, United Kingdom/Ireland, Italy, Spain, France, Germany, Austria, Switzerland, Belgium, the Netherlands, Luxembourg, Denmark, Norway, Sweden, Finland, Australia, and New Zealand.
 
 ### 26 October 2023
 {: #overview-oct2423}

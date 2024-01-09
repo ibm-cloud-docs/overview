@@ -57,6 +57,7 @@ For details, see the following data sheets on our physical hardware in the cloud
 * [Rack Mount Server 2U_H11DSU](https://cloud.ibm.com/media/docs/downloads/environment-info-datasheets/2U_H11DSU.pdf){: external}
 * [Rack Mount Server SR650v3](https://cloud.ibm.com/media/docs/downloads/environment-info-datasheets/SR650v3-Lot9.pdf){: external}
 * [Rack Mount Server 221H-TNR](https://cloud.ibm.com/media/docs/downloads/environment-info-datasheets/221H-TNR-Lot9.pdf){: external}
+* [Rack Mount Server SR630v3](https://cloud.ibm.com/media/docs/downloads/environment-info-datasheets/eco-thinksystem-sr630-v3.pdf){: external}
 
 ## {{site.data.keyword.compliance_long}}
 {: #security-compliance-center-overview}

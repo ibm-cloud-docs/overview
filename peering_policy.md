@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2020, 2021
-lastupdated: "2021-01-21"
+  years: 2020, 2024
+lastupdated: "2024-01-25"
 
 keywords: public peering
 
@@ -12,17 +12,17 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Public peering 
+# Public peering
 {: #public-peering}
 
-Public peering is conducted across a shared network. Peering requests can be accepted when a mutually agreeable decision to peer based on operational needs exists. 
+Public peering is conducted across a shared network. Peering requests can be accepted when a mutually agreeable decision to peer based on operational needs exists.
 {: shortdesc}
 
 
 ## Guidelines and general information
 {: #guide-gen-info}
 
-The following are guidelines and some general information for public peering with {{site.data.keyword.Bluemix}}. 
+The following are guidelines and some general information for public peering with {{site.data.keyword.Bluemix}}.
 
 - Potential and current peers must have and maintain a valid [PeeringDB.com](https://www.peeringdb.com/){: external} record.
 - Use of the [Internet Routing Registry (IRR)](http://www.irr.net/){: external} is required for prefix filtering.
@@ -32,7 +32,7 @@ The following are guidelines and some general information for public peering wit
 - Peer announcements must be consistent across all Interconnect locations.
 - {{site.data.keyword.Bluemix_notm}} sends and accepts MED attributes by request only.
 
-{{site.data.keyword.Bluemix_notm}} reserves the right to suspend peering for an indefinite period if any form of network abuse is detected and verified to be taking place via the peering interconnect. This suspension includes setting a default route to {{site.data.keyword.Bluemix_notm}}. {{site.data.keyword.Bluemix_notm}} doesn't accept any IPv4 announcements smaller than /24 or IPv6 announcements smaller than /48. An MD5 password is preferred but not required.
+{{site.data.keyword.Bluemix_notm}} reserves the right to suspend peering for an indefinite period if any form of network abuse is detected and verified to be taking place through the peering interconnect. This suspension includes setting a default route to {{site.data.keyword.Bluemix_notm}}. {{site.data.keyword.Bluemix_notm}} doesn't accept any IPv4 announcements smaller than /24 or IPv6 announcements smaller than /48. An MD5 password is preferred but not required.
 
 For more information, see the [PeeringDB record](https://www.peeringdb.com/asn/36351){: external}.
 
@@ -44,25 +44,63 @@ If {{site.data.keyword.Bluemix_notm}}'s operational needs cause a peering arrang
 
 The following table shows the current public peer exchanges.
 
-| Country                       | City            | State or Province  | Exchange          |
+| Country       | City        | State or Province | Exchange            |
+|---------------|-------------|-------------------|---------------------|
+| Brazil | São Paulo | São Paulo         | PTT-SP   |
+| Canada       | Toronto     | Ontario          | TorIX               |
+| United States | Denver     | Colorado        | ANY2 Denver         |
+| United States | Denver     | Colorado        | IX Denver           |
+| United States | Miami      | Florida          | FL-IX               |
+| United States | Miami      | Florida          | Equinix Miami       |
+| United States | Boston    | Massachusetts     | MASS-IX             |
+| United States | New York  | New York        | DE-CIX NYC          |
+| United States | New York  | New York        | TIE NYC             |
+| United States | New York  | New York        | NYIIX               |
+| United States | Seattle    | Washington      | SIX                 |
+| United States | Los Angeles | California      | ANY2 Los Angeles    |
+| United States | Los Angeles | California      | Equinix Los Angeles |
+| United States | Palo Alto  | California       | Equinix Palo Alto   |
+| United States | San Jose  | California      | Equinix San Jose    |
+| United States | Atlanta    | Georgia          | TIE-ATL             |
+| United States | Chicago    | Illinois        | Equinix Chicago     |
+| United States | Dallas    | Texas            | Equinix Dallas      |
+| United States | Dallas    | Texas            | DE-CIX DAL          |
+| United States | Ashburn    | Virginia        | Equinix Ashburn     |
+| United States | Ashburn    | Virginia        | LINX NoVa           |
+{: class="simple-tab-table"}
+{: caption="Table 1. Public peer exchanges for North and South America" caption-side="top"}
+{: tab-group="public-peer-exchanges"}
+{: #NA}
+{: tab-title="Americas"}
+
+| Country or region                | City            | State or Province  | Exchange          |
 |-------------------------------|-----------------|--------------------|-------------------|
-| Hong Kong S.A.R. of the PRC   | New Territories | Hong Kong          | Equinix Hong Kong |
-| Hong Kong S.A.R. of the PRC   | New Territories | Hong Kong          | HKIX              |
+| Australia | Melbourne | Victoria               | Equinix Melbourne            |
+| Australia | Melbourne | Victoria               | IX Australia Victoria        |
+| Australia | Melbourne | Victoria              | MegaIX Melbourne             |
+| Australia | Sydney  | New South Wales        | Equinix Sydney               |
+| Australia | Sydney  | New South Wales        | IX Australia New South Wales |
+| Australia | Sydney  | New South Wales        | MegaIX Sydney                |
+| Hong Kong S.A.R. of the PRC   | New Territories | Hong Kong S.A.R. of the PRC    | Equinix Hong Kong |
+| Hong Kong S.A.R. of the PRC   | New Territories | Hong Kong S.A.R. of the PRC    | HKIX              |
 | Hong Kong S.A.R. of the PRC   | New Territories | Hong Kong          | BBIX Hong Kong    |
+| India                        | Mumbai           | Mumbai             | AMS-IX Mumbai     |
+| India                        | Mumbai           | Mumbai             | DE-CIX Mumbai     |
+| India                        | Mumbai           | Mumbai             | Extreme-IX Mumbai |
 | Japan                        | Osaka           | Japan             | BBIX Osaka       |
 | Japan                         | Osaka           | Japan             | JPIX Osaka       |
 | Japan                         | Osaka           | Japan             | JPNAP Osaka       |
 | Japan                         | Tokyo           | Japan              | BBIX Tokyo        |
 | Japan                         | Tokyo           | Japan              | Equinix Tokyo     |
 | Japan                         | Tokyo           | Japan             | JPNAP Tokyo       |
-| South Korea                   | Seoul           | Gyeonggi-do        | KINX              |
 | Singapore                     | Singapore       | Singapore          | BBIX Singapore    |
 | Singapore                     | Singapore       | Singapore          | Equinix Singapore |
+| Taiwan                        | Taipei          | Taipei             | TPIX-TW          |
 {: class="simple-tab-table"}
-{: caption="Table 1. Public peer exchanges for Asia Pacific" caption-side="top"}
+{: caption="Table 2. Public peer exchanges for Asia Pacific" caption-side="top"}
 {: tab-group="public-peer-exchanges"}
 {: #AP}
-{: tab-title="Asian Pacific"}
+{: tab-title="Asia Pacific"}
 
 | Country     | City      | State or Province  | Exchange         |
 |-------------|-----------|--------------------|------------------|
@@ -74,63 +112,12 @@ The following table shows the current public peer exchanges.
 | Italy      | Milan    | Italy             | MIX-IT           |
 | Netherlands | Amsterdam | North Holland      | AMS-IX           |
 | Netherlands | Amsterdam | North Holland      | NL-IX            |
-| Sweden    | Stockholm | Uppland           | Netnod STH-A     |
-| Sweden    | Stockholm | Uppland           | Netnod STH-B     |
+| Spain      | Madrid | Madrid | DE-CIX Madrid |
+| Spain      | Madrid | Madrid | ESPANIX Madrid Lower LAN |
+| Spain      | Madrid | Madrid | ESPANIX Madrid Upper LAN |
+| Spain      | Madrid | Madrid | Equinix Madrid |
 {: class="simple-tab-table"}
-{: caption="Table 1. Public peer exchanges for Europe" caption-side="top"}
+{: caption="Table 3. Public peer exchanges for Europe" caption-side="top"}
 {: tab-group="public-peer-exchanges"}
 {: #EU}
 {: tab-title="Europe"}
-
-| Country       | City        | State or Province | Exchange            |
-|---------------|-------------|-------------------|---------------------|
-| Canada       | Toronto     | Ontario          | TorIX               |
-| United States | Denver     | Colorado        | ANY2 Denver         |
-| United States | Denver     | Colorado        | IX Denver           |
-| United States | Miami      | Florida          | FL-IX               |
-| United States | Miami      | Florida          | Equinix Miami       |
-| United States | Boston    | Massachusetts     | MASS-IX             |
-| United States | New York  | New York        | DE-CIX NYC          | 
-| United States | New York  | New York        | TIE NYC             |
-| United States | New York  | New York        | NYIIX               |
-| United States | Seattle    | Washington      | SIX                 |
-| United States | Los Angeles | California      | ANY2 Los Angeles    | 
-| United States | Los Angeles | California      | Equinix Los Angeles |
-| United States | Palo Alto  | California       | Equinix Palo Alto   |
-| United States | San Jose  | California      | Equinix San Jose    |
-| United States | Atlanta    | Georgia          | TIE-ATL             |
-| United States | Chicago    | Illinois        | Equinix Chicago     |
-| United States | Dallas    | Texas            | Equinix Dallas      |
-| United States | Dallas    | Texas            | DE-CIX DAL          |
-| United States | Ashburn    | Virginia        | Equinix Ashburn     |
-| United States | Ashburn    | Virginia        | LINX NoVa           |
-{: class="simple-tab-table"}
-{: caption="Table 1. Public peer exchanges for North America" caption-side="top"}
-{: tab-group="public-peer-exchanges"}
-{: #NA}
-{: tab-title="North America"}
-
-| Country   | City      | State or Province      | Exchange                     |
-|-----------|-----------|------------------------|------------------------------|
-| Australia | Melbourne | Victoria               | Equinix Melbourne            |
-| Australia | Melbourne | Victori               | IX Australia Victoria        |
-| Australia | Melbourne | Victoria              | MegaIX Melbourne             |
-| Australia | Melbourne | Victoria              | PIPE MEL                     |
-| Australia | Sydney  | New South Wales        | Equinix Sydney               |
-| Australia | Sydney  | New South Wales        | IX Australia New South Wales |
-| Australia | Sydney  | New South Wales        | MegaIX Sydney                |
-| Australia | Sydney  | New South Wales        | PIPE SYD                     |
-{: class="simple-tab-table"}
-{: caption="Table 1. Public peer exchanges for Oceania" caption-side="top"}
-{: tab-group="public-peer-exchanges"}
-{: #OC}
-{: tab-title="Oceania"}
-
-| Country | City      | State or Province | Exchange |
-|---------|-----------|-------------------|----------|
-| Brazil | São Paulo | São Paulo         | PTT-SP   |
-{: class="simple-tab-table"}
-{: caption="Table 1. Public peer exchanges for South America" caption-side="top"}
-{: tab-group="public-peer-exchanges"}
-{: #SA}
-{: tab-title="South America"}

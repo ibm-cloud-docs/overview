@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2021, 2023
+  years: 2021, 2024
 
-lastupdated: "2023-12-04"
+lastupdated: "2024-01-30"
 
 keywords: SLO, service level objectives
 
@@ -139,8 +139,8 @@ The following table describes the service level objectives (SLOs) for the high i
 | Containers service | Availability target | High availability guidance |
 |----------|---------|---------|
 | {{site.data.keyword.registrylong_notm}} | 99.999% | [Understanding high availability and disaster recovery for Container Registry](/docs/Registry?topic=Registry-ha-dr) |
-| {{site.data.keyword.containerlong_notm}} | 99.999% | [High availability and disaster recovery for IBM Cloud Kubernetes Service](/docs/containers?topic=containers-ha) |
-| {{site.data.keyword.openshiftlong_notm}} | 99.999% | [Understanding high availability and disaster recovery for Red Hat OpenShift on IBM Cloud](/docs/openshift?topic=openshift-ha) |
+| {{site.data.keyword.containerlong_notm}} | 99.999% | [High availability and disaster recovery for IBM Cloud Kubernetes Service](/docs/containers?topic=containers-ha_clusters) |
+| {{site.data.keyword.openshiftlong_notm}} | 99.999% | [Understanding high availability and disaster recovery for Red Hat OpenShift on IBM Cloud](/docs/openshift?topic=openshift-ha_clusters) |
 | {{site.data.keyword.codeenginefull_notm}} | 99.999% | [High availability and disaster recovery for Code Engine](/docs/codeengine?topic=codeengine-ha-dr) |
 {: caption="Table 9. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} container services" caption-side="bottom"}
 

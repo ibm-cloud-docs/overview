@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2023-12-07",
+  "lastupdated": "2023-12-06",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
   "section_devtools": {
     "api": "/docs?tab=api-docs&category=platform_services",
@@ -26,11 +26,6 @@
   ],
   "section_videos": [
     {
-      "title": "Learn how to navigate through the IBM Cloud console",
-      "href": "/docs/overview?topic=overview-ui#video-ui",
-      "thumbnail": "/images/welcome-thumbnail.png"
-    },
-    {
       "title": "Accelerating and maintaining regulated standards at scale",
       "href": "/docs/overview?topic=overview-secure-enterprise",
       "thumbnail": "/images/enterprise.png"
@@ -46,7 +41,7 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
-        "date": "07 December 2023",
+        "date": "06 December 2023",
         "title": "Limit access with resource attribute-based conditions",
         "description": "You can now create a single IAM policy that grants access based on multiple resource attribute-based conditions."
       },

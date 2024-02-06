@@ -46,19 +46,19 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
-        "date": "07 December 2023",
-        "title": "Limit access with resource attribute-based conditions",
-        "description": "You can now create a single IAM policy that grants access based on multiple resource attribute-based conditions."
+        "date": "06 February 2024",
+        "title": "Automatically detect drift in your project",
+        "description": "You can now run daily drift detection scans to identify and override (or adopt) the detected changes. Automatic drift detection is an experimental feature for evaluation or testing purposes."
       },
       {
-        "date": "14 November 2023",
-        "title": "Moving deployed software into a deployable architecture",
-        "description": "Use the IBM Cloud CLI to convert deployed software or an existing Schematics workspace and its resources into a deployable architecture that is compatible with using projects to manage future deployments."
+        "date": "06 February 2024",
+        "title": "Add references in your project",
+        "description": "It's now easier to link architectures to one another by adding references to inputs or outputs. Add the reference as an input in an architecture that you're configuring, and the value is automatically used for deployment."
       },
       {
-        "date": "26 October 2023",
-        "title": "Symantec VIP 2FA is deprecated",
-        "description": "If you are currently using Symantec VIP as your external authentication method, you can continue to use it and add subscribers as needed until 26 October 2024. If you are not already using Symantec VIP, then you can't purchase Symantec VIP to use as your external authentication method as of 26 October 2023. All customers currently using Symantec VIP must migrate to IBM Cloud MFA by 26 October 2024."
+        "date": "06 February 2024",
+        "title": "Duplicate configurations in your project",
+        "description": "You can now duplicate an architecture configuration from the Configurations tab in a project. By doing so, you can quickly create a second version of your configuration with all of the input values that were provided in the original configuration."
       }
     ]
   }

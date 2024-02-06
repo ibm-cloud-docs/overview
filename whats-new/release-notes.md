@@ -1,8 +1,8 @@
 ---
 copyright:
-  years: 2015, 2023
+  years: 2015, 2024
 
-lastupdated: "2023-12-14"
+lastupdated: "2024-02-06"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,22 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
+## February 2024
+{: #feb-2024}
+
+### 06 February 2024
+{: #overview-feb2024}
+{: release-note}
+
+Automatically detect drift in your project
+:   You can now run a daily scan to detect any changes between your configured architecture and the actual state of your deployed resources. To fix drift, you can override the changes or adopt them. Automatic drift detection is an experimental feature and might change without notice.
+
+Add references in your project
+:   It's now easier to link architectures to one another by adding references to inputs or outputs. Add the reference as an input in an architecture that you're configuring, and the value is automatically used for deployment. For more information, see [referencing values](/docs/secure-enterprise?topic=secure-enterprise-config-project&interface=ui#reference-values).
+
+Duplicate configurations in your project
+:   Now, you can duplicate an architecture configuration from the Configurations tab in a project. By doing so, you can quickly create a second version of your configuration with all of the input values that were provided in the original configuration. From the **Configurations** tab, select the **Actions** icon for the configuration you want to duplicate and click **Duplicate**.
 
 ## December 2023
 {: #dec-2023}

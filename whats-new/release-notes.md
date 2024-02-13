@@ -28,7 +28,7 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 {: release-note}
 
 Automatically detect drift in your project
-:   You can now run a daily scan to detect any changes between your configured architecture and the actual state of your deployed resources. To fix drift, you can override the changes or adopt them. Automatic drift detection is an experimental feature and might change without notice.
+:   You can now run a daily scan to detect any changes between your configured architecture and the actual state of your deployed resources. To fix drift, you can override the changes or adopt them. Automatic drift detection is an experimental feature and might change without notice. For more information, see [Managing Drift](/docs/secure-enterprise?topic=secure-enterprise-manage-drift).
 
 Add references in your project
 :   It's now easier to link architectures to one another by adding references to inputs or outputs. Add the reference as an input in an architecture that you're configuring, and the value is automatically used for deployment. For more information, see [referencing values](/docs/secure-enterprise?topic=secure-enterprise-config-project&interface=ui#reference-values).

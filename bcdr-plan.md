@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2021, 2022
-lastupdated: "2022-11-16"
+  years: 2021, 2024
+lastupdated: "2024-02-13"
 
 keywords: disaster recovery plan, DR, resilient app, plan for DR, DR objectives
 
@@ -259,7 +259,7 @@ The components that are required for such architecture are as follows:
 4. Databases are deployed on a virtual server. Backup is enabled and replication is set up between regions. The alternative would be to use a database-as-service, a topic discussed later in the tutorial.
 5. {{site.data.keyword.filestorage_full_notm}} to store the application images and files, {{site.data.keyword.filestorage_short}} offers the capability to take a snapshot at a given time and date, this snapshot then can be reused within another region, something that you would do manually.
 
-The tutorial [Use Virtual Servers to build highly available and scalable web app](/docs/solution-tutorials?topic=solution-tutorials-highly-available-and-scalable-web-application#highly-available-and-scalable-web-application) implements this architecture.
+The tutorial [Use Virtual Servers to build highly available and scalable web app](/docs/solution-tutorials?topic=solution-tutorials-vpc-multi-region) implements this architecture.
 
 #### Back up and restore procedures
 {: #bcdr-backup-restore-procedures}

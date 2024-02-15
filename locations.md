@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2019, 2023
-lastupdated: "2023-06-22"
+  years: 2019, 2024
+lastupdated: "2024-02-15"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -38,7 +38,7 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs that fall in
 
 | Location | Region | Zone | Data center |
 |-----------|----------|------|----|
-| Dallas | us-south | us-south-1  \n us-south-2  \n us-south-3 | DAL10  \n DAL12  \n DAL13 |
+| Dallas | us-south | us-south-1  \n us-south-2  \n us-south-3 \n us-south-4 | DAL10  \n DAL12  \n DAL13 \n DAL14 |
 | Sao Paulo | br-sao | br-sao-1  \n br-sao-2  \n br-sao-3 | SAO01  \n SAO04  \n SAO05 |
 | Toronto | ca-tor | ca-tor-1  \n ca-tor-2  \n ca-tor-3 | TOR01  \n TOR04  \n TOR05 |
 | Washington DC | us-east | us-east-1  \n us-east-2  \n us-east-3 | WDC04  \n WDC06  \n WDC07 |
@@ -116,6 +116,7 @@ See the following table for the specific code for each data center.
 | Dallas 10        | DAL10 |
 | Dallas 12        | DAL12 |
 | Dallas 13        | DAL13 |
+| Dallas 14        | DAL14 |
 | Montreal 01      | MON01 |
 | San Jose 01      | SJC01 |
 | San Jose 03      | SJC03 |

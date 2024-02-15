@@ -2,7 +2,8 @@
 
 copyright:
   years: 2021, 2024
-lastupdated: "2024-02-13"
+lastupdated: "2024-02-15"
+
 
 keywords: disaster recovery plan, DR, resilient app, plan for DR, DR objectives
 
@@ -18,7 +19,7 @@ subcollection: overview
 It is important to ensure that you're meeting your defined recovery (DR) objectives and the DR metric thresholds for your application. Review the following sample application architecture examples to understand how you can meet your recovery objectives by using {{site.data.keyword.cloud}}.
 {: shortdesc}
 
-The resiliency options, proposed profiles, and associated information are presented so that you can define your application's DR requirement levels. Information that is stated is not a warranty and {{site.data.keyword.IBM}} will not issue credits for failure to meet an objective. These [recovery time objective](#x3167918){: term} (RTO) and [recovery point objective](#x3429911){: term} (RPO) examples are presented as a reference for additional steps that can be taken to achieve different levels of resiliency. Refer to the Service Level Agreements (SLAs) for any commitments and credits that are issued upon failure to meet any committed SLAs. For more information about the recovery strategy classes, see [Planning your applications recovery strategy objectives](/docs/overview?topic=overview-understanding-dr#planning-your-applications-recovery-strategy-objectives).
+The resiliency options, proposed profiles, and associated information are presented so that you can define your application's DR requirement levels. Information that is stated is not a warranty and {{site.data.keyword.IBM}} will not issue credits for failure to meet an objective. These [recovery time objective](#x3167918){: term} (RTO) and [recovery point objective](#x3429911){: term} (RPO) examples are presented as a reference for additional steps that can be taken to achieve different levels of resiliency. Refer to the Service Level Agreements (SLAs) for any commitments and credits that are issued upon failure to meet any committed SLAs. For more information about the recovery strategy classes, see [Planning your applications recovery strategy objectives](/docs/overview?topic=overview-understanding-dr#plan-objectives).
 
 ## Hybrid disaster recovery: Microservices
 {: #bcdr-hybrid}
@@ -174,14 +175,14 @@ Here are the basic steps:
 {: #database-options}
 
 {{site.data.keyword.databases-for}} offers several open source database systems as fully managed services. They are:
-* [{{site.data.keyword.databases-for-postgresql}}](/catalog/services/databases-for-postgresql)
-* [{{site.data.keyword.databases-for-enterprisedb}}](/catalog/services/databases-for-enterprisedb)
-* [{{site.data.keyword.databases-for-cassandra}}](/catalog/services/databases-for-cassandra)
-* [{{site.data.keyword.databases-for-redis}}](/catalog/services/databases-for-redis)
-* [{{site.data.keyword.databases-for-elasticsearch}}](/catalog/services/databases-for-elasticsearch)
-* [{{site.data.keyword.databases-for-etcd}}](/catalog/services/databases-for-etcd)
-* [{{site.data.keyword.databases-for-mongodb}}](/catalog/services/databases-for-mongodb)
-* [{{site.data.keyword.messages-for-rabbitmq}}](/catalog/services/messages-for-rabbitmq)
+* [{{site.data.keyword.databases-for-postgresql}}](/catalog/services/databases-for-postgresql/create)
+* [{{site.data.keyword.databases-for-enterprisedb}}](/catalog/services/databases-for-enterprisedb/create)
+* [{{site.data.keyword.databases-for-cassandra}}](/catalog/services/databases-for-cassandra/create)
+* [{{site.data.keyword.databases-for-redis}}](/catalog/services/databases-for-redis/create)
+* [{{site.data.keyword.databases-for-elasticsearch}}](/catalog/services/databases-for-elasticsearch/create)
+* [{{site.data.keyword.databases-for-etcd}}](/catalog/services/databases-for-etcd/create)
+* [{{site.data.keyword.databases-for-mongodb}}](/catalog/services/databases-for-mongodb/create)
+* [{{site.data.keyword.messages-for-rabbitmq}}](/catalog/services/messages-for-rabbitmq/create)
 
 All of these services share the same characteristics:
 * For high availability, they are deployed in clusters. Details can be found in the documentation of each service:

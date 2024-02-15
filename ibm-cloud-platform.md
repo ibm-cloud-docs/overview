@@ -2,9 +2,8 @@
 
 
 copyright:
-  years: 2016, 2023
-
-lastupdated: "2023-10-11"
+  years: 2016, 2024
+lastupdated: "2024-02-15"
 
 
 keywords: console, platform overview, overview, catalog, IBM Cloud catalog

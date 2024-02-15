@@ -193,7 +193,7 @@ Support for access management tags in the projects UI
 {: release-note}
 
 Customized compliance validation
-:   In addition to using default controls, you can specify a {{site.data.keyword.compliance_short}} attachment to validate deployable architectures that you're configuring in a project. For more information, see [Configuring the architecture](/docs/secure-enterprise?topic=secure-enterprise-config-project#how-to-config).
+:   In addition to using default controls, you can specify a {{site.data.keyword.compliance_short}} attachment to validate deployable architectures that you're configuring in a project. For more information, see [Configuring the architecture](/docs/secure-enterprise?topic=secure-enterprise-config-project&interface=ui#how-to-config).
 
 Support for deployable architectures onboarded from private or public GitHub repositories
 :   You can now deploy architectures that are onboarded to the catalog from either a private or public GitHub repository. Previously, only deployable architectures onboarded from a public GitHub repository were supported.
@@ -414,7 +414,7 @@ Streamlined process for updating published support information in Partner Center
 {: release-note}
 
 Onboarding software to sell on {{site.data.keyword.cloud_notm}} by using the API
-:   To sell your products on {{site.data.keyword.cloud_notm}}, you can now onboard and publish by using the Partner Center Sell API, in addition to using the Partner Center experience in the console. For more information, see [Partner Center Sell API](/apidocs/partner-center-sell).
+:   To sell your products on {{site.data.keyword.cloud_notm}}, you can now onboard and publish by using the Partner Center Sell API, in addition to using the Partner Center experience in the console.
 
 ### 22 June 2022
 {: #overview-22june2022}
@@ -614,7 +614,7 @@ Delivering notifications by using Microsoft Teams webhooks
 :   Adding Microsoft Teams webhooks to your distribution list is available for receiving account-related {{site.data.keyword.cloud_notm}} notifications. To create a webhook, you need to add an incoming webhook to a Teams channel and a unique URL that maps to the selected channel.
 With this webhook integration, you can easily receive the notifications in a selected Microsoft Teams channel in which you added the incoming webhook.
 
-   For more information, see [Adding Microsoft Teams webhooks to a distribution list](/docs/account?topic=account-adding-webhooks-to-a-distribution-list#add-microsoft-teams-webhooks-to-a-distribution-list).
+   For more information, see [Adding Microsoft Teams webhooks to a distribution list](/docs/account?topic=account-webhook-distribution-list#add-microsoft-teams-webhook).
 
 
 ### 04 August 2021
@@ -622,7 +622,7 @@ With this webhook integration, you can easily receive the notifications in a sel
 {: release-note}
 
 Support for third-party Operator bundles from GitHub
-:   Third-party providers can now onboard Operator bundles from GitHub repositories to {{site.data.keyword.cloud_notm}} by using TGZ files. Previously, the ability to onboard Operator bundles was limited to Operator bundles in {{site.data.keyword.openshiftshort}} registries. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our general availability release of private catalog capabilities. For more information, see [Onboarding a Node-RED Operator](/docs/third-party?topic=third-party-operator-register).
+:   Third-party providers can now onboard Operator bundles from GitHub repositories to {{site.data.keyword.cloud_notm}} by using TGZ files. Previously, the ability to onboard Operator bundles was limited to Operator bundles in {{site.data.keyword.openshiftshort}} registries. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our general availability release of private catalog capabilities.
 
 Software onboarding enhancements: progress indicators
 :   When you onboard software to the {{site.data.keyword.cloud_notm}} catalog or private catalogs in your account, you'll find new indicators in the console that you can use to track your progress with configuring and validating your product. For more information, see [Onboarding software to your account](/docs/account?topic=account-create-private-catalog&interface=ui).
@@ -644,14 +644,14 @@ Filtering the {{site.data.keyword.cloud_notm}} catalog by product type
 {: release-note}
 
 Assigning access to federated users and compute resources by using trusted profiles
-:   You can use trusted profiles to automatically grant federated users in your account access to resources with conditions based on SAML attributes from your corporate directory. You can also use trusted profiles to manage the authorization of applications that are running in compute resources, such as {{site.data.keyword.containerlong_notm}}, to access other {{site.data.keyword.cloud_notm}} services without the need for service IDs or API keys. For more information, see [Creating trusted profiles](/docs/account?topic=account-create-trusted-profile#federated-users-steps).
+:   You can use trusted profiles to automatically grant federated users in your account access to resources with conditions based on SAML attributes from your corporate directory. You can also use trusted profiles to manage the authorization of applications that are running in compute resources, such as {{site.data.keyword.containerlong_notm}}, to access other {{site.data.keyword.cloud_notm}} services without the need for service IDs or API keys. For more information, see [Creating trusted profiles](/docs/account?topic=account-create-trusted-profile).
 
 ### 15 July 2021
 {: #overview-jul1521}
 {: release-note}
 
 Scoping support cases to what matters to you
-:   When you create a case in the {{site.data.keyword.Bluemix_notm}} Support Center, you now have options to narrow the subject of your case to a specific topic that's most closely related to the issue you're experiencing. As a result, you can ensure that your support case gets routed to the appropriate support engineer and resolved as efficiently as possible. For more information, see [Creating support cases](/docs/get-support?topic=get-support-open-case#creating-support-case).
+:   When you create a case in the {{site.data.keyword.Bluemix_notm}} Support Center, you now have options to narrow the subject of your case to a specific topic that's most closely related to the issue you're experiencing. As a result, you can ensure that your support case gets routed to the appropriate support engineer and resolved as efficiently as possible. For more information, see [Creating support cases](/docs/get-support?topic=get-support-open-case&interface=ui#creating-support-case).
 
 
 ### 14 July 2021
@@ -662,7 +662,7 @@ Delivering notifications by using Slack webhooks
 :   In addition to generic webhooks, you can now add Slack webhooks to your distribution list and receive account-wide {{site.data.keyword.cloud_notm}} notifications through them. To create a webhook, you need to set up an app in Slack and a unique URL.
 With this new webhook integration, you can easily receive the notifications in a selected Slack channel in which you installed your app.
 
-   For more information on Slack webhooks, see [Adding Slack webhooks to a distribution list](/docs/account?topic=account-adding-webhooks-to-a-distribution-list#adding-slack-webhooks-to-a-distribution-list).
+   For more information on Slack webhooks, see [Adding Slack webhooks to a distribution list](/docs/account?topic=account-webhook-distribution-list#add-slack-webhook).
 
 
 ### 07 July 2021
@@ -686,7 +686,7 @@ Support for third-party Operator bundles from {{site.data.keyword.openshiftshort
 
 New invitation flow for existing {{site.data.keyword.Bluemix_notm}} users
 :   To enhance security and user protection, {{site.data.keyword.Bluemix}} now requires all users to accept an invitation in order to become an active user within a new account. The new invitation flow has an impact only on inviting existing {{site.data.keyword.Bluemix}} users. Previously, existing users were being automatically onboarded to each new account as they were invited. After this change, these users need to accept an invitation in their notifications, by email, or by using the CLI to onboard to a new account.
-:   To accept invitations in the CLI, existing members of {{site.data.keyword.Bluemix}} must use the [**`ibmcloud login`**](/docs/cli?topic=cli-ibmcloud_cli#accept-invitation-to-join-a-new-account-) command. They need to target the account that they are invited to join and use the new `--accept` flag.
+:   To accept invitations in the CLI, existing members of {{site.data.keyword.Bluemix}} must use the [**`ibmcloud login`**](https://cloud.ibm.com/docs/cli?topic=cli-ibmcloud_cli#ibmcloud_login) command. They need to target the account that they are invited to join and use the new `--accept` flag.
 
 As an account administrator, you might want to remind your users to accept these invitations.
 {: note}
@@ -712,7 +712,7 @@ Support for third-party virtual server images with Terraform
 Delivering notifications by using webhooks
 :   You can now easily add webhooks to the notification distribution list in addition to adding email addresses. You can register a webhook with your account on the [Notification distribution list page](https://cloud.ibm.com/account/notifications-distribution-list) to receive all account notifications. Administrators can use webhooks to configure an application to receive asynchronous notifications whenever an event occurs on the {{site.data.keyword.Bluemix_notm}} platform. Any registered webhook must support HTTP POST requests and accept the notification as a JSON.
 
-   For more information, see [Adding webhooks to a distribution list](/docs/account?topic=account-adding-webhooks-to-a-distribution-list).
+   For more information, see [Adding webhooks to a distribution list](/docs/account?topic=account-webhook-distribution-list).
 
 
 ### 19 April 2021
@@ -740,7 +740,7 @@ Support for third-party Operators deployed on {{site.data.keyword.openshiftlong_
 :   Third-party providers can now offer Operators in {{site.data.keyword.cloud_notm}}. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our previously general availability release of private catalog capabilities. For more information, see [Onboarding a Node-Red Operator](/docs/third-party?topic=third-party-operator-define).
 
 New catalog filter for Financial Services Validated services
-:   You can now search the {{site.data.keyword.cloud_notm}} catalog for services that are designated as Financial Services Validated. Services with this designation leverage the industry’s highest levels of encryption certification, provide preventive and compensatory controls for financial services regulatory workloads, multi-architecture support and proactive, and automated security. See [What is {{site.data.keyword.cloud_notm}} for Financial Services?](/docs/overview?topic=overview-what-is-fscloud) for more information.
+:   You can now search the {{site.data.keyword.cloud_notm}} catalog for services that are designated as Financial Services Validated. Services with this designation leverage the industry’s highest levels of encryption certification, provide preventive and compensatory controls for financial services regulatory workloads, multi-architecture support and proactive, and automated security. See [IBM Cloud Framework for Financial Services](/docs/framework-financial-services?topic=framework-financial-services-about#ibm-cloud-framework-for-financial-services) for more information.
 
 
 ### 26 March 2021
@@ -748,7 +748,7 @@ New catalog filter for Financial Services Validated services
 {: release-note}
 
 {{site.data.keyword.codeenginefull_notm}} is supported as an app deployment type
-:   {{site.data.keyword.codeenginefull}} is now supported as an application deployment type when you use a starter kit in the {{site.data.keyword.cloud_notm}} console. For more information, see the [Creating apps tutorial](/docs/apps?topic=apps-tutorial-starterkit).
+:   {{site.data.keyword.codeenginefull}} is now supported as an application deployment type when you use a starter kit in the {{site.data.keyword.cloud_notm}} console. For more information, see the [Develop and deploy an app by using Code Engine](/docs/apps?topic=apps-tutorial-cd-code-engine).
 
    [{{site.data.keyword.codeengineshort}}](/docs/codeengine?topic=codeengine-getting-started) is a fully managed, serverless platform that runs your containerized workloads, including web apps, micro-services, event-driven functions, or batch jobs. {{site.data.keyword.codeengineshort}} even builds container images for you from your source code. Because these workloads are all hosted within the same Kubernetes infrastructure, all of them can seamlessly work together. The {{site.data.keyword.codeengineshort}} experience is designed so that you can focus on writing code and not on the infrastructure that is needed to host it.
 
@@ -800,7 +800,7 @@ Managing product availability in catalogs by location
 Pay as you go with Committed Use pricing model
 :   Customers with a Subscription account can use the new pricing model, {{site.data.keyword.Bluemix_notm}} Pay as you go with Committed Use. The new pricing model provides you with additional benefits as you navigate and build on {{site.data.keyword.Bluemix_notm}}.
 
-   With this pricing model, you commit to spend a certain amount and receive discounts across the entire platform. You are billed monthly based on your usage, and unlike a subscription, you continue to receive a discount even after you reach your committed amount. For more information, see [Pay as you go with Committed Use pricing model](/docs/account?topic=account-accounts#commitment-model).
+   With this pricing model, you commit to spend a certain amount and receive discounts across the entire platform. You are billed monthly based on your usage, and unlike a subscription, you continue to receive a discount even after you reach your committed amount. For more information, see [Pay as you go with Committed Use pricing model](/docs/account?topic=account-committed-use).
 
 ## December 2020
 {: #overview-dec-2020}
@@ -817,7 +817,7 @@ Managing features and other updates to {{site.data.keyword.cloud-shell_notm}}
    * Cloud Developer
    * File Manager
 
-   For more information, see [IAM roles and actions](/docs/account?topic=account-iam-service-roles-actions#ibm-cloud-shell).
+   For more information, see [IAM roles and actions](/docs/account?topic=account-iam-service-roles-actions#cloudshell-roles).
 :   {{site.data.keyword.cloud-shell_notm}} now uses a Red Hat&trade; Linux&trade; bash shell instead of a x86-64 Ubuntu Linux&trade; bash shell.
 
    For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}} release notes](/docs/cloud-shell?topic=cloud-shell-release-notes-image).
@@ -916,7 +916,7 @@ Restricting account access by using IAM account settings
 :   For increased control over which users can access your account and work with API keys and service IDs, leverage the three new settings that are available on the **Manage** > **Access (IAM)** > **Settings** page in the console.
 
    * Restrict access to your account to only users coming from a specified IP address or range that you set. For more information, see [Allowing specific IP addresses](/docs/account?topic=account-ips).
-   * Block all users from creating API keys in the account except for those that you give explicit access. For more information, see [Restricting users from creating API keys](/docs/account? topic=account-allow-api-create).
+   * Block all users from creating API keys in the account except for those that you give explicit access. For more information, see [Restricting users from creating API keys](/docs/account?topic=account-allow-api-create).
    * Block all users from creating service IDs in the account except for those that you give explicit access. For more information, see [Restricting users from creating service IDs](/docs/account?topic=account-restrict-service-id-create).
 
 ## August 2020
@@ -982,7 +982,7 @@ Audit logs for private catalogs
 {: release-note}
 
 Notification distribution list
-:   You can now create a list of up to 10 email addresses that receive account-wide notifications in the {{site.data.keyword.Bluemix_notm}} console by going to **Account**  > **Notification distribution list**. Users that are added to the distribution list are notified about any event that's affecting the account. For more information, see [Adding users to a distribution list](/docs/account?topic=account-email-prefs#adding-users-to-a-distribution-list)
+:   You can now create a list of up to 10 email addresses that receive account-wide notifications in the {{site.data.keyword.Bluemix_notm}} console by going to **Account**  > **Notification distribution list**. Users that are added to the distribution list are notified about any event that's affecting the account. For more information, see [Adding users to a distribution list](/docs/account?topic=account-webhook-distribution-list).
 
 CLI support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
 :   You can now use the following commands to set and manage filters in accounts within an enterprise hierarchy:
@@ -1373,7 +1373,7 @@ Assign account management access to others
    * Global resource catalog for viewing private catalog offerings and updating the metadata and visibility for the offerings
    * All account management services for access to each of the individual account management service options based on the assigned role as well as access to billing and usage tracking.
 
-   For more information on the tasks that a user can do based on which account management service they have a policy on and which role they are assigned, see [Example platform management roles and actions for account management services](/docs/account?topic=account-account-services#account-management-actions-roles). For more information about this new feature, see the [Introducing More Flexibility and Control for IBM Cloud Account Management Services Access](https://www.ibm.com/cloud/blog/announcements/introducing-more-flexibility-and-control-for-ibm-cloud-account-management-services-access){: external} blog post.
+   For more information on the tasks that a user can do based on which account management service they have a policy on and which role they are assigned, see [Example platform management roles and actions for account management services](/docs/account?topic=account-account-services&interface=ui#all-account-management). For more information about this new feature, see the [Introducing More Flexibility and Control for IBM Cloud Account Management Services Access](https://www.ibm.com/cloud/blog/announcements/introducing-more-flexibility-and-control-for-ibm-cloud-account-management-services-access){: external} blog post.
 
 
 ## July 2018
@@ -1402,7 +1402,7 @@ Dynamically add federated users to access groups
 {: release-note}
 
 Protect your service IDs and API keys
-:   To avoid a situation where your service ID or API key is deleted causing an outage or disruption, you can lock service IDs and API keys by using the UI or CLI. Locking a service ID also prevents any access policies from being changed, deleted, or assigned as well as any API keys associated with the service ID from being created or deleted. For more information, see [Locking a service ID](/docs/account?topic=account-serviceidapikeys#lockkey) and [Locking an API key](/docs/account?topic=account-userapikey).
+:   To avoid a situation where your service ID or API key is deleted causing an outage or disruption, you can lock service IDs and API keys by using the UI or CLI. Locking a service ID also prevents any access policies from being changed, deleted, or assigned as well as any API keys associated with the service ID from being created or deleted. For more information, see [Locking a service ID](/docs/account?topic=account-serviceidapikeys&interface=ui#lockkey) and [Locking an API key](/docs/account?topic=account-userapikey).
 
 
 ## May 2018
@@ -1457,7 +1457,7 @@ Cloud Foundry Service US East region
 {: release-note}
 
 Support for resources in the European Union
-:   If your services and data centers are located in Europe, {{site.data.keyword.Bluemix_notm}} now offers extra capabilities to protect your data in the European Union. You can request that support is provided by customer success teams that are located in Europe. This support is available 24 hours a day, 7 days a week. See [Enabling the EU supported option](/docs/account?topic=account-eu-hipaa-supported#bill_eusupported) and [Requesting support for resources in the European Union](/docs/get-support?topic=get-support-using-avatar#eusupported) for more information.
+:   If your services and data centers are located in Europe, {{site.data.keyword.Bluemix_notm}} now offers extra capabilities to protect your data in the European Union. You can request that support is provided by customer success teams that are located in Europe. This support is available 24 hours a day, 7 days a week. See [Enabling the EU supported option](/docs/account?topic=account-eu-supported) and [Requesting support for resources in the European Union](/docs/get-support?topic=get-support-using-avatar#eusupported) for more information.
 
 
 ## November 2017

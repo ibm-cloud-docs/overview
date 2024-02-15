@@ -47,7 +47,7 @@ As the following diagram illustrates, the {{site.data.keyword.Bluemix_notm}} pla
 
 ![Components of the {{site.data.keyword.cloud_notm}} platform.](images/IBM-Cloud-Platform.svg "Diagram showing the major components of the {{site.data.keyword.cloud_notm}} platform"){: caption="Figure 1. Components of the {{site.data.keyword.cloud_notm}} platform" caption-side="bottom"}
 
-Whether you have [existing code](/docs/apps?topic=apps-tutorial-byoc#tutorial-byoc) that you want to modernize and bring to the cloud or you're developing a brand new application, your developers can tap into the rapidly growing ecosystem of available services and runtime frameworks in {{site.data.keyword.Bluemix_notm}}.
+Whether you have existing code that you want to modernize and bring to the cloud or you're developing a brand new application, your developers can tap into the rapidly growing ecosystem of available services and runtime frameworks in {{site.data.keyword.Bluemix_notm}}.
 
 ## Setting up your account
 {: #set-up-account}

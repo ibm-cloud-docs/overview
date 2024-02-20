@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2020, 2023
-lastupdated: "2023-11-07"
+  years: 2020, 2024
+lastupdated: "2024-02-15"
 
 keywords: compliance, environmental information, gdpr, compliance reports, financial services, compliance settings, compliance features
 
@@ -72,7 +72,7 @@ You can acheive continuous security and compliance within the {{site.data.keywor
 
 {{site.data.keyword.framework-fs_notm}} is designed to build trust and enable a transparent public cloud ecosystem with the specific features for security, compliance, and resiliency that financial institutions require. The {{site.data.keyword.framework-fs_notm}} is a standard set of controls, controls guidance, and architectures informed by global regulatory requirements for cybersecurity, data security, and risk management, with ongoing governance by an industry council and promontory to ensure currency with new and changed regulations.
 
-{{site.data.keyword.framework-fs_notm}} currently applies controls (US NIST 800-53 with {{site.data.keyword.IBM_notm}} financial services guidance) to {{site.data.keyword.cloud_notm}} services, {{site.data.keyword.IBM_notm}} software, and third-party ISV and SaaS providers that provide a common control approach that can be mapped to regulatory guidelines worldwide. This solution platform and ecosystem program is built on an industry-informed framework of controls, architectures, and operations that mitigates systemic risk in using the {{site.data.keyword.IBM_notm}} public cloud for mission-critical workloads with client-sensitive data. For more informations, see [What is {{site.data.keyword.cloud_notm}} for Financial Services?](/docs/overview?topic=overview-what-is-fscloud) and how to [enable your account to use Financial Services Validated products](/docs/account?topic=account-enabling-fs-validated).
+{{site.data.keyword.framework-fs_notm}} currently applies controls (US NIST 800-53 with {{site.data.keyword.IBM_notm}} financial services guidance) to {{site.data.keyword.cloud_notm}} services, {{site.data.keyword.IBM_notm}} software, and third-party ISV and SaaS providers that provide a common control approach that can be mapped to regulatory guidelines worldwide. This solution platform and ecosystem program is built on an industry-informed framework of controls, architectures, and operations that mitigates systemic risk in using the {{site.data.keyword.IBM_notm}} public cloud for mission-critical workloads with client-sensitive data. For more informations, see [Getting started with IBM Cloud for Financial Services](/docs/framework-financial-services?topic=framework-financial-services-about) and how to [enable your account to use Financial Services Validated products](/docs/account?topic=account-enabling-fs-validated).
 
 ## EU support for your account
 {: #eu-support-overview}

@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2024-02-06",
+  "lastupdated": "2024-02-20",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
   "section_devtools": {
     "api": "/docs?tab=api-docs&category=platform_services",
@@ -46,6 +46,11 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
+        "date": "20 February 2024",
+        "title": "Organize existing resources in your project",
+        "description": "Now, you can use a project to organize resources across accounts. By doing so, your resources remain deployed in their respective accounts, but you gain an at-a-glance view of those resources in your project. Organizing resources is experimental and might change without notice."
+      },
+      {
         "date": "06 February 2024",
         "title": "Automatically detect drift in your project",
         "description": "You can now run daily drift detection scans to identify and override (or adopt) the detected changes. Automatic drift detection is an experimental feature for evaluation or testing purposes."
@@ -54,11 +59,6 @@
         "date": "06 February 2024",
         "title": "Add references in your project",
         "description": "It's now easier to link architectures to one another by adding references to inputs or outputs. Add the reference as an input in an architecture that you're configuring, and the value is automatically used for deployment."
-      },
-      {
-        "date": "06 February 2024",
-        "title": "Duplicate configurations in your project",
-        "description": "You can now duplicate an architecture configuration from the Configurations tab in a project. By doing so, you can quickly create a second version of your configuration with all of the input values that were provided in the original configuration."
       }
     ]
   }

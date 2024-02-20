@@ -4,7 +4,7 @@ copyright:
   years: 2015, 2024
 lastupdated: "2024-01-30"
 
-keywords: ui, components, using the console, classic infrastructure, redirect, catalog, pricing information, get support, dashboard, scoped dashboard
+keywords: ui, platform, console, using the console
 
 subcollection: overview
 

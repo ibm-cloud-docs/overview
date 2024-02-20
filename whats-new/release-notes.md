@@ -23,7 +23,7 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 ## February 2024
 {: #feb-2024}
 
-### 13 February 2024
+### 20 February 2024
 {: #overview-feb1324}
 {: release-note}
 

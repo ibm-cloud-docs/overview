@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2024
 
-lastupdated: "2024-02-06"
+lastupdated: "2024-02-20"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -23,8 +23,15 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 ## February 2024
 {: #feb-2024}
 
+### 13 February 2024
+{: #overview-feb1324}
+{: release-note}
+
+Organize existing resources in your project
+:   Now, you can use a project to organize resources across accounts. By doing so, your resources remain deployed in their respective accounts, but you gain an at-a-glance view of those resources in your project. Organizing resources is experimental and might change without notice. For more information, see [Organizing existing resources by using a project](/docs/secure-enterprise?topic=secure-enterprise-organize-resources).
+
 ### 06 February 2024
-{: #overview-feb2024}
+{: #overview-feb062024}
 {: release-note}
 
 Automatically detect drift in your project

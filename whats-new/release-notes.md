@@ -554,7 +554,7 @@ Accessing Partner Center from the {{site.data.keyword.cloud_notm}} catalog
 {: release-note}
 
 Securing IBM Cloud accounts
-:   Our focus is to provide the most secure public cloud. That's why we will be verifying user identities and securing accounts through credit card verification when creating new accounts starting 25 October 2021. Don't worry, we won't charge you for signing up, and you can still try {{site.data.keyword.cloud_notm}} for free. For more information, see [Securing {{site.data.keyword.cloud_notm}} accounts](https://www.ibm.com/cloud/blog/announcements/securing-ibm-cloud-accounts).{: external}
+:   Our focus is to provide the most secure public cloud. That's why we will be verifying user identities and securing accounts through credit card verification when creating new accounts starting 25 October 2021. Don't worry, we won't charge you for signing up, and you can still try {{site.data.keyword.cloud_notm}} for free. For more information, see [Securing {{site.data.keyword.cloud_notm}} accounts](https://www.ibm.com/blog/announcement/securing-ibm-cloud-accounts/).{: external}
 
 ### 05 October 2021
 {: #overview-oct0521}
@@ -682,7 +682,7 @@ Service-level discounts for accounts with the Pay as you go with Committed Use b
 
 
 Support for third-party Operator bundles from {{site.data.keyword.openshiftshort}} registries
-:   Third-party providers can now onboard Operator bundles from {{site.data.keyword.openshiftshort}} registries to {{site.data.keyword.cloud_notm}}. The {{site.data.keyword.openshiftshort}} registries include Certified Operators, Marketplace Operators, and community Operators. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our general availability release of private catalog capabilities. For more information, see [Onboarding a Certified Operator bundle from a Red Hat registry](/docs/third-party?topic=third-party-bundle-register).
+:   Third-party providers can now onboard Operator bundles from {{site.data.keyword.openshiftshort}} registries to {{site.data.keyword.cloud_notm}}. The {{site.data.keyword.openshiftshort}} registries include Certified Operators, Marketplace Operators, and community Operators. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our general availability release of private catalog capabilities. For more information, see [Onboarding a Certified Operator bundle from a Red Hat registry](/docs/sell?topic=sell-bundle-register).
 
 ## June 2021
 {: #overview-jun-2021}
@@ -706,7 +706,7 @@ As an account administrator, you might want to remind your users to accept these
 {: release-note}
 
 Support for third-party virtual server images with Terraform
-:   Third-party providers can now offer virtual server images deployed by using Terraform in {{site.data.keyword.cloud_notm}}. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our previously general availability release of private catalog capabilities. For more information, see [Onboarding a virtual server image with Terraform](/docs/third-party?topic=third-party-vsimage-register).
+:   Third-party providers can now offer virtual server images deployed by using Terraform in {{site.data.keyword.cloud_notm}}. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our previously general availability release of private catalog capabilities. For more information, see [Onboarding a virtual server image with Terraform](/docs/sell?topic=sell-vsimage-register).
 
 
 ## April 2021
@@ -731,7 +731,7 @@ Upcoming changes to the user invitation flow
 
    Concerned about how this change will impact your automation? To avoid any disruption to on-going workflows, you need to check your scripts:
 
-   * To accept invitations in the CLI, existing members of {{site.data.keyword.Bluemix}} must use the [**`ibmcloud login`**](/docs/cli?topic=cli-ibmcloud_cli#accept-invitation-to-join-a-new-account-) command. They need to target the account that they are invited to join and use the new `--accept` flag.
+   * To accept invitations in the CLI, existing members of {{site.data.keyword.Bluemix}} must use the [**`ibmcloud login`**](//docs/cli?topic=cli-ibmcloud_cli#ibmcloud_login) command. They need to target the account that they are invited to join and use the new `--accept` flag.
 
    As an account administrator, you may want to remind your users to accept these invitations upon initial change of this behavior.
    {: note}
@@ -744,7 +744,7 @@ Upcoming changes to the user invitation flow
 {: release-note}
 
 Support for third-party Operators deployed on {{site.data.keyword.openshiftlong_notm}}
-:   Third-party providers can now offer Operators in {{site.data.keyword.cloud_notm}}. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our previously general availability release of private catalog capabilities. For more information, see [Onboarding a Node-Red Operator](/docs/third-party?topic=third-party-operator-define).
+:   Third-party providers can now offer Operators in {{site.data.keyword.cloud_notm}}. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our previously general availability release of private catalog capabilities. For more information, see [Onboarding a Node-Red Operator](/docs/sell?topic=sell-operator-register).
 
 New catalog filter for Financial Services Validated services
 :   You can now search the {{site.data.keyword.cloud_notm}} catalog for services that are designated as Financial Services Validated. Services with this designation leverage the industry’s highest levels of encryption certification, provide preventive and compensatory controls for financial services regulatory workloads, multi-architecture support and proactive, and automated security. See [IBM Cloud Framework for Financial Services](/docs/framework-financial-services?topic=framework-financial-services-about#ibm-cloud-framework-for-financial-services) for more information.
@@ -860,7 +860,7 @@ Enhanced payments & invoicing for new US-based Pay-As-You-Go accounts with credi
    * The ability to update a credit card in the console without being redirected to a different website
    * A one-to-one mapping between your invoice and your usage dashboard in the console
 
-   For more details, including a video walk-through of the enhancements, see [The Enhanced Unified Billing and Payment Experience in {{site.data.keyword.Bluemix_notm}}](https://www.ibm.com/cloud/blog/announcements/enhanced-unified-billing-and-payment-experience-in-ibm-cloud){: external}.
+   For more details, including a video walk-through of the enhancements, see [The Enhanced Unified Billing and Payment Experience in {{site.data.keyword.Bluemix_notm}}](https://www.ibm.com/blog/announcement/enhanced-unified-billing-and-payment-experience-in-ibm-cloud/){: external}.
 
 
 ### 04 December 2020
@@ -905,7 +905,7 @@ Support for U2F MFA and other MFA factors
 {: release-note}
 
 Enhanced Support Center
-:   The [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: external} is now updated to help improve your experience with creating and managing your support cases. You can refine the scope of your cases by routing them to a specfic resource and provide feedback on your cases. You will also find popular FAQs that are featured based on your specific issue. For more details, see [Announcing the Release of Our New Support Center Enhancements](https://www.ibm.com/cloud/blog/announcements/new-support-center-enhancements){: external}.
+:   The [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: external} is now updated to help improve your experience with creating and managing your support cases. You can refine the scope of your cases by routing them to a specfic resource and provide feedback on your cases. You will also find popular FAQs that are featured based on your specific issue. For more details, see [Announcing the Release of Our New Support Center Enhancements](https://ibm.com/blog/announcement/new-support-center-enhancements/){: external}.
 
 ## September 2020
 {: #overview-sept-2020}
@@ -1106,7 +1106,7 @@ Customizing how access is assigned by using custom roles
 {: release-note}
 
 Updated handling of API keys for removed users
-:   When you remove a user from your account, {{site.data.keyword.cloud_notm}} automatically cleans up the API keys associated with that user's identity, so you don't have to. For more information, see the [Updated handling of IBM Cloud API keys for users removed from accounts](https://www.ibm.com/cloud/blog/announcements/updated-handling-of-ibm-cloud-api-keys-for-users-removed-from-accounts){: external} blog post.
+:   When you remove a user from your account, {{site.data.keyword.cloud_notm}} automatically cleans up the API keys associated with that user's identity, so you don't have to. For more information, see the [Updated handling of IBM Cloud API keys for users removed from accounts](https://www.ibm.com/blog/announcement/updated-handling-of-ibm-cloud-api-keys-for-users-removed-from-accounts/){: external} blog post.
 
 
 ## January 2020
@@ -1176,7 +1176,7 @@ Download access reports for specific resources
 {: release-note}
 
 Mapping actions to IAM roles
-:   When you invite a user to your account or assign an existing user IAM access, you can review each action that is mapped to a role. Click the **Actions for role** option to view a list of all actions that are mapped to a specific role when you're selecting the roles to assign in an access policy. By reviewing the action to role mappings, you can have confidence that you are always assigning the correct level of access to users in your account. For more information about this new enhancement, see [Invite User Flow and Transparent Actions](https://www.ibm.com/cloud/blog/announcements/invite-user-flow-and-transparent-actions){: external}.
+:   When you invite a user to your account or assign an existing user IAM access, you can review each action that is mapped to a role. Click the **Actions for role** option to view a list of all actions that are mapped to a specific role when you're selecting the roles to assign in an access policy. By reviewing the action to role mappings, you can have confidence that you are always assigning the correct level of access to users in your account. For more information about this new enhancement, see [Invite User Flow and Transparent Actions](https://www.ibm.com/blog/announcement/invite-user-flow-and-transparent-actions/){: external}.
 
 
 ### 03 October 2019
@@ -1222,7 +1222,7 @@ Redirecting SoftLayer to {{site.data.keyword.Bluemix_notm}}
    * Subscription credit is aggregated into a credit pool and shared with all accounts in the enterprise. Not only is tracking your subscriptions easier, but you can get fewer, larger subscriptions for a better discount because the credit is shared.
    * Top-down usage reporting gives you a unified view of usage costs from all accounts, organized according to your enterprise hierarchy.
 
-   If you have multiple accounts, at least one of which is a Subscription account, you can create an enterprise. See [What is an enterprise?](/docs/secure-enterprise?topic=secure-enterprise-what-is-enterprise) and [Introducing IBM Cloud Enterprises](https://www.ibm.com/cloud/blog/announcements/introducing-ibm-cloud-enterprises){: external}  for more information.
+   If you have multiple accounts, at least one of which is a Subscription account, you can create an enterprise. See [What is an enterprise?](/docs/secure-enterprise?topic=secure-enterprise-what-is-enterprise) and [Introducing IBM Cloud Enterprises](https://www.ibm.com/blog/announcement/introducing-ibm-cloud-enterprises/){: external}  for more information.
 
 Subscriptions page for tracking subscription credit spending
 :   If you have a Subscription account, you can now view all of your subscriptions and analyze your credit spending on the Subscriptions page. You get a high-level view of the total subscription credit in your account and detailed charts that visualize trends such as your credit burndown and monthly spending. You can also view credit from any promotions in your account. For more information, see [Managing subscriptions](/docs/billing-usage?topic=billing-usage-subscriptions).
@@ -1255,7 +1255,7 @@ Customize your dashboard
 {: release-note}
 
 Export usage data with associated tags
-:   You can now use our newest tagging capabilities to manage resources, usage, and costs in the exported usage report. When you add a tag to a resource, you can view the tag that is associated with the resource. In the {{site.data.keyword.cloud_notm}} console, go to **Manage**> **Billing and Usage**> **Usage**> **Export CSV**>  **Instances** to download your usage report. For more information on exporting tags, check out the [Export tags within your usage data to help with cost allocation](https://www.ibm.com/cloud/blog/export-your-tagged-usage-data-within-the-enhanced-ibm-cloud){: external} blog post.
+:   You can now use our newest tagging capabilities to manage resources, usage, and costs in the exported usage report. When you add a tag to a resource, you can view the tag that is associated with the resource. In the {{site.data.keyword.cloud_notm}} console, go to **Manage**> **Billing and Usage**> **Usage**> **Export CSV**>  **Instances** to download your usage report.
 
 
 ## March 2019
@@ -1273,7 +1273,7 @@ Enabling public access to resources
 {: release-note}
 
 Multifactor authentication for users with federated IDs
-:   Account owners or users assigned the administrator role for the billing account management service can enable multifcator authentication (MFA) for all users in their account. Federated users who use their corporate or enterprise single sign-on ID can now be required to authenticate by using MFA for logging in to {{site.data.keyword.Bluemix_notm}}. For more information about this feature enhancement and what you need to know about enabling MFA for your account, see [Introducing MFA for IBM Cloud Users with Federated ID](https://www.ibm.com/cloud/blog/introducing-mfa-for-ibm-cloud-users-with-federated-id){: external} .
+:   Account owners or users assigned the administrator role for the billing account management service can enable multifcator authentication (MFA) for all users in their account. Federated users who use their corporate or enterprise single sign-on ID can now be required to authenticate by using MFA for logging in to {{site.data.keyword.Bluemix_notm}}. For more information about this feature enhancement and what you need to know about enabling MFA for your account, see [Introducing MFA for IBM Cloud Users with Federated ID](https://www.ibm.com/blog/introducing-mfa-for-ibm-cloud-users-with-federated-id/){: external} .
 
 ## December 2018
 {: #overview-dec-2018}
@@ -1317,7 +1317,7 @@ Unified login, API keys, and user and access management
 
    Now that all of your users are in a single console, you can manage their access to all types of resources from the same place. Access starts with the user, so start by selecting a user from your list. Then, depending on which type of resource that you want to assign access to, you can choose from IAM access policies, Cloud Foundry access, or classic infrastructure permissions. If you want to assign IAM access policies, try creating an access group to streamline your access management process by adding all users to the same access group that need the same policies assigned.
 
-   For more details, check out [Outstanding User Access Improvements Help Deliver a Unified {{site.data.keyword.Bluemix_notm}} Platform](https://www.ibm.com/cloud/blog/announcements/ibm-cloud-access-management){: external}.
+   For more details, check out [Outstanding User Access Improvements Help Deliver a Unified {{site.data.keyword.Bluemix_notm}} Platform](https://www.ibm.com/blog/announcement/ibm-cloud-access-management/){: external}.
 
 Find all {{site.data.keyword.Bluemix_notm}} CLI plug-in documentation in one place
 :   You can now access all of the {{site.data.keyword.Bluemix_notm}} CLI plug-in documentation in one location, making it easier for you to find any CLI command that you are looking for. Check out the References section in the [CLI documentation](/docs/cli?topic=cli-ibmcloud_cli).
@@ -1329,18 +1329,16 @@ New dashboard and Resource list page
    * Now that you can see all of your resources in one place, we added a global search so that you can quickly find resources that you created and expect to find in your resource list.
    * You can also search for catalog results, so you can quickly find resources to add to your account.
 
-   See [Manage All Your Cloud Resources on the Enhanced {{site.data.keyword.Bluemix_notm}} Platform](https://www.ibm.com/blogs/bluemix/2018/11/manage-all-your-cloud-resources-on-the-enhanced-ibm-cloud-platform/){: external} for more details.
-
 Unified account, billing, and user profile information
 :   Your account, billing, and profile information is now simplified. You can view your account information for all of your platform and infrastructure resources in a unified console.
 :   Your profile and settings area contains information about you as well as your email notification preferences for all resource types.
 :   Your account information area contains information about your company or organization, account settings, and quick access for working with resource groups and Cloud Foundry orgs. You can even find best practices to help you get up and running quickly!
 :   Your billing and usage area of your account helps you understand your bill, make payments, monitor subscriptions, get quotes, track orders, and set spending notifications.
 
-   Check out [Bringing It All Together: A Single Account and Billing Management Experience](https://www.ibm.com/cloud/blog/announcements/ibm-cloud-account-management){: external} for more details.
+   Check out [Bringing It All Together: A Single Account and Billing Management Experience](https://www.ibm.com/blog/announcement/ibm-cloud-account-management/){: external} for more details.
 
 Organize your resources with tags
-:   Tags are now available for you to add to your resources, like Cloud Object Storage, to help you manage resources and find the resources that are the most relevant to you. For example, if you have hundreds of resources and you want to differentiate between ones that are paid the same way, you could tag them with `costcenter:location01`. Or, if you have a team that is working on a couple of resources repeatedly, you can use something like `team-blue`. You can also filter the My resources page by tags to quickly organize and find the resources that you need. For more information, see [Working with tags](/docs/account?topic=account-tag) and [Platform Tagging on the Enhanced {{site.data.keyword.Bluemix_notm}} Platform](https://www.ibm.com/cloud/blog/announcements/platform-tagging-on-the-enhanced-ibm-cloud-platform){: external}.
+:   Tags are now available for you to add to your resources, like Cloud Object Storage, to help you manage resources and find the resources that are the most relevant to you. For example, if you have hundreds of resources and you want to differentiate between ones that are paid the same way, you could tag them with `costcenter:location01`. Or, if you have a team that is working on a couple of resources repeatedly, you can use something like `team-blue`. You can also filter the My resources page by tags to quickly organize and find the resources that you need. For more information, see [Working with tags](/docs/account?topic=account-tag) and [Platform Tagging on the Enhanced {{site.data.keyword.Bluemix_notm}} Platform](https://www.ibm.com/blog/announcement/platform-tagging-on-the-enhanced-ibm-cloud-platform/){: external}.
 
 Get accurate monthly costs with the cost estimator
 :   To help you decide and analyze what services you'd like to purchase, you can use the cost estimator. Now, you can go through the console and select each service you'd like to have, and add all of the costs in an easy to use tool. You can even enter projected data usages, lookups per second, writes per second, and queries per second to get a more accurate estimation of your monthly expenditures. You can use the cost estimator with each catalog service you select, or you can click the Cost Estimator icon ![Cost Estimator icon](../icons/calculator.svg "Cost Estimator") in the console menu to get a summary of your estimated costs. For more information, see [Estimating your costs](/docs/billing-usage?topic=billing-usage-cost).
@@ -1380,7 +1378,7 @@ Assign account management access to others
    * Global resource catalog for viewing private catalog offerings and updating the metadata and visibility for the offerings
    * All account management services for access to each of the individual account management service options based on the assigned role as well as access to billing and usage tracking.
 
-   For more information on the tasks that a user can do based on which account management service they have a policy on and which role they are assigned, see [Example platform management roles and actions for account management services](/docs/account?topic=account-account-services&interface=ui#all-account-management). For more information about this new feature, see the [Introducing More Flexibility and Control for IBM Cloud Account Management Services Access](https://www.ibm.com/cloud/blog/announcements/introducing-more-flexibility-and-control-for-ibm-cloud-account-management-services-access){: external} blog post.
+   For more information on the tasks that a user can do based on which account management service they have a policy on and which role they are assigned, see [Example platform management roles and actions for account management services](/docs/account?topic=account-account-services&interface=ui#all-account-management). For more information about this new feature, see the [Introducing More Flexibility and Control for IBM Cloud Account Management Services Access](https://www.ibm.com/blog/announcement/introducing-more-flexibility-and-control-for-ibm-cloud-account-management-services-access/){: external} blog post.
 
 
 ## July 2018
@@ -1436,7 +1434,7 @@ Upgrade your Lite account to a Subscription account
 {: release-note}
 
 Multi-factor authentication for your account
-:   Multi-factor authentication (MFA) adds an extra layer of security to your account by requiring all users to provide a time-based one-time passcode in addition to their standard IBMid and password during login. This is also commonly known as two-factor authentication (2FA). MFA is enabled per account, and once it is turned on, all users in the account are required to log in by using the extra security measure. For more information, see the [IBM Cloud Platform now adds support for Multi-Factor Authentication](https://www.ibm.com/cloud/blog/ibm-cloud-platform-now-adds-support-multi-factor-authentication){: external} blog post.
+:   Multi-factor authentication (MFA) adds an extra layer of security to your account by requiring all users to provide a time-based one-time passcode in addition to their standard IBMid and password during login. This is also commonly known as two-factor authentication (2FA). MFA is enabled per account, and once it is turned on, all users in the account are required to log in by using the extra security measure. For more information, see the [IBM Cloud Platform now adds support for Multi-Factor Authentication](https://www.ibm.com/blog/ibm-cloud-platform-now-adds-support-multi-factor-authentication/){: external} blog post.
 
 ## April 2018
 {: #overview-apr-2018}
@@ -1446,7 +1444,7 @@ Multi-factor authentication for your account
 {: release-note}
 
 Assign access quickly by using access groups
-:   Do you want to be able to assign access quickly by using the least number of policies possible? Now you can with access groups. Group a set of users and service IDs together and assign a single policy that applies to all members of the group. By using access groups, you can limit the time that you spend managing access to the users and service IDs in your account. Check out the blog post [New feature: Access groups](https://www.ibm.com/cloud/blog/access-groups){: external} for more details.
+:   Do you want to be able to assign access quickly by using the least number of policies possible? Now you can with access groups. Group a set of users and service IDs together and assign a single policy that applies to all members of the group. By using access groups, you can limit the time that you spend managing access to the users and service IDs in your account.
 
 ## December 2017
 {: #overview-dec-2017}
@@ -1490,7 +1488,7 @@ Updates for {{site.data.keyword.Bluemix_notm}} IAM
 :   The introduction of resource groups within your {{site.data.keyword.Bluemix_notm}} account provides a new way for you to assign access. Users and service IDs can be assigned access to all services within a resource group, enabling you to quickly assign access to more than one resource at a time. You can also customize access for each user or service ID by assigning access to just some services within a resource group, or you choose to assign access to individual resources down to the service instance level. For more information about the features that you can take advantage of by using IAM, see [What features does IAM provide?](/docs/account?topic=account-iamoverview#features)
 
 Customize your dashboard view
-:   You can view and manage all the resources in your account from your dashboard in the {{site.data.keyword.Bluemix_notm}} console. And now, you can set filters to customize your view. For example, you can filter by resource group to view the specific resources in a resource group. You can also filter by region or Cloud Foundry space. For more details, see [Managing resources on the dashboard](/docs/overview?topic=overview-ui#dashboardview).
+:   You can view and manage all the resources in your account from your dashboard in the {{site.data.keyword.Bluemix_notm}} console. And now, you can set filters to customize your view. For example, you can filter by resource group to view the specific resources in a resource group. You can also filter by region or Cloud Foundry space. For more details, see [Customizing your dashboard](/docs/account?topic=account-tutorial-custom-dash).
 
 ### 02 November 2017
 {: #overview-nov0217}
@@ -1508,7 +1506,7 @@ Support Center
 {: release-note}
 
 Introducing {{site.data.keyword.Bluemix_notm}}
-:   Bluemix is now {{site.data.keyword.Bluemix_notm}}. Besides rolling out our new name, nothing changes. You can still easily build and run your apps and services as always. Check out the [{{site.data.keyword.Bluemix_notm}} blog](https://www.ibm.com/cloud/blog/announcements/bluemix-is-now-ibm-cloud){: external}  for more details.
+:   Bluemix is now {{site.data.keyword.Bluemix_notm}}. Besides rolling out our new name, nothing changes. You can still easily build and run your apps and services as always. Check out the [{{site.data.keyword.Bluemix_notm}} blog](https://www.ibm.com/blog/announcement/bluemix-is-now-ibm-cloud/){: external}  for more details.
 
 Lite account
 :   A Lite account is our new account type that gives you access to try select services for free with no time restrictions. This new account also includes usage tracking and efficiency features to help you better manage your resources. To learn more about what's available, see [Account types](/docs/account?topic=account-accounts#liteaccount).
@@ -1521,7 +1519,7 @@ Lite account
 Identity and Access Management application authentication feature
 :   Identity and Access Management (IAM) now supports service IDs, which you can think of as identities that can be used for apps to authenticate with your {{site.data.keyword.Bluemix_notm}} services. Instead of using individual user credentials, a Service ID can be created with an associated API key and access permissions in the form of a service policy that is assigned to the Service ID in order for you to control the level of access for any application authenticating with that ID.
 
-   For more information about the benefits of this feature and how to get started, see the [Introducing IBM Cloud IAM Service IDs and API Keys](https://www.ibm.com/cloud/blog/introducing-ibm-cloud-iam-service-ids-api-keys){: external}.
+   For more information about the benefits of this feature and how to get started, see the [Introducing IBM Cloud IAM Service IDs and API Keys](https://www.ibm.com/blog/introducing-ibm-cloud-iam-service-ids-api-keys/){: external}.
 
 ## July 2017
 {: #overview-jul-2017}
@@ -1531,7 +1529,7 @@ Identity and Access Management application authentication feature
 {: release-note}
 
 {{site.data.keyword.Bluemix_notm}} global catalog
-:   Expanding on the last console update to manage your public regions from a single location in the console, {{site.data.keyword.Bluemix_notm}} now has a global catalog, making the process of selecting and deploying items that you select from the catalog a more streamlined process. Regardless of the region that you select in the console, you can now see all services that are available across all public regions from your catalog. Once you select a tile from the catalog, you can see which regions the service is available in, and select where you want to deploy it. For more information about the latest updates to the catalog, see [A global {{site.data.keyword.Bluemix_notm}} catalog makes building things easier](https://www.ibm.com/cloud/blog/announcements/global-bluemix-catalog-makes-building-things-easier){: external}.
+:   Expanding on the last console update to manage your public regions from a single location in the console, {{site.data.keyword.Bluemix_notm}} now has a global catalog, making the process of selecting and deploying items that you select from the catalog a more streamlined process. Regardless of the region that you select in the console, you can now see all services that are available across all public regions from your catalog. Once you select a tile from the catalog, you can see which regions the service is available in, and select where you want to deploy it. For more information about the latest updates to the catalog, see [A global {{site.data.keyword.Bluemix_notm}} catalog makes building things easier](https://www.ibm.com/blog/announcement/global-bluemix-catalog-makes-building-things-easier/){: external}.
 
 
 ## May 2017
@@ -1542,7 +1540,7 @@ Identity and Access Management application authentication feature
 {: release-note}
 
 {{site.data.keyword.Bluemix_notm}} console updates
-:   You can now manage your public regions from a single location through the updated {{site.data.keyword.Bluemix_notm}} console. The region selector offers you streamlined access to your resources, and other enhancements include higher availability and improved performance. For more information, check out [New Global Bluemix UI for Higher Availability and More](https://www.ibm.com/blogs/bluemix/2017/05/new-global-bluemix-ui-higher-availability/){: external}.
+:   You can now manage your public regions from a single location through the updated {{site.data.keyword.Bluemix_notm}} console. The region selector offers you streamlined access to your resources, and other enhancements include higher availability and improved performance.
 
 
 ### 01 May 2017
@@ -1557,8 +1555,6 @@ Identity and access management
    Additionally, {{site.data.keyword.Bluemix_notm}} platform users can create, delete, and list API keys associated with their user IDs. And platform users can use those API keys to authenticate when using APIs or CLIs.
 
    Lastly, we enhanced our unified user management capability to ensure that in a linked IaaS-PaaS account, users are managed in a unified way with no need to add users separately in the SoftLayer Customer Portal or the {{site.data.keyword.Bluemix_notm}}console.
-
-   For more information, check out the [Introducing Identity & Access Management](https://www.ibm.com/blogs/bluemix/2017/05/introducing-identity-access-management/){: external} blog post.
 
 
 ## April 2017

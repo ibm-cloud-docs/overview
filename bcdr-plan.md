@@ -175,14 +175,14 @@ Here are the basic steps:
 {: #database-options}
 
 {{site.data.keyword.databases-for}} offers several open source database systems as fully managed services. They are:
-* [{{site.data.keyword.databases-for-postgresql}}](/catalog/services/databases-for-postgresql/create)
-* [{{site.data.keyword.databases-for-enterprisedb}}](/catalog/services/databases-for-enterprisedb/create)
-* [{{site.data.keyword.databases-for-cassandra}}](/catalog/services/databases-for-cassandra/create)
-* [{{site.data.keyword.databases-for-redis}}](/catalog/services/databases-for-redis/create)
-* [{{site.data.keyword.databases-for-elasticsearch}}](/catalog/services/databases-for-elasticsearch/create)
-* [{{site.data.keyword.databases-for-etcd}}](/catalog/services/databases-for-etcd/create)
-* [{{site.data.keyword.databases-for-mongodb}}](/catalog/services/databases-for-mongodb/create)
-* [{{site.data.keyword.messages-for-rabbitmq}}](/catalog/services/messages-for-rabbitmq/create)
+* [{{site.data.keyword.databases-for-postgresql}}](/databases/databases-for-postgresql/create)
+* [{{site.data.keyword.databases-for-enterprisedb}}](/databases/databases-for-enterprisedb/create)
+* [{{site.data.keyword.databases-for-cassandra}}](/databases/databases-for-cassandra/create)
+* [{{site.data.keyword.databases-for-redis}}](/databases/databases-for-redis/create)
+* [{{site.data.keyword.databases-for-elasticsearch}}](/databases/databases-for-elasticsearch/create)
+* [{{site.data.keyword.databases-for-etcd}}](/databases/databases-for-etcd/create)
+* [{{site.data.keyword.databases-for-mongodb}}](/databases/databases-for-mongodb/create)
+* [{{site.data.keyword.messages-for-rabbitmq}}](/databases/messages-for-rabbitmq/create)
 
 All of these services share the same characteristics:
 * For high availability, they are deployed in clusters. Details can be found in the documentation of each service:
@@ -197,7 +197,7 @@ All of these services share the same characteristics:
 * Each cluster is spread over multiple zones.
 * Data is replicated across the zones.
 * Users can scale up storage and memory resources for an instance. See the example in the [documentation on scaling for {{site.data.keyword.databases-for-redis}}](/docs/databases-for-redis?topic=databases-for-redis-resources-scaling) for details.
-* Backups are taken daily or on demand. Details are documented for each service. Here is an example of [backup documentation for {{site.data.keyword.databases-for-postgresql}}](/docs/databases-for-postgresql?topic=cloud-databases-dashboard-backups).
+* Backups are taken daily or on demand. Details are documented for each service. Here is an example of [backup documentation for {{site.data.keyword.databases-for-postgresql}}](/docs/cloud-databases?topic=cloud-databases-dashboard-backups&interface).
 * Data at rest, backups, and network traffic are encrypted.
 * Each [service can be managed using the {{site.data.keyword.databases-for}} CLI plug-in](/docs/databases-cli-plugin?topic=databases-cli-plugin-cdb-reference)
 
@@ -265,8 +265,4 @@ The tutorial [Use Virtual Servers to build highly available and scalable web app
 #### Back up and restore procedures
 {: #bcdr-backup-restore-procedures}
 
-Refer to the following backup and restore procedures:
-
-- [Managing backups for {{site.data.keyword.databases-for-elasticsearch}}](/docs/services/databases-for-elasticsearch?topic=cloud-databases-dashboard-backups)
-- [Managing backups for {{site.data.keyword.databases-for-postgresql}}](/docs/services/databases-for-postgresql?topic=cloud-databases-dashboard-backups)
-- [Backups and restoration for {{site.data.keyword.databases-for-redis}}](/docs/services/databases-for-redis?topic=cloud-databases-dashboard-backups#backups-and-restoration)
+Refer to [Managing Cloud Databases backups](/docs/services/databases-for-elasticsearch?topic=cloud-databases-dashboard-backups) for the backup and restore procedures.

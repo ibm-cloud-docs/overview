@@ -1,8 +1,8 @@
 ---
 copyright:
-  years: 2022, 2024
+  years: 2022, 2023
 
-lastupdated: "2024-02-26"
+lastupdated: "2023-05-24"
 
 keywords: onboard to cloud, onboarding, onboarding checklist, get started on {{site.data.keyword.cloud_notm}}, account set up
 
@@ -134,7 +134,7 @@ Analyze logs, collect metrics, and configure near real-time alerts on your cloud
 ## Streamline access management with identities, groups, and policies
 {: #users-groups}
 
-Use the following checklist to create user and service identities in your accounts. Then, create access and resource groups for organizing users and resources to streamline the access management process. Account owners or users with the administrator role on all [IAM account management services](/docs/account?topic=account-account-services&interface=ui#console-iam-services), which includes services such as the user management, access groups, identity service, and more can complete these tasks.
+Use the following checklist to create user and service identities in your accounts. Then, create access and resource groups for organizing users and resources to streamline the access management process. Account owners or users with the administrator role on all [IAM account management services](/docs/account?topic=account-account-services&interface=ui#all-iam), which includes services such as the user management, access groups, identity service, and more can complete these tasks.
 
 | Task | Description |
 |---|-------------|
@@ -156,7 +156,7 @@ If you experience problems with {{site.data.keyword.cloud_notm}}, you have sever
 
 | Task  | Description |
 |---|-------------|
-| - [ ] **What's new in {{site.data.keyword.cloud_notm}}** | Stay up to date with the new features that are available on the {{site.data.keyword.cloud_notm}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience. Check out the [what's new](/docs/overview?topic=overview-whatsnew) documentation for the platform and the [announcements blog](https://www.ibm.com/cloud/blog/announcements){: external}. |
+| - [ ] **What's new in {{site.data.keyword.cloud_notm}}** | Stay up to date with the new features that are available on the {{site.data.keyword.cloud_notm}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience. Check out the [what's new](/docs/overview?topic=overview-whatsnew) documentation for the platform and the [announcements blog](https://www.ibm.com/blog/announcements/){: external}. |
 | - [ ] **Viewing cloud status** | The {{site.data.keyword.cloud_notm}} Status page is the central place to find details about all incidents, planned maintenance, announcements, release notes, and security bulletins about key events that affect the {{site.data.keyword.cloud_notm}} platform and services. Learn more about [viewing cloud status](/docs/get-support?topic=get-support-viewing-cloud-status). |
 | - [ ] **Review available support plans**  | You can choose a Basic, Advanced, or Premium support plan to customize your {{site.data.keyword.cloud_notm}} support experience for your business needs. The level of support that you select determines the severity that you can assign to support cases and your level of access to the tools available in the Support Center. Learn more about [support plans](/docs/get-support?topic=get-support-support-plans). |
 | - [ ] **Create support cases** | If you experience problems with {{site.data.keyword.cloud_notm}}, you can use the [Support Center](/unifiedsupport/supportcenter) to create a support case. You can also create support cases for issues that are associated with access (IAM), billing and usage, account issues, and invoice or sales inquiries. Learn more about [creating support cases](/docs/get-support?topic=get-support-open-case&interface=ui). In the event you’re unable to access your account, please create a case [here](https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create){: external}. |

@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2021, 2023
-lastupdated: "2023-07-31"
+  years: 2021,2024
+lastupdated: "2024-02-26"
 
 keywords: disaster recovery, DR, what is disaster recovery, DR strategy, disaster recovery options, disaster recovery strategy
 
@@ -117,6 +117,6 @@ The [{{site.data.keyword.cloud_notm}} service level objectives](/docs/overview?t
 More documentation resources:
 
 - [Designing an architecture for your application resiliency objectives](/docs/overview?topic=overview-bcdr-app-recovery)
-- [Build resilient applications on the cloud](https://www.ibm.com/cloud/architecture/architectures/resilience/overview){: external}
-- [Secure web applications across multiple regions](/docs/tutorials?topic=solution-tutorials-multi-region-webapp#secure-web-application-across-multiple-regions)
+- [Build resilient applications on the cloud](https://www.ibm.com/topics/cyber-resilience){: external}
+- [Secure web applications across multiple regions](/docs/solution-tutorials?topic=solution-tutorials-vpc-multi-region)
 - [Resilient and secure multi-region Kubernetes clusters with {{site.data.keyword.cloud_notm}} Internet Services](/docs/solution-tutorials?topic=solution-tutorials-multi-region-k8s-cis)

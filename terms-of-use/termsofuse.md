@@ -23,17 +23,17 @@ subcollection: overview
 
 The following terms apply to an {{site.data.keyword.cloud}} account and use of the {{site.data.keyword.cloud_notm}} Services:
 
-1. The {{site.data.keyword.cloud_notm}} Service Description available at [https://www.ibm.com/terms/?id=i126-6605](https://www.ibm.com/terms/?id=i126-6605){: external}.
+1. The {{site.data.keyword.cloud_notm}} Service Description available at [https://www.ibm.com/support/customer/csol/terms/?id=i126-6605](https://www.ibm.com/support/customer/csol/terms/?id=i126-6605){: external}.
 2. Additional Service Descriptions (SDs) for each Cloud Service ordered using your {{site.data.keyword.cloud_notm}} account, available in the IBM Cloud catalog or on the [IBM Terms website](https://www.ibm.com/support/customer/csol/terms/?cat=cloud-sd){: external}. Additional SDs contain links to the applicable Data Sheet for each Cloud Service.
 3. One of the following base agreements based upon selected account type and country.
-   - IBM Cloud International B.V. (formerly SoftLayer Dutch Holding B.V.) Cloud Services Agreement available at [https://www.ibm.com/terms/?id=Z126-6304_IBMCIBV](https://www.ibm.com/terms/?id=Z126-6304_IBMCIBV){: external} which applies to:
+   - IBM Cloud International B.V. (formerly SoftLayer Dutch Holding B.V.) Cloud Services Agreement available at [https://www.ibm.com/support/customer/csol/terms/?id=Z126-6304_IBMCIBV](https://www.ibm.com/support/customer/csol/terms/?id=Z126-6304_IBMCIBV){: external} which applies to:
       - Enterprise Savings Plan accounts for Clients with business addresses in France, Italy, Spain, Brazil, India, Japan, Israel, or Mexico, invoiced by IBM Cloud International B.V.
       - U.S. Dollar Pay as you Go (PayGo) credit card accounts in all countries **except** Australia, Austria, Belgium, Canada, Denmark, Finland, Germany, Ireland, Luxembourg, Netherlands, New Zealand, Norway, Sweden, Switzerland, United Kingdom, or the United States of America.
       - Free/Lite Accounts.
-   - The country-specific IBM Cloud Service Agreement found at [https://www.ibm.com/terms/?id=z126-6304](https://www.ibm.com/terms/?id=z126-6304){: external} applicable to Client's business address which applies to  all other accounts contracted with IBM local country entities, including:
+   - The country-specific IBM Cloud Service Agreement found at [https://www.ibm.com/support/customer/csol/terms/?id=Z126-6304](https://www.ibm.com/support/customer/csol/terms/?id=Z126-6304){: external} applicable to Client's business address which applies to  all other accounts contracted with IBM local country entities, including:
       - Pay as you go (PayGo) credit card accounts for Australia, Austria, Belgium, Canada, Denmark, Finland, Germany, Ireland, Luxembourg, Netherlands, New Zealand, Norway, Sweden, Switzerland, United Kingdom, or the United States of America.
       - Invoiced (non-credit card) and local country currency accounts of any type, except for the Enterprise Savings Plan accounts in countries listed above.
-   - The IBM Passport Advantage Agreement you accepted upon enrollment in the Passport Advantage Program available at [https://www.ibm.com/terms/?id=i126-5948](https://www.ibm.com/terms/?id=i126-5948){: external}.
+   - The IBM Passport Advantage Agreement you accepted upon enrollment in the Passport Advantage Program available at [https://www.ibm.com/support/customer/csol/terms/?id=i126-5948](https://www.ibm.com/support/customer/csol/terms/?id=i126-5948){: external}.
    - A business partner agreement covering the use of Cloud Services (e.g. use of an IBM Cloud account for an embedded service or downstream distribution, subject to the terms of the IBM Embedded Solution Agreement, as approved by IBM).
    - Another agreement with equivalent cloud services terms signed between the parties.
 

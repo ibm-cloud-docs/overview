@@ -92,7 +92,7 @@ Market-driven classification covers any case other than those specified under th
 For each service, you can review our dependency and availability standards.
 
 * {{site.data.keyword.cloud_notm}} services are available in several [regions worldwide](/docs/overview?topic=overview-services_region).
-* IBM services can be deployed by using various models, and the SLA standards that apply to each model are outlined in the [Service Level Agreements](https://www-03.ibm.com/software/sla/sladb.nsf/latest/bm-6605){: external}
+* IBM services can be deployed by using various models, and the SLA standards that apply to each model are outlined in the [Service Level Agreements](https://www.ibm.com/support/customer/csol/terms/?id=i126-6605&lc=en){: external}
 * Follow our best practices to ensure your environment that integrates the use of the {{site.data.keyword.cloud_notm}} services is as resilient as possible. Check out the [resiliency documentation](https://www.ibm.com/topics/cyber-resilience){: external} that is published in the architecture center.
 * To build a solution that meets your needs, it is important for you to see the [Shared responsibility matrix](/docs/overview?topic=overview-shared-responsibilities) for more information on the scope of the services.
 * For quick reference, we include links to the high availability documents for the services within our [SLO](/docs/overview?topic=overview-slo) description.

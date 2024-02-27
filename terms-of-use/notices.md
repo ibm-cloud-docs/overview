@@ -394,14 +394,14 @@ View the [Notices file](/media/docs/downloads/oss-licensing-info/IBMCloud-CLI-OS
 This section consists of the following:
 
 * CC-BY-2.5
-* CC-BY-3.0  
+* CC-BY-3.0
 * CC-BY-4.0
-* CC-BY-SA-1.0  
-* CC-BY-SA-2.0  
-* CC-BY-SA-2.5  
-* CC-BY-SA-3.0 
-* CC-BY-SA-4.0  
-* GPL V2  
+* CC-BY-SA-1.0
+* CC-BY-SA-2.0
+* CC-BY-SA-2.5
+* CC-BY-SA-3.0
+* CC-BY-SA-4.0
+* GPL V2
 * GNU FREE DOCUMENTATION LICENSE
 * REDHAT UNIVERSAL BASE IMAGE
 * SIL OPEN FONT LICENSE 1.1
@@ -410,12 +410,14 @@ This section consists of the following:
 #### Creative Commons Attribution 2.5 Generic
 {: #cli-25}
 
+https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar
+
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/2.5/legalcode.
 
-* GUARDEDBY.JAVA [JSR305](https://search.maven.org/remotecontent?filepath=com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar)
+* GUARDEDBY.JAVA [JSR305](https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar)
 * JCIP-ANNOTATIONS [HttpCore](https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/)
-* IMMUTABLE.JAVA [JSR305](https://search.maven.org/remotecontent?filepath=com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar)
-* NOTTHREADSAFE.JAVA [JSR305](https://search.maven.org/remotecontent?filepath=com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar)
+* IMMUTABLE.JAVA [JSR305](https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar)
+* NOTTHREADSAFE.JAVA [JSR305](https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar)
 
 #### Creative Commons Attribution 3.0 Generic
 {: #cli-30}
@@ -450,7 +452,7 @@ FIXTURES [go-openapi/spec] (Not Required)
 The Program includes some or all of the following works licensed under
 the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/1.0/legalcode.
 
-TXT_RU [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
+TXT_RU [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.0)
 
 #### Creative Commons Attribution Share Alike 2.0 Generic
 {: #cli-share-20}
@@ -458,14 +460,14 @@ TXT_RU [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/2.0/legalcode
 
 * MASTER SHAKE PHOTO BY SOL GRUNDY (MASTER_SHAKE.JPG) [rest-client (Ruby Gem)](https://rubygems.org/gems/rest-client-1.8.0.gem)
-* TXT_KR [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
+* TXT_KR [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.0)
 
 #### Creative Commons Attribution Share Alike 2.5 Generic
 {: #cli-share-25}
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/2.5/legalcode
 
-TXT_CN [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
+TXT_CN [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.0)
 
 #### Creative Commons Attribution Share Alike 3.0 Generic
 {: #cli-share-30}
@@ -473,7 +475,7 @@ TXT_CN [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/3.0/legalcode
 
 * [envoyproxy/protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate/archive/v0.1.0.zip)
-* TXT_VN [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
+* TXT_VN [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.0)
 * IMAGES [jQuery-ui (Not Required)](http://jqueryui.com/resources/download/jquery-ui-1.10.3.zip)
 
 #### Creative Commons Attribution Share Alike 4.0 Generic
@@ -482,8 +484,8 @@ The Program includes some or all of the following works licensed under the Creat
 The Program includes some or all of the following works licensed under the Creative Commons.
 The URL to the license is https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-* README.MD [docker-ce-cli](https://github.com/docker/docker-ce/archive/v19.03.12.zip)
-* GO-METRICS DOCS [docker-ce-cli](https://github.com/docker/docker-ce/archive/v19.03.12.zip), DOCS
+* README.MD [docker-ce-cli](https://codeload.github.com/docker/docker-ce/zip/refs/tags/v19.03.12)
+* GO-METRICS DOCS [docker-ce-cli](https://codeload.github.com/docker/docker-ce/zip/refs/tags/v19.03.12), DOCS
 [go-digest](https://proxy.golang.org/github.com/opencontainers/go-digest/@v/v1.0.0-rc1.zip),
 GLOB LOGO [Glob](http://registry.npmjs.org/glob/-/glob-7.1.6.tgz)
 

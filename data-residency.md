@@ -22,7 +22,7 @@ For regional and zonal services, you request instances of the service to be depl
 
 {{site.data.keyword.cloud_notm}} also maintains internal encrypted backups of the customer content within the same geography where the regional or zonal service is located for recovery in case of data corruption or a major data center disaster.
 
-About your business contact and account usage information (as defined in the [{{site.data.keyword.cloud_notm}} Service Agreement](http://www.ibm.com/terms/?id=Z126-6304&cc=us){: external}), also called client’s metadata, {{site.data.keyword.cloud_notm}} stores and processes them where the control planes of the regional and global services are located.
+About your business contact and account usage information (as defined in the [{{site.data.keyword.cloud_notm}} Service Agreement](https://www.ibm.com/support/customer/csol/terms/?id=Z126-6304&cc=us&lc=en){: external}), also called client’s metadata, {{site.data.keyword.cloud_notm}} stores and processes them where the control planes of the regional and global services are located.
 
 - Regional services typically have control planes that are located in the same region where you selected for the service except for the services indicated in [Services with global control planes](/docs/overview?topic=overview-zero-downtime#service-global-control-plane).
 - Global services control planes locations are indicated in [Global platform services](/docs/overview?topic=overview-zero-downtime#global-platform).

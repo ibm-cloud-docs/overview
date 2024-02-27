@@ -265,4 +265,4 @@ The tutorial [Use Virtual Servers to build highly available and scalable web app
 #### Back up and restore procedures
 {: #bcdr-backup-restore-procedures}
 
-Refer to [Managing Cloud Databases backups](/docs/services/databases-for-elasticsearch?topic=cloud-databases-dashboard-backups) for the backup and restore procedures.
+Refer to [Managing Cloud Databases backups](/docs/cloud-databases?topic=cloud-databases-dashboard-backups) for the backup and restore procedures.

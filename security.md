@@ -1,7 +1,7 @@
 ---
 
 copyright:
-  years: 2017, 2023
+  years: 2017, 2024
 lastupdated: "2023-02-16"
 
 keywords: security controls, platform security, compliance, penetration testing
@@ -24,4 +24,4 @@ In addition to our own diligence in creating and operating a secure cloud, {{sit
 
 In addition to the regular penetration testing conducted by {{site.data.keyword.IBM_notm}} and our partners, customers may conduct penetration testing of their VPC or Classic Infrastructure resources on {{site.data.keyword.cloud_notm}}. Prior authorization to do so is not required by {{site.data.keyword.cloud_notm}}. {{site.data.keyword.cloud_notm}} customers under an active NDA can request a copy of a penetration testing executive summary by [opening a support case](/unifiedsupport/supportcenter).
 
-For more details about security for your applications and environments in {{site.data.keyword.Bluemix_notm}}, see [Security architecture for cloud applications](https://www.ibm.com/cloud/architecture/architectures/securityArchitecture/){: external}.  
+For more details about security for your applications and environments in {{site.data.keyword.Bluemix_notm}}, see [IBM Security](https://www.ibm.com/security){: external}.

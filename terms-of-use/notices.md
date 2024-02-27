@@ -410,8 +410,6 @@ This section consists of the following:
 #### Creative Commons Attribution 2.5 Generic
 {: #cli-25}
 
-https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar
-
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/2.5/legalcode.
 
 * GUARDEDBY.JAVA [JSR305](https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar)

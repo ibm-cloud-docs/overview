@@ -2,7 +2,7 @@
 
 
 copyright:
-  years: 2018, 2023
+  years: 2018, 2024
 lastupdated: "2023-09-15"
 
 keywords: feedback button, comments, requirements, product improvements, submit feedback, documentation, console, feedback
@@ -72,4 +72,4 @@ When you're completing a task in the console, you can find a feedback form from 
 ## Submitting ideas for product improvements
 {: #ideas}
 
-To submit ideas for {{site.data.keyword.Bluemix_notm}} and services improvements, go to [IBM Cloud Ideas](https://ibmcloud.ideas.ibm.com/){: external}. For more information on how to use the idea portal, see [Think, write, submit: New ideas portal for IBM Cloud](https://www.ibm.com/blogs/bluemix/2016/10/think-write-submit/){: external}.
+To submit ideas for {{site.data.keyword.Bluemix_notm}} and services improvements, go to [IBM Cloud Ideas](https://ibmcloud.ideas.ibm.com/){: external}.

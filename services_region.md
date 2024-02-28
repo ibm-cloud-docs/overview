@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2024-02-27"
+lastupdated: "2024-02-28"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -531,24 +531,24 @@ The following infrastructure resources are available in Europe. Match the resour
 | Service | Amsterdam 03 | 
 |--|--|
 | Bare Metal Servers for Classic |  | 
-| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Citrix NetScaler VPX |  | 
+| Cloud HSM |  | 
+| Cloud Load Balancer |  | 
+| Content Delivery Network |  | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic |  | 
 | Direct Link Dedicated on Classic |  | 
 | Direct Link Exchange on Classic |  | 
-| File Storage for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| File Storage for Classic |  | 
 | FortiGate Security Appliance 10Gbps |  | 
-| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Backup for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Gateway Appliance |  | 
+| Hardware Firewall |  | 
+| IBM Cloud Backup for Classic |  | 
+| IPSec VPN |  | 
+| Juniper vSRX |  | 
+| SSL Certificates |  | 
+| Secondary Subnets |  | 
+| Virtual Router Appliance |  | 
 {: row-headers}
 {: caption="Table 7. Europe infrastructure availability - Netherlands" caption-side="top"}
 {: #iaas-table4}

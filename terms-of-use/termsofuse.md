@@ -47,7 +47,7 @@ The following terms apply to an {{site.data.keyword.cloud}} account and use of t
 ## {{site.data.keyword.IBM_notm}} Business Associate Addendum
 {: #baa}
 
-If you or your company is a covered entity as defined by the US Health Insurance Portability and Accountability Act (HIPAA) and intend to order Cloud Services that might process protected health information (PHI), you must accept the {{site.data.keyword.IBM}} Business Associate Addendum (BAA) available at [https://www-03.ibm.com/software/sla/sladb.nsf/sla/baa?OpenDocument](https://www-03.ibm.com/software/sla/sladb.nsf/sla/baa?OpenDocument){: external}. The BAA can be digitally accepted as described in [Enabling the HIPAA Supported setting](/docs/account?topic=account-enabling-hipaa).
+If you or your company is a covered entity as defined by the US Health Insurance Portability and Accountability Act (HIPAA) and intend to order Cloud Services that might process protected health information (PHI), you must accept the {{site.data.keyword.IBM}} Business Associate Addendum (BAA) available at [https://www.ibm.com/support/customer/csol/terms/?cat=baa](https://www.ibm.com/support/customer/csol/terms/?cat=baa){: external}. The BAA can be digitally accepted as described in [Enabling the HIPAA Supported setting](/docs/account?topic=account-enabling-hipaa).
 
 ## Legal contact information
 {: #legal-contact-info}

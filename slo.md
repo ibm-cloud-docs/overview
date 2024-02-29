@@ -39,11 +39,11 @@ The following table describes the service level objectives (SLOs) for the vital 
 
 | Platform service | Availability target | High availability guidance |
 |----------|---------|---------|
-| {{site.data.keyword.cloud_notm}} console | 99.999% | [High availability for the platform](/docs/overview?topic=overview-zero-downtime#platform-ha) |
+| {{site.data.keyword.cloud_notm}} console | 99.999% | [High availability for the platform](/docs/overview?topic=overview-zero-downtime) |
 | {{site.data.keyword.cloud_notm}} CLI | 99.999% | [Understanding high availability and disaster recovery for the IBM Cloud CLI](/docs/cli?topic=cli-ha-dr) |
-| {{site.data.keyword.cloud_notm}} network | 99.9999% |[High availability for the network](/docs/overview?topic=overview-zero-downtime#ha-network) |
-| {{site.data.keyword.cloud_notm}} catalogs | 99.999% | [High availability for the platform](/docs/overview?topic=overview-zero-downtime#platform-ha) |
-| Identity and Access Management (IAM) | 99.999% | [High availability for the platform](/docs/overview?topic=overview-zero-downtime#platform-ha) |
+| {{site.data.keyword.cloud_notm}} network | 99.9999% |[High availability for the network](/docs/overview?topic=overview-zero-downtime#network-backbone) |
+| {{site.data.keyword.cloud_notm}} catalogs | 99.999% | [High availability for the platform](/docs/overview?topic=overview-zero-downtime) |
+| Identity and Access Management (IAM) | 99.999% | [High availability for the platform](/docs/overview?topic=overview-zero-downtime) |
 {: caption="Table 1. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} platform services" caption-side="bottom"}
 
 ### Compute services
@@ -153,7 +153,7 @@ The following table describes the service level objectives (SLOs) for the high i
 |----------|---------|---------|
 | {{site.data.keyword.dns_full_notm}} | 99.999% | [Understanding high availability and disaster recovery for DNS Services](/docs/dns-svcs?topic=dns-svcs-ha-dr) |
 | {{site.data.keyword.tg_full_notm}} | 99.999% | [High availability and disaster recovery](/docs/transit-gateway?topic=transit-gateway-ha-dr) |
-| {{site.data.keyword.cis_full_notm}} | 99.999% | [Use Virtual Servers to build highly available and scalable web app](/docs/cloud-infrastructure?topic=solution-tutorials-highly-available-and-scalable-web-application) |
+| {{site.data.keyword.cis_full_notm}} | 99.999% | [Use Virtual Servers to build highly available and scalable web app](/docs/solution-tutorials?topic=solution-tutorials-vpc-multi-region) |
 | {{site.data.keyword.dl_full_notm}} | 99.999% | [High Availability and disaster recovery for Direct Link](/docs/dl?topic=dl-ha-dr) |
 | {{site.data.keyword.fl_full}} | 99.999% | [About IBM Cloud Flow Logs for VPC](/docs/vpc?topic=vpc-flow-logs) |
 {: caption="Table 10. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} networking services" caption-side="bottom"}
@@ -210,7 +210,6 @@ The following table describes the service level objectives (SLOs) for the high i
 |----------|---------|---------|
 | {{site.data.keyword.contdelivery_short}} | 99.999% | [High availability and disaster recovery](/docs/ContinuousDelivery?topic=ContinuousDelivery-ha-dr) |
 | {{site.data.keyword.bpfull_notm}} | 99.999% | [High availability](/docs/schematics?topic=schematics-high-availability) |
-| {{site.data.keyword.apigw_full_notm}} | 99.999% | [High availability and disaster recovery](/docs/api-gateway?topic=api-gateway-ha-dr) |
 | {{site.data.keyword.en_full_notm}}  | 99.99% | [Understanding high availability for Event Notifications](/docs/event-notifications?topic=event-notifications-high-availability) |
 {: caption="Table 14. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} developer tools services" caption-side="bottom"}
 
@@ -233,7 +232,7 @@ The following table describes the service level objectives (SLOs) for the high i
 
 | Integration service | Availability target | High availability guidance |
 |----------|---------|---------|
-| {{site.data.keyword.messagehub}} | 99.999% |  [What do you need to consider to achieve this availability?](/docs/EventStreams?topic=EventStreams-sla#what-do-you-need-to-consider-to-achieve-this-availability-) |
+| {{site.data.keyword.messagehub}} | 99.999% |  [What do you need to consider to achieve this availability?](/docs/EventStreams?topic=EventStreams-sla#sla_availability) |
 | {{site.data.keyword.apiconnect_short}} | 99.999% | [Understanding high availability and disaster recovery for API Connect](/docs/apiconnect?topic=apiconnect-ha-dr) |
 {: caption="Table 16. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} integration services" caption-side="bottom"}
 

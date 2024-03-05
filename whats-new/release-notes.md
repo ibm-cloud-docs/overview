@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2024
 
-lastupdated: "2024-02-20"
+lastupdated: "2024-03-05"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,16 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
+## March 2024
+{: #mar-2024}
+
+### 05 March 2024
+{: #overview-mar0524}
+{: release-note}
+
+Upgrade your Pay-As-You-Go account
+:   You can now create an enterprise from Pay-As-You-Go accounts that signed up with a credit card on cloud.ibm.com. For more information, see [Billing FAQs](/docs/billing-usage?topic=billing-usage-billusagefaqs#paygo-enterprise).
 
 ## February 2024
 {: #feb-2024}

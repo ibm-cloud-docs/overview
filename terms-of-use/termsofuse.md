@@ -5,9 +5,9 @@
 copyright:
 
   years: 2015, 2024
-lastupdated: "2023-12-07"
+lastupdated: "2024-03-05"
 
-keywords: terms of use, IBM Cloud, CSA, Cloud Service Agreement
+keywords: terms of use, IBM Cloud, CSA, Cloud Service Agreement, data egress charges, EU data act
 
 subcollection: overview
 
@@ -48,6 +48,11 @@ The following terms apply to an {{site.data.keyword.cloud}} account and use of t
 {: #baa}
 
 If you or your company is a covered entity as defined by the US Health Insurance Portability and Accountability Act (HIPAA) and intend to order Cloud Services that might process protected health information (PHI), you must accept the {{site.data.keyword.IBM}} Business Associate Addendum (BAA) available at [https://www.ibm.com/support/customer/csol/terms/?cat=baa](https://www.ibm.com/support/customer/csol/terms/?cat=baa){: external}. The BAA can be digitally accepted as described in [Enabling the HIPAA Supported setting](/docs/account?topic=account-enabling-hipaa).
+
+## EU Data Act
+{: #eu-data-act}
+
+If you are a client based in the European Union and are planning to migrate your data out of IBM Cloud, you are entitled to reduced data egress charges under the terms of the EU Data Act (Regulation (EU) 2023/2854). Please contact your IBM or IBM Business Partner representative, or create a new case in the IBM Cloud Support Center for further information and assistance.
 
 ## Legal contact information
 {: #legal-contact-info}

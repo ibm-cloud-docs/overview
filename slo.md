@@ -4,7 +4,7 @@ copyright:
 
   years: 2021, 2024
 
-lastupdated: "2024-01-30"
+lastupdated: "2024-03-05"
 
 keywords: SLO, service level objectives
 
@@ -177,7 +177,7 @@ The following table describes the service level objectives (SLOs) for the high i
 
 | Analytics service | Availability target  | High availability guidance |
 |----------|---------|---------|
-| {{site.data.keyword.iae_full_notm}} | 99.995% | [Overview of IBM Analytics Engine instances](/docs/AnalyticsEngine?topic=AnalyticsEngine-IAE-overview) |
+| {{site.data.keyword.iae_full_notm}} | 99.995% | [High availability and disaster recovery](/docs/AnalyticsEngine?topic=AnalyticsEngine-responsibilities-serverless#disaster-recovery) |
 | {{site.data.keyword.sqlquery_notm}} | 99.999% | [Disaster recovery and backup](/docs/sql-query?topic=sql-query-disaster) |
 {: caption="Table 12. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} analytics services" caption-side="bottom"}
 

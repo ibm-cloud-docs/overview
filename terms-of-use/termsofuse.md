@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2024
-lastupdated: "2024-03-05"
+lastupdated: "2024-03-15"
 
 keywords: terms of use, IBM Cloud, CSA, Cloud Service Agreement, data egress charges, EU data act
 
@@ -54,7 +54,8 @@ If you or your company is a covered entity as defined by the US Health Insurance
 
 If you are a client based in the European Union and are planning to migrate your data out of IBM Cloud, you are entitled to reduced data egress charges under the terms of the EU Data Act (Regulation (EU) 2023/2854). Please contact your IBM or IBM Business Partner representative, or create a new case in the IBM Cloud Support Center for further information and assistance.
 
-## Legal contact information
+
+## Abuse reporting and legal contact information
 {: #legal-contact-info}
 
 For subpoenas or for reporting abuse on {{site.data.keyword.cloud_notm}}, contact the following:
@@ -72,3 +73,12 @@ Abuse abuse@softlayer.com
 {: screen}
 
 \* SoftLayer Inc. is an {{site.data.keyword.IBM_notm}} Company
+
+### Australian Online Safety Act
+{: #australian-online-safety-act}
+
+For residents of Australia, be aware of your additional safety rights:
+
+* [https://www.esafety.gov.au/report](https://www.esafety.gov.au/report){: external}
+* [https://www.onlinesafety.org.au/codes](https://www.onlinesafety.org.au/codes){: external}
+

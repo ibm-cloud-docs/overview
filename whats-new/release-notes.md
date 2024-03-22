@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2024
 
-lastupdated: "2024-03-05"
+lastupdated: "2024-03-21"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -22,6 +22,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ## March 2024
 {: #mar-2024}
+
+### 21 March 2024
+{: #overview-march2124}
+{: release-note}
+
+Increased limits for enterprises
+:   Easily scale your organization and workloads with increased limits on the number of accounts and account groups that you can have in your enterprise. You can have a maximum of 1000 accounts and 500 account groups. For more information, see [Enterprise limitations](/docs/secure-enterprise?topic=secure-enterprise-known-issues#enterprise-limits).
 
 ### 05 March 2024
 {: #overview-mar0524}

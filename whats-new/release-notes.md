@@ -20,6 +20,16 @@ content-type: release-note
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
+## April 2024
+{: #april-2024}
+
+### 02 April 2024
+{: #overview-april0224}
+{: release-note}
+
+Discover your software resources by category
+Software resources that are deployed in your account are now able to be discovered in their associated catalog category. To quickly find your product, you can still take advantage of the console's filtering capabilities.
+
 ## March 2024
 {: #mar-2024}
 

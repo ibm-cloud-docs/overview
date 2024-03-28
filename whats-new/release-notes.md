@@ -28,7 +28,7 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 {: release-note}
 
 Discover your software resources by category
-Software resources that are deployed in your account are now able to be discovered in their associated catalog category. To quickly find your product, you can still take advantage of the console's filtering capabilities.
+:   Software resources that are deployed in your account are now able to be discovered in their associated catalog category. To quickly find your product, you can still take advantage of the console's filtering capabilities.
 
 ## March 2024
 {: #mar-2024}

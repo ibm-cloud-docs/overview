@@ -20,6 +20,19 @@ content-type: release-note
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
+## April 2024
+{: #apr-2024}
+
+### 03 April 2024
+{: #overview-april0324}
+{: release-note}
+
+Projects API v1.0.0
+:   Version 1.0.0 of the projects API is now available. To learn more about the changes that are included in this release, see the [Projects API change log](/docs/secure-enterprise?topic=secure-enterprise-projects-api-change-log&interface=ui#03-apr-2024).
+
+Experimental: Stacking deployable architectures
+:   You can now stack deployable architectures together to create more complex end-to-end scenarios by using either the API or the CLI. To learn more about stacking deployable architectures, see [What is a deployable architecture?](/docs-draft/secure-enterprise?topic=secure-enterprise-understand-module-da&interface=ui#what-is-da)
+
 ## March 2024
 {: #mar-2024}
 

@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2024-02-20",
+  "lastupdated": "2024-04-08",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
   "section_devtools": {
     "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,19 +41,19 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
-        "date": "20 February 2024",
-        "title": "Organize existing resources in your project",
-        "description": "Now, you can use a project to organize resources across accounts. By doing so, your resources remain deployed in their respective accounts, but you gain an at-a-glance view of those resources in your project. Organizing resources is experimental and might change without notice."
+        "date": "03 April 2024",
+        "title": "Projects API v1.0.0 is now available",
+        "description": "A new version of the Projects API is now available."
       },
       {
-        "date": "06 February 2024",
-        "title": "Automatically detect drift in your project",
-        "description": "You can now run daily drift detection scans to identify and override (or adopt) the detected changes. Automatic drift detection is an experimental feature for evaluation or testing purposes."
+        "date": "03 April 2024",
+        "title": "Experimental: Stacking deployable architectures",
+        "description": "You can now stack deployable architectures together to create more complex end-to-end scenarios by using either the API or the CLI."
       },
       {
-        "date": "06 February 2024",
-        "title": "Add references in your project",
-        "description": "It's now easier to link architectures to one another by adding references to inputs or outputs. Add the reference as an input in an architecture that you're configuring, and the value is automatically used for deployment."
+        "date": "21 March 2024",
+        "title": "Increased limits for enterprises",
+        "description": "Easily scale your organization and workloads with increased limits on the number of accounts and account groups that you can have in your enterprise. You can have a maximum of 1000 accounts and 500 account groups."
       }
     ]
   }

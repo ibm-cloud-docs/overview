@@ -1,7 +1,7 @@
 ---
 
 copyright:
-  years: 2021,2024
+  years: 2021, 2024
 lastupdated: "2024-02-26"
 
 keywords: disaster recovery, DR, what is disaster recovery, DR strategy, disaster recovery options, disaster recovery strategy

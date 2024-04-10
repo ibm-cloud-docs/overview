@@ -33,6 +33,13 @@ Projects API v1.0.0
 Experimental: Stacking deployable architectures
 :   You can now stack deployable architectures together to create more complex end-to-end scenarios by using either the API or the CLI. To learn more about stacking deployable architectures, see [What is a deployable architecture?](/docs/secure-enterprise?topic=secure-enterprise-understand-module-da&interface=ui#what-is-da)
 
+### 10 April 2024
+{: #overview-april1024}
+{: release-note}
+
+Discover your software resources by category
+:   Software resources that are deployed in your account are now able to be discovered in their associated catalog category. To quickly find your product, you can still take advantage of the console's filtering capabilities.
+
 ## March 2024
 {: #mar-2024}
 

@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2020, 2023
+  years: 2020, 2024
 
-lastupdated: "2023-01-03"
+lastupdated: "2024-04-29"
 
 keywords: can't access docs, broken link, docs won't display
 
@@ -20,7 +20,7 @@ content-type: troubleshoot
 {: #troubleshoot-docs}
 {: troubleshoot}
 
-If you go to an {{site.data.keyword.cloud}} docs page and the content doesn't display, try searching for the content instead to get you to the right place.
+If you go to an {{site.data.keyword.cloud}} docs page and the content doesn't display, try searching for the content instead to get you to the correct place.
 {: shortdesc}
 
 You click a docs link, select a docs search result, or follow an existing bookmark to the {{site.data.keyword.cloud_notm}} docs, and the following error is displayed.

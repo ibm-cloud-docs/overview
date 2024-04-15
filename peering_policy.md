@@ -25,7 +25,7 @@ Public peering is conducted across a shared network. Peering requests can be acc
 The following are guidelines and some general information for public peering with {{site.data.keyword.Bluemix}}.
 
 - Potential and current peers must have and maintain a valid [PeeringDB.com](https://www.peeringdb.com/){: external} record.
-- Use of the [Internet Routing Registry (IRR)](http://www.irr.net/){: external} is required for prefix filtering.
+- Use of the [Internet Routing Registry (IRR)](https://irr.net/){: external} is required for prefix filtering.
 - Peers must supply a contact with 24x7 availability, such as a Network Operations Center.
 - Peers must not use any form of gateway of last resort or default route that is directed at {{site.data.keyword.Bluemix_notm}}.
 - Peers must provide access to a looking glass or traceroute server to facilitate troubleshooting.

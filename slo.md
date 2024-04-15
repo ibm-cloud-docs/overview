@@ -4,7 +4,7 @@ copyright:
 
   years: 2021, 2024
 
-lastupdated: "2024-03-05"
+lastupdated: "2024-04-15"
 
 keywords: SLO, service level objectives
 
@@ -79,7 +79,7 @@ The following table describes the service level objectives (SLOs) for the vital 
 
 | Storage service | Availability target | Performance target | Performance detail | Data durability target | High availability guidance |
 |----------|---------|---------|---------|---------|---------|
-| {{site.data.keyword.cos_full_notm}} | 99.999% |  |  | 99.999999999% | [Comparison of persistent storage options for single zone clusters](/docs/containers?topic=containers-storage_planning#persistent_storage_overview) |
+| {{site.data.keyword.cos_full_notm}} | 99.999% |  |  | 99.999999999% | [Comparison of persistent storage options for single zone clusters](/docs/containers?topic=containers-storage-plan) |
 | {{site.data.keyword.block_storage_is_short}} | 99.999% | Disk Performance > 90% in 99.9% of the time | [Block storage capacity and performance](/docs/vpc?topic=vpc-capacity-performance#iops-profiles) | 99.99999999999% | [About {{site.data.keyword.block_storage_is_short}}](/docs/vpc?topic=vpc-block-storage-about) |
 {: caption="Table 4. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} storage services" caption-side="bottom"}
 
@@ -210,7 +210,7 @@ The following table describes the service level objectives (SLOs) for the high i
 |----------|---------|---------|
 | {{site.data.keyword.contdelivery_short}} | 99.999% | [High availability and disaster recovery](/docs/ContinuousDelivery?topic=ContinuousDelivery-ha-dr) |
 | {{site.data.keyword.bpfull_notm}} | 99.999% | [High availability](/docs/schematics?topic=schematics-high-availability) |
-| {{site.data.keyword.en_full_notm}}  | 99.99% | [Understanding high availability for Event Notifications](/docs/event-notifications?topic=event-notifications-high-availability) |
+| {{site.data.keyword.en_full_notm}}  | 99.99% | [Understanding high availability for Event Notifications](/docs/event-notifications?topic=event-notifications-en-high-availability) |
 {: caption="Table 14. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} developer tools services" caption-side="bottom"}
 
 ### Logging and monitoring services

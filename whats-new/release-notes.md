@@ -864,7 +864,7 @@ Managing features and other updates to {{site.data.keyword.cloud-shell_notm}}
    For more information, see [IAM roles and actions](/docs/account?topic=account-iam-service-roles-actions#cloudshell-roles).
 :   {{site.data.keyword.cloud-shell_notm}} now uses a Red Hat&trade; Linux&trade; bash shell instead of a x86-64 Ubuntu Linux&trade; bash shell.
 
-   For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}} release notes](/docs/cloud-shell?topic=cloud-shell-release-notes-image).
+   For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}} release notes](/docs/cloud-shell?topic=cloud-shell-release-notes).
 
 
 ### 17 December 2020

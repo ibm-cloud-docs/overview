@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2024-04-24"
+lastupdated: "2024-04-25"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -362,7 +362,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Messages for RabbitMQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Multi Volume Snapshots for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Natural Language Understanding | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Netezza Performance Server |  |  |  |  | 
+| Netezza Performance Server |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Network ACL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | OpenPages | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Partner with Technology Expert Labs | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 

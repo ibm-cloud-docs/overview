@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2024
 
-lastupdated: "2024-03-21"
+lastupdated: "2024-04-29"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -23,6 +23,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 ## April 2024
 {: #apr-2024}
 
+### 10 April 2024
+{: #overview-april1024}
+{: release-note}
+
+Discover your software resources by category
+:   Software resources that are deployed in your account are now able to be discovered in their associated catalog category. To quickly find your product, you can still take advantage of the console's filtering capabilities.
+
 ### 03 April 2024
 {: #overview-april0324}
 {: release-note}
@@ -32,13 +39,6 @@ Projects API v1.0.0
 
 Experimental: Stacking deployable architectures
 :   You can now stack deployable architectures together to create more complex end-to-end scenarios by using either the API or the CLI. To learn more about stacking deployable architectures, see [What is a deployable architecture?](/docs/secure-enterprise?topic=secure-enterprise-understand-module-da&interface=ui#what-is-da)
-
-### 10 April 2024
-{: #overview-april1024}
-{: release-note}
-
-Discover your software resources by category
-:   Software resources that are deployed in your account are now able to be discovered in their associated catalog category. To quickly find your product, you can still take advantage of the console's filtering capabilities.
 
 ## March 2024
 {: #mar-2024}

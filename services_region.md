@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2024-04-30"
+lastupdated: "2024-05-01"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -138,9 +138,9 @@ Services that are hosted globally create resources that operate across multiple 
 | Text to Speech | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Toolchain | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Transit Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
+| VCF as a Service - Cloud Director Site | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| VCF as a Service - Virtual Data Center | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | VMware Solutions | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| VMware as a Service - Site | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| VMware as a Service - Virtual Data Center | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Network Interface for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -265,9 +265,9 @@ Services that are hosted globally create resources that operate across multiple 
 | Text to Speech | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Toolchain | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Transit Gateway | Hosted Globally | Hosted Globally | Hosted Globally | 
+| VCF as a Service - Cloud Director Site |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| VCF as a Service - Virtual Data Center |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | VMware Solutions | Hosted Globally | Hosted Globally | Hosted Globally | 
-| VMware as a Service - Site |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| VMware as a Service - Virtual Data Center |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Network Interface for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -392,9 +392,9 @@ Services that are hosted globally create resources that operate across multiple 
 | Text to Speech | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Toolchain | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Transit Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
+| VCF as a Service - Cloud Director Site |  |  |  |  | 
+| VCF as a Service - Virtual Data Center |  |  |  |  | 
 | VMware Solutions | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| VMware as a Service - Site |  |  |  |  | 
-| VMware as a Service - Virtual Data Center |  |  |  |  | 
 | VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Virtual Network Interface for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Virtual Private Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 

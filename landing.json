@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2024-04-08",
+  "lastupdated": "2024-05-06",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
   "section_devtools": {
     "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,6 +41,11 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
+        "date": "06 May 2024",
+        "title": "Experimental: Stack deployable architectures by using the console",
+        "description": "You can now use the console to stack deployable architectures together to create more complex end-to-end solutions for your organization."
+      },
+      {
         "date": "03 April 2024",
         "title": "Projects API v1.0.0 is now available",
         "description": "A new version of the Projects API is now available."
@@ -49,11 +54,6 @@
         "date": "03 April 2024",
         "title": "Experimental: Stacking deployable architectures",
         "description": "You can now stack deployable architectures together to create more complex end-to-end scenarios by using either the API or the CLI."
-      },
-      {
-        "date": "21 March 2024",
-        "title": "Increased limits for enterprises",
-        "description": "Easily scale your organization and workloads with increased limits on the number of accounts and account groups that you can have in your enterprise. You can have a maximum of 1000 accounts and 500 account groups."
       }
     ]
   }

@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2024
 
-lastupdated: "2024-04-29"
+lastupdated: "2024-05-06"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,16 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
+## May 2024
+{: #may-2024}
+
+### 06 May 2024
+{: #overview-may0624}
+{: release-note}
+
+Experimental: Stack deployable architectures by using the console
+:   Create more complex end-to-end solutions, without editing Terraform, by stacking deployable architectures. To get started, see [Stacking deployable architectures](/docs/secure-enterprise?topic=secure-enterprise-config-stack&interface=ui).
 
 ## April 2024
 {: #apr-2024}

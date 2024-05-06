@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2022
-lastupdated: "2022-03-29"
+  years: 2024
+lastupdated: "2024-05-06"
 
 keywords: rollout
 
@@ -117,6 +117,9 @@ Market-driven classification covers all services other than those specified unde
 The {{site.data.keyword.cloud_notm}} backend services support all of the other services within our deployment units.
 
 {{site.data.keyword.cloud_notm}} services have a set of dependencies that are self-contained within the MZR deployment units. The rest of the service dependencies use global services that are served from cross regional locations. Any solution that is not hosted on an MZR might require an associated MZR that hosts the control plane services.
+
+If you are a current {{site.data.keyword.cloud_notm}} customer and have a non-disclosure agreement with IBM, you can request the service dependency reports by going to [Compliance support](https://www.ibm.com/cloud/compliance?contactmodule){:external} and submitting a request. 
+{: note}
 
 For the key dimensions of compute, storage, networking, and authentication or authorization, we indicate the following dependencies.
 

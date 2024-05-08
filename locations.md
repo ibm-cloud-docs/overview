@@ -30,7 +30,7 @@ The advantage of an MZR is that it provides consistent cloud services across dif
 ### Multizone regions (MZR)
 {: #table-mzr}
 
-Multizone regions (MZRs) offer the highest level of redundancy and availability by leveraging three separate sites within a region, with a minimum distance of at least 1 mile between availability zones and exact distances vary by region. Zone to zone latency can be found in the [network latency dashboards](/docs/vpc?topic=vpc-network-latency-dashboard).
+Multizone regions (MZRs) offer the highest level of redundancy and availability by leveraging three separate sites within a region, with a minimum distance of at least 1 mile between availability zones and exact distances vary by region. Zone-to-zone latency can be found in the [network latency dashboards](/docs/vpc?topic=vpc-network-latency-dashboard).
 
 ![This diagram shows a geography that contains data center buildings that host a multizone region (MZR)](images/mzr.svg){: caption="Figure 1. Multizone region (MZR)" caption-side="bottom"}
 

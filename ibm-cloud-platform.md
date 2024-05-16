@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2024
-lastupdated: "2024-02-15"
+lastupdated: "2024-05-16"
 
 
 keywords: console, platform overview, overview, catalog, IBM Cloud catalog
@@ -98,7 +98,6 @@ See the following table for the list of filters that you can use to search the c
 | Blockchain | Products that facilitate the process of recording transactions and tracking assets in a business network |
 | Compute | Infrastructure resources that serve as the basis for building apps in the cloud |
 | Containers | A standard unit of software that packages up code and all its dependencies so the app runs quickly and reliably from one computing environment to another |
-| Converged infrastructure | A way of structuring an information technology (IT) system by grouping multiple components into a single optimized computing package, components of which may include servers; data storage devices; networking equipment; and software for IT infrastructure management, automation and orchestration |
 | Databases | Products that provide some form of access to a database without the need for setting up physical hardware, installing software, or configuring for performance |
 | Developer tools | Products that support developing, testing, and debugging software |
 | Enterprise applications | Bundle of compatible products that deliver enterprise-grade app solutions for information sharing, automation, and agility |
@@ -193,7 +192,6 @@ The following table lists the filter options you can use when searching the cata
 | Blockchain | Products that facilitate the process of recording transactions and tracking assets in a business network |
 | Compute | Infrastructure resources that serve as the basis for building apps in the cloud |
 | Containers | A standard unit of software that packages up code and all its dependencies so the app runs quickly and reliably from one computing environment to another |
-| Converged infrastructure | A way of structuring an information technology (IT) system by grouping multiple components into a single optimized computing package, components of which may include servers; data storage devices; networking equipment; and software for IT infrastructure management, automation and orchestration |
 | Databases | Products that provide some form of access to a database without the need for setting up physical hardware, installing software, or configuring for performance |
 | Developer tools | Products that support developing, testing, and debugging software |
 | Enterprise applications | Bundle of compatible products that deliver enterprise-grade app solutions for information sharing, automation, and agility |
@@ -293,7 +291,6 @@ The following table lists the filter options that you can use when searching the
 | Blockchain | Products that facilitate the process of recording transactions and tracking assets in a business network |
 | Compute | Infrastructure resources that serve as the basis for building apps in the cloud |
 | Containers | A standard unit of software that packages up code and all its dependencies so the app runs quickly and reliably from one computing environment to another |
-| Converged infrastructure | A way of structuring an information technology (IT) system by grouping multiple components into a single optimized computing package, components of which may include servers; data storage devices; networking equipment; and software for IT infrastructure management, automation and orchestration |
 | Databases | Products that provide some form of access to a database without the need for setting up physical hardware, installing software, or configuring for performance |
 | Developer tools | Products that support developing, testing, and debugging software |
 | Enterprise applications | Bundle of compatible products that deliver enterprise-grade app solutions for information sharing, automation, and agility |

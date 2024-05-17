@@ -22,7 +22,13 @@ toc:
           - ibm-cloud-platform.md
           - platform-cli-api.md
           - prereqs.md
-      - checklist-get-started-cloud.md
+      - topicgroup:
+          label: Getting started checklists
+          topics:
+          - checklist-get-started-cloud.md
+          - checklist-get-started-vpc.md
+          - checklist-get-started-vmware.md
+          - checklist-get-started-cloudnative.md
       - secure-enterprise.md
       - compliance.md
       - data-residency.md
@@ -52,6 +58,7 @@ toc:
           label: Product availability and locations
           topics:
           - services_region.md
+          - services_coming.md
           - topic: locations.md
             navtitle: Locations for resource deployment
           - service-rollout.md
@@ -68,6 +75,7 @@ toc:
               - bcdr-plan.md
               - bcdr-networking.md
               - bcdr-testing.md
+              - bcdr-orchestrator.md
           - slo.md
       - shared-responsibility.md
       - peering_policy.md
@@ -84,6 +92,7 @@ toc:
           - slas.md
           - services_availability.md
           - pricing-adjustments.md
+
   - navgroup:
       id: help
       topics:

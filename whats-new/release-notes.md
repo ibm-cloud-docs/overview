@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2024
 
-lastupdated: "2024-05-06"
+lastupdated: "2024-05-18"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -22,6 +22,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ## May 2024
 {: #may-2024}
+
+### 18 May 2024 
+{: #overview-may1824}
+{: release-note}
+
+Google login and registration
+:   Google is now available for {{site.data.keyword.Bluemix_notm}} login and {{site.data.keyword.Bluemix_notm}} registration. As a non-federated user, you can use your existing Google credentials to securely log in to {{site.data.keyword.Bluemix_notm}} or create a new {{site.data.keyword.Bluemix_notm}} account. [Learn more](/docs/account?topic=account-account-getting-started#signup-google).
 
 ### 06 May 2024
 {: #overview-may0624}

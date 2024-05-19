@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2024-05-18"
+lastupdated: "2024-05-19"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -93,6 +93,7 @@ Services that are hosted globally create resources that operate across multiple 
 | IBM Knowledge Catalog | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | IBM Log Analysis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Match 360 with Watson | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
+| IBM Verify |  |  |  |  | 
 | IBM watsonx Code Assistant | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Instrument Analytics | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
@@ -220,6 +221,7 @@ Services that are hosted globally create resources that operate across multiple 
 | IBM Knowledge Catalog | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | IBM Log Analysis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Match 360 with Watson |  |  |  | 
+| IBM Verify |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | IBM watsonx Code Assistant |  |  |  | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Instrument Analytics |  |  |  | 
@@ -347,6 +349,7 @@ Services that are hosted globally create resources that operate across multiple 
 | IBM Knowledge Catalog |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | IBM Log Analysis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Match 360 with Watson |  |  |  |  | 
+| IBM Verify |  |  |  |  | 
 | IBM watsonx Code Assistant |  |  |  |  | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Instrument Analytics |  |  |  |  | 

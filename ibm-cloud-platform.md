@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2024
-lastupdated: "2024-05-16"
+lastupdated: "2024-05-30"
 
 
 keywords: console, platform overview, overview, catalog, IBM Cloud catalog
@@ -18,7 +18,7 @@ subcollection: overview
 {: #whatis-platform}
 
 The {{site.data.keyword.cloud}} platform combines platform as a service (PaaS) with infrastructure as a service (IaaS) to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on {{site.data.keyword.cloud}} spins up fast and performs reliably in a tested and supported environment you can trust!
-{: .shortdesc}
+{: shortdesc}
 
 {{site.data.keyword.cloud_notm}} provides solutions that enable higher levels of compliance, security, and management, with proven architecture patterns and methods for rapid delivery for running mission-critical workloads. Available in data centers worldwide, with multizone regions in North and South America, Europe, Asia, and Australia, you are enabled to deploy locally with global scalability.
 
@@ -47,6 +47,8 @@ As the following diagram illustrates, the {{site.data.keyword.Bluemix_notm}} pla
 ![Components of the {{site.data.keyword.cloud_notm}} platform.](images/IBM-Cloud-Platform.svg "Diagram showing the major components of the {{site.data.keyword.cloud_notm}} platform"){: caption="Figure 1. Components of the {{site.data.keyword.cloud_notm}} platform" caption-side="bottom"}
 
 Whether you have existing code that you want to modernize and bring to the cloud or you're developing a brand new application, your developers can tap into the rapidly growing ecosystem of available services and runtime frameworks in {{site.data.keyword.Bluemix_notm}}.
+
+
 
 ## Setting up your account
 {: #set-up-account}

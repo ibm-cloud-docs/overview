@@ -30,10 +30,10 @@ Some services are available to purchase in a location, but that service's data m
 
 Services that are hosted globally create resources that operate across multiple locations. For example, with {{site.data.keyword.cos_full_notm}}, you can choose to deploy data in a single data center, or even a combination of locations by selecting the endpoint where your application sends REST API requests. For more information about the global network of locations, see [Locations for resource deployment](https://cloud.ibm.com/docs/overview?topic=overview-locations).
 
+<!--  Everthing above, can be changed, edited, modified in this Markdown file. Everything after, is maintained in the script file -->
+<!--  Do not manually change the table or add content in this table or after this table. -->
 
-
-
-
+<!--  Everything is deleted after this line. -->
 | Service | Dallas | Washington DC | Toronto | Sao Paulo |
 |-----|-----|-----|-----|-----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |
@@ -825,4 +825,3 @@ The following classic infrastructure resources are available in Asia and the Pac
 {: tab-group="Asia Pacific"}
 {: class="comparison-tab-table"}
 {: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
-

@@ -11,7 +11,6 @@ toc:
     product-page: https://ibm.com/cloud
     path: overview
     label: IBM Cloud overview
-
   entries:
   - navgroup:
       id: learn
@@ -30,12 +29,10 @@ toc:
       - csm.md
       - topic: whats-new/release-notes.md
         navtitle: Release notes
-
   - navgroup:
       id: tutorial
       topics:
       - quickstart-lite.md
-
   - navgroup:
       id: howto
       topics:
@@ -44,7 +41,6 @@ toc:
       - key-encryption.md
       - certifications.md
       - feedback.md
-
   - navgroup:
       id: reference
       topics:
@@ -85,7 +81,6 @@ toc:
           - slas.md
           - services_availability.md
           - pricing-adjustments.md
-
   - navgroup:
       id: help
       topics:

@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2024-05-29"
+lastupdated: "2024-05-30"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -30,10 +30,10 @@ Some services are available to purchase in a location, but that service's data m
 
 Services that are hosted globally create resources that operate across multiple locations. For example, with {{site.data.keyword.cos_full_notm}}, you can choose to deploy data in a single data center, or even a combination of locations by selecting the endpoint where your application sends REST API requests. For more information about the global network of locations, see [Locations for resource deployment](https://cloud.ibm.com/docs/overview?topic=overview-locations).
 
-<!-- Everthing above, can be changed, edited, modified in this Markdown file. Everything after, is maintained in the script file -->
-<!-- Do not manually change the table or add content in this table or after this table. -->
 
-<!-- Everything is deleted after this line. -->
+
+
+
 | Service | Dallas | Washington DC | Toronto | Sao Paulo | 
 |-----|-----|-----|-----|-----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 

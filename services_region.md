@@ -826,4 +826,3 @@ The following classic infrastructure resources are available in Asia and the Pac
 {: class="comparison-tab-table"}
 {: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
 
-

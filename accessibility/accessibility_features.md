@@ -3,8 +3,8 @@
 
 
 copyright:
-  years: 2016, 2023
-lastupdated: "2023-04-03"
+  years: 2016, 2024
+lastupdated: "2024-05-31"
 
 keywords: quick keys, accessibility, screen reader
 
@@ -12,8 +12,7 @@ subcollection: overview
 
 ---
 
-{:shortdesc: .shortdesc}
-{:external: target="_blank" .external}
+{{site.data.keyword.attribute-definition-list}}
 
 # Accessibility features for {{site.data.keyword.Bluemix_notm}}
 {: #accessibility-platform}

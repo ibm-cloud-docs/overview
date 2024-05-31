@@ -405,7 +405,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Query |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Watson Studio |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | watsonx Assistant | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| watsonx.data |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| watsonx.data | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | watsonx.governance |  |  |  |  | 
 {: row-headers}
 {: caption="Table 3. Service availability - Asia Pacific" caption-side="top"}

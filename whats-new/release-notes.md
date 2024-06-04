@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2024
 
-lastupdated: "2024-05-18"
+lastupdated: "2024-06-04"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -22,6 +22,15 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ## May 2024
 {: #may-2024}
+
+### 31 May 2024
+{: #overview-may3124}
+{: release-note}
+
+Onboarding software with usage-based pricing plans
+:   In addition to free and bring your own license plans, you can now add usage-based pricing plans to software onboarded with the virtual server image delivery method, offering it as a paid integrated product in the {{site.data.keyword.cloud_notm}} catalog. For more information, see [Adding a usage-based plan](/docs/sell?topic=sell-sw-pricing#sw-pricing-usage-based) and [Onboarding a virtual server image for VPC with a plan](/docs/account?topic=account-working-catalog-vsivpc-tutorial).
+
+   After adding a plan to your software in Partner Center, you can also manage it in your private catalog. This includes adding features, changing the plan’s state, deprecating it, or updating plan details. For more information, see [Managing software plans in catalogs](/docs/account?topic=account-sw-manage-plans).
 
 ### 18 May 2024 
 {: #overview-may1824}

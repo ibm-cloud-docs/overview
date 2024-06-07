@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2024
-lastupdated: "2024-05-30"
+lastupdated: "2024-06-07"
 
 
 keywords: console, platform overview, overview, catalog, IBM Cloud catalog
@@ -84,6 +84,8 @@ And, if you're looking for help in your journey to cloud, check out our professi
 
 The catalog supports command-line interfaces (CLIs) and a RESTful API for you to use to retrieve information about existing products.
 {: tip}
+
+
 
 ### Searching the catalog for services
 {: #catalog-filter-options}

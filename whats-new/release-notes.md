@@ -2,6 +2,7 @@
 copyright:
   years: 2015, 2024
 
+
 lastupdated: "2024-06-04"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
@@ -19,6 +20,8 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
+
 
 ## May 2024
 {: #may-2024}

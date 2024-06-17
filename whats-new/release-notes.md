@@ -18,8 +18,9 @@ content-type: release-note
 # Release notes for the {{site.data.keyword.cloud_notm}} platform
 {: #whatsnew}
 
-Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
+Stay up to date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
 
 
 
@@ -35,7 +36,7 @@ Onboarding software with usage-based pricing plans
 
    After adding a plan to your software in Partner Center, you can also manage it in your private catalog. This includes adding features, changing the plan’s state, deprecating it, or updating plan details. For more information, see [Managing software plans in catalogs](/docs/account?topic=account-sw-manage-plans).
 
-### 18 May 2024 
+### 18 May 2024
 {: #overview-may1824}
 {: release-note}
 

@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2024
-lastupdated: "2024-06-07"
+lastupdated: "2024-06-17"
 
 
 keywords: console, platform overview, overview, catalog, IBM Cloud catalog
@@ -85,6 +85,22 @@ And, if you're looking for help in your journey to cloud, check out our professi
 The catalog supports command-line interfaces (CLIs) and a RESTful API for you to use to retrieve information about existing products.
 {: tip}
 
+
+### Open source offerings
+{: #solutions-open-source}
+
+In addition to the generally available offerings in the {{site.data.keyword.Bluemix_notm}} catalog, you can find additional offerings for deploying and building solutions in the module registry and community registry.
+
+[{{site.data.keyword.IBM_notm}} module registry](/catalog?catalog=2){: external}
+:   Discover modules that work with deployable architectures for your customization and building needs. This is a collection of assets that is separate from the {{site.data.keyword.IBM_notm}} Cloud catalog and is governed and maintained by the process in the [`terraform-ibm-modules`](https://github.com/terraform-ibm-modules) GitHub organization. The modules that you find here meet a specific quality checks, indicated by the Graduated or Stable badge, and are confirmed to work with deployable architectures in the {{site.data.keyword.IBM_notm}} catalog. For more information, see [Badges for modules](https://terraform-ibm-modules.github.io/documentation/#/badge-status){: external}. You can view usage information and one or more runnable examples for each module.  Example's aren't deployable from the module registry, but you can copy the usage code to get started with any module.
+
+[Community registry](/catalog?catalog=community-registry){: external}
+:   This is a collection of real world examples of coded industry solutions to jumpstart your building needs. The collection maintained by the owners of the originating GitHub repository and solutions might change frequently or be discontinued at short notice. Note that these solutions are't supported by the {{site.data.keyword.Bluemix_notm}} Support Center. If you have questions about the solution, you can open an issue in the originating GitHub repository.
+
+The offerings in the module registry and community registry might include the following badges:
+- `TIM Approved` indicates that the solution is sourced in the [`terraform-ibm-modules`](https://github.com/terraform-ibm-modules/) GitHub organization, a collection of {{site.data.keyword.Bluemix_notm}} Terraform modules.
+- `{{site.data.keyword.IBM_notm}} open source` indicates that the solution is sourced in the [`ibm`](https://github.com/ibm) GitHub organization, a collection of open source repositories provided by IBM under the open source software license.
+- `Recommended` indicates that an internal team of experts has reviewed and endorses the offering for solving common or complex cloud use cases.
 
 
 ### Searching the catalog for services

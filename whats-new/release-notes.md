@@ -31,9 +31,11 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 Experimental: Using AI to answer your questions about {{site.data.keyword.cloud_notm}}
 :   Wherever you are working in the {{site.data.keyword.cloud_notm}} console, you can launch the AI assistant to help answer your questions about working in {{site.data.keyword.cloud_notm}}. The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models using IBM's [watsonx](https://www.ibm.com/watsonx){: external}. For more information, see [Getting help from the AI assistant](/docs/overview?topic=overview-ask-ai-assistant).
 
+Changes to {{site.data.keyword.cloud_notm}} projects API method to list all deployed resources
+:   A change was made to the [`project.config.retrieve-resources`](/apidocs/projects#list-config-resources) API method to improve its performance. This change can cause some of the resources to temporarily disappear from the **Resources** tab in your configurations. The resources were not destroyed. Redeploy the configurations to see the resources again.
 
-
-
+Experimental: Project Resources tab
+:   Manage the resources in your project in the new **Resources** tab. You can add existing resources to your project without using a configuration. To get started, see [Adding existing resources to a project](/docs/secure-enterprise?topic=secure-enterprise-organize-resources#add-existing-resources).
 
 ## May 2024
 {: #may-2024}

@@ -37,6 +37,7 @@ toc:
       id: howto
       topics:
       - ui.md
+      - ai-assistant.md
       - private-endpoints.md
       - key-encryption.md
       - certifications.md

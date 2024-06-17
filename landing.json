@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2024-06-04",
+  "lastupdated": "2024-06-17",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
   "section_devtools": {
     "api": "/docs?tab=api-docs&category=platform_services",
@@ -40,6 +40,11 @@
   "section_updates": {
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
+      {
+        "date": "17 June 2024",
+        "title": "Experimental: Using AI to answer your questions about IBM Cloud",
+        "description": "Wherever you are working in the IBM Cloud console, you can launch the AI assistant to help answer your questions about working in IBM Cloud. The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against IBM large language models using IBM's watsonx."
+      },
       
       
       {
@@ -51,11 +56,6 @@
         "date": "15 May 2024",
         "title": "Google login and registration",
         "description": "Google is now available for IBM Cloud login and IBM Cloud registration. As a non-federated user, you can use your existing Google credentials to securely log in to IBM Cloud or create a new IBM Cloud account."
-      },
-      {
-        "date": "06 May 2024",
-        "title": "Experimental: Stack deployable architectures by using the console",
-        "description": "You can now use the console to stack deployable architectures together to create more complex end-to-end solutions for your organization."
       }
     ]
   }

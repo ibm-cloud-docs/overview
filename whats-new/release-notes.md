@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2024-06-04"
+lastupdated: "2024-06-17"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -18,8 +18,19 @@ content-type: release-note
 # Release notes for the {{site.data.keyword.cloud_notm}} platform
 {: #whatsnew}
 
-Stay up to date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
+Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
+## June 2024
+{: #june-2024}
+
+### 17 June 2024
+{: #overview-june1724}
+{: release-note}
+
+Experimental: Using AI to answer your questions about {{site.data.keyword.cloud_notm}}
+:   Wherever you are working in the {{site.data.keyword.cloud_notm}} console, you can launch the AI assistant to help answer your questions about working in {{site.data.keyword.cloud_notm}}. The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models using IBM's [watsonx](https://www.ibm.com/watsonx){: external}. For more information, see [Getting help from the AI assistant](/docs/overview?topic=overview-ask-ai-assistant).
+
 
 
 

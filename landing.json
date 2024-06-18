@@ -46,7 +46,6 @@
         "description": "Wherever you are working in the IBM Cloud console, you can launch the AI assistant to help answer your questions about working in IBM Cloud. The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against IBM large language models using IBM's watsonx."
       },
       
-      
       {
         "date": "31 May 2024",
         "title": "Onboarding software with usage-based pricing plans",

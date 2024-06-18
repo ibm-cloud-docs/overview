@@ -45,7 +45,11 @@
         "title": "Experimental: Using AI to answer your questions about IBM Cloud",
         "description": "Wherever you are working in the IBM Cloud console, you can launch the AI assistant to help answer your questions about working in IBM Cloud. The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against IBM large language models using IBM's watsonx."
       },
-      
+      {
+        "date": "17 June 2024",
+        "title": "Changes to IBM Cloud projects API method to list all deployed resources",
+        "description": "A change was made to the project.config.retrieve-resources API method to improve its performance. This change can cause some of the resources to temporarily disappear from the Resources tab in your configurations."
+      },
       {
         "date": "31 May 2024",
         "title": "Onboarding software with usage-based pricing plans",

@@ -3,7 +3,7 @@
 copyright:
 
   years: 2022, 2024
-lastupdated: "2024-05-16"
+lastupdated: "2024-06-17"
 
 keywords: rollout
 
@@ -118,7 +118,7 @@ The {{site.data.keyword.cloud_notm}} backend services support all of the other s
 
 {{site.data.keyword.cloud_notm}} services have a set of dependencies that are self-contained within the MZR deployment units. The rest of the service dependencies use global services that are served from cross regional locations. Any solution that is not hosted on an MZR might require an associated MZR that hosts the control plane services.
 
-If you are a current {{site.data.keyword.cloud_notm}} customer and have a non-disclosure agreement with IBM, you can request the service dependency reports by going to [Compliance support](https://www.ibm.com/cloud/compliance?contactmodule){:external} and submitting a request. 
+If you are a current {{site.data.keyword.cloud_notm}} customer and have a non-disclosure agreement with IBM, you can request the service dependency reports by going to [Compliance support](/docs/overview?topic=overview-compliance#reports) under PaaS compliance report and submit a request. 
 {: note}
 
 For the key dimensions of compute, storage, networking, and authentication or authorization, we indicate the following dependencies.

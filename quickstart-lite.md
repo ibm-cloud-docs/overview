@@ -1,8 +1,8 @@
 ---
 
 copyright:
-   years: 2021, 2023
-lastupdated: "2023-04-03"
+   years: 2021, 2024
+lastupdated: "2024-06-20"
 
 keywords: get started with IBM Cloud, get started, try for free, lite plan
 
@@ -51,13 +51,8 @@ Create an instance of product that includes a free Lite plan or a Free tier pric
 2. Enter any required information to create the instance.
 3. Click **Create**.
 
-## Check out the tutorials
+## Next steps: Check out the tutorials
 {: #try-solution-tutorials}
 {: step}
 
 Check out our [tutorials for Lite plans](/docs?tab=tutorials&filters=lite-account) for detailed steps about using {{site.data.keyword.Bluemix_notm}} services that provide free Lite plans for you to implement common patterns based on best practices and proven technologies at no cost.
-
-## Next steps
-{: #try-next-steps}
-
-Build your apps! For more information, see the [Getting started tutorial](/docs/apps?topic=apps-getting-started).

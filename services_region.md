@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2024-06-18"
+lastupdated: "2024-06-19"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -59,6 +59,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Cost and Asset Management | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Data Engine (previously SQL Query) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
+| Data Product Hub | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Data Replication | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | DataStage | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Databases for EDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -184,6 +185,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Cost and Asset Management |  |  |  | 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Data Engine (previously SQL Query) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| Data Product Hub |  |  |  | 
 | Data Replication | Hosted Globally | Hosted Globally | Hosted Globally | 
 | DataStage |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Databases for EDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -309,6 +311,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Cost and Asset Management |  |  |  |  | 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Data Engine (previously SQL Query) |  |  |  |  | 
+| Data Product Hub |  |  |  |  | 
 | Data Replication | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | DataStage |  |  |  |  | 
 | Databases for EDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 

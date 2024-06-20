@@ -835,7 +835,7 @@ New catalog filter for Financial Services Validated services
 {: release-note}
 
 {{site.data.keyword.codeenginefull_notm}} is supported as an app deployment type
-:   {{site.data.keyword.codeenginefull}} is now supported as an application deployment type when you use a starter kit in the {{site.data.keyword.cloud_notm}} console. For more information, see the [Develop and deploy an app by using Code Engine](/docs/apps?topic=apps-tutorial-cd-code-engine).
+:   {{site.data.keyword.codeenginefull}} is now supported as an application deployment type when you use a starter kit in the {{site.data.keyword.cloud_notm}} console.
 
    [{{site.data.keyword.codeengineshort}}](/docs/codeengine?topic=codeengine-getting-started) is a fully managed, serverless platform that runs your containerized workloads, including web apps, micro-services, event-driven functions, or batch jobs. {{site.data.keyword.codeengineshort}} even builds container images for you from your source code. Because these workloads are all hosted within the same Kubernetes infrastructure, all of them can seamlessly work together. The {{site.data.keyword.codeengineshort}} experience is designed so that you can focus on writing code and not on the infrastructure that is needed to host it.
 

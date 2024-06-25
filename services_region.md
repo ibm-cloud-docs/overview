@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2024-06-24"
+lastupdated: "2024-06-25"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -244,7 +244,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Portfolio Optimization |  |  |  | 
 | Predictive Market Scenarios |  |  |  | 
 | Public Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Qiskit Runtime |  |  |  | 
+| Qiskit Runtime |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Real-Time Payments |  |  |  | 
 | Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | SSH Key for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 

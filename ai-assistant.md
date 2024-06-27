@@ -39,7 +39,7 @@ During the experimental release, the AI assistant has the following limitations:
 
 * Questions must be limited to 300 characters or less.
 * AI-generated responses are limited to information from the {{site.data.keyword.cloud_notm}} docs and the LLM.
-* Chat history is retained until you clear the local storage in your browser. For example, in Chrome you can clear your chat history by opening the **Customize and control Google Chrome** menu > **More Tools** > **Developer Tools**. Then, expand **Local storage** from the Application section, right-click the **`https://cloud.ibm.com`**, and select **Clear**. Then, refresh the page and your chat history is reset.
+* Chat history is retained until you clear the local storage in your browser. For example, in Chrome you can clear your chat history by opening the **Customize and control Google Chrome** menu > **More Tools** > **Developer Tools**. Then, expand **Local storage** from the Application section, right-click **`https://cloud.ibm.com`**, and select **Clear**. Then, refresh the page and your chat history is reset.
 * Actions like creating resources or making changes within your account can't be completed by the AI assistant.
 * Answers from the previous query and response are not used to answer subsequent queries.
 

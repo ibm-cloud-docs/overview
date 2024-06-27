@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2024
-lastupdated: "2024-06-17"
+lastupdated: "2024-06-27"
 
 keywords: load balancing, global load balancing, HA, DR, high availability, disaster recovery, HA for the platform, high availability for platform, disaster recovery plan, disaster event, zero downtime, workloads, failover, failover design, network resiliency, recovery time objective, recovery point objective
 
@@ -57,7 +57,7 @@ Control plane failures impact only the ability to create, modify, or delete reso
 ### Zonal service independence
 {: #zonal-service}
 
-Zonal services are the services that enable to request instances of the service to be deployed in a specific zone of a multi zone region or a specific data center.
+Zonal services are the services that enable to request instances of the service to be deployed in a specific zone of a multizone region or a specific data center.
 
 These service instances that are deployed in one zone in a region or data center are implemented and operated independently in each zone within a region, without dependencies on components of the services in other zones or data centers. This guarantees that failures in one zone might impact only the instance that is hosted in that zone and do not impact instances on another zone in the same region or in other regions.
 
@@ -142,7 +142,7 @@ The following are services with global control planes, their control plane locat
 | Classic infrastructure resource management | The infrastructure resource management service control plane enables to:  \n * create, update, view, and delete Classic virtual and bare metal servers resources on Classic networks/VLANs \n * create, update, and delete Classic networks/VLANs and Classic network routes or spans between those networks  | * us-south \n * us-east | Primary/Secondary |
 | Public IP address management | Assign new public IP addresses or subnets for Internet/public load balancers, elastic IPs or virtual and bare metal servers resources with public addresses.  | * us-south \n * us-east | Primary/Secondary |
 | IBMid  \n [My IBM](https://www.ibm.com/account/ca/en/){: external} | IBMid service control plane enables to \n * authenticate and authorize the IBMid users log on and other action requests. \n * create, update, view, and delete IBMid user identities.  | * us-south \n * us-east | Primary/Secondary |
-| Private DNS  \n [Private DNS API](/apidocs/dns-svcs#introduction-to-dns-services-api) | IBM Cloud DNS Services allow you to:  \n * create, update, view, and delete e zones that are collections for holding domain names \n * create, update, view, and delete DNS resource records under these zones \n * create, update, view, and delete global load balancers to resolve hostnames to different IP addresses based on location policies.  | * us-south \n * us-east | Primary/Secondary |
+| {{site.data.keyword.dns_short}}  \n [{{site.data.keyword.dns_short}} API](/apidocs/dns-svcs#introduction-to-dns-services-api) | IBM Cloud DNS Services allow you to:  \n * create, update, view, and delete e zones that are collections for holding domain names \n * create, update, view, and delete DNS resource records under these zones \n * create, update, view, and delete global load balancers to resolve hostnames to different IP addresses based on location policies.  | * us-south \n * us-east | Primary/Secondary |
 | Transit Gateway  \n [Transit Gateway API](/apidocs/transit-gateway) | Transit Gateway service control plane enables to  \n * create, update, view, and delete transit gateways to connect VPCs together or with classic infrastructure networks.  \n * attach, detach connections to VPCs or classic infrastructure networks to multiple local gateways and a single global gateway. | * us-south  \n * us-east | Primary/Secondary |
 | Direct Link  \n [Direct Link API](/apidocs/direct_link) | Direct Link service control plane enables to  \n * create, update, view, and delete direct links to connect VPCs or classic infrastructure networks with on-premises networks.  \n * attach, detach connections to on-premises networks to direct links. \n * configure import and export filters for a direct link. | * us-south  \n * us-east | Primary/Secondary |
 | Cloud Object Storage Provisioning | Cloud Object Storage service control plane enables to  \n * create or delete a new Cloud Object Storage bucket with a unique global name in a region.  \n NOTE: All other control plane APIs on Cloud Object Storage buckets are hosted in the same region or geography as the chose region or geography for each Cloud Object Storage bucket. | * us-south  \n * us-east | Primary/Secondary |

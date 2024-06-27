@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024
-lastupdated: "2024-06-17"
+lastupdated: "2024-06-27"
 
 keywords:
 
@@ -26,7 +26,7 @@ The AI assistant is an experimental feature that is available for evaluation and
 
 No matter where you are working in the {{site.data.keyword.cloud_notm}} console, the AI assistant is available to help with your questions about {{site.data.keyword.cloud_notm}}. The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models (LLMs) using [{{site.data.keyword.IBM_notm}}'s watsonx](https://www.ibm.com/watsonx).
 
-You can launch the AI assistant from the {{site.data.keyword.cloud_notm}} console header from the Help menu anytime you want to ask a question, and it follows along with you in the console until you close it. With each question that you ask, source citations from the {{site.data.keyword.cloud_notm}} docs are provided to ensure that you have access to additional information and the ability to verify responses.
+You can launch the AI assistant from the {{site.data.keyword.cloud_notm}} console header from the Help menu anytime you want to ask a question, and it follows along with you in the console until you close it. With each question that you ask, source citations from the {{site.data.keyword.cloud_notm}} docs are provided to ensure that you have access to additional information and the ability to verify responses. The AI assistant supports all [national languages supported by {{site.data.keyword.cloud_notm}}](/docs/overview?topic=overview-language-support), so you can ask your question and get an answer in any of the 10 supported languages.
 
 {{site.data.keyword.cloud_notm}} does not gather any personal identifiable information when you are using the AI feature and it is not connected to or associated with your account. When you query the AI assistant, it is not being trained based on user input and does not associate any queries with your identity or account. {{site.data.keyword.IBM_notm}} endeavors to develop AI in accordance with its published principles of trust and transparency. For more information, see [AI Ethics](https://www.ibm.com/impact/ai-ethics){: external}.
 
@@ -39,7 +39,7 @@ During the experimental release, the AI assistant has the following limitations:
 
 * Questions must be limited to 300 characters or less.
 * AI-generated responses are limited to information from the {{site.data.keyword.cloud_notm}} docs and the LLM.
-* Chat history is retained until you clear the local storage in your browser. For example, in Chrome you can clear your chat history by opening the **Customize and control Google Chrome** menu > **More Tools** > **Developer Tools**. Then, expand **Local storage** from the Application section, right-click the **`https://cloud.ibm.com`**, and select **Clear**. Then, refresh the page and your chat history is reset.
+* Chat history is retained until you clear the local storage in your browser. For example, in Chrome you can clear your chat history by opening the **Customize and control Google Chrome** menu > **More Tools** > **Developer Tools**. Then, expand **Local storage** from the Application section, right-click **`https://cloud.ibm.com`**, and select **Clear**. Then, refresh the page and your chat history is reset.
 * Actions like creating resources or making changes within your account can't be completed by the AI assistant.
 * Answers from the previous query and response are not used to answer subsequent queries.
 
@@ -55,6 +55,12 @@ To help you stay productive, you can get in-context help as you're working in th
 
 Content that is generated in the AI assistant might include mistakes or be incorrect.
 {: important}
+
+### Closing the AI assistant
+{: #close-assistant}
+
+The AI assistant follows along with you in the console until you close it. Click the **Close icon** ![Close chat icon](../icons/close-icon.svg "Close icon") when you're done asking questions. Your history is saved though, so you can see your previous questions and answers the next time you open it.
+
 
 ## Tips for creating effective prompts
 {: #ai-question-tips}

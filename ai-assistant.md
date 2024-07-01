@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024
-lastupdated: "2024-06-27"
+lastupdated: "2024-07-01"
 
 keywords:
 
@@ -59,7 +59,7 @@ Content that is generated in the AI assistant might include mistakes or be incor
 ### Closing the AI assistant
 {: #close-assistant}
 
-The AI assistant follows along with you in the console until you close it. Click the **Close icon** ![Close chat icon](../icons/close-icon.svg "Close icon") when you're done asking questions. Your history is saved though, so you can see your previous questions and answers the next time you open it.
+The AI assistant follows along with you in the console until you close it. Click the **Close chat** icon ![Close chat icon](../icons/close-icon.svg "Close chat") when you're done asking questions. Your history is saved though, so you can see your previous questions and answers the next time you open it.
 
 
 ## Tips for creating effective prompts

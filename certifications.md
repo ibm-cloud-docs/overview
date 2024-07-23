@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2019, 2024
-lastupdated: "2024-04-15"
+lastupdated: "2024-07-23"
 
 keywords: cloud certifications, certifications
 
@@ -31,7 +31,7 @@ Training for all technical roles starts with [IBM Cloud Technical Advocate](http
 ## {{site.data.keyword.cloud_notm}} Professional Architect
 {: #cloud-professional-architect}
 
-As an [IBM Certified Professional Architect](https://www.ibm.com/training/path/ibm-cloud-professional-architect-2023-690){: external} technical professional, you have the skills and knowledge to define and design complex technical solutions for large-scale environments. Extensive course updates reflect the latest technologies and best practices for {{site.data.keyword.cloud_notm}} architecture.
+As an [IBM Certified Professional Architect](https://www.ibm.com/training/path/ibm-cloud-professional-architect-690){: external} technical professional, you have the skills and knowledge to define and design complex technical solutions for large-scale environments. Extensive course updates reflect the latest technologies and best practices for {{site.data.keyword.cloud_notm}} architecture.
 
 ## {{site.data.keyword.cloud_notm}} Advanced Architect
 {: #cloud-advanced-architect}
@@ -51,7 +51,7 @@ As an [IBM Certified Associate Site Reliability Engineer](https://www.ibm.com/tr
 ## {{site.data.keyword.cloud_notm}} Professional Site Reliability Engineer
 {: #cloud-professional-sre}
 
-Advance your skills with [IBM Certified Professional Site Reliability Engineer (SRE) v2](https://www.ibm.com/training/path/ibm-cloud-professional-site-reliability-engineer-sre-v2-353){: external} professional-level training. Renew your understanding of operations, software engineering, and systems administration. And learn the monitoring and incident management tools that are needed to manage enterprise workloads in {{site.data.keyword.cloud_notm}} environments.
+Advance your skills with [IBM Certified Professional Site Reliability Engineer (SRE)](https://www.ibm.com/training/path/ibm-cloud-professional-site-reliability-engineer-sre-353){: external} professional-level training. Renew your understanding of operations, software engineering, and systems administration. And learn the monitoring and incident management tools that are needed to manage enterprise workloads in {{site.data.keyword.cloud_notm}} environments.
 
 ## {{site.data.keyword.cloud_notm}} Security Engineer Specialty
 {: #cloud-security-engineer}
@@ -71,7 +71,7 @@ An [{{site.data.keyword.cloud_notm}} for Financial Services Specialty](https://w
 ## {{site.data.keyword.cloud_notm}} DevSecOps Specialty
 {: #cloud-devsecops}
 
-With an [{{site.data.keyword.cloud_notm}} DevSecOps Specialty 2024](https://www.ibm.com/training/path/ibm-cloud-devsecops-specialty-2024-799){: external} certification, you are able to integrate security in a continuous delivery pipeline and understand how to deploy apps faster and more securely.
+With an [{{site.data.keyword.cloud_notm}} DevSecOps Specialty](https://www.ibm.com/training/path/ibm-cloud-devsecops-specialty-799){: external} certification, you are able to integrate security in a continuous delivery pipeline and understand how to deploy apps faster and more securely.
 
 ## {{site.data.keyword.cloud_notm}} IBM Cloud for VMware Solutions Specialty
 {: #cloud-vmware}

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2021, 2024
-lastupdated: "2024-02-15"
+lastupdated: "2024-07-23"
 
 
 keywords: disaster recovery plan, DR, resilient app, plan for DR, DR objectives
@@ -177,7 +177,6 @@ Here are the basic steps:
 {{site.data.keyword.databases-for}} offers several open source database systems as fully managed services. They are:
 * [{{site.data.keyword.databases-for-postgresql}}](/databases/databases-for-postgresql/create)
 * [{{site.data.keyword.databases-for-enterprisedb}}](/databases/databases-for-enterprisedb/create)
-* [{{site.data.keyword.databases-for-cassandra}}](/databases/databases-for-cassandra/create)
 * [{{site.data.keyword.databases-for-redis}}](/databases/databases-for-redis/create)
 * [{{site.data.keyword.databases-for-elasticsearch}}](/databases/databases-for-elasticsearch/create)
 * [{{site.data.keyword.databases-for-etcd}}](/databases/databases-for-etcd/create)
@@ -188,7 +187,6 @@ All of these services share the same characteristics:
 * For high availability, they are deployed in clusters. Details can be found in the documentation of each service:
    - [{{site.data.keyword.postgresql}}](/docs/databases-for-postgresql?topic=databases-for-postgresql-high-availability#high-availability)
    - [EnterpriseDB](/docs/databases-for-enterprisedb?topic=databases-for-enterprisedb-high-availability)
-   - [DataStax](/docs/databases-for-cassandra?topic=databases-for-cassandra-high-availability)
    - [{{site.data.keyword.redis}}](/docs/databases-for-redis?topic=databases-for-redis-high-availability#high-availability)
    - [ElasticSearch](/docs/databases-for-elasticsearch?topic=databases-for-elasticsearch-high-availability#high-availability)
    - [etcd](/docs/databases-for-etcd?topic=databases-for-etcd-high-availability#high-availability)

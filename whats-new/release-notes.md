@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2024-06-17"
+lastupdated: "2024-07-23"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -433,7 +433,7 @@ Identifying inactive policies
 :   To reduce the number of policies in your account and keep only the minimum access that is necessary for each user, you can now identify the infrequently used access policies on the [Inactive policies](/iam/inactive-policies) page in the console. You can determine whether to remove the inactive policies, or in some cases, you might expect an infrequently used policy. For more information, see [Managing inactive policies](/docs/account?topic=account-iam-audit-policies&interface=ui#iam-audit-policies-list).
 
 Exporting user access reports
-:   Make sure that users have only the access that they need. Export an access policy report for any user in your account to view all of the access policies that they are assigned. For more information, see [Exporting user access policy reports](/docs/account?topic=account-iam-audit-policies&interface=ui#audit-user-access).
+:   Make sure that users have only the access that they need. Export an access policy report for any user in your account to view all of the access policies that they are assigned. For more information, see [Exporting user access policy reports](/docs/account?topic=account-iam-audit-policies&interface=ui#audit-user-access-policies).
 
 ### 22 September 2022
 {: #overview-22sept2022}
@@ -758,7 +758,7 @@ With this new webhook integration, you can easily receive the notifications in a
 
 Service-level discounts for accounts with the Pay as you go with Committed Use billing model
 :   If you have an account with the Pay as you go with Committed Use billing model, you might be eligible to receive service-level discounts. You can apply service-level discounts to commitments in addition to the platform-level discount.
-:   Service-level discounts are provided by {{site.data.keyword.Bluemix_notm}} Sales to customers with the Pay as you go with Committed Use billing model. For more information, see [Service-level discounts](/docs/billing-usage?topic=billing-usage-committed-use#service-discount-commit).
+:   Service-level discounts are provided by {{site.data.keyword.Bluemix_notm}} Sales to customers with the Pay as you go with Committed Use billing model.
 
 
 Support for third-party Operator bundles from {{site.data.keyword.openshiftshort}} registries
@@ -887,7 +887,7 @@ Managing product availability in catalogs by location
 Pay as you go with Committed Use pricing model
 :   Customers with a Subscription account can use the new pricing model, {{site.data.keyword.Bluemix_notm}} Pay as you go with Committed Use. The new pricing model provides you with additional benefits as you navigate and build on {{site.data.keyword.Bluemix_notm}}.
 
-   With this pricing model, you commit to spend a certain amount and receive discounts across the entire platform. You are billed monthly based on your usage, and unlike a subscription, you continue to receive a discount even after you reach your committed amount. For more information, see [Pay as you go with Committed Use pricing model](/docs/account?topic=account-committed-use).
+   With this pricing model, you commit to spend a certain amount and receive discounts across the entire platform. You are billed monthly based on your usage, and unlike a subscription, you continue to receive a discount even after you reach your committed amount. For more information, see [Pay as you go with Committed Use pricing model](/docs/billing-usage?topic=billing-usage-committed-use).
 
 ## December 2020
 {: #overview-dec-2020}
@@ -997,7 +997,7 @@ Enhanced Support Center
 Managing {{site.data.keyword.cloud-shell_notm}} settings and other updates to {{site.data.keyword.cloud-shell_notm}}
 :   Account owners or users with {{site.data.keyword.cloud-shell_short}} administrator access can manage {{site.data.keyword.cloud-shell_short}} settings from the {{site.data.keyword.cloud_notm}} console. For more information, see [Updating {{site.data.keyword.cloud-shell_short}} settings](/docs/account?topic=account-shell-settings).
 
-   For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}} release notes](/docs/cloud-shell?topic=cloud-shell-release-notes-image).
+   For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}} release notes](/docs/cloud-shell?topic=cloud-shell-release-notes).
 
 Restricting account access by using IAM account settings
 :   For increased control over which users can access your account and work with API keys and service IDs, leverage the three new settings that are available on the **Manage** > **Access (IAM)** > **Settings** page in the console.
@@ -1043,7 +1043,7 @@ Introducing {{site.data.keyword.compliance_short}}
 Increased usage quota and other updates to {{site.data.keyword.cloud-shell_notm}}
 :   With this update to {{site.data.keyword.cloud-shell_notm}}, the weekly usage quota was increased from 30 hours a week to 50 hours a week so that you can use {{site.data.keyword.cloud-shell_short}} even more. Also, {{site.data.keyword.cloud-shell_short}} was changed to have separate workspaces for each user and account, whereas previously each user's workspace was shared across all of their accounts. In your sessions, you'll also now have access to more command-line tools with the addition of the Operator SDK for Kubernetes, the Mercurial source content management tool, and the Bazaar version control system, as well as updates to existing tools.
 
-   For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}} release notes](/docs/cloud-shell?topic=cloud-shell-release-notes-image).
+   For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}} release notes](/docs/cloud-shell?topic=cloud-shell-release-notes).
 
 
 ### 10 August 2020
@@ -1155,7 +1155,7 @@ New features and multi-region support for {{site.data.keyword.cloud-shell_notm}}
    * Usage timeouts were changed to extend how long you can leave your sessions idle before they're closed. And, there's no longer a time limit on continuous usage.
    * An update to the server image adds the GNU Automake (`automake`) and GNU Compiler Collection (`gcc`, `gcov`, and `gcov-tool`) tools to your sessions.
 
-   For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}} release notes](/docs/cloud-shell?topic=cloud-shell-release-notes-image).
+   For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}} release notes](/docs/cloud-shell?topic=cloud-shell-release-notes).
 
 
 ## March 2020

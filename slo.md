@@ -4,7 +4,7 @@ copyright:
 
   years: 2021, 2024
 
-lastupdated: "2024-04-15"
+lastupdated: "2024-07-23"
 
 keywords: SLO, service level objectives
 
@@ -190,7 +190,6 @@ The following table describes the service level objectives (SLOs) for the high i
 | Databases service | Availability target | Performance detail | Storage back end used for data | Storage back end used for backups | High availability guidance |
 |----------|---------|---------|---------|---------|---------|
 | {{site.data.keyword.databases-for-mongodb_full_notm}} | 99.999% | [Performance](/docs/databases-for-mongodb?topic=databases-for-mongodb-performance) | Block Storage | Object Storage | [Understanding high availability and disaster recovery for Cloud Databases](/docs/databases-for-mongodb?topic=databases-for-mongodb-ha-dr) |
-| {{site.data.keyword.databases-for-cassandra_full_notm}} | 99.999% | [Performance](/docs/databases-for-cassandra?topic=databases-for-cassandra-performance) |Block Storage | [Object Storage](/docs/databases-for-cassandra?topic=databases-for-cassandra-security-compliance#security-compliance-dr)  | [High-Availability](/docs/databases-for-cassandra?topic=databases-for-cassandra-high-availability) |
 | {{site.data.keyword.databases-for-redis_full_notm}} | 99.999% |[Performance](/docs/databases-for-redis?topic=databases-for-redis-performance) | Block Storage | [Object Storage](/docs/databases-for-redis?topic=databases-for-redis-security-compliance#data-resilience) | [High-Availability](/docs/databases-for-redis?topic=databases-for-redis-high-availability) |
 | {{site.data.keyword.databases-for-elasticsearch_full_notm}} | 99.999% | [Performance](/docs/databases-for-elasticsearch?topic=databases-for-elasticsearch-performance) | Block Storage | Object Storage | [High-Availability](/docs/databases-for-elasticsearch?topic=databases-for-elasticsearch-high-availability) |
 | {{site.data.keyword.messages-for-rabbitmq_full_notm}} | 99.999% |[Performance](/docs/messages-for-rabbitmq?topic=messages-for-rabbitmq-performance) | Block Storage | [Object Storage](/docs/messages-for-rabbitmq?topic=messages-for-rabbitmq-security-compliance#data-resilience) | [High-Availability](/docs/messages-for-rabbitmq?topic=messages-for-rabbitmq-high-availability) |

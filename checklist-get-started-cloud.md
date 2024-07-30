@@ -18,7 +18,7 @@ subcollection: overview
 Use these onboarding checklists to create and configure your {{site.data.keyword.cloud}} account. This guide is intended to help you quickly navigate the available documentation to get your account set up, secure your cloud resources, track costs and billing, set up on-premises cloud connectivity, and help you efficiently meet your business needs in your {{site.data.keyword.cloud_notm}} account.
 {: shortdesc}
 
-Download the single page [{{site.data.keyword.cloud_notm}} Quick Start Guide](https://cloud.ibm.com/media/docs/downloads/overview/ibm-cloud-onboarding.pptx){: external} to share a consolidated version of this checklist within your organization to help accelerate migrating  workloads to {{site.data.keyword.cloud_notm}}.
+Download the single page [{{site.data.keyword.cloud_notm}} Quick Start Guide](https://cloud.ibm.com/media/docs/downloads/overview/ibm-cloud-onboarding.pdf){: external} to share a consolidated version of this checklist within your organization to help accelerate migrating  workloads to {{site.data.keyword.cloud_notm}}.
 {: tip}
 
 ## Explore the platform

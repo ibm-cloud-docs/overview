@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2023
-lastupdated: "2023-12-12"
+lastupdated: "2024-07-23"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -1632,6 +1632,12 @@ The number of resources that can be consumed at an account or service instance l
 
 A crash fault tolerant ordering service implementation based on the etcd library of the Raft protocol. Raft follows a leader-and-follower model, where a leader node is elected per channel, and its decisions are replicated by the followers.
 
+### RAG
+{: #x10299280}
+
+See [retrieval augmented generation](#x10299275).
+
+
 ### read-mostly
 {: #x7470468}
 
@@ -1702,6 +1708,11 @@ The environment, and constraints, in which contained resource instances adhere t
 
 See [Representational State Transfer](#x3220976).
 
+
+### retrieval augmented generation (RAG)
+{: #x10299275}
+
+A technique in which a large language model is augmented with knowledge from external sources to generate text. In the retrieval step, relevant documents from an external source are identified from the user’s query. In the generation step, portions of those documents are included in the LLM prompt to generate a response grounded in the retrieved documents.
 
 ### role
 {: #x2065412}
@@ -1781,7 +1792,7 @@ A grouping of resources that can be validated or evaluated for security and comp
 ### secret
 {: #x2789492}
 
-A type of sensitive information, such as a password or an API key, that is used by an application to access a protected resource. See also [dynamic secret](#x9968958).
+Sensitive information, such as a password or an API key, that is used by an application to access a protected resource. See also [dynamic secret](#x9968958).
 
 ### secret group
 {: #x9968962}

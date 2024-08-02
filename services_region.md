@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2024-07-30"
+lastupdated: "2024-08-02"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -152,6 +152,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Studio | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Workspace for Power Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | watsonx Assistant | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| watsonx Orchestrate | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | watsonx.data | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | watsonx.governance | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 {: row-headers}
@@ -280,6 +281,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Studio | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Workspace for Power Virtual Server |  |  |  | 
 | watsonx Assistant | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| watsonx Orchestrate |  |  |  | 
 | watsonx.data | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | watsonx.governance |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 {: row-headers}
@@ -408,6 +410,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Studio |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Workspace for Power Virtual Server |  |  |  |  | 
 | watsonx Assistant | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| watsonx Orchestrate |  |  |  |  | 
 | watsonx.data | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | watsonx.governance |  |  |  |  | 
 {: row-headers}

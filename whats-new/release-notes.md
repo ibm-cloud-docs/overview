@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2024-08-01"
+lastupdated: "2024-08-09"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -21,7 +21,18 @@ content-type: release-note
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
+## August 2024
+{: #august-2024}
 
+### 07 August 2024
+{: #overview-august1724}
+{: release-note}
+
+Experimental: Access resources from the Resources tab
+:   A link to resources is now available from the **Resources** tab in a project. If the resource exists in a different account, the console automatically switches to that account if you have access to it. If you don't have access to that account, the console displays an error message.
+
+View counts for all resources in the resource summary widget
+:   The resource summary widget for a project now shows resource counts for all resources in a project by default. The **All resources** option in the widget's menu is selected by default. To view resource counts for a specific configuration, select that configuration from the menu.
 
 ## June 2024
 {: #june-2024}

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2021
-lastupdated: "2021-11-17"
+lastupdated: "2024-08-14"
 
 keywords: disaster recovery network, network aspects for DR, DR network, business continuity network considerations, disaster recovery network design
 
@@ -202,4 +202,3 @@ Disaster recovery tests will be run on a new set of on-demand dynamic provisione
 For an emergency, compute can be provisioned on demand leveraging dynamic provisioning, subject to verification that provisioning time allows to meet the RTO of the applications or can be pre-provisioned and in stand-by mode, eventually.
 
 If your backup data retention timeframe is very short, you might still use the cloud native backup functions. Be aware that when moving the workloads on a new cloud, you need to keep the old workload installed on the previous cloud for the retention period, in case you need to recover an application data.
-

@@ -24,7 +24,7 @@ subcollection: overview
 The following table lists the products that {{site.data.keyword.IBM}} will not withdraw support for before the indicated date, unless a functional equivalent is provided.
 
 | Name | Continued support through |
-| ------------- | -------------------------- | 
+| ------------- | -------------------------- |
 | {{site.data.keyword.appid_short}} | 2026-12-31 |
 | {{site.data.keyword.cloudant}} | 2026-12-31 |
 | {{site.data.keyword.openwhisk_short}} | 2026-12-31 |

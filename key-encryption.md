@@ -2,7 +2,7 @@
 
 copyright:
   years: 2021, 2024
-lastupdated: "2023-01-04"
+lastupdated: "2024-08-14"
 
 keywords: byok, kyok, key encryption, data encryption, keep your own key, bring your own key, encryption at rest, encryption in transit, data at rest, data in transit
 
@@ -12,7 +12,7 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Encrypting data with your own keys 
+# Encrypting data with your own keys
 {: #key-encryption}
 
 {{site.data.keyword.cloud}} encrypts all data in transit and at rest. Additionally, you can configure {{site.data.keyword.cloud_notm}} services to encrypt your data at rest with your own keys, and then monitor the events around the lifecycle of the encryption keys with {{site.data.keyword.cloudaccesstraillong}}.
@@ -23,12 +23,12 @@ subcollection: overview
 ## Bring your own keys
 {: #byok-overview}
 
-Many {{site.data.keyword.cloud_notm}} services support data encryption by using customer-managed keys, also known as bring your own key (BYOK). The most common use case for BYOK is using {{site.data.keyword.keymanagementservicelong}} to [bring your encryption keys to the cloud](/docs/key-protect?topic=key-protect-importing-keys). {{site.data.keyword.keymanagementserviceshort}} is a multi-tenant service using FIPS 140-2 Level 3 HSM. For a list of services that can be integrated with {{site.data.keyword.keymanagementserviceshort}}, see [Integrating services](/docs/key-protect?topic=key-protect-integrate-services). 
+Many {{site.data.keyword.cloud_notm}} services support data encryption by using customer-managed keys, also known as bring your own key (BYOK). The most common use case for BYOK is using {{site.data.keyword.keymanagementservicelong}} to [bring your encryption keys to the cloud](/docs/key-protect?topic=key-protect-importing-keys). {{site.data.keyword.keymanagementserviceshort}} is a multi-tenant service using FIPS 140-2 Level 3 HSM. For a list of services that can be integrated with {{site.data.keyword.keymanagementserviceshort}}, see [Integrating services](/docs/key-protect?topic=key-protect-integrate-services).
 
 ## Keep your own keys
 {: #kyok-overview}
 
-{{site.data.keyword.cloud_notm}} also provides {{site.data.keyword.cloud_notm}} {{site.data.keyword.hscrypto}}, which is a dedicated key management service and hardware security module (HSM). {{site.data.keyword.hscrypto}} features keep your own key (KYOK) encryption capabilities backed by FIPS 140-2 Level 4 certification. With this option, it makes the {{site.data.keyword.IBM_notm}} public cloud the industry's most secure and open public cloud for business. For a list of services that can be integrated with {{site.data.keyword.hscrypto}}, see [Integrating {{site.data.keyword.cloud_notm}} services with {{site.data.keyword.hscrypto}}](/docs/hs-crypto?topic=hs-crypto-integrate-services).  
+{{site.data.keyword.cloud_notm}} also provides {{site.data.keyword.cloud_notm}} {{site.data.keyword.hscrypto}}, which is a dedicated key management service and hardware security module (HSM). {{site.data.keyword.hscrypto}} features keep your own key (KYOK) encryption capabilities backed by FIPS 140-2 Level 4 certification. With this option, it makes the {{site.data.keyword.IBM_notm}} public cloud the industry's most secure and open public cloud for business. For a list of services that can be integrated with {{site.data.keyword.hscrypto}}, see [Integrating {{site.data.keyword.cloud_notm}} services with {{site.data.keyword.hscrypto}}](/docs/hs-crypto?topic=hs-crypto-integrate-services).
 
 ## Auditing the lifecycle of your keys
 {: #key-auditing}
@@ -39,4 +39,3 @@ See [Provisioning an instance](/docs/activity-tracker?topic=activity-tracker-pro
 
 * [{{site.data.keyword.cloudaccesstraillong_notm}} events for {{site.data.keyword.keymanagementserviceshort}}](/docs/key-protect?topic=key-protect-at-events)
 * [{{site.data.keyword.cloudaccesstraillong_notm}} events for {{site.data.keyword.hscrypto}}](/docs/hs-crypto?topic=hs-crypto-at-events)
-

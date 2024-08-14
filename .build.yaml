@@ -1,3 +1,6 @@
+includes:
+  - https://github.ibm.com/cloud-docs/vpc
+
 translation:
   exclude:
     byFilePath:

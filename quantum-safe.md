@@ -37,4 +37,4 @@ For cloud native apps, TLS connections are quantum safe enabled with a custom in
 ## Authentication
 {: #auth}
 
-A high-security version of round 2 Dilithium digital signatures in {{site.data.keyword.hscrypto}} is primarily used for data integrity, authenticity, and non-repudiation. See [Post-quantum cryptography support](/docs/hs-crypto?topic=hs-crypto-grep11-intro#grep11-support-post-quantum) for more details. 
+A high-security version of round 2 Dilithium digital signatures in {{site.data.keyword.hscrypto}} is primarily used for data integrity, authenticity, and non-repudiation. See [Post-quantum cryptography support](/docs/hs-crypto?topic=hs-crypto-what-new#hs-crypto-8june2022) for more details. 

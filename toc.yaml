@@ -26,6 +26,7 @@ toc:
       - compliance.md
       - data-residency.md
       - security.md
+      - quantum-safe.md
       - csm.md
       - topic: whats-new/release-notes.md
         navtitle: Release notes

@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2024-08-21"
+lastupdated: "2024-08-22"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -34,7 +34,7 @@ Services that are hosted globally create resources that operate across multiple 
 
 
 
-| Service | Dallas | Washington DC | Toronto | Sao Paulo | 
+| Service | Dallas (`us-south`) | Washington DC (`us-east`) | Toronto (`ca-tor`) | Sao Paulo (`br-sao`) | 
 |-----|-----|-----|-----|-----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
@@ -163,7 +163,7 @@ Services that are hosted globally create resources that operate across multiple 
 {: class="simple-tab-table"}
 {: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
 
-| Service | London | Frankfurt | Madrid | 
+| Service | London (`eu-gb`) | Frankfurt (`eu-de`) | Madrid (`eu-es`) | 
 |----|----|----|----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Analytics Engine |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -292,7 +292,7 @@ Services that are hosted globally create resources that operate across multiple 
 {: class="simple-tab-table"}
 {: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
 
-| Service | Sydney | Tokyo | Osaka | Chennai | 
+| Service | Sydney (`au-syd`) | Tokyo (`jp-tok`) | Osaka (`jp-osa`) | Chennai (`in-che`) | 
 |-----|-----|-----|-----|-----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Analytics Engine |  |  |  |  | 

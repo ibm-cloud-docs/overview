@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024
-lastupdated: "2024-08-19"
+lastupdated: "2024-08-22"
 
 keywords:
 
@@ -60,7 +60,7 @@ Content that is generated in the AI assistant might include mistakes or be incor
 
 All of the questions that you ask and the generated answers for each are retained in the AI assistant window until you decide that you want to clear the history. To clear the history, open the AI assistant, and then click the ![Open Menu icon](../icons/icon_hamburger.svg "Open menu") > **Clear history** option.
 
-### Closing the AI assistant
+### Closing the chat
 {: #close-assistant}
 
 The AI assistant follows along with you in the console until you close it. Click the **Close chat** icon ![Close chat icon](../icons/close-icon.svg "Close chat") when you're done asking questions. Your history is saved though, so you can see your previous questions and answers the next time that you open it.

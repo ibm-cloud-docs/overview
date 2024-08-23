@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2024-08-22"
+lastupdated: "2024-08-23"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -34,7 +34,11 @@ Services that are hosted globally create resources that operate across multiple 
 
 
 
-| Service | Dallas (`us-south`) | Washington DC (`us-east`) | Toronto (`ca-tor`) | Sao Paulo (`br-sao`) | 
+| Service | Dallas  
+(`us-south`) | Washington DC  
+(`us-east`) | Toronto  
+(`ca-tor`) | Sao Paulo  
+(`br-sao`) | 
 |-----|-----|-----|-----|-----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
@@ -140,7 +144,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Transit Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | VCF as a Service - Cloud Director Site | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | VCF as a Service - Virtual Data Center | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| VMware Cloud Foundation | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
+| VMware Solutions | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Network Interface for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -163,7 +167,10 @@ Services that are hosted globally create resources that operate across multiple 
 {: class="simple-tab-table"}
 {: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
 
-| Service | London (`eu-gb`) | Frankfurt (`eu-de`) | Madrid (`eu-es`) | 
+| Service | London  
+(`eu-gb`) | Frankfurt  
+(`eu-de`) | Madrid  
+(`eu-es`) | 
 |----|----|----|----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Analytics Engine |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -269,7 +276,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Transit Gateway | Hosted Globally | Hosted Globally | Hosted Globally | 
 | VCF as a Service - Cloud Director Site |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | VCF as a Service - Virtual Data Center |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| VMware Cloud Foundation | Hosted Globally | Hosted Globally | Hosted Globally | 
+| VMware Solutions | Hosted Globally | Hosted Globally | Hosted Globally | 
 | VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Network Interface for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -292,7 +299,11 @@ Services that are hosted globally create resources that operate across multiple 
 {: class="simple-tab-table"}
 {: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
 
-| Service | Sydney (`au-syd`) | Tokyo (`jp-tok`) | Osaka (`jp-osa`) | Chennai (`in-che`) | 
+| Service | Sydney  
+(`au-syd`) | Tokyo  
+(`jp-tok`) | Osaka  
+(`jp-osa`) | Chennai  
+(`in-che`) | 
 |-----|-----|-----|-----|-----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Analytics Engine |  |  |  |  | 
@@ -304,7 +315,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Block Storage for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Client VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Cloud Activity Tracker | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Cloud Logs |  |  |  |  | 
+| Cloud Logs | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Cloud Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Cloudant | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -398,7 +409,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Transit Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | VCF as a Service - Cloud Director Site |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | VCF as a Service - Virtual Data Center |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| VMware Cloud Foundation | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
+| VMware Solutions | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Virtual Network Interface for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Virtual Private Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 

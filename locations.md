@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2024
-lastupdated: "2024-07-03"
+lastupdated: "2024-08-27"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -195,7 +195,7 @@ Depending on the type of resource, you might be interested in only specific type
 
 For example, if you have resources that are deployed in the London 2 (eu-gb-2) zone, you can set filters to display only those resources in your resource list. Expand the **London** metro option, and the **London (eu-gb)** region option. Within that region, you can select from the list of available zones, such as **London 2 (eu-gb-2)**. If you have a classic infrastructure resource that is deployed in a specific data center, you can identify the data center by the specific metro location and alphanumeric code. For example, use **Dallas** for the metro location and then **Dallas 10 (dal10)** for the data center.
 
-
+You can also view resources that are deployed in Satellite locations, which are managed by an {{site.data.keyword.Bluemix_notm}} metro or region and determines where the master of your Satellite control plane runs. For example, you might have a Satellite location that's managed by the Dallas metro. Expand the **Dallas** metro option, which includes your Satellite location, like `my-satellite-dal`. For more information about the metros and regions that manage Satellite locations, see [Regions](/docs/satellite?topic=satellite-sat-regions).
 
 You might also want to display your resources that are located globally. The **Global** option means that only one logical, globally accessible instance of the service, independent of any region or zone, is published to customer applications. These types of resources are accessible from a global endpoint.
 

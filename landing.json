@@ -40,7 +40,6 @@
   "section_updates": {
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
-      
       {
         "date": "07 August 2024",
         "title": "Experimental: Access resources from the Resources tab",
@@ -55,7 +54,7 @@
         "date": "17 June 2024",
         "title": "Experimental: Using AI to answer your questions about IBM Cloud",
         "description": "Wherever you are working in the IBM Cloud console, you can launch the AI assistant to help answer your questions about working in IBM Cloud. The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against IBM large language models using IBM's watsonx."
-      },
+      }
     ]
   }
 }

@@ -3,7 +3,7 @@
 
 copyright:
   years: 2023, 2024
-lastupdated: "2024-02-29"
+lastupdated: "2024-09-03"
 
 published-location: https://cloud.ibm.com/docs/overview?topic=overview-price-adjustments
 
@@ -15,12 +15,151 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-
-# 2024 price changes
+# {{site.data.keyword.cloud_notm}} price changes
 {: #price-adjustments}
 
-The following page outlines the 2024 price changes for {{site.data.keyword.cloud}}.
+The following page outlines the price changes for {{site.data.keyword.cloud}}.
 {: shortdesc}
+
+## January 2025 price changes
+{: #jan-2025}
+
+Effective 1 January 2025, {{site.data.keyword.cloud_notm}} is making price changes for IaaS and PaaS services, {{site.data.keyword.cos_full_notm}}, R1Soft Backup Service, {{site.data.keyword.sysdigsecure_full_notm}} Cloud Security Posture Management, and {{site.data.keyword.keymanagementservicelong_notm}}. See the following sections for additional details.
+
+### IaaS data center location premium changes
+{: #iaas-adjustments-jan-2025}
+
+Location premiums for most non-US multizone regions (MZRs) will remain unchanged. The premium for Sao Paulo will increase by 3 percentage points.
+
+| MZR Locations| Data Centers |Current Location Premium | New Location Premium | Effective Increase |
+|-------|------|-------|-------|-------|
+| Dallas| DAL10, DAL12, DAL13, DAL14 | 0% | 0% | No increase |
+| Washington DC | WDC04, WDC06, WDC07 | 0% | 0% | No increase |
+| Toronto | TOR01, TOR04, TOR05 |6% | 6% | No increase |
+| London | LON04, LON05, LON06 | 13% | 13% | No increase |
+| Frankfurt | FRA02, FRA04, FRA05 | 16% | 16% | No increase |
+| Madrid | MAD02, MAD04, MAD05 | 16% | 16% | No increase |
+| Tokyo | TOK02, TOK04, TOK05 | 20% | 20% | No increase |
+| Sydney | SYD01, SYD04, SYD05 | 20% | 20% | No increase |
+| Sao Paulo | SAO01, SAO04, SAO05 | 29% | 32% | 2.3% |
+{: caption="Table 1. IaaS MZR location premium changes" caption-side="top"}
+
+
+Location premiums for data centers will increase as follows:
+
+| SZR Data Center | Current Location Premium | New Location Premium | Effective Increase |
+|-------|-------|-------|-------|
+| DAL05 | 0% | 6% | 6% |
+| DAL08 | 11% | 11% | No increase |
+| DAL09 | 0% | 6% | 6.0% |
+| SJC01 | 0% | 6% | 6.0% |
+| SJC03 | 0% | 6% | 6.0% |
+| SJC04 | 0% | 6% | 6.0% |
+| WDC03 | 11% | 11% | No increase |
+| AMS03 | 6% | 13% | 6.6% |
+| MON01 | 6% | 13% | 6.6% |
+| LON02 | 13% | 20% | 6.2% |
+| MIL01 | 16% | 22% | 5.2% |
+| PAR01 | 16% | 22% | 5.2% |
+| CHE01 | 20% | 20% | No increase |
+| SNG01 | 20% | 20% | No increase |
+{: caption="Table 2. IaaS SZR location premium changes" caption-side="top"}
+
+Existing VMware, {{site.data.keyword.powerSys_notm}} (incl. SAP on {{site.data.keyword.powerSys_notm}}), HPC, and SAP deployments made before 1 January 2025 will be exempt from these increases and prices will remain unchanged.
+{: note}
+
+
+### PaaS data center location premium changes
+{: #paas-adjustments-jan-2025}
+
+PaaS services will adopt the same location premiums as IaaS services shown in the previous section.
+
+**Excluded** from this change are the following services:
+- {{site.data.keyword.containerlong_notm}} and {{site.data.keyword.openshiftlong_notm}}
+- {{site.data.keyword.logs_full_notm}}
+- {{site.data.keyword.cloudaccesstraillong_notm}} (deprecated)
+- {{site.data.keyword.loganalysislong_notm}} (deprecated)
+- {{site.data.keyword.monitoringlong_notm}}
+- {{site.data.keyword.databases-for-elasticsearch_full_notm}}
+- {{site.data.keyword.databases-for-enterprisedb_full_notm}}
+- {{site.data.keyword.databases-for-etcd_full_notm}}
+- {{site.data.keyword.databases-for-mongodb_full_notm}}
+- {{site.data.keyword.databases-for-mysql_fullnotm}}
+- {{site.data.keyword.databases-for-postgresql_full_notm}}
+- {{site.data.keyword.databases-for-redis_full_notm}}
+- {{site.data.keyword.messages-for-rabbitmq_full_notm}}
+
+**Included** in this change are the following services:
+- {{site.data.keyword.appconfig_full}}
+- {{site.data.keyword.appid_full_notm}}
+- {{site.data.keyword.cloudant_short_notm}}
+- {{site.data.keyword.codeenginefull_notm}}
+- {{site.data.keyword.registrylong_notm}}
+- IBM Cloud Continuous Delivery
+- {{site.data.keyword.en_full_notm}}
+- {{site.data.keyword.satellitelong_notm}}
+- {{site.data.keyword.keymanagementservicelong_notm}}
+- IBM Event Streams for IBM Cloud
+- {{site.data.keyword.secrets-manager_full_notm}}
+- {{site.data.keyword.compliance_long}}
+- {{site.data.keyword.sysdigsecure_full_notm}}
+
+
+### {{site.data.keyword.cos_full_notm}}
+{: #cos-adjustments-jan-2025}
+
+{{site.data.keyword.cos_short}} will introduce charges for Aspera high-speed uploads, and adopt new, simpler, flat, and consistent charges for high-speed downloads:
+
+| Transfer | Current Charges | 2025 Charges - EU/UK/US/Japan | 2025 Charges - All Other Regions |
+|--------|--------|--------|--------|
+| High-speed uploads | $0.00 | 10GB free/month \n 10GB+ $0.04/GB/month | 10GB free/month \n 10GB+ $0.08/GB/month |
+| High-speed downloads | 0-50TB  $0.0836/GB \n Next 100TB $0.0627/GB \n 150TB+ $0.0418/GB | 10GB free/month \n 10GB+ $0.04/GB/month | 10GB free/month \n 10GB+ $0.08/GB/month |
+{: caption="Table 3. New {{site.data.keyword.cos_short}} high-speed data transfer charges." caption-side="top"}
+
+Additionally, {{site.data.keyword.cos_short}} prices will be increased by 2% in the Sao Paulo (br-sao) and Toronto (ca-tor) regions. In Chennai (in-che) the 2% increase will apply to Archive only.
+
+
+### R1Soft Backup Services
+{: #r1soft-adjustments-jan-2025}
+
+Charges for R1Soft Backup Services will increase as follows:
+
+| Tier | Current Charges | 2025 Charges |
+|-----|-----|-----|
+| 1 Pack | $7.50 | $10.00 |
+| 5 Pack | $36.25 | $40.00 |
+| 10 Pack | $67.50 | $75.00 |
+| 25 Pack | $143.75 | $160.00 |
+{: caption="Table 4. R1Soft backup services changes" caption-side="top"}
+
+
+### {{site.data.keyword.compliance_long}}
+{: #scc-adjustments-jan-2025}
+
+Charges for {{site.data.keyword.sysdigsecure_full_notm}} Cloud Security Posture Management will increase from $8.24 /compute instance/month to $18.00 /compute instance/month.
+
+Volume discounts are available as follows:
+| #Compute Instances | Current Price/Month | 2025 Price/Month |
+|--------------------|---------------------|------------------|
+| 1 - 250 | $8.24 | $18.00 |
+| 251 - 500 | $7.004 | $15.30 |
+| 501 - 1000 | $6.18 | $13.50 |
+| 1001 - 2500 | $5.768 | $12.60 |
+| 2501 - 5000 | $4.944 | $10.80 |
+| 5000+ | $4.523 | $9.90 |
+{: caption="Table 5. {{site.data.keyword.sysdigsecure_full_notm}} Cloud Security Posture Management changes" caption-side="top"}
+
+All other {{site.data.keyword.compliance_short}} charges remain unchanged.
+{: note}
+
+
+### {{site.data.keyword.keymanagementservicelong_notm}}
+{: #keyprotect-adjustments-jan-2025}
+
+{{site.data.keyword.keymanagementserviceshort}} is making two changes to its pricing structure:
+1. The current free allocations of 5 key versions will be eliminated. The standard charge of $1.0764 /key version/month will apply to all keys.
+2. Charges for the global resiliency feature will be $100.00/duplicate region/month plus $1.0764/month for each duplicated key.
+
 
 ## April 2024 price changes
 {: #april-2024}
@@ -43,7 +182,7 @@ For Bare Metal Servers, RHEL prices will change as follows:
 | Classic Bare Metal | RHEL Monthly | $90.00 | $99.00 |
 | Classic Bare Metal | RHEL for SAP Applications Monthly | $90.00 | $99.00 |
 | Classic Bare Metal | RHEL for SAP with HA and US Monthly | $448.00 | $492.80 |
-{: caption="Table 1. RHEL on Bare Metal Servers" caption-side="top"}
+{: caption="Table 6. RHEL on Bare Metal Servers" caption-side="top"}
 
 #### RHEL on Virtual Server Instances
 {: #rhel-vsi}
@@ -54,7 +193,7 @@ For Bare Metal Servers, RHEL prices will change as follows:
 |----------|------|
 | Small    | 1-4 vCPUs |
 | Large    | 5+ vCPUs |
-{: caption="Table 2. Charges based on server size" caption-side="top"}
+{: caption="Table 7. Charges based on server size" caption-side="top"}
 
 
 | New model - charges per vCPU | Size |
@@ -62,7 +201,7 @@ For Bare Metal Servers, RHEL prices will change as follows:
 | Small | 1-8 vCPUs |
 | Mid | 9-127 vCPUs |
 | Large | 128+ vCPUs |
-{: caption="Table 3. Charges per vCPU" caption-side="top"}
+{: caption="Table 8. Charges per vCPU" caption-side="top"}
 
 With this new model, prices effective 1 April 2024 will be as follows:
 
@@ -75,7 +214,7 @@ With this new model, prices effective 1 April 2024 will be as follows:
 | VPC     | VSI RHEL Hourly | Small: $0.06  \n Large: $0.12 | Small: $0.017  \n Mid: $0.011  \n Large: $0.009 |
 | VMware Shared | VSI RHEL Hourly | Small: $0.06  \n Large: $0.12 | Small: $0.017  \n Mid: $0.011  \n Large: $0.009 |
 | VMware-aaS | VSI RHEL Hourly | Small: $0.06  \n Large: $0.12 | Small: $0.017  \n Mid: $0.011  \n Large: $0.009 |
-{: caption="Table 4. Comparison of pricing model changes" caption-side="top"}
+{: caption="Table 9. Comparison of pricing model changes" caption-side="top"}
 
 ### cPanel
 {: #cpanel-adjustments}
@@ -118,7 +257,7 @@ Effective 1 April 2024, {{site.data.keyword.cloud_notm}} is making the following
 | cPanel/WHM with Fantastico/Softaculous and RVskin Premier Fixed Package up to 1450 Accounts | $453.50 | $600.99 |
 | cPanel/WHM with Fantastico/Softaculous and RVskin Premier Fixed Package up to 1500 Accounts | $468.50 | $620.99 |
 | cPanel/WHM with Fantastico/Softaculous and RVskin Premier Fixed Package up to 2000 Accounts | $618.50 | $820.99 |
-{: caption="Table 5. cPanel pricing changes" caption-side="top"}
+{: caption="Table 10. cPanel pricing changes" caption-side="top"}
 
 ## January 2024 price changes
 {: #jan-2024}
@@ -139,7 +278,7 @@ Prices for {{site.data.keyword.cloud_notm}} infrastructure services vary from lo
 | Osaka \n Singapore \n Tokyo | 13% | 20% | +6.2% |
 | Chennai \n Sydney | 20% | 20% | No Change |
 | Sao Paulo | 20% | 29% | +7.5% |
-{: caption="Table 6. IaaS pricing changes" caption-side="top"}
+{: caption="Table 11. IaaS pricing changes" caption-side="top"}
 
 These new premiums will apply to Bare Metal Servers, Virtual Server Instances, File and Block Storage, and Networking infrastructure, for both Classic and VPC offerings.
 

@@ -49,10 +49,8 @@ Location premiums for data centers will increase as follows:
 
 | Data centers | Current location premium | New location premium | Effective increase |
 |-------|-------|-------|-------|
-| DAL05 | 0% | 6% | 6% |
 | DAL08 | 11% | 11% | No increase |
 | DAL09 | 0% | 6% | 6.0% |
-| SJC01 | 0% | 6% | 6.0% |
 | SJC03 | 0% | 6% | 6.0% |
 | SJC04 | 0% | 6% | 6.0% |
 | WDC03 | 11% | 11% | No increase |

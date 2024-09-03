@@ -24,14 +24,14 @@ The following page outlines the price changes for {{site.data.keyword.cloud}}.
 ## January 2025 price changes
 {: #jan-2025}
 
-Effective 1 January 2025, {{site.data.keyword.cloud_notm}} is making price changes for IaaS and PaaS services, {{site.data.keyword.cos_full_notm}}, R1Soft Backup Service, {{site.data.keyword.sysdigsecure_full_notm}} Cloud Security Posture Management, and {{site.data.keyword.keymanagementservicelong_notm}}. See the following sections for additional details.
+Effective 1 January 2025, {{site.data.keyword.cloud_notm}} is making price changes for IaaS and PaaS services, {{site.data.keyword.cos_full_notm}}, R1Soft Backup Service, {{site.data.keyword.sysdigsecure_full_notm}} cloud security posture management, and {{site.data.keyword.keymanagementservicelong_notm}}. See the following sections for additional details.
 
 ### IaaS data center location premium changes
 {: #iaas-adjustments-jan-2025}
 
 Location premiums for most non-US multizone regions (MZRs) will remain unchanged. The premium for Sao Paulo will increase by 3 percentage points.
 
-| MZR Locations| Data Centers |Current Location Premium | New Location Premium | Effective Increase |
+| MZR locations| Data centers |Current location premium | New location premium | Effective increase |
 |-------|------|-------|-------|-------|
 | Dallas| DAL10, DAL12, DAL13, DAL14 | 0% | 0% | No increase |
 | Washington DC | WDC04, WDC06, WDC07 | 0% | 0% | No increase |
@@ -47,7 +47,7 @@ Location premiums for most non-US multizone regions (MZRs) will remain unchanged
 
 Location premiums for data centers will increase as follows:
 
-| SZR Data Center | Current Location Premium | New Location Premium | Effective Increase |
+| Data centers | Current location premium | New location premium | Effective increase |
 |-------|-------|-------|-------|
 | DAL05 | 0% | 6% | 6% |
 | DAL08 | 11% | 11% | No increase |
@@ -63,9 +63,9 @@ Location premiums for data centers will increase as follows:
 | PAR01 | 16% | 22% | 5.2% |
 | CHE01 | 20% | 20% | No increase |
 | SNG01 | 20% | 20% | No increase |
-{: caption="Table 2. IaaS SZR location premium changes" caption-side="top"}
+{: caption="Table 2. IaaS data center location premium changes" caption-side="top"}
 
-Existing VMware, {{site.data.keyword.powerSys_notm}} (incl. SAP on {{site.data.keyword.powerSys_notm}}), HPC, and SAP deployments made before 1 January 2025 will be exempt from these increases and prices will remain unchanged.
+Existing VMware, {{site.data.keyword.powerSys_notm}} (including SAP on {{site.data.keyword.powerSys_notm}}), High Performance Computing, and SAP deployments made before 1 January 2025 will be exempt from these increases and prices will remain unchanged.
 {: note}
 
 
@@ -108,15 +108,15 @@ PaaS services will adopt the same location premiums as IaaS services shown in th
 ### {{site.data.keyword.cos_full_notm}}
 {: #cos-adjustments-jan-2025}
 
-{{site.data.keyword.cos_short}} will introduce charges for Aspera high-speed uploads, and adopt new, simpler, flat, and consistent charges for high-speed downloads:
+{{site.data.keyword.cos_short}} will introduce charges for Aspera high-speed uploads and adopt new, simpler, flat, and consistent charges for high-speed downloads:
 
-| Transfer | Current Charges | 2025 Charges - EU/UK/US/Japan | 2025 Charges - All Other Regions |
+| Transfer | Current charges | 2025 charges - EU/UK/US/Japan | 2025 charges - All other regions |
 |--------|--------|--------|--------|
-| High-speed uploads | $0.00 | 10GB free/month \n 10GB+ $0.04/GB/month | 10GB free/month \n 10GB+ $0.08/GB/month |
-| High-speed downloads | 0-50TB  $0.0836/GB \n Next 100TB $0.0627/GB \n 150TB+ $0.0418/GB | 10GB free/month \n 10GB+ $0.04/GB/month | 10GB free/month \n 10GB+ $0.08/GB/month |
+| High-speed uploads | $0.00 | 10 GB free/month \n 10 GB+ $0.04/GB/month | 10 GB free/month \n 10 GB+ $0.08/GB/month |
+| High-speed downloads | 0-50 TB  $0.0836/GB \n Next 100 TB $0.0627/GB \n 150 TB+ $0.0418/GB | 10 GB free/month \n 10 GB+ $0.04/GB/month | 10 GB free/month \n 10 GB+ $0.08/GB/month |
 {: caption="Table 3. New {{site.data.keyword.cos_short}} high-speed data transfer charges." caption-side="top"}
 
-Additionally, {{site.data.keyword.cos_short}} prices will be increased by 2% in the Sao Paulo (br-sao) and Toronto (ca-tor) regions. In Chennai (in-che) the 2% increase will apply to Archive only.
+Additionally, {{site.data.keyword.cos_short}} prices will be increased by 2% in the Sao Paulo (br-sao) and Toronto (ca-tor) regions. In Chennai (in-che), the 2% increase will apply to Archive only.
 
 
 ### R1Soft Backup Services
@@ -124,7 +124,7 @@ Additionally, {{site.data.keyword.cos_short}} prices will be increased by 2% in 
 
 Charges for R1Soft Backup Services will increase as follows:
 
-| Tier | Current Charges | 2025 Charges |
+| Tier | Current charges | 2025 charges |
 |-----|-----|-----|
 | 1 Pack | $7.50 | $10.00 |
 | 5 Pack | $36.25 | $40.00 |
@@ -136,10 +136,11 @@ Charges for R1Soft Backup Services will increase as follows:
 ### {{site.data.keyword.compliance_long}}
 {: #scc-adjustments-jan-2025}
 
-Charges for {{site.data.keyword.sysdigsecure_full_notm}} Cloud Security Posture Management will increase from $8.24 /compute instance/month to $18.00 /compute instance/month.
+Charges for {{site.data.keyword.sysdigsecure_full_notm}} cloud security posture management will increase from $8.24 /compute instance/month to $18.00 /compute instance/month.
 
 Volume discounts are available as follows:
-| #Compute Instances | Current Price/Month | 2025 Price/Month |
+
+| Number of compute instances | Current price/month | 2025 price/month |
 |--------------------|---------------------|------------------|
 | 1 - 250 | $8.24 | $18.00 |
 | 251 - 500 | $7.004 | $15.30 |
@@ -147,7 +148,7 @@ Volume discounts are available as follows:
 | 1001 - 2500 | $5.768 | $12.60 |
 | 2501 - 5000 | $4.944 | $10.80 |
 | 5000+ | $4.523 | $9.90 |
-{: caption="Table 5. {{site.data.keyword.sysdigsecure_full_notm}} Cloud Security Posture Management changes" caption-side="top"}
+{: caption="Table 5. {{site.data.keyword.sysdigsecure_full_notm}} cloud security posture management changes" caption-side="top"}
 
 All other {{site.data.keyword.compliance_short}} charges remain unchanged.
 {: note}
@@ -176,7 +177,7 @@ Effective 1 April 2024, {{site.data.keyword.redhat_notm}} is making changes to {
 
 For Bare Metal Servers, RHEL prices will change as follows:
 
-| Platform | Offering | Current Charges | New Charges |
+| Platform | Offering | Current charges | New charges |
 |------|----------|-----------------|-------------|
 | VPC Bare Metal | RHEL and RHEL for SAP Applications Hourly | $0.120 | $0.132 |
 | Classic Bare Metal | RHEL Monthly | $90.00 | $99.00 |
@@ -205,7 +206,7 @@ For Bare Metal Servers, RHEL prices will change as follows:
 
 With this new model, prices effective 1 April 2024 will be as follows:
 
-| Platform | Offering | Current Charges (per server) | New Charges (per vCPU) |
+| Platform | Offering | Current charges (per server) | New charges (per vCPU) |
 |----------|----------|-----------------|-------------|
 | Classic | VSI RHEL Hourly | Small: $0.06  \n Large: $0.12 | Small: $0.017  \n Mid: $0.011  \n Large: not offered |
 | Classic | VSI RHEL Monthly | Small: $45.00  \n Large: $93.00 | Small: $12.584  \n Mid: $8.829  \n Large: not offered |
@@ -221,7 +222,7 @@ With this new model, prices effective 1 April 2024 will be as follows:
 
 Effective 1 April 2024, {{site.data.keyword.cloud_notm}} is making the following price changes for cPanel. These prices reflect a vendor price increase that was made in December 2023.
 
-| cPanel Option | Current Monthly Charge | New Charge from 1 April 2024 |
+| cPanel Option | Current monthly charge | New charge from 1 April 2024 |
 |-------|-------|-------|
 | cPanel/WHM with Fantastico and RVskin Admin Cloud up to 5 Accounts | $14.00 | $30.25 |
 | cPanel/WHM with Fantastico and RVskin Pro Cloud up to 30 Accounts |	$19.00 | $42.99 |
@@ -269,7 +270,7 @@ Effective 1 January 2024, {{site.data.keyword.cloud_notm}} is making the followi
 
 Prices for {{site.data.keyword.cloud_notm}} infrastructure services vary from location to location, based on a percentage premium from US base prices. Effective 1 January 2024, these location premiums are changing as follows:
 
-| Location| Current Premium | New Premium | Effective Increase |
+| Location| Current premium | New premium | Effective increase |
 |-------|-------|-------|-------|
 | Dallas \n San Jose \n Washington DC | 0% | 0% | No Change |
 | Amsterdam \n Montreal \n Toronto | 3% | 6% | +2.9% |
@@ -280,7 +281,7 @@ Prices for {{site.data.keyword.cloud_notm}} infrastructure services vary from lo
 | Sao Paulo | 20% | 29% | +7.5% |
 {: caption="Table 11. IaaS pricing changes" caption-side="top"}
 
-These new premiums will apply to Bare Metal Servers, Virtual Server Instances, File and Block Storage, and Networking infrastructure, for both Classic and VPC offerings.
+These new premiums will apply to Bare Metal Servers, Virtual Server Instances, File and Block Storage, and Networking infrastructure, for both classic and VPC offerings.
 
 For {{site.data.keyword.cos_full}}, the premiums that are mentioned in the previous table will affect the {{site.data.keyword.cos_short}} service only in the Sao Paulo region. Furthermore, there will be a global increase of 25% in **Accelerated Archive** prices and a 26% increase for **Deep Archive** storage.
 

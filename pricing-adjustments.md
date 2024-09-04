@@ -3,7 +3,7 @@
 
 copyright:
   years: 2023, 2024
-lastupdated: "2024-09-03"
+lastupdated: "2024-09-04"
 
 published-location: https://cloud.ibm.com/docs/overview?topic=overview-price-adjustments
 
@@ -24,30 +24,30 @@ The following page outlines the price changes for {{site.data.keyword.cloud}}.
 ## January 2025 price changes
 {: #jan-2025}
 
-Effective 1 January 2025, {{site.data.keyword.cloud_notm}} is making price changes for IaaS and PaaS services, {{site.data.keyword.cos_full_notm}}, R1Soft Backup Service, {{site.data.keyword.sysdigsecure_full_notm}} cloud security posture management, and {{site.data.keyword.keymanagementservicelong_notm}}. See the following sections for additional details.
+Effective 1 January 2025, {{site.data.keyword.cloud_notm}} is making price changes for infrastructure as a service (IaaS) and platform as a service (PaaS) services, {{site.data.keyword.cos_full_notm}}, R1Soft Backup Service, {{site.data.keyword.sysdigsecure_full_notm}} cloud security posture management, and {{site.data.keyword.keymanagementservicelong_notm}}. See the following sections for additional details.
 
-### IaaS data center location premium changes
+### Premium changes by location for IaaS
 {: #iaas-adjustments-jan-2025}
 
-Location premiums for most non-US multizone regions (MZRs) will remain unchanged. The premium for Sao Paulo will increase by 3 percentage points.
+Location premiums for most non-US multizone regions (MZRs) will remain unchanged. The premium for Sao Paulo (`br-sao`) will increase by 3 percentage points.
 
 | MZR locations| Data centers |Current location premium | New location premium | Effective increase |
 |-------|------|-------|-------|-------|
-| Dallas| DAL10, DAL12, DAL13, DAL14 | 0% | 0% | No increase |
-| Washington DC | WDC04, WDC06, WDC07 | 0% | 0% | No increase |
-| Toronto | TOR01, TOR04, TOR05 |6% | 6% | No increase |
-| London | LON04, LON05, LON06 | 13% | 13% | No increase |
-| Frankfurt | FRA02, FRA04, FRA05 | 16% | 16% | No increase |
-| Madrid | MAD02, MAD04, MAD05 | 16% | 16% | No increase |
-| Tokyo | TOK02, TOK04, TOK05 | 20% | 20% | No increase |
-| Sydney | SYD01, SYD04, SYD05 | 20% | 20% | No increase |
-| Sao Paulo | SAO01, SAO04, SAO05 | 29% | 32% | 2.3% |
+| Dallas (`us-south`)| DAL10, DAL12, DAL13, DAL14 | 0% | 0% | No increase |
+| Washington DC (`us-east`) | WDC04, WDC06, WDC07 | 0% | 0% | No increase |
+| Toronto (`ca-tor`) | TOR01, TOR04, TOR05 |6% | 6% | No increase |
+| London (`eu-gb`) | LON04, LON05, LON06 | 13% | 13% | No increase |
+| Frankfurt (`eu-de`) | FRA02, FRA04, FRA05 | 16% | 16% | No increase |
+| Madrid (`eu-es`) | MAD02, MAD04, MAD05 | 16% | 16% | No increase |
+| Tokyo (`jp-tok`) | TOK02, TOK04, TOK05 | 20% | 20% | No increase |
+| Sydney (`au-syd`) | SYD01, SYD04, SYD05 | 20% | 20% | No increase |
+| Sao Paulo (`br-sao`) | SAO01, SAO04, SAO05 | 29% | 32% | 2.3% |
 {: caption="Table 1. IaaS MZR location premium changes" caption-side="top"}
 
 
-Location premiums for data centers will increase as follows:
+Location premiums for classic data centers will increase as follows:
 
-| Data centers | Current location premium | New location premium | Effective increase |
+| Classic data centers | Current location premium | New location premium | Effective increase |
 |-------|-------|-------|-------|
 | DAL08 | 11% | 11% | No increase |
 | DAL09 | 0% | 6% | 6.0% |
@@ -61,13 +61,13 @@ Location premiums for data centers will increase as follows:
 | PAR01 | 16% | 22% | 5.2% |
 | CHE01 | 20% | 20% | No increase |
 | SNG01 | 20% | 20% | No increase |
-{: caption="Table 2. IaaS data center location premium changes" caption-side="top"}
+{: caption="Table 2. Classic data center location premium changes" caption-side="top"}
 
 Existing VMware, {{site.data.keyword.powerSys_notm}} (including SAP on {{site.data.keyword.powerSys_notm}}), High Performance Computing, and SAP deployments made before 1 January 2025 will be exempt from these increases and prices will remain unchanged.
 {: note}
 
 
-### PaaS data center location premium changes
+### Premium changes by location for PaaS services
 {: #paas-adjustments-jan-2025}
 
 PaaS services will adopt the same location premiums as IaaS services shown in the previous section.
@@ -75,8 +75,8 @@ PaaS services will adopt the same location premiums as IaaS services shown in th
 **Excluded** from this change are the following services:
 - {{site.data.keyword.containerlong_notm}} and {{site.data.keyword.openshiftlong_notm}}
 - {{site.data.keyword.logs_full_notm}}
-- {{site.data.keyword.cloudaccesstraillong_notm}} (deprecated)
-- {{site.data.keyword.loganalysislong_notm}} (deprecated)
+- {{site.data.keyword.cloudaccesstraillong_notm}} [Deprecated]{: tag-deprecated}
+- {{site.data.keyword.loganalysislong_notm}} [Deprecated]{: tag-deprecated}
 - {{site.data.keyword.monitoringlong_notm}}
 - {{site.data.keyword.databases-for-elasticsearch_full_notm}}
 - {{site.data.keyword.databases-for-enterprisedb_full_notm}}
@@ -93,11 +93,11 @@ PaaS services will adopt the same location premiums as IaaS services shown in th
 - {{site.data.keyword.cloudant_short_notm}}
 - {{site.data.keyword.codeenginefull_notm}}
 - {{site.data.keyword.registrylong_notm}}
-- IBM Cloud Continuous Delivery
+- {{site.data.keyword.cloud_notm}} Continuous Delivery
 - {{site.data.keyword.en_full_notm}}
 - {{site.data.keyword.satellitelong_notm}}
 - {{site.data.keyword.keymanagementservicelong_notm}}
-- IBM Event Streams for IBM Cloud
+- IBM Event Streams for {{site.data.keyword.cloud_notm}}
 - {{site.data.keyword.secrets-manager_full_notm}}
 - {{site.data.keyword.compliance_long}}
 - {{site.data.keyword.sysdigsecure_full_notm}}
@@ -114,7 +114,7 @@ PaaS services will adopt the same location premiums as IaaS services shown in th
 | High-speed downloads | 0-50 TB  $0.0836/GB \n Next 100 TB $0.0627/GB \n 150 TB+ $0.0418/GB | 10 GB free/month \n 10 GB+ $0.04/GB/month | 10 GB free/month \n 10 GB+ $0.08/GB/month |
 {: caption="Table 3. New {{site.data.keyword.cos_short}} high-speed data transfer charges." caption-side="top"}
 
-Additionally, {{site.data.keyword.cos_short}} prices will be increased by 2% in the Sao Paulo (br-sao) and Toronto (ca-tor) regions. In Chennai (in-che), the 2% increase will apply to Archive only.
+Additionally, {{site.data.keyword.cos_short}} prices will be increased by 2% in the Sao Paulo (`br-sao`) and Toronto (`ca-tor`) regions. In Chennai (`in-che`), the 2% increase will apply to Archive only.
 
 
 ### R1Soft Backup Services
@@ -134,7 +134,7 @@ Charges for R1Soft Backup Services will increase as follows:
 ### {{site.data.keyword.compliance_long}}
 {: #scc-adjustments-jan-2025}
 
-Charges for {{site.data.keyword.sysdigsecure_full_notm}} cloud security posture management will increase from $8.24 /compute instance/month to $18.00 /compute instance/month.
+Charges for {{site.data.keyword.sysdigsecure_full_notm}} cloud security posture management will increase from $8.24/compute instance/month to $18.00/compute instance/month.
 
 Volume discounts are available as follows:
 
@@ -261,7 +261,7 @@ Effective 1 April 2024, {{site.data.keyword.cloud_notm}} is making the following
 ## January 2024 price changes
 {: #jan-2024}
 
-Effective 1 January 2024, {{site.data.keyword.cloud_notm}} is making the following price changes for IaaS and PaaS service.
+Effective 1 January 2024, {{site.data.keyword.cloud_notm}} is making the following price changes for IaaS and PaaS services.
 
 ### IaaS data center premium changes
 {: #iaas-adjustments}
@@ -281,7 +281,7 @@ Prices for {{site.data.keyword.cloud_notm}} infrastructure services vary from lo
 
 These new premiums will apply to Bare Metal Servers, Virtual Server Instances, File and Block Storage, and Networking infrastructure, for both classic and VPC offerings.
 
-For {{site.data.keyword.cos_full}}, the premiums that are mentioned in the previous table will affect the {{site.data.keyword.cos_short}} service only in the Sao Paulo region. Furthermore, there will be a global increase of 25% in **Accelerated Archive** prices and a 26% increase for **Deep Archive** storage.
+For {{site.data.keyword.cos_full}}, the premiums that are mentioned in the previous table will affect the {{site.data.keyword.cos_short}} service only in the Sao Paulo (`br-sao`) region. Furthermore, there will be a global increase of 25% in **Accelerated Archive** prices and a 26% increase for **Deep Archive** storage.
 
 There will be no changes to the existing premiums for {{site.data.keyword.powerSysFull}}, third-party software, or network bandwidth.
 

@@ -75,8 +75,8 @@ PaaS services will adopt the same location premiums as IaaS services shown in th
 **Excluded** from this change are the following services:
 - {{site.data.keyword.containerlong_notm}} and {{site.data.keyword.openshiftlong_notm}}
 - {{site.data.keyword.logs_full_notm}}
-- {{site.data.keyword.cloudaccesstraillong_notm}} (deprecated)
-- {{site.data.keyword.loganalysislong_notm}} (deprecated)
+- {{site.data.keyword.cloudaccesstraillong_notm}} [Deprecated]{: tag-deprecated}
+- {{site.data.keyword.loganalysislong_notm}} [Deprecated]{: tag-deprecated}
 - {{site.data.keyword.monitoringlong_notm}}
 - {{site.data.keyword.databases-for-elasticsearch_full_notm}}
 - {{site.data.keyword.databases-for-enterprisedb_full_notm}}

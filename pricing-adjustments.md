@@ -70,7 +70,7 @@ Existing VMware, {{site.data.keyword.powerSys_notm}} (including SAP on {{site.da
 ### Premium changes by location for PaaS services
 {: #paas-adjustments-jan-2025}
 
-PaaS services will adopt the same location premiums as IaaS services shown in the previous section.
+PaaS services outside of the United States will adopt the same location premiums as IaaS services shown in the previous section.
 
 **Excluded** from this change are the following services:
 - {{site.data.keyword.containerlong_notm}} and {{site.data.keyword.openshiftlong_notm}}

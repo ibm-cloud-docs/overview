@@ -3,7 +3,7 @@
 
 copyright:
   years: 2023, 2024
-lastupdated: "2024-09-04"
+lastupdated: "2024-09-05"
 
 published-location: https://cloud.ibm.com/docs/overview?topic=overview-price-adjustments
 
@@ -39,6 +39,7 @@ Location premiums for most non-US multizone regions (MZRs) will remain unchanged
 | London (`eu-gb`) | LON04, LON05, LON06 | 13% | 13% | No increase |
 | Frankfurt (`eu-de`) | FRA02, FRA04, FRA05 | 16% | 16% | No increase |
 | Madrid (`eu-es`) | MAD02, MAD04, MAD05 | 16% | 16% | No increase |
+| Osaka (`jp-osa`) | OSA21, OSA22, OSA23 | 20% | 20% | No increase |
 | Tokyo (`jp-tok`) | TOK02, TOK04, TOK05 | 20% | 20% | No increase |
 | Sydney (`au-syd`) | SYD01, SYD04, SYD05 | 20% | 20% | No increase |
 | Sao Paulo (`br-sao`) | SAO01, SAO04, SAO05 | 29% | 32% | 2.3% |

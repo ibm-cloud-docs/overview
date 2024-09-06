@@ -41,11 +41,6 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
-        "date": "05 September 2024",
-        "title": "Project widget updates",
-        "description": "From the Overview tab in a project, you can now view the resource summary and configuration usage widgets to quickly get an overview of the resources and usage in your project. These widgets provide a snapshot of key metrics, such as cost and counts of resources by category, simplifying the process of monitoring and managing resources within a project."
-      },
-      {
         "date": "07 August 2024",
         "title": "Experimental: Access resources from the Resources tab",
         "description": "A link to resources is now available from the Resources tab in a project. If the resource exists in a different account, the console automatically switches to that account if you have access to it."

@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2024-09-05"
+lastupdated: "2024-09-06"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -20,16 +20,6 @@ content-type: release-note
 
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
-
-## Septemeber 2024
-{: #september-2024}
-
-### 05 September 2024
-{: #overview-September0524}
-{: release-note}
-
-Project widget updates
-:   From the **Overview** tab in a project, you can now view the resource summary and configuration usage widgets to quickly get an overview of the resources and usage in your project. These widgets provide a snapshot of key metrics, such as cost and counts of resources by category, simplifying the process of monitoring and managing resources within a project.
 
 ## August 2024
 {: #august-2024}

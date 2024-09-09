@@ -3,8 +3,7 @@
 
 copyright:
   years: 2016, 2024
-lastupdated: "2024-06-17"
-
+lastupdated: "2024-09-09"
 
 keywords: console, platform overview, overview, catalog, IBM Cloud catalog
 
@@ -186,8 +185,8 @@ See the following table for the list of filters that you can use to search the c
 | Option | Description |
 |--------------|-------|
 | HPC | Products that enable High Performance Computing (HPC) workloads on {{site.data.keyword.cloud_notm}}. For more information, see [High-performance computing on {{site.data.keyword.cloud_notm}}](https://www.ibm.com/high-performance-computing){: external} |
-| SAP Certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [{{site.data.keyword.ibm_cloud_sap}}](/docs/sap).|
-| Satellite Enabled | A service that is enabled for use with {{site.data.keyword.cloud_notm}} Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. For more information, see [{{site.data.keyword.cloud_notm}} {{site.data.keyword.satelliteshort}}](https://www.ibm.com/products/satellite){: external}. |
+| SAP certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [{{site.data.keyword.ibm_cloud_sap}}](/docs/sap).|
+| Satellite enabled | A service that is enabled for use with {{site.data.keyword.cloud_notm}} Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. For more information, see [{{site.data.keyword.cloud_notm}} {{site.data.keyword.satelliteshort}}](https://www.ibm.com/products/satellite){: external}. |
 | Quantum Technologies | A service that is compatible with quantum technologies. For more information, see [{{site.data.keyword.IBM_notm}} Quantum services](http://cloud.ibm.com/quantum){: external}. |
 {: caption="Table 1. Options for filtering by run-time environment" caption-side="top"}
 {: #supported-env-svc}

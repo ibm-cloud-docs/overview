@@ -43,7 +43,7 @@ MZRs are composed of three or more data centers in multiple zones with independe
 
 Offering the highest level of redundancy and availability by leveraging three separate sites within a region, MZRs have a minimum distance of at least 1 mile between zones and exact distances vary by region. Zone-to-zone latency can be found in the [network latency dashboards](/docs/vpc?topic=vpc-network-latency-dashboard).
 
-![This diagram shows a geography that contains buildings that host a multizone region (MZR)](images/mzr-zone4.svg){: caption="Figure 2. Multizone region (MZR)" caption-side="bottom"}
+![This diagram shows a geography that contains buildings that host a multizone region (MZR)](images/mzr.svg){: caption="Figure 2. Multizone region (MZR)" caption-side="bottom"}
 
 MZRs support different types of compute for both VPC and classic infrastructure resources. The location of classic resources is specified by a data center while VPC resource locations are specified by the zone. For more information about the physical locations available for your account per region for VPC resources, see [Zone mapping per account](#zone-mapping).
 
@@ -99,7 +99,7 @@ SLAs are maintained because the infrastructure is set up in a concurrently maint
 
 
 
-![This diagram shows a geography that contains an SC-MZR](images/single-campus-mzr-zone4.svg){: caption="Figure 3. Single-campus MZR" caption-side="bottom"}
+![This diagram shows a geography that contains an SC-MZR](images/single-campus-mzr.svg){: caption="Figure 3. Single-campus MZR" caption-side="bottom"}
 
 The following table lists the SC-MZR locations that are available in {{site.data.keyword.cloud_notm}} and the associated regions and zones.
 
@@ -188,7 +188,7 @@ You might also want to display your resources that are located globally. The **G
 
 As illustrated in the following graphic, a data center is a physical building that represents a zone that is located within a multizone region (MZR). An MZR is organized by its metro location. For example, London can encompass more than one grouping of data centers within an MZR. The graphic shows three zones in one MZR that work together in the instance that one of the data centers becomes unavailable. Zones are connected directly to each or through low latency links.
 
-![A location hierarchy that shows a geography that contains data center buildings inside of zones that are interconnected with points-of-presence within a metro.](images/dc-geography-zone4.svg){: caption="Figure 4. Location hierarchy" caption-side="bottom"}
+![A location hierarchy that shows a geography that contains data center buildings inside of zones that are interconnected with points-of-presence within a metro.](images/dc-geography.svg){: caption="Figure 4. Location hierarchy" caption-side="bottom"}
 
 ## Classic data centers
 {: #data-centers}

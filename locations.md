@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2024
-lastupdated: "2024-09-09"
+lastupdated: "2024-09-10"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -26,7 +26,7 @@ This image is an artistic representation and does not reflect actual political o
 ## Regions
 {: #regions}
 
-{{site.data.keyword.IBM}} offers two types of regions: MZRs and single-campus MZRs. The underlying infrastructure in both types provides the same [SLA](https://www.ibm.com/support/customer/csol/terms/?id=i126-9268&lc=en){: external}. A region is
+{{site.data.keyword.IBM}} offers two types of regions: MZRs and single-campus MZRs and both are considered an MZR. The underlying infrastructure in both types provides the same [SLA](https://www.ibm.com/support/customer/csol/terms/?id=i126-9268&lc=en){: external}. A region is
 an independent geographic territory that consists of one or more zones and is typically referred to by the metropolitan (metro) city area name like Dallas or London.
 
 Each [zone](#x2070723){: term} within the region assists with improved fault tolerance and decreased latency. A zone is identified by using two separate names. There is a zone name, for example `us-south-1` that is a logical identifier for a zone in the context of the current account. There is also a universal zone name that is the identifier for a zone that is consistent across {{site.data.keyword.cloud_notm}}, for example `us-south-dal10-a`. The universal zone name provides the location specification for VPC resources by mapping the zone name to a physical location, such as a data center. Alternatively, the location for classic resources is not specified by zone and instead uses the specific data center within the region, such as `DAL10`. For more information about zone information specific to your account, see [Zone mapping per account](#zone-mapping).

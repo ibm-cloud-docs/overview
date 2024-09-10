@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2016, 2023
-lastupdated: "2024-07-23"
+  years: 2016, 2024
+lastupdated: "2024-09-09"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -23,6 +23,7 @@ The following cross-references are used in this glossary:
 
 - *See* refers you from a nonpreferred term to the preferred term or from an abbreviation to the spelled-out form.
 - *See also* refers you to a related or contrasting term.
+
 
 ## A
 {: #glossa}
@@ -1279,7 +1280,7 @@ See [Managed Service Provider](#x6418711).
 ### multizone region (MZR)
 {: #x9774820}
 
-A region that is spread across data centers in multiple zones to increase fault tolerance. See also [zone](#x2070723).
+A region that is spread across physical locations in multiple zones to increase fault tolerance. See also [zone](#x2070723).
 
 ### MZR
 {: #x9774831}
@@ -1671,7 +1672,7 @@ An opinionated pattern of technologies that work together that includes a summar
 ### region
 {: #x2091391}
 
-A defined geographic territory. A region could be a specific postal code area, a town, a city, a state, a group of states, or even a group of countries. Each region can itself be a set of other regions or a set of postal codes that form the region.
+An independent geographic territory that consists of one or more zones.
 
 ### registry
 {: #x2064940}
@@ -1868,7 +1869,7 @@ A certificate that any entity, such as an organization or admin, attaches to the
 ### single-campus multizone region (single-campus MZR)
 {: #x10127487}
 
-A region that consists of multiple zones that are hosted on data centers that are located within a single building or campus. Dependencies such as power, cooling, networking, and physical security might overlap but are not identical between any two zones to increase fault tolerance. See also [zone](#x2070723).
+A region that consists of multiple zones that are located within a single building or campus. Dependencies such as power, cooling, networking, and physical security might be shared but are designed to provide a high degree of fault independence.  See also [zone](#x2070723).
 
 ### single-campus MZR
 {: #x10127585}
@@ -2252,4 +2253,4 @@ A context that contains a collection of artifacts that a user with appropriate p
 ### zone
 {: #x2070723}
 
-An independent fault domain. A zone is an abstraction designed to assist with improved fault tolerance and decreased latency. See also [multizone region](#x9774820), [single-campus multizone region](#x10127487).
+A location within a region that acts as an independent fault domain. See also [multizone region](#x9774820), [single-campus multizone region](#x10127487).

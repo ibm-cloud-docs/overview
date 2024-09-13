@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2024
-lastupdated: "2024-09-12"
+lastupdated: "2024-09-13"
 
 keywords: security controls, platform security, compliance, penetration testing, quantum computing, data at rest, data in transit, cryptography
 
@@ -24,7 +24,7 @@ In addition to our own diligence in creating and operating a secure cloud, {{sit
 
 In addition to the regular penetration testing conducted by {{site.data.keyword.IBM_notm}} and our partners, you can conduct penetration testing of your VPC or Classic Infrastructure resources on {{site.data.keyword.cloud_notm}}. Prior authorization to do so is not required by {{site.data.keyword.cloud_notm}}. {{site.data.keyword.cloud_notm}} customers under an active NDA can request a copy of a penetration testing executive summary by [opening a support case](/unifiedsupport/supportcenter).
 
-For more details about security for your applications and environments in {{site.data.keyword.Bluemix_notm}}, see [Security for {{site.data.keyword.IBM_notm}}](https://www.ibm.com/cloud/security){: external}.
+For more details about security for your applications and environments in {{site.data.keyword.Bluemix_notm}}, see [Security for {{site.data.keyword.cloud_notm}}](https://www.ibm.com/cloud/security){: external}.
 
 ## Quantum safe data protection
 {: #quantum}

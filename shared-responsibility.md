@@ -4,7 +4,7 @@ copyright:
 
   years: 2020, 2023
 
-lastupdated: "2024-08-14"
+lastupdated: "2024-09-13"
 
 keywords: roles and responsibilities, shared responsibilities, IBM responsibility, customer responsibility
 
@@ -94,6 +94,7 @@ Infrastructure-as-a-service (IaaS) products that are managed by {{site.data.keyw
 
 For areas marked as shared responsibilities, the customer is responsible for all the configurations, and {{site.data.keyword.IBM_notm}} is responsible for all underlying management. For disaster recover, the customer is responsible for creating resources in a secondary region and managing the application and data disaster recovery.
 {: note}
+
 
 
 ## Managed products

@@ -1,3 +1,36 @@
+---
+
+copyright:
+
+  years: 2015, 2023
+lastupdated: "2024-09-19"
+
+keywords: resource deployment, location, regions, data centers, service location, service availability, multizone regions, MZR
+
+subcollection: overview
+
+---
+
+{{site.data.keyword.attribute-definition-list}}
+
+# Service and infrastructure availability by location
+{: #services_region}
+
+{{site.data.keyword.Bluemix}} makes it easier for you to implement, host, and scale services, infrastructure, and apps so you can focus on your application logic and application design. {{site.data.keyword.cloud_notm}}'s global network of locations provides three tiers of regions: [multizone regions](#x9774820){: term} (MZR),[single-campus multizone regions](#x10127487){: term}, and [data centers](#x2439906){: term}. To achieve low application latency, deploy your apps in a region near your customers. For details about the available {{site.data.keyword.cloud_notm}} regions and data centers for specific products, review the following sections.
+{: shortdesc}
+
+IBM provides SDKs and APIs for all services that are general availability. Check out the reference docs in the [API & SDK reference library](/docs?tab=api-docs).
+
+Not all services and infrastructure are available for purchase in every {{site.data.keyword.Bluemix_notm}} location.
+
+## Services
+{: #paas-services}
+
+Some services are available to purchase in a location, but that service's data might be hosted in a different location. The following table shows the services that are provided by IBM. For the full list of resources that are available, see the [catalog](https://cloud.ibm.com/catalog){: external} in the {{site.data.keyword.Bluemix_notm}} console.
+
+Services that are hosted globally create resources that operate across multiple locations. For example, with {{site.data.keyword.cos_full_notm}}, you can choose to deploy data in a single data center, or even a combination of locations by selecting the endpoint where your application sends REST API requests. For more information about the global network of locations, see [Locations for resource deployment](https://cloud.ibm.com/docs/overview?topic=overview-locations).
+
+
 | Service | Dallas  \n(`us-south`) | Washington DC  \n(`us-east`) | Toronto  \n(`ca-tor`) | Sao Paulo  \n(`br-sao`) | 
 |-----|-----|-----|-----|-----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 

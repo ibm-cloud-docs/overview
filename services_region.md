@@ -3,9 +3,9 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2024-09-17"
+lastupdated: "2024-09-19"
 
-keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
+keywords: resource deployment, location, regions, data centers, service location, service availability, multizone regions, MZR
 
 subcollection: overview
 

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2024
-lastupdated: "2024-09-17"
+lastupdated: "2024-09-19"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -58,7 +58,7 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZR locations and
 | Washington DC (`us-east`) | us-east-1  \n us-east-2  \n us-east-3 |
 {: caption="Table 1. MZRs in North and South America" caption-side="top"}
 {: #americas-mzr}
-{: tab-title="Americas"}
+{: tab-title="North and South America"}
 {: tab-group="mzr"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the location type in the specific geographical area."}
@@ -133,7 +133,7 @@ The following table shows the available physical locations by using their univer
 | Washington DC (`us-east`) | us-east-wdc04-a  \n us-east-wdc06-a  \n us-east-wdc07-a | WDC04  \n WDC06  \n WDC07 | WDC02  \n WDC05 |
 {: caption="Table 3. MZR universal zone names - North and South America" caption-side="top"}
 {: #americas-universal-zone}
-{: tab-title="Americas"}
+{: tab-title="North and South America"}
 {: tab-group="zone"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the location type."}
@@ -226,7 +226,7 @@ See the following table for the specific code for each data center.
 | Washington DC 07 | WDC07 |
 {: caption="Table 5. Data centers in North and South America" caption-side="top"}
 {: #americas}
-{: tab-title="Americas"}
+{: tab-title="North and South America"}
 {: tab-group="dcs"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}

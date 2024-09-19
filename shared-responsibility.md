@@ -4,7 +4,7 @@ copyright:
 
   years: 2020, 2023
 
-lastupdated: "2024-09-13"
+lastupdated: "2024-09-17"
 
 keywords: roles and responsibilities, shared responsibilities, IBM responsibility, customer responsibility
 
@@ -95,7 +95,29 @@ Infrastructure-as-a-service (IaaS) products that are managed by {{site.data.keyw
 For areas marked as shared responsibilities, the customer is responsible for all the configurations, and {{site.data.keyword.IBM_notm}} is responsible for all underlying management. For disaster recover, the customer is responsible for creating resources in a secondary region and managing the application and data disaster recovery.
 {: note}
 
+## {{site.data.keyword.IBM_notm}} Hybrid Cloud
+{: #hybrid-responsibilities}
 
+{{site.data.keyword.IBM_notm}} Hybrid Cloud products are managed by {{site.data.keyword.IBM_notm}}, hosted on {{site.data.keyword.IBM_notm}}-owned physical infrastructure, and located on-premises in customer-owned locations. An example of this product type is [{{site.data.keyword.powerSys_notm}} Private Cloud](/docs/power-iaas?topic=power-iaas-private-cloud-architecture).
+
+| Resource | Incident and Operations Management | Change Management | Identity and Access Management | Security and Regulation Compliance | Disaster Recovery |
+| - | - | - | - | - | - |
+| Data | Customer | Customer | Customer | Customer | Customer |
+| Application | Customer | Customer | Customer | Customer | Customer |
+| Operating system | Customer | Customer | Customer | Customer | Customer |
+| Virtual and bare metal servers | Shared | Shared | Shared | Shared | Shared |
+| Virtual storage | Shared | Shared | Shared | Shared | Shared |
+| Virtual network | Shared | Shared | Shared | Shared | Shared |
+| Hypervisor | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
+| Physical servers and memory | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | Shared | Shared | {{site.data.keyword.IBM_notm}} |
+| Physical storage | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
+| Physical network and devices: Top of rack and spine | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
+| Physical network and devices: Datacenter core | Customer | Customer | Customer | Customer | Customer |
+| Facilities and data centers | Customer | Customer | Customer | Customer | Customer |
+{: caption="Table 2. Shared responsibilities for hybrid cloud IaaS products" caption-side="top"}
+
+For areas marked as shared responsibilities, the customer is responsible for all the configurations, and {{site.data.keyword.IBM_notm}} is responsible for all underlying management. For disaster recover, the customer is responsible for creating resources in a secondary region and managing the application and data disaster recovery.
+{: note}
 
 ## Managed products
 {: #managed-responsibilities}
@@ -115,7 +137,7 @@ Products that are managed by {{site.data.keyword.IBM_notm}} require customer res
 | Physical storage | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 | Physical network and devices | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 | Facilities and data centers | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
-{: caption="Table 2. Shared responsibilities for fully-managed products" caption-side="top"}
+{: caption="Table 3. Shared responsibilities for fully-managed products" caption-side="top"}
 
 For disaster recovery, {{site.data.keyword.IBM_notm}} is responsible to ensure that other regions that are not impacted by the disaster are fully operational and will recover the impacted region by the disaster as quickly as possible.
 {: note}
@@ -139,7 +161,7 @@ Managed products on customer's resources are orchestrated by {{site.data.keyword
 | Physical storage | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 | Physical network and devices | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 | Facilities and data centers | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
-{: caption="Table 3. Shared responsibilities for self-managed products" caption-side="top"}
+{: caption="Table 4. Shared responsibilities for self-managed products" caption-side="top"}
 
 For areas marked as shared responsibilities, the customer is responsible for all the configurations, and {{site.data.keyword.IBM_notm}} is responsible for all underlying management. For disaster recovery, the customer is responsible for creating resources in a secondary region and managing the application and data disaster recovery.
 {: note}
@@ -167,7 +189,7 @@ You can find a list of software in the {{site.data.keyword.cloud_notm}} catalog 
 | Physical storage | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 | Physical network and devices | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 | Facilities and data centers | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
-{: caption="Table 4. Shared responsiblities for software packages" caption-side="top"}
+{: caption="Table 5. Shared responsiblities for software packages" caption-side="top"}
 
 For areas marked as shared responsibilities, the customer is responsible for all the configurations, and {{site.data.keyword.IBM_notm}} is responsible for all underlying management. For disaster recovery, the customer is responsible for creating resources in a secondary region and managing the application and data disaster recovery.
 {: note}

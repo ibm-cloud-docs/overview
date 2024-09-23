@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2024
-lastupdated: "2024-09-19"
+lastupdated: "2024-09-23"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -116,7 +116,7 @@ Within each region, there are three or more zones that are identified in the API
 
 
 
-The account zone mapping is established when the first VPC resource is created in the region, and it can't be changed. You can review the assigned zone mapping for an account on the [VPC Infrastructure Overview](/vpc-ext/overview#endpoints) page in the Endpoint section. You can also use the [VPC API](/apidocs/vpc#list-region-zones) to list the mapping for your account.
+The account zone mapping is established when the first VPC resource is created in the region, and it can't be changed. You can review the assigned zone mapping for an account on the [VPC Infrastructure Overview](/infrastructure/overview#endpoints) page in the Endpoint section. You can also use the [VPC API](/apidocs/vpc#list-region-zones) to list the mapping for your account.
 
 
 

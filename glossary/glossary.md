@@ -893,7 +893,7 @@ See [Hash-Based Message Authentication Code](#x6652268).
 ### host
 {: #x2002243}
 
-A virtual or physical device, not including a router, that exists on a network. See also [subdomain](#x2040080), [client](#x2000644), [Uniform Resource Locator](#x2042491), [custom domain](#x5728384), [domain](#x2021210), [route](#x2037338).
+A computer that is connected to a network and that provides an access point to that network. The host can be a client, a server, or both a client and server simultaneously. See also [subdomain](#x2040080), [client](#x2000644), [Uniform Resource Locator](#x2042491), [custom domain](#x5728384), [domain](#x2021210), [route](#x2037338).
 
 ### HSM
 {: #x2009137}

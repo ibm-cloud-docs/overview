@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2024-09-19"
+lastupdated: "2024-09-20"
 
 keywords: resource deployment, location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -29,6 +29,9 @@ Not all services and infrastructure are available for purchase in every {{site.d
 Some services are available to purchase in a location, but that service's data might be hosted in a different location. The following table shows the services that are provided by IBM. For the full list of resources that are available, see the [catalog](https://cloud.ibm.com/catalog){: external} in the {{site.data.keyword.Bluemix_notm}} console.
 
 Services that are hosted globally create resources that operate across multiple locations. For example, with {{site.data.keyword.cos_full_notm}}, you can choose to deploy data in a single data center, or even a combination of locations by selecting the endpoint where your application sends REST API requests. For more information about the global network of locations, see [Locations for resource deployment](https://cloud.ibm.com/docs/overview?topic=overview-locations).
+
+
+
 
 
 | Service | Dallas  \n(`us-south`) | Washington DC  \n(`us-east`) | Toronto  \n(`ca-tor`) | Sao Paulo  \n(`br-sao`) | 
@@ -843,5 +846,3 @@ The following classic infrastructure resources are available in Asia and the Pac
 {: tab-group="Asia Pacific"}
 {: class="comparison-tab-table"}
 {: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
-
-

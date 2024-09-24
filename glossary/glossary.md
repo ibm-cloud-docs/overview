@@ -2,12 +2,10 @@
 
 copyright:
   years: 2016, 2024
-lastupdated: "2024-09-09"
+lastupdated: "2024-09-24"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
-
 subcollection: overview
-
 ---
 
 {:shortdesc: .shortdesc}
@@ -17,7 +15,7 @@ subcollection: overview
 {: #glossary}
 
 This glossary provides terms and definitions for {{site.data.keyword.cloud}}.
-{: shortdesc}
+{:shortdesc}
 
 The following cross-references are used in this glossary:
 
@@ -73,7 +71,7 @@ Analyzing machine learning model scores to determine whether changes are needed 
 {: #x2012974}
 
 - A code snippet that can be explicitly invoked, or run in response to an event. See also [feed](#x3129185), [invoke](#x2057232).
-- A task that is performed in the context of a service.
+- A task that is performed in the context of a service. 
 
 ### adjudication
 {: #x3096333}
@@ -288,7 +286,7 @@ Pertaining to an open, non-proprietary development platform that includes public
 ### bucket
 {: #x2072079}
 
-A container for storing unstructured data.
+A container for storing unstructured data. 
 
 ### buildpack
 {: #x7233925}
@@ -1553,7 +1551,7 @@ A .pear archive file that includes an Unstructured Information Management Archit
 ### project
 {: #x2035151}
 
-A collection of artifacts that define and manage resources and Infrastructure as Code deployments.
+A collection of artifacts that define and manage resources and Infrastructure as Code deployments. 
 
 ### promo code
 {: #x8440874}
@@ -1824,7 +1822,7 @@ A specification of the settings for a particular aspect of API security; for exa
 ### security group
 {: #x2066040}
 
-A resource that provides rules to filter IP traffic to resources in a virtual private cloud. Rules are stateful, such that packets in response to allowed packets are automatically permitted.
+A resource that provides rules to filter IP traffic to resources in a virtual private cloud. Rules are stateful, such that packets in response to allowed packets are automatically permitted. 
 
 ### select availability
 {: #x9773835}
@@ -2253,4 +2251,4 @@ A context that contains a collection of artifacts that a user with appropriate p
 ### zone
 {: #x2070723}
 
-A location within a region that acts as an independent fault domain. See also [multizone region](#x9774820), [single-campus multizone region](#x10127487).
+A location within a region that acts as an independent fault domain and has decreased latency to other zones in the region. See also [multizone region](#x9774820), [single-campus multizone region](#x10127487).

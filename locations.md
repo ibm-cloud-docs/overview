@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2024
-lastupdated: "2024-09-23"
+lastupdated: "2024-09-25"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -123,9 +123,9 @@ The account zone mapping is established when the first VPC resource is created i
 Understanding your account’s zone mapping is helpful if you’re creating a mixed VPC and Power application, for example. You can create your VPC resources first, and then review your zone mapping to determine which universal zone the VPC resources are in so that you can ensure that the classic resources are created in the same physical location. Classic infrastructure and {{site.data.keyword.powerSysFull}} services locations are specified by data center while the physical location for VPC resources are specified by the universal zone name.
 {: tip}
 
-The following table shows the available physical locations by using their universal zone names, associated data centers, and available [Point of Presence (PoP)](#x5458832){: term} locations per MZR.
+The following table shows the available physical locations by using their universal zone name, associated data centers, and available [Point of Presence (PoP)](#x5458832){: term} locations per MZR.
 
-| Region | Universal zone names | Data center | PoP |
+| Region | Universal zone name | Data center | PoP |
 |------|------|----|-----|
 | Dallas (`us-south`) |  us-south-dal10-a  \n us-south-dal12-a  \n us-south-dal13-a  \n us-south-dal14-a | DAL10  \n DAL12  \n DAL13  \n DAL14 | DAL03  \n DAL04 |
 | Sao Paulo (`br-sao`) |  br-sao-sao01-a  \n br-sao-sao04-a  \n br-sao-sao05-a | SAO01  \n SAO04  \n SAO05 | SAO02  \n SAO03 |
@@ -138,7 +138,7 @@ The following table shows the available physical locations by using their univer
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the location type."}
 
-| Region | Universal zone names | Data center | PoP |
+| Region | Universal zone name | Data center | PoP |
 |----------|------|------|----|
 | Frankfurt (`eu-de`)   | eu-de-fra02-a  \n eu-de-fra04-a  \n eu-de-fra05-a  | FRA02  \n FRA04  \n FRA05 | FRA01  \n FRA03 |
 | London (`eu-gb`)   | eu-gb-lon04-a  \n eu-gb-lon05-a  \n eu-gb-lon06-a  | LON04  \n LON05  \n LON06 | LON01  \n LON03 |
@@ -150,7 +150,7 @@ The following table shows the available physical locations by using their univer
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the location type."}
 
-| Region | Universal zone names | Data center | PoP |
+| Region | Universal zone name | Data center | PoP |
 |----------|------|------|----|
 | Sydney (`au-syd`) | au-syd-syd01-a  \n au-syd-syd04-a  \n au-syd-syd05-a | SYD01  \n SYD04  \n SYD05 | MEL02  \n PER01  \n SYD02  \n SYD03 |
 | Tokyo (`jp-tok`)   | jp-tok-tok02-a  \n jp-tok-tok04-a  \n jp-tok-tok05-a | TOK02  \n TOK04  \n TOK05 | TOK01  \n TOK03 |
@@ -164,12 +164,12 @@ The following table shows the available physical locations by using their univer
 If you're referencing a region when using the CLI, API, SDK, or Terraform, ensure that you're using the programmatic region name. For example, use `us-south` to target the Dallas (`us-south`) region.
 {: note}
 
-The following table shows the available physical locations using their universal zone names, associated data centers, and available PoP locations per SC-MZR.
+The following table shows the available physical locations using their universal zone name, associated data centers, and available PoP locations per SC-MZR.
 
-| Region   |  Universal zone names |Data center | PoP |
+| Region   |  Universal zone name |Data center | PoP |
 |----------|------|------|----|
 | Osaka (`jp-osa`)   | jp-osa-osa21-a  \n jp-osa-osa22-a  \n jp-osa-osa23-a | OSA21  \n OSA22  \n OSA23 | OSA01 |
-{: caption="Table 4. single-campus MZR universal zone names" caption-side="top"}
+{: caption="Table 4. single-campus MZR universal zone name" caption-side="top"}
 
 
 

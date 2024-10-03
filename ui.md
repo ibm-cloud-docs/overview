@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2024
-lastupdated: "2024-01-30"
+lastupdated: "2024-10-03"
 
 keywords: ui, platform, console, using the console
 
@@ -34,4 +34,4 @@ You can navigate the console by using the options from the console menu bar. Use
 * Click the **Notifications** icon ![Notifications icon](../icons/Notification.svg "Notifications") to view and control all incidents, maintenance, and announcements that are likely to affect your account.
 * Click the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg "Avatar") to access your profile, guided tours, console theme options, and more.
 
-In addition to the console, [command-line interfaces (CLIs)](/docs/cli?topic=cli-getting-started), APIs, and SDKs are available for interacting with you cloud account and resources. [Terraform](/docs/ibm-cloud-provider-for-terraform?topic=ibm-cloud-provider-for-terraform-getting-started) support is also available through use of the {{site.data.keyword.cloud_notm}} Provider plug-in for managing cloud resources at enterprise scale through templates and scripting.
+In addition to the console, [command-line interfaces (CLIs)](/docs/cli?topic=cli-getting-started), APIs, and SDKs are available for interacting with you cloud account and resources. [Terraform](/docs/ibm-cloud-provider-for-terraform?topic=ibm-cloud-provider-for-terraform-getting-started) support is also available through use of the {{site.data.keyword.cloud_notm}} Provider plug-in for managing cloud resources at enterprise scale through templates and scripting. 

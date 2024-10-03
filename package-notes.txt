@@ -1,1 +1,0 @@
-docs/glossary moved to docs/overview/glossary

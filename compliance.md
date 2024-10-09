@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2024
-lastupdated: "2024-02-15"
+lastupdated: "2024-10-09"
 
 keywords: compliance, environmental information, gdpr, compliance reports, financial services, compliance settings, compliance features
 
@@ -23,9 +23,13 @@ subcollection: overview
 
 {{site.data.keyword.cloud_notm}} provides compliance reports for some compliance regulations, for example SOC or PCI, to advise clients. The reports include details of the audit experience and can help users assess and address the high, medium, and low risks identified.
 
+For a description on each security standard and for information on whether to download or request reports, see [Compliance on the {{site.data.keyword.cloud_notm}}](https://www.ibm.com/cloud/compliance){: external}.
+
 If you have an {{site.data.keyword.cloud_notm}} account and want an infrastructure compliance report, go to [https://cloud.ibm.com/classic/security/compliancereport/request](https://cloud.ibm.com/classic/security/compliancereport/request){: external}. Complete the form to receive an email with the requested reports attached.
 
 If you don't have an {{site.data.keyword.cloud_notm}} account or want a PaaS compliance report, go to [https://www.ibm.com/account/reg/us-en/signup?formid=MAIL-wcp](https://www.ibm.com/account/reg/us-en/signup?formid=MAIL-wcp){: external}. Complete the form and you will be contacted by an IBM representative.
+
+For questions about the compliance program or about the availability of a compliance report, go to [Compliance on the IBM Cloud: Next steps](https://www.ibm.com/cloud/compliance#Next+steps){: external} for contact options.
 
 ## General Data Protection Regulation (GDPR)
 {: #gdpr}

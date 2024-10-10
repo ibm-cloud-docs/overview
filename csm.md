@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2022, 2024
-lastupdated: "2024-08-23"
+lastupdated: "2024-10-10"
 
 keywords: csm
 
@@ -43,7 +43,7 @@ At the end of the day, the CSM’s success is your success.
 | [Business Automation](https://www.ibm.com/products/cloud-pak-for-business-automation?lnk=STW_US_STESCH&lnk2=learn_CloudPakAtm&pexp=DEF&psrc=NONE&mhsrc=ibmsearch_a&mhq=Business%20Automation) | IBM Cloud Pak for Business Automation is a modular set of integrated software components, built for any hybrid cloud, designed to automate work and accelerate business growth. |
 | [Security](https://www.ibm.com/cloud-paks) | IBM Cloud Pak for Security can help you gain deeper insights, mitigate risks and accelerate response. |
 | [IBM Cloud](https://ibm.com/cloud) | {{site.data.keyword.cloud_notm}} provides solutions that enable higher levels of compliance, security, and management, with proven architecture patterns and methods for rapid delivery for running mission-critical workloads.  |
-{: caption="Table 1. Examples of services that CSMs support" caption-side="bottom"}
+{: caption="Examples of services that CSMs support" caption-side="bottom"}
 
 ## Learn how our customers are finding success
 {: #csm-learn}

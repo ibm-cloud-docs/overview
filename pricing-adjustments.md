@@ -3,7 +3,7 @@
 
 copyright:
   years: 2023, 2024
-lastupdated: "2024-09-05"
+lastupdated: "2024-10-10"
 
 published-location: https://cloud.ibm.com/docs/overview?topic=overview-price-adjustments
 
@@ -43,7 +43,7 @@ Location premiums for most non-US multizone regions (MZRs) will remain unchanged
 | Tokyo (`jp-tok`) | TOK02, TOK04, TOK05 | 20% | 20% | No increase |
 | Sydney (`au-syd`) | SYD01, SYD04, SYD05 | 20% | 20% | No increase |
 | Sao Paulo (`br-sao`) | SAO01, SAO04, SAO05 | 29% | 32% | 2.3% |
-{: caption="Table 1. IaaS MZR location premium changes" caption-side="top"}
+{: caption="IaaS MZR location premium changes" caption-side="top"}
 
 
 Location premiums for classic data centers will increase as follows:
@@ -62,7 +62,7 @@ Location premiums for classic data centers will increase as follows:
 | PAR01 | 16% | 22% | 5.2% |
 | CHE01 | 20% | 20% | No increase |
 | SNG01 | 20% | 20% | No increase |
-{: caption="Table 2. Classic data center location premium changes" caption-side="top"}
+{: caption="Classic data center location premium changes" caption-side="top"}
 
 Existing VMware, {{site.data.keyword.powerSys_notm}} (including SAP on {{site.data.keyword.powerSys_notm}}), High Performance Computing, and SAP deployments made before 1 January 2025 will be exempt from these increases and prices will remain unchanged.
 {: note}
@@ -113,7 +113,7 @@ PaaS services outside of the United States will adopt the same location premiums
 |--------|--------|--------|--------|
 | High-speed uploads | $0.00 | 10 GB free/month \n 10 GB+ $0.04/GB/month | 10 GB free/month \n 10 GB+ $0.08/GB/month |
 | High-speed downloads | 0-50 TB  $0.0836/GB \n Next 100 TB $0.0627/GB \n 150 TB+ $0.0418/GB | 10 GB free/month \n 10 GB+ $0.04/GB/month | 10 GB free/month \n 10 GB+ $0.08/GB/month |
-{: caption="Table 3. New {{site.data.keyword.cos_short}} high-speed data transfer charges." caption-side="top"}
+{: caption="New {{site.data.keyword.cos_short}} high-speed data transfer charges." caption-side="top"}
 
 Additionally, {{site.data.keyword.cos_short}} prices will be increased by 2% in the Sao Paulo (`br-sao`) and Toronto (`ca-tor`) regions. In Chennai (`in-che`), the 2% increase will apply to Archive only.
 
@@ -129,7 +129,7 @@ Charges for R1Soft Backup Services will increase as follows:
 | 5 Pack | $36.25 | $40.00 |
 | 10 Pack | $67.50 | $75.00 |
 | 25 Pack | $143.75 | $160.00 |
-{: caption="Table 4. R1Soft backup services changes" caption-side="top"}
+{: caption="R1Soft backup services changes" caption-side="top"}
 
 
 ### {{site.data.keyword.compliance_long}}
@@ -147,7 +147,7 @@ Volume discounts are available as follows:
 | 1001 - 2500 | $5.768 | $12.60 |
 | 2501 - 5000 | $4.944 | $10.80 |
 | 5000+ | $4.523 | $9.90 |
-{: caption="Table 5. {{site.data.keyword.sysdigsecure_full_notm}} cloud security posture management changes" caption-side="top"}
+{: caption="{{site.data.keyword.sysdigsecure_full_notm}} cloud security posture management changes" caption-side="top"}
 
 All other {{site.data.keyword.compliance_short}} charges remain unchanged.
 {: note}
@@ -182,7 +182,7 @@ For Bare Metal Servers, RHEL prices will change as follows:
 | Classic Bare Metal | RHEL Monthly | $90.00 | $99.00 |
 | Classic Bare Metal | RHEL for SAP Applications Monthly | $90.00 | $99.00 |
 | Classic Bare Metal | RHEL for SAP with HA and US Monthly | $448.00 | $492.80 |
-{: caption="Table 6. RHEL on Bare Metal Servers" caption-side="top"}
+{: caption="RHEL on Bare Metal Servers" caption-side="top"}
 
 #### RHEL on Virtual Server Instances
 {: #rhel-vsi}
@@ -193,7 +193,7 @@ For Bare Metal Servers, RHEL prices will change as follows:
 |----------|------|
 | Small    | 1-4 vCPUs |
 | Large    | 5+ vCPUs |
-{: caption="Table 7. Charges based on server size" caption-side="top"}
+{: caption="Charges based on server size" caption-side="top"}
 
 
 | New model - charges per vCPU | Size |
@@ -201,7 +201,7 @@ For Bare Metal Servers, RHEL prices will change as follows:
 | Small | 1-8 vCPUs |
 | Mid | 9-127 vCPUs |
 | Large | 128+ vCPUs |
-{: caption="Table 8. Charges per vCPU" caption-side="top"}
+{: caption="Charges per vCPU" caption-side="top"}
 
 With this new model, prices effective 1 April 2024 will be as follows:
 
@@ -214,7 +214,7 @@ With this new model, prices effective 1 April 2024 will be as follows:
 | VPC     | VSI RHEL Hourly | Small: $0.06  \n Large: $0.12 | Small: $0.017  \n Mid: $0.011  \n Large: $0.009 |
 | VMware Shared | VSI RHEL Hourly | Small: $0.06  \n Large: $0.12 | Small: $0.017  \n Mid: $0.011  \n Large: $0.009 |
 | VMware-aaS | VSI RHEL Hourly | Small: $0.06  \n Large: $0.12 | Small: $0.017  \n Mid: $0.011  \n Large: $0.009 |
-{: caption="Table 9. Comparison of pricing model changes" caption-side="top"}
+{: caption="Comparison of pricing model changes" caption-side="top"}
 
 ### cPanel
 {: #cpanel-adjustments}
@@ -257,7 +257,7 @@ Effective 1 April 2024, {{site.data.keyword.cloud_notm}} is making the following
 | cPanel/WHM with Fantastico/Softaculous and RVskin Premier Fixed Package up to 1450 Accounts | $453.50 | $600.99 |
 | cPanel/WHM with Fantastico/Softaculous and RVskin Premier Fixed Package up to 1500 Accounts | $468.50 | $620.99 |
 | cPanel/WHM with Fantastico/Softaculous and RVskin Premier Fixed Package up to 2000 Accounts | $618.50 | $820.99 |
-{: caption="Table 10. cPanel pricing changes" caption-side="top"}
+{: caption="cPanel pricing changes" caption-side="top"}
 
 ## January 2024 price changes
 {: #jan-2024}
@@ -278,7 +278,7 @@ Prices for {{site.data.keyword.cloud_notm}} infrastructure services vary from lo
 | Osaka \n Singapore \n Tokyo | 13% | 20% | +6.2% |
 | Chennai \n Sydney | 20% | 20% | No Change |
 | Sao Paulo | 20% | 29% | +7.5% |
-{: caption="Table 11. IaaS pricing changes" caption-side="top"}
+{: caption="IaaS pricing changes" caption-side="top"}
 
 These new premiums will apply to Bare Metal Servers, Virtual Server Instances, File and Block Storage, and Networking infrastructure, for both classic and VPC offerings.
 

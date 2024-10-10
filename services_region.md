@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2024-10-04"
+lastupdated: "2024-10-10"
 
 keywords: resource deployment, location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -160,7 +160,7 @@ Services that are hosted globally create resources that operate across multiple 
 | watsonx.data | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | watsonx.governance | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 {: row-headers}
-{: caption="Table 1. Service availability - Americas" caption-side="top"}
+{: caption="Service availability - Americas" caption-side="top"}
 {: #paas-table1}
 {: tab-title="Americas"}
 {: tab-group="PaaS"}
@@ -293,7 +293,7 @@ Services that are hosted globally create resources that operate across multiple 
 | watsonx.data | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | watsonx.governance |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 {: row-headers}
-{: caption="Table 2. Service availability - Europe" caption-side="top"}
+{: caption="Service availability - Europe" caption-side="top"}
 {: #paas-table2}
 {: tab-title="Europe"}
 {: tab-group="PaaS"}
@@ -426,7 +426,7 @@ Services that are hosted globally create resources that operate across multiple 
 | watsonx.data | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | watsonx.governance |  |  |  |  | 
 {: row-headers}
-{: caption="Table 3. Service availability - Asia Pacific" caption-side="top"}
+{: caption="Service availability - Asia Pacific" caption-side="top"}
 {: #paas-table3}
 {: tab-title="Asia Pacific"}
 {: tab-group="PaaS"}
@@ -467,7 +467,7 @@ The following classic infrastructure resources are available in North and South 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
-{: caption="Table 4. Americas infrastructure availability - Canada" caption-side="top"}
+{: caption="Americas infrastructure availability - Canada" caption-side="top"}
 {: #iaas-table1}
 {: tab-title="Canada"}
 {: tab-group="Americas"}
@@ -497,7 +497,7 @@ The following classic infrastructure resources are available in North and South 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
-{: caption="Table 5. Americas infrastructure availability - United States" caption-side="top"}
+{: caption="Americas infrastructure availability - United States" caption-side="top"}
 {: #iaas-table2}
 {: tab-title="United States"}
 {: tab-group="Americas"}
@@ -527,7 +527,7 @@ The following classic infrastructure resources are available in North and South 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
-{: caption="Table 6. Americas infrastructure availability - Brazil" caption-side="top"}
+{: caption="Americas infrastructure availability - Brazil" caption-side="top"}
 {: #iaas-table3}
 {: tab-title="Brazil"}
 {: tab-group="Americas"}
@@ -562,7 +562,7 @@ The following classic infrastructure resources are available in Europe. Match th
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
-{: caption="Table 7. Europe infrastructure availability - Netherlands" caption-side="top"}
+{: caption="Europe infrastructure availability - Netherlands" caption-side="top"}
 {: #iaas-table4}
 {: tab-title="Netherlands"}
 {: tab-group="Europe"}
@@ -592,7 +592,7 @@ The following classic infrastructure resources are available in Europe. Match th
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
-{: caption="Table 8. Europe infrastructure availability - Germany" caption-side="top"}
+{: caption="Europe infrastructure availability - Germany" caption-side="top"}
 {: #iaas-table5}
 {: tab-title="Germany"}
 {: tab-group="Europe"}
@@ -622,7 +622,7 @@ The following classic infrastructure resources are available in Europe. Match th
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
-{: caption="Table 9. Europe infrastructure availability - United Kingdom" caption-side="top"}
+{: caption="Europe infrastructure availability - United Kingdom" caption-side="top"}
 {: #iaas-table6}
 {: tab-title="United Kingdom"}
 {: tab-group="Europe"}
@@ -652,7 +652,7 @@ The following classic infrastructure resources are available in Europe. Match th
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
-{: caption="Table 10. Europe infrastructure availability - Italy" caption-side="top"}
+{: caption="Europe infrastructure availability - Italy" caption-side="top"}
 {: #iaas-table7}
 {: tab-title="Italy"}
 {: tab-group="Europe"}
@@ -682,7 +682,7 @@ The following classic infrastructure resources are available in Europe. Match th
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
-{: caption="Table 11. Europe infrastructure availability - France" caption-side="top"}
+{: caption="Europe infrastructure availability - France" caption-side="top"}
 {: #iaas-table8}
 {: tab-title="France"}
 {: tab-group="Europe"}
@@ -712,7 +712,7 @@ The following classic infrastructure resources are available in Europe. Match th
 | Secondary Subnets |  |  |  | 
 | Virtual Router Appliance |  |  |  | 
 {: row-headers}
-{: caption="Table 12. Europe infrastructure availability - Spain" caption-side="top"}
+{: caption="Europe infrastructure availability - Spain" caption-side="top"}
 {: #iaas-table9}
 {: tab-title="Spain"}
 {: tab-group="Europe"}
@@ -747,7 +747,7 @@ The following classic infrastructure resources are available in Asia and the Pac
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
-{: caption="Table 13. Asia Pacific infrastructure availability - Australia" caption-side="top"}
+{: caption="Asia Pacific infrastructure availability - Australia" caption-side="top"}
 {: #iaas-table10}
 {: tab-title="Australia"}
 {: tab-group="Asia Pacific"}
@@ -777,7 +777,7 @@ The following classic infrastructure resources are available in Asia and the Pac
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
-{: caption="Table 14. Asia Pacific infrastructure availability - India" caption-side="top"}
+{: caption="Asia Pacific infrastructure availability - India" caption-side="top"}
 {: #iaas-table11}
 {: tab-title="India"}
 {: tab-group="Asia Pacific"}
@@ -807,7 +807,7 @@ The following classic infrastructure resources are available in Asia and the Pac
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
-{: caption="Table 15. Asia Pacific infrastructure availability - Japan" caption-side="top"}
+{: caption="Asia Pacific infrastructure availability - Japan" caption-side="top"}
 {: #iaas-table12}
 {: tab-title="Japan"}
 {: tab-group="Asia Pacific"}
@@ -837,7 +837,7 @@ The following classic infrastructure resources are available in Asia and the Pac
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
-{: caption="Table 16. Asia Pacific infrastructure availability - Singapore" caption-side="top"}
+{: caption="Asia Pacific infrastructure availability - Singapore" caption-side="top"}
 {: #iaas-table13}
 {: tab-title="Singapore"}
 {: tab-group="Asia Pacific"}

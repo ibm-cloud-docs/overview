@@ -2,7 +2,7 @@
 
 copyright:
   years: 2021, 2024
-lastupdated: "2024-02-26"
+lastupdated: "2024-10-10"
 
 keywords: disaster recovery, DR, what is disaster recovery, DR strategy, disaster recovery options, disaster recovery strategy
 
@@ -98,7 +98,7 @@ You should define the recovery objectives for your application and the disaster 
 | Advanced recovery | &amp;gt; 1 hour - &lt;= 72 hours | &lt;2 hours - &lt;72 hours |
 | Standard recovery | &amp;gt; 72 Hr | Last backup |
 | No recovery | n/a | n/a |
-{: caption="Table 1. Example RTO and RPO requirements" caption-side="top"}
+{: caption="Example RTO and RPO requirements" caption-side="top"}
 
 The resiliency options, proposed profiles, and associated tables are presented so that you can define your application's disaster recovery requirement levels. Informaton stated is not a warranty and {{site.data.keyword.IBM}} will not issue credits for failure to meet an objective. These RTO and RPO [examples](/docs/overview?topic=overview-bcdr-app-recovery) are presented as a reference to guide you on additional steps that can be taken to achieve those levels of resiliency. Refer to the Service Level Agreements (SLAs) for any commitments and credits that are issued upon failure to meet any committed SLAs.
 {: .note}

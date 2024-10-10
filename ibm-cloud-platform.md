@@ -43,7 +43,7 @@ As the following diagram illustrates, the {{site.data.keyword.Bluemix_notm}} pla
 * A search and tagging mechanism for filtering and identifying your resources
 * An account and billing management system that provides exact usage for pricing plans and secure credit card fraud protection
 
-![Components of the {{site.data.keyword.cloud_notm}} platform.](images/IBM-Cloud-Platform.svg "Diagram showing the major components of the {{site.data.keyword.cloud_notm}} platform"){: caption="Figure 1. Components of the {{site.data.keyword.cloud_notm}} platform" caption-side="bottom"}
+![Components of the {{site.data.keyword.cloud_notm}} platform.](images/IBM-Cloud-Platform.svg "Diagram showing the major components of the {{site.data.keyword.cloud_notm}} platform"){: caption="Components of the {{site.data.keyword.cloud_notm}} platform" caption-side="bottom"}
 
 Whether you have existing code that you want to modernize and bring to the cloud or you're developing a brand new application, your developers can tap into the rapidly growing ecosystem of available services and runtime frameworks in {{site.data.keyword.Bluemix_notm}}.
 
@@ -127,7 +127,7 @@ See the following table for the list of filters that you can use to search the c
 | Networking | Products that support or augment the linking of computers so they can operate interactively |
 | Security | Products that provide the protection of stored data from theft, leakage, and deletion |
 | Storage  | Products that support data to be created, read, updated, and deleted |
-{: caption="Table 1. Options for filtering by category" caption-side="top"}
+{: caption="Options for filtering by category" caption-side="top"}
 {: #category-svc}
 {: tab-title="Category"}
 {: tab-group="cfo"}
@@ -141,7 +141,7 @@ See the following table for the list of filters that you can use to search the c
 | HIPAA Enabled | The service is designated as HIPAA ready, meaning processing, storing, and handling Protected Health Information (PHI) in the service is supported. This filter is available only if the [HIPAA Supported setting](/docs/account?topic=account-enabling-hipaa) is enabled in the account. |
 | IAM-enabled | The service is enabled to use {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM) for access control. Access policies are used to assign users and service IDs access to specific resources in an account.|
 | Service Endpoint Supported | The service can be connected to over the {{site.data.keyword.cloud_notm}} private network instead of the public network. Connecting directly to service endpoints doesn't require internet access, providing increased security. |
-{: caption="Table 1. Options for filtering by compliance" caption-side="top"}
+{: caption="Options for filtering by compliance" caption-side="top"}
 {: #compliance-svc}
 {: tab-title="Compliance"}
 {: tab-group="cfo"}
@@ -152,7 +152,7 @@ See the following table for the list of filters that you can use to search the c
 |--------------|-------|
 | Free | The service includes monthly free allowances for only Pay-As-You-Go or Subscription accounts. |
 | Lite | The pricing plan for the service is structured as a free quota. The quota might operate for a specific time period, for example, a month or on a one-off usage basis. |
-{: caption="Table 1. Options for filtering by pricing plan" caption-side="top"}
+{: caption="Options for filtering by pricing plan" caption-side="top"}
 {: #pricingplan-svc}
 {: tab-title="Pricing plan"}
 {: tab-group="cfo"}
@@ -163,7 +163,7 @@ See the following table for the list of filters that you can use to search the c
 |--------------|-------|
 | Beta | The service is available for evaluation and testing purposes. Beta services aren't intended for production use. |
 | Deprecated | Deprecated products are in the process of being withdrawn from service and are eligible to be removed after the deprecation period. |
-{: caption="Table 1. Options for filtering by release" caption-side="top"}
+{: caption="Options for filtering by release" caption-side="top"}
 {: #release-svc}
 {: tab-title="Release"}
 {: tab-group="cfo"}
@@ -175,7 +175,7 @@ See the following table for the list of filters that you can use to search the c
 | {{site.data.keyword.IBM_notm}} supported | Products that are supported by {{site.data.keyword.cloud_notm}}. |
 | Third party supported | Products that are provided by individual service entities. |
 | Community supported | Products that are provided by open source communities. |
-{: caption="Table 1. Options for filtering services by support type" caption-side="top"}
+{: caption="Options for filtering services by support type" caption-side="top"}
 {: #support-svc}
 {: tab-title="Support"}
 {: tab-group="cfo"}
@@ -188,7 +188,7 @@ See the following table for the list of filters that you can use to search the c
 | SAP certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [{{site.data.keyword.ibm_cloud_sap}}](/docs/sap).|
 | Satellite enabled | A service that is enabled for use with {{site.data.keyword.cloud_notm}} Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. For more information, see [{{site.data.keyword.cloud_notm}} {{site.data.keyword.satelliteshort}}](https://www.ibm.com/products/satellite){: external}. |
 | Quantum Technologies | A service that is compatible with quantum technologies. For more information, see [{{site.data.keyword.IBM_notm}} Quantum services](http://cloud.ibm.com/quantum){: external}. |
-{: caption="Table 1. Options for filtering by run-time environment" caption-side="top"}
+{: caption="Options for filtering by run-time environment" caption-side="top"}
 {: #supported-env-svc}
 {: tab-title="Works with"}
 {: tab-group="cfo"}
@@ -221,7 +221,7 @@ The following table lists the filter options you can use when searching the cata
 | Networking | Products that support or augment the linking of computers so they can operate interactively |
 | Security | Products that provide the protection of stored data from theft, leakage, and deletion |
 | Storage  | Products that support data to be created, read, updated, and deleted |
-{: caption="Table 2. Options for filtering by category" caption-side="top"}
+{: caption="Options for filtering by category" caption-side="top"}
 {: #swcategoryfilters}
 {: tab-title="Category"}
 {: tab-group="swfilteroptions"}
@@ -235,7 +235,7 @@ The following table lists the filter options you can use when searching the cata
 | Operators | A method of packaging and deploying a Kubernetes-native application. |
 | Server Images | A template that is used to create instances of virtual servers. |
 | Terraform | Infrastructure as code to deploy your application. |
-{: caption="Table 2. Options for filtering by delivery method" caption-side="top"}
+{: caption="Options for filtering by delivery method" caption-side="top"}
 {: #swsoftwarefilters}
 {: tab-title="Delivery method"}
 {: tab-group="swfilteroptions"}
@@ -250,7 +250,7 @@ The following table lists the filter options you can use when searching the cata
 | Red Hat OpenShift | Used to create a {{site.data.keyword.openshiftshort}} cluster of compute hosts to deploy and manage containerized apps on {{site.data.keyword.cloud_notm}}. |
 | VMware vCenter Server | Provides deployment and management of VMware virtualized environments. |
 | Virtual private cloud | Deploy and manage your server images on virtual private cloud as your infrastructure target. |
-{: caption="Table 2. Options for filtering by deployment target" caption-side="top"}
+{: caption="Options for filtering by deployment target" caption-side="top"}
 {: #swdeploymenttargetfilters}
 {: tab-title="Deployment target"}
 {: tab-group="swfilteroptions"}
@@ -261,7 +261,7 @@ The following table lists the filter options you can use when searching the cata
 |--------------|-------|
 | Free | The service includes monthly free allowances for only Pay-As-You-Go or Subscription accounts. |
 | Lite | The pricing plan for the service is structured as a free quota. The quota might operate for a specific time period, for example, a month or on a one-off usage basis. |
-{: caption="Table 2. Options for filtering software by pricing plan" caption-side="top"}
+{: caption="Options for filtering software by pricing plan" caption-side="top"}
 {: #pricingplan-software}
 {: tab-title="Pricing plan"}
 {: tab-group="swfilteroptions"}
@@ -273,7 +273,7 @@ The following table lists the filter options you can use when searching the cata
 | {{site.data.keyword.IBM_notm}} supported | Products that are supported by {{site.data.keyword.cloud_notm}}. |
 | Third party supported | Products that are provided by individual service entities. |
 | Community supported | Products that are provided by open source communities. |
-{: caption="Table 2. Options for filtering software by support type" caption-side="top"}
+{: caption="Options for filtering software by support type" caption-side="top"}
 {: #support-type-software}
 {: tab-title="Support"}
 {: tab-group="swfilteroptions"}
@@ -286,7 +286,7 @@ The following table lists the filter options you can use when searching the cata
 | SAP Certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [{{site.data.keyword.ibm_cloud_sap}}](/docs/sap).|
 | Satellite Enabled | A service that is enabled for use with {{site.data.keyword.cloud_notm}} Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. For more information, see [{{site.data.keyword.cloud_notm}} {{site.data.keyword.satelliteshort}}](https://www.ibm.com/products/satellite){: external}. |
 | Quantum Technologies | A service that is compatible with quantum technologies. For more information, see [{{site.data.keyword.IBM_notm}} Quantum services](http://cloud.ibm.com/quantum){: external}. |
-{: caption="Table 2. Options for filtering software by run-time environment" caption-side="top"}
+{: caption="Options for filtering software by run-time environment" caption-side="top"}
 {: #supported-env-software}
 {: tab-title="Works with"}
 {: tab-group="swfilteroptions"}
@@ -320,7 +320,7 @@ The following table lists the filter options that you can use when searching the
 | Networking | Products that support or augment the linking of computers so they can operate interactively |
 | Security | Products that provide the protection of stored data from theft, leakage, and deletion |
 | Storage  | Products that support data to be created, read, updated, and deleted |
-{: caption="Table 3. Options for filtering by category" caption-side="top"}
+{: caption="Options for filtering by category" caption-side="top"}
 
 You can also scope your view of the catalog by using the **Provider** filter to browse by individual providers and the **Industry** filter to view products catered for certain industries.
 {: tip}

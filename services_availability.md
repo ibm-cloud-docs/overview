@@ -34,7 +34,7 @@ The following table lists the products that {{site.data.keyword.IBM}} will not w
 | {{site.data.keyword.containershort_notm}} | 2027-12-31 |
 | {{site.data.keyword.objectstorageshort}} | 2026-12-31 |
 | {{site.data.keyword.powerSysShort}} | 2026-12-31 |
-{: caption="Table 1. Product support" caption-side="top"}
+{: caption="Product support" caption-side="top"}
 
 For products that are not included in the previous table, {{site.data.keyword.IBM_notm}} will provide at least 30 days notice of its intention to discontinue or replace a generally available product. If no replacement is provided, {{site.data.keyword.IBM_notm}} will use commercially reasonable means to continue the operation and support of previously deployed instances of the product for a period of at least 12 months.
 

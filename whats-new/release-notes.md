@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2024-10-03"
+lastupdated: "2024-10-10"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -1464,7 +1464,7 @@ Updated global location names
    | Germany                        | Frankfurt                 | eu-de    |
    | Sydney                         | Sydney                    | au-syd   |
    | AP North                       | Tokyo                     | jp-tok   |
-   {: caption="Table 1. New location names" caption-side="top"}
+   {: caption="New location names" caption-side="top"}
 
 ## October 2018
 {: #overview-oct-2018}

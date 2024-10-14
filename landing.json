@@ -1,60 +1,54 @@
 {
+  "version": 2,
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2024-06-17",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
-  "section_devtools": {
-    "api": "/docs?tab=api-docs&category=platform_services",
-    "cli": "/docs?tab=develop",
-    "terraform": "https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs"
-  },
-  "section_recommended": [
-    {
-      "title": "What's included in the platform?",
-      "description": "The platform consists of a network of interrelated components that work together to provide a consistent and dependable cloud experience to support your app development needs.",
-      "href": "/docs/overview?topic=overview-whatis-platform#built-into-platform"
-    },
-    {
-      "title": "Try out IBM Cloud, for free",
-      "description": "Get up and running quickly by setting up an account and exploring free products with this short tutorial.",
-      "href": "/docs/overview?topic=overview-tutorial-try-for-free"
-    },
-    {
-      "title": "Service and infrastructure by location",
-      "description": "Check out the regions and data centers that IBM Cloud products are available.",
-      "href": "/docs/overview?topic=overview-services_region"
-    }
-  ],
-  "section_videos": [
-    {
-      "title": "Accelerating and maintaining regulated standards at scale",
-      "href": "/docs/overview?topic=overview-secure-enterprise",
-      "thumbnail": "/images/enterprise.png"
-    }
-  ],
-  "section_learn": {
-    "developer": "https://developer.ibm.com/depmodels/cloud/",
-    "architecture": "https://www.ibm.com/architectures/hybrid",
-    "training": "https://www.ibm.com/training/cloud",
-    "community": "https://community.ibm.com/community/user/cloud/home"
-  },
-  "section_updates": {
-    "view_more": "/docs/overview?topic=overview-whatsnew",
-    "tiles": [
+  "product_page": "https://www.ibm.com/cloud",
+  "console_page": "/",
+  "section_topics": {
+    "links": [
       {
-        "date": "03 October 2024",
-        "title": "Project widget updates",
-        "description": "From the Overview tab in a project, you can now view the resource summary and configuration usage widgets to quickly get an overview of the resources and usage in your project. These widgets provide a snapshot of key metrics, such as cost and counts of resources by category, simplifying the process of monitoring and managing resources within a project."
+        "title": "What's included in the platform?",
+        "href": "/docs/overview?topic=overview-whatis-platform#built-into-platform"
       },
       {
-        "date": "07 August 2024",
-        "title": "Experimental: Access resources from the Resources tab",
-        "description": "A link to resources is now available from the Resources tab in a project. If the resource exists in a different account, the console automatically switches to that account if you have access to it."
+        "title": "Try out IBM Cloud, for free",
+        "href": "/docs/overview?topic=overview-tutorial-try-for-free"
       },
       {
-        "date": "07 August 2024",
-        "title": "View counts for all resources in the resource summary widget",
-        "description": "The resource summary widget for a project now shows resource counts for all resources in a project by default."
+        "title": "Getting started on IBM Cloud checklist",
+        "href": "/docs/overview?topic=overview-get-started-checklist"
+      },
+      {
+        "title": "Service and infrastructure by location",
+        "href": "/docs/overview?topic=overview-services_region"
+      },
+      {
+        "title": "Running secure enterprise workloads on IBM Cloud",
+        "href": "/docs/overview?topic=overview-secure-enterprise"
       }
     ]
+  },
+  "section_highlights": [
+    {
+      "title": "Accelerating and maintaining your regulated standards at scale",
+      "description": "Learn about how IBM Cloud can help meet your requirements for scale, security, infrastructure, and governance.",
+      "href": "https://cdnapisec.kaltura.com/html5/html5lib/v2.101/mwEmbedFrame.php/p/1773841/uiconf_id/27941801/entry_id/1_u5wb1ug0?wid=_1773841&iframeembed=true&entry_id=1_u5wb1ug0",
+      "type": "video"
+    },
+    {
+      "title": "IBM Center for Cloud Training",
+      "description": "Get access to no-cost, role-based learning paths to help guide you toward achieving certifications.",
+      "href": "https://www.ibm.com/training/cloud",
+      "type": "training",
+      "recommended": true
+    }
+  ],
+  "section_devtools": {
+      "api": "/docs?tab=api-docs&category=platform_services",
+      "cli": "/docs/cli?topic=cli-getting-started",
+      "terraform": "https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs"
+    },
+  "section_updates": {
+      "view_more": "/docs/overview?topic=overview-whatsnew"
   }
 }

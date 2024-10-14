@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2024
-lastupdated: "2024-01-25"
+lastupdated: "2024-10-10"
 
 keywords: public peering
 
@@ -68,7 +68,7 @@ The following table shows the current public peer exchanges.
 | United States | Ashburn    | Virginia        | Equinix Ashburn     |
 | United States | Ashburn    | Virginia        | LINX NoVa           |
 {: class="simple-tab-table"}
-{: caption="Table 1. Public peer exchanges for North and South America" caption-side="top"}
+{: caption="Public peer exchanges for North and South America" caption-side="top"}
 {: tab-group="public-peer-exchanges"}
 {: #NA}
 {: tab-title="Americas"}
@@ -97,7 +97,7 @@ The following table shows the current public peer exchanges.
 | Singapore                     | Singapore       | Singapore          | Equinix Singapore |
 | Taiwan                        | Taipei          | Taipei             | TPIX-TW          |
 {: class="simple-tab-table"}
-{: caption="Table 2. Public peer exchanges for Asia Pacific" caption-side="top"}
+{: caption="Public peer exchanges for Asia Pacific" caption-side="top"}
 {: tab-group="public-peer-exchanges"}
 {: #AP}
 {: tab-title="Asia Pacific"}
@@ -117,7 +117,7 @@ The following table shows the current public peer exchanges.
 | Spain      | Madrid | Madrid | ESPANIX Madrid Upper LAN |
 | Spain      | Madrid | Madrid | Equinix Madrid |
 {: class="simple-tab-table"}
-{: caption="Table 3. Public peer exchanges for Europe" caption-side="top"}
+{: caption="Public peer exchanges for Europe" caption-side="top"}
 {: tab-group="public-peer-exchanges"}
 {: #EU}
 {: tab-title="Europe"}

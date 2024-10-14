@@ -2,7 +2,7 @@
 
 copyright:
   years: 2014, 2022
-lastupdated: "2022-11-17"
+lastupdated: "2024-10-10"
 
 keywords: translation, national language support
 
@@ -36,7 +36,7 @@ The following table lists the supported national languages and language codes fo
 | Spanish | es |
 | Simplified Chinese | zh_CN |
 | Traditional Chinese | zh_TW |
-{: caption="Table 1. Supported national languages and language codes" caption-side="top"}
+{: caption="Supported national languages and language codes" caption-side="top"}
 
 ## National language support for support
 {: #support-language-support}

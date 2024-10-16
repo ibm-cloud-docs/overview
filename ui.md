@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2024
-lastupdated: "2024-10-03"
+lastupdated: "2024-10-15"
 
 keywords: ui, platform, console, using the console
 
@@ -23,7 +23,7 @@ The [{{site.data.keyword.cloud}} console](https://cloud.ibm.com){: external} is 
 
 When you log in to {{site.data.keyword.cloud_notm}}, your dashboard is displayed, which shows widgets that summarize the status of your account. If you're interested in customizing your dashboard, see [Working with scoped dashboards](/docs/account?topic=account-custom-dashboard).
 
-You can navigate the console by using the options from the console menu bar. Use the following options to explore the console:
+You can navigate to general areas of the console by using the following options:
 
 * Use the **Catalog** link to explore over 350 products that offer options for compute, networking, security management, end-to-end developer solutions, and more.
 * Click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Docs** to access the product documentation.

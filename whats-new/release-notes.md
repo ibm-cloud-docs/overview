@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2024-10-15"
+lastupdated: "2024-10-16"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -24,7 +24,22 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 ## October 2024
 {: #october-2024}
 
+### 17 October 2024
+{: #overview-october1724}
+{: release-note}
 
+
+Consolidated and simplified {{site.data.keyword.cloud_notm}} platform
+:   {{site.data.keyword.cloud_notm}} is bringing simplification to your door. The {{site.data.keyword.cloud_notm}} platform recently consolidated and simplified services and features. Services and areas of the console are now unified into six different hubs: Infrastructure, Containers, Automation, Databases, Observability, and Security with the goal to bundle together related services to make it easier to find, deploy, and use them. Users can now easily search for new services to accelerate business-critical workloads and better manage what is already running to help ensure their business stays on top of its velocity. For more information, see [Navigating the {{site.data.keyword.cloud_notm}} console](/docs/overview?topic=overview-ui#navoptions).
+
+### 15 October 2024
+{: #overview-october1524}
+{: release-note}
+
+Improving the account and enterprise documentation experience 
+:   Easily navigate enterprise information with the latest update to {{site.data.keyword.cloud_notm}} docs. Now, you can browse key information about enterprises in one location. The documentation that supports enterprise accounts is moved to [enterprise management](/docs/enterprise-management). This includes everything you need to successfully create and manage enterprise accounts, including billing and usage and getting support.
+
+A simplified account documentation experience is now available. You can find all information related to your account in the updated [account documentation](/docs/account), including billing and usage and getting support.
 
 ### 03 October 2024
 {: #overview-october0324}

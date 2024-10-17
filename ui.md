@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2024
-lastupdated: "2024-10-16"
+lastupdated: "2024-10-17"
 
 keywords: ui, platform, console, using the console
 
@@ -54,7 +54,7 @@ In addition to the console, [command-line interfaces (CLIs)](/docs/cli?topic=cli
 ## Can't find what you're looking for? 
 {: #navoptions}
 
-The {{site.data.keyword.cloud_notm}} platform recently consolidated services and features to provide you with a more simplified and customized experience. Services and areas of the console are now unified into six different hubs: Infrastructure, Containers, Automation, Databases, Observability, and Security. The goal of these changes is to bundle together related services to make it easier to find, deploy, and use them. Use our mapping and guidance to see what's changed in the {{site.data.keyword.cloud_notm}} catalog and console navigation to find what you're looking for. 
+The {{site.data.keyword.cloud_notm}} platform recently consolidated services and features to provide you with a more simplified and customized experience. Services and areas of the console are now unified into the following hubs: Infrastructure, Containers, Automation, Observability, and Security. The goal of these changes is to bundle together related services to make it easier to find, deploy, and use them. Use our mapping and guidance to see what's changed in the {{site.data.keyword.cloud_notm}} catalog and console navigation to find what you're looking for. 
 
 ### Streamlined and dynamic {{site.data.keyword.cloud_notm}} catalog 
 {: #catalog-changes-ps}
@@ -67,15 +67,12 @@ In addition to the new navigation changes, we updated the discoverability and ma
 ### Simplified access to your workloads
 {: #console-nav-ps}
 
-![The image shows the navigation menu for the {{site.data.keyword.cloud_notm}} console. ](images/ps_nav.svg "Updated navigation for the {{site.data.keyword.cloud_notm}} console"){: caption="Updated navigation for the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
+
 
 From the **Navigation Menu** ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu"), you can access areas of {{site.data.keyword.cloud_notm}} that are focused on specific use cases and industries. Use the following options to explore the menu: 
 
 Containers
-:   The previous **Kubernetes**, **OpenShift**, **Code Engine**, and **Container Registry** menu options are now nested within **Containers**. 
-
-Databases
-:   All of your database needs are now centralized into one location. From **Databases**, you can create and manage relational databases ({{site.data.keyword.databases-for-mysql}}, Db2, {{site.data.keyword.databases-for-postgresql}}, and Databases for EDB); auxiliary databases ({{site.data.keyword.dashdbshort_notm}}, {{site.data.keyword.databases-for-etcd}}, and {{site.data.keyword.databases-for-redis}}); and non-relational databases ({{site.data.keyword.databases-for-elasticsearch}}, {{site.data.keyword.databases-for-mongodb}}, and {{site.data.keyword.cloudant}}). 
+:   The previous **Kubernetes**, **OpenShift**, **Code Engine**, and **Container Registry** menu options are now nested within **Containers**.
 
 Infrastructure
 :   The previous **Classic Infrastructure**, **VPC Infrastructure**, and **Interconnectivity** menu options are now nested within **Infrastructure**.

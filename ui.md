@@ -67,7 +67,7 @@ In addition to the new navigation changes, we updated the discoverability and ma
 ### Simplified access to your workloads
 {: #console-nav-ps}
 
-
+![The image shows the navigation menu for the {{site.data.keyword.cloud_notm}} console. ](images/ps_nav_nodb.svg "Updated navigation for the {{site.data.keyword.cloud_notm}} console"){: caption="Updated navigation for the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
 
 From the **Navigation Menu** ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu"), you can access areas of {{site.data.keyword.cloud_notm}} that are focused on specific use cases and industries. Use the following options to explore the menu: 
 

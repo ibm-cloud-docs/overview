@@ -2,7 +2,7 @@
 
 copyright:
   years: 2014, 2022
-lastupdated: "2024-10-10"
+lastupdated: "2024-10-22"
 
 keywords: translation, national language support
 
@@ -18,9 +18,11 @@ subcollection: overview
 {{site.data.keyword.cloud}} supports nine national languages other than English. However, depending on the release level of the products included in {{site.data.keyword.cloud_notm}}, the content that is provided might not be translated.
 {: shortdesc}
 
-The {{site.data.keyword.cloud_notm}} console and the Support Center display content according to your browser's language setting.
+The {{site.data.keyword.cloud_notm}} console and the Support Center display content according to your browser's language setting. You can switch languages for the console user interface and Support Center by going to your browser's settings page and changing the language.
 
 The {{site.data.keyword.cloud_notm}} docs are machine translated. You can switch between languages by using the **Language** switcher at the beginning of each page. The language that you select persists between sessions. If it's the first time you're viewing the docs in a particular browser, the docs display the content according to your browser's language setting unless the URL includes a parameter setting the language.
+
+The [{{site.data.keyword.cloud_notm}} AI assistant](/docs/overview?topic=overview-ask-ai-assistant) supports all languages that are supported by {{site.data.keyword.cloud_notm}} including: Deutsch, English, Español, Français, Italiano, 日本語, 한국어, Português/Brasil, 简体中文, and 繁體中文. To change the language that the AI assistant reponds in, you must ask a question in one of the supported languages first. The browser language setting does not affect generated responses, so simply ask your question in one of the supported languages and get a response back in that same language.
 
 The following table lists the supported national languages and language codes for {{site.data.keyword.cloud_notm}}.
 

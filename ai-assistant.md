@@ -29,6 +29,7 @@ No matter where you are working in the {{site.data.keyword.cloud_notm}} console,
 You can start the AI assistant from the {{site.data.keyword.cloud_notm}} console header from the Help menu anytime you want to ask a question, and it follows along with you in the console until you close it. With each question that you ask, source citations from the {{site.data.keyword.cloud_notm}} docs are provided to ensure that you have access to additional information and the ability to verify responses.
 
 The AI assistant supports all [national languages supported by {{site.data.keyword.cloud_notm}}](/docs/overview?topic=overview-language-support) including Brazilian Portuguese, English, French, German, Japanese, Korean, Italian, Spanish, Simplified Chinese, and Traditional Chinese. To get responses from the AI assistant in one of the supported languages, ask your question in one of the languages and get an answer back in that same language.
+{: note}
 
 {{site.data.keyword.cloud_notm}} does not gather any personal identifiable information when you are using the AI feature and it is not connected to or associated with your account. When you query the AI assistant, it is not being trained based on user input and does not associate any queries with your identity or account. {{site.data.keyword.IBM_notm}} endeavors to develop AI in accordance with its published principles of trust and transparency. For more information, see [AI Ethics](https://www.ibm.com/impact/ai-ethics){: external}.
 

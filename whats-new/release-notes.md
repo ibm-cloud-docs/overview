@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2024-10-21"
+lastupdated: "2024-11-01"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -31,7 +31,7 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 Consolidated and simplified {{site.data.keyword.cloud_notm}} platform
 :   {{site.data.keyword.cloud_notm}} is bringing simplification to your door. The {{site.data.keyword.cloud_notm}} platform recently consolidated and simplified services and features. Services and areas of the console are now unified into the following hubs: Infrastructure, Containers, Automation, Databases, Observability, and Security with the goal to bundle together related services to make it easier to find, deploy, and use them. Users can now easily search for new services to accelerate business-critical workloads and better manage what is already running to help ensure their business stays on top of its velocity. For more information, see [Navigating the {{site.data.keyword.cloud_notm}} console](/docs/overview?topic=overview-ui#navoptions).
 
-Improving the account and enterprise documentation experience 
+Improving the account and enterprise documentation experience
 :   Easily navigate enterprise information with the latest update to {{site.data.keyword.cloud_notm}} docs. Now, you can browse key information about enterprises in one location. The documentation that supports enterprise accounts is moved to [enterprise management](/docs/enterprise-management). This includes everything you need to successfully create and manage enterprise accounts, including billing and usage and getting support.
 
    A simplified account documentation experience is now available. You can find all information related to your account in the updated [account documentation](/docs/account), including billing and usage and getting support.
@@ -652,7 +652,7 @@ Data centers closed in 2021
     - Oslo: OSL01
     - Washington DC: WDC01 – POD3 and POD4
 
-    For more information about upcoming data center closures, see [Data center consolidations](/docs/get-support?topic=get-support-dc-closure).
+    For more information about upcoming data center closures, see [Data center consolidations](/docs/account?topic=account-dc-closure).
 
 ### 1 November 2021
 {: #overview-nov0121}
@@ -773,7 +773,7 @@ Assigning access to federated users and compute resources by using trusted profi
 {: release-note}
 
 Scoping support cases to what matters to you
-:   When you create a case in the {{site.data.keyword.Bluemix_notm}} Support Center, you now have options to narrow the subject of your case to a specific topic that's most closely related to the issue you're experiencing. As a result, you can ensure that your support case gets routed to the appropriate support engineer and resolved as efficiently as possible. For more information, see [Creating support cases](/docs/get-support?topic=get-support-open-case&interface=ui#creating-support-case).
+:   When you create a case in the {{site.data.keyword.Bluemix_notm}} Support Center, you now have options to narrow the subject of your case to a specific topic that's most closely related to the issue you're experiencing. As a result, you can ensure that your support case gets routed to the appropriate support engineer and resolved as efficiently as possible. For more information, see [Creating support cases](/docs/account?topic=account-open-case&interface=ui#creating-support-case).
 
 
 ### 14 July 2021
@@ -846,7 +846,7 @@ Upcoming changes to the user invitation flow
 
    Concerned about how this change will impact your automation? To avoid any disruption to on-going workflows, you need to check your scripts:
 
-   * To accept invitations in the CLI, existing members of {{site.data.keyword.Bluemix}} must use the [**`ibmcloud login`**](//docs/cli?topic=cli-ibmcloud_cli#ibmcloud_login) command. They need to target the account that they are invited to join and use the new `--accept` flag.
+   * To accept invitations in the CLI, existing members of {{site.data.keyword.Bluemix}} must use the [**`ibmcloud login`**](/docs/cli?topic=cli-ibmcloud_cli#ibmcloud_login) command. They need to target the account that they are invited to join and use the new `--accept` flag.
 
    As an account administrator, you may want to remind your users to accept these invitations upon initial change of this behavior.
    {: note}
@@ -999,7 +999,7 @@ Data centers closed in 2020
     - Seattle: SEA01
     - Legacy Planet: D2 (colocation in Dallas), D6 and D7 (Dallas), H2 (Houston)
 
-    For more information about upcoming data center closures, see [Data center consolidations](/docs/get-support?topic=get-support-dc-closure).
+    For more information about upcoming data center closures, see [Data center consolidations](/docs/account?topic=account-dc-closure).
 
 ### 25 November 2020
 {: #overview-nov2520}
@@ -1337,7 +1337,7 @@ Redirecting SoftLayer to {{site.data.keyword.Bluemix_notm}}
    * Subscription credit is aggregated into a credit pool and shared with all accounts in the enterprise. Not only is tracking your subscriptions easier, but you can get fewer, larger subscriptions for a better discount because the credit is shared.
    * Top-down usage reporting gives you a unified view of usage costs from all accounts, organized according to your enterprise hierarchy.
 
-   If you have multiple accounts, at least one of which is a Subscription account, you can create an enterprise. See [What is an enterprise?](/docs/secure-enterprise?topic=secure-enterprise-what-is-enterprise) and [Introducing IBM Cloud Enterprises](https://www.ibm.com/blog/announcement/introducing-ibm-cloud-enterprises/){: external}  for more information.
+   If you have multiple accounts, at least one of which is a Subscription account, you can create an enterprise. See [What is an enterprise?](/docs/enterprise-management?topic=enterprise-management-what-is-enterprise) and [Introducing IBM Cloud Enterprises](https://www.ibm.com/blog/announcement/introducing-ibm-cloud-enterprises/){: external}  for more information.
 
 Subscriptions page for tracking subscription credit spending
 :   If you have a Subscription account, you can now view all of your subscriptions and analyze your credit spending on the Subscriptions page. You get a high-level view of the total subscription credit in your account and detailed charts that visualize trends such as your credit burndown and monthly spending. You can also view credit from any promotions in your account. For more information, see [Managing subscriptions](/docs/billing-usage?topic=billing-usage-subscriptions).

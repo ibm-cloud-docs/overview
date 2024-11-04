@@ -400,7 +400,7 @@ Use the {{site.data.keyword.at_full}} service to monitor the activity of your {{
 ## Viewing status
 {: #status-service}
 
-The {{site.data.keyword.Bluemix_notm}} Status page is the central place to find all unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix_notm}} platform. You can filter these categories by selecting specific locations, components, types of ongoing events, or by using keyword searches. For more information, see [Viewing cloud status](/docs/get-support?topic=get-support-viewing-cloud-status).
+The {{site.data.keyword.Bluemix_notm}} Status page is the central place to find all unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix_notm}} platform. You can filter these categories by selecting specific locations, components, types of ongoing events, or by using keyword searches. For more information, see [Viewing cloud status](/docs/account?topic=account-viewing-cloud-status&interface=ui#view-status-page).
 
 
 ## Notification preferences

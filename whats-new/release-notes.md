@@ -617,7 +617,7 @@ Use feature and subscription codes to create new accounts
 {: release-note}
 
 365 days of status history is now available
-:   You can now easily view events that were completed in the past year on the {{site.data.keyword.cloud_notm}} Status page. Previously, you could view only the history of completed events from the past month. For more information about the {{site.data.keyword.cloud_notm}} Status page, see [Viewing cloud status](/docs/get-support?topic=get-support-viewing-cloud-status).
+:   You can now easily view events that were completed in the past year on the {{site.data.keyword.cloud_notm}} Status page. Previously, you could view only the history of completed events from the past month. For more information about the {{site.data.keyword.cloud_notm}} Status page, see [Viewing cloud status](/docs/account?topic=account-viewing-cloud-status&interface=ui#view-status-page).
 
 ### 7 February 2022
 {: #overview-feb0722}
@@ -716,7 +716,7 @@ Assigning access policies based on resource location
 Checking the root cause of an incident
 :   You can now visit the {{site.data.keyword.Bluemix_notm}} [Incident reports page](/status/incident-reports){: external} to check the health of an {{site.data.keyword.Bluemix_notm}} service. You can find Customer Incident Reports (CIR) on the page, which provide Root Cause Analysis (RCA) for past major outages. You are able to view and download the incident reports from the page about any events that affect {{site.data.keyword.Bluemix_notm}} availability. These reports are in PDF file formats and available for 5 years starting from the date when the event happened.
 
-   For more information, see [Checking Incident reports](/docs/get-support?topic=get-support-viewing-cloud-status#status-incident-report).
+   For more information, see [Checking Incident reports](/docs/account?topic=account-viewing-cloud-status&interface=ui#view-status-page#status-incident-report).
 
 ### 01 September 2021
 {: #overview-sep0121}
@@ -983,7 +983,7 @@ Enhanced payments & invoicing for new US-based Pay-As-You-Go accounts with credi
 {: release-note}
 
 Enhancements to the {{site.data.keyword.Bluemix_notm}} Status page
-:   You can now experience an enhanced version of the Status page in the {{site.data.keyword.Bluemix_notm}} console that offers reduced time to visibility of issues, as well as more detailed and up-to-date status information. For more information, see [Viewing cloud status](/docs/get-support?topic=get-support-viewing-cloud-status).
+:   You can now experience an enhanced version of the Status page in the {{site.data.keyword.Bluemix_notm}} console that offers reduced time to visibility of issues, as well as more detailed and up-to-date status information. For more information, see [Viewing cloud status](/docs/account?topic=account-viewing-cloud-status&interface=ui#view-status-page).
 
 ## November 2020
 {: #overview-nov-2020}

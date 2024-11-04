@@ -3,7 +3,7 @@
 
 copyright:
   years: 2023, 2024
-lastupdated: "2024-10-10"
+lastupdated: "2024-11-04"
 
 keywords: deployable architecture, secure enterprise workloads
 
@@ -100,7 +100,7 @@ To learn more, see the [DevSecOps documentation](/docs/devsecops?topic=devsecops
 ## Assessing and maintaining compliance of enterprise workloads
 {: #assess-compliance}
 
-Although {{site.data.keyword.cloud_notm}} reduces the time and complexity of setting up a compliant enterprise application, you still need to ensure that you're maintaining compliance. To do so, you can use the {{site.data.keyword.compliance_short}} to run [automatic evaluations](/docs/security-compliance?topic=security-compliance-scan-resources) on your resource configurations. The evaluation results are provided in the dashboard of the {{site.data.keyword.compliance_short}} or you can get notified of changes. You are able to quickly assess the risk to your organization, fix issues, and generate reports so that you're always audit-ready.
+Although {{site.data.keyword.cloud_notm}} reduces the time and complexity of setting up a compliant enterprise application, you still need to ensure that you're maintaining compliance. To do so, you can use the {{site.data.keyword.compliance_short}} to run automatic evaluations on your resource configurations. The evaluation results are provided in the dashboard of the {{site.data.keyword.compliance_short}} or you can get notified of changes. You are able to quickly assess the risk to your organization, fix issues, and generate reports so that you're always audit-ready.
 
 ![A visual representation of the Security and Compliance Center dashboard](images/dashboard.svg){: caption="Example Security and Compliance Center dashboard" caption-side="bottom"}
 

@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2024-11-04"
+lastupdated: "2024-11-05"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -133,7 +133,7 @@ Increased limits for enterprises
 {: release-note}
 
 Upgrade your Pay-As-You-Go account
-:   You can now create an enterprise from Pay-As-You-Go accounts that signed up with a credit card on cloud.ibm.com. For more information, see [Billing FAQs](/docs/billing-usage?topic=billing-usage-billusagefaqs#paygo-enterprise).
+:   You can now create an enterprise from Pay-As-You-Go accounts that signed up with a credit card on cloud.ibm.com. For more information, see [Billing FAQs](/docs/account?topic=account-billusagefaqs#paygo-enterprise).
 
 ## February 2024
 {: #feb-2024}
@@ -412,7 +412,7 @@ IAM Policy Management API V2 release
 {: release-note}
 
 Save and share multiple estimates by using the {{site.data.keyword.cloud_notm}} Cost Estimator
-:   The {{site.data.keyword.cloud_notm}} Cost Estimator now allows a customer to save multiple estimates to their account and share those estimates with users that belong to the same account. For more information, see [Estimating your costs](/docs/billing-usage?topic=billing-usage-cost).
+:   The {{site.data.keyword.cloud_notm}} Cost Estimator now allows a customer to save multiple estimates to their account and share those estimates with users that belong to the same account. For more information, see [Estimating your costs](/docs/account?topic=account-cost).
 
 ## December 2022
 {: #december-2022}
@@ -716,7 +716,7 @@ Assigning access policies based on resource location
 Checking the root cause of an incident
 :   You can now visit the {{site.data.keyword.Bluemix_notm}} [Incident reports page](/status/incident-reports){: external} to check the health of an {{site.data.keyword.Bluemix_notm}} service. You can find Customer Incident Reports (CIR) on the page, which provide Root Cause Analysis (RCA) for past major outages. You are able to view and download the incident reports from the page about any events that affect {{site.data.keyword.Bluemix_notm}} availability. These reports are in PDF file formats and available for 5 years starting from the date when the event happened.
 
-   For more information, see [Checking Incident reports](/docs/account?topic=account-viewing-cloud-status&interface=ui#view-status-page#status-incident-report).
+   For more information, see [Checking Incident reports](/docs/account?topic=account-viewing-cloud-status#status-incident-report).
 
 ### 01 September 2021
 {: #overview-sep0121}
@@ -922,7 +922,7 @@ Managing product availability in catalogs by location
 Pay as you go with Committed Use pricing model
 :   Customers with a Subscription account can use the new pricing model, {{site.data.keyword.Bluemix_notm}} Pay as you go with Committed Use. The new pricing model provides you with additional benefits as you navigate and build on {{site.data.keyword.Bluemix_notm}}.
 
-   With this pricing model, you commit to spend a certain amount and receive discounts across the entire platform. You are billed monthly based on your usage, and unlike a subscription, you continue to receive a discount even after you reach your committed amount. For more information, see [Pay as you go with Committed Use pricing model](/docs/billing-usage?topic=billing-usage-committed-use).
+   With this pricing model, you commit to spend a certain amount and receive discounts across the entire platform. You are billed monthly based on your usage, and unlike a subscription, you continue to receive a discount even after you reach your committed amount. For more information, see [Pay as you go with Committed Use pricing model](/docs/account?topic=account-committed-use).
 
 ## December 2020
 {: #overview-dec-2020}
@@ -1280,7 +1280,7 @@ Bitnami Helm charts
 {: release-note}
 
 Apply promo codes to your account and services
-:   {{site.data.keyword.Bluemix_notm}} now has promo codes that you can use to get credit toward your account and services. Promo codes are provided by {{site.data.keyword.Bluemix_notm}} sales on a limited basis to customers with billable accounts. You can apply promo codes from a new Promotions page or from the catalog when you create a resource in the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Applying promo codes](/docs/billing-usage?topic=billing-usage-applying-promo-codes).
+:   {{site.data.keyword.Bluemix_notm}} now has promo codes that you can use to get credit toward your account and services. Promo codes are provided by {{site.data.keyword.Bluemix_notm}} sales on a limited basis to customers with billable accounts. You can apply promo codes from a new Promotions page or from the catalog when you create a resource in the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Applying promo codes](/docs/account?topic=account-applying-promo-codes).
 
 Download access reports for specific resources
 :   Have you ever wanted to get a quick view of all users, service IDs, access groups, and services that have access to a specific resource in your account? Well, now you can download a report that includes details about who can access your resource. From the My resources page in your account, you can select the **Export access report** option in the row for an IAM-enabled resource to get the report. For more information about the types of data available in the report and who has access to view the report, see [Exporting an access report](/docs/account?topic=account-access-report).
@@ -1313,7 +1313,7 @@ Cloud Paks and Schematics templates
 Term-based model for {{site.data.keyword.Bluemix_notm}} support subscriptions
 :   New subscriptions for {{site.data.keyword.Bluemix_notm}} support now follow the same term-based model as subscriptions for {{site.data.keyword.Bluemix_notm}} platform services. Rather than credit being valid in monthly increments, credit is now available up front for an entire subscription term, which can be up to one year's worth of credit. You now have more flexibility to use your support credit when you need it, and the chances of incurring monthly overages are reduced. When you buy or renew a support subscription, any existing active support subscriptions are converted to this new flexible model for the remainder of their term. For more information, see [Support subscriptions](/docs/account?topic=account-accounts#support-subscriptions).
 
-   You can also now view your support subscriptions in the {{site.data.keyword.Bluemix_notm}} console so you can keep track of your available credit. For more information, see [Viewing your support costs](/docs/billing-usage?topic=billing-usage-support).
+   You can also now view your support subscriptions in the {{site.data.keyword.Bluemix_notm}} console so you can keep track of your available credit. For more information, see [Viewing your support costs](/docs/account?topic=account-support).
 
 
 ### 12 September 2019
@@ -1340,7 +1340,7 @@ Redirecting SoftLayer to {{site.data.keyword.Bluemix_notm}}
    If you have multiple accounts, at least one of which is a Subscription account, you can create an enterprise. See [What is an enterprise?](/docs/enterprise-management?topic=enterprise-management-what-is-enterprise) and [Introducing IBM Cloud Enterprises](https://www.ibm.com/blog/announcement/introducing-ibm-cloud-enterprises/){: external}  for more information.
 
 Subscriptions page for tracking subscription credit spending
-:   If you have a Subscription account, you can now view all of your subscriptions and analyze your credit spending on the Subscriptions page. You get a high-level view of the total subscription credit in your account and detailed charts that visualize trends such as your credit burndown and monthly spending. You can also view credit from any promotions in your account. For more information, see [Managing subscriptions](/docs/billing-usage?topic=billing-usage-subscriptions).
+:   If you have a Subscription account, you can now view all of your subscriptions and analyze your credit spending on the Subscriptions page. You get a high-level view of the total subscription credit in your account and detailed charts that visualize trends such as your credit burndown and monthly spending. You can also view credit from any promotions in your account. For more information, see [Managing subscriptions](/docs/account?topic=account-subscriptions).
 
    Additionally, to better reflect their usage, codes that you apply to add subscription credit to your account are now called subscription codes rather than feature codes.
 
@@ -1456,7 +1456,7 @@ Organize your resources with tags
 :   Tags are now available for you to add to your resources, like Cloud Object Storage, to help you manage resources and find the resources that are the most relevant to you. For example, if you have hundreds of resources and you want to differentiate between ones that are paid the same way, you could tag them with `costcenter:location01`. Or, if you have a team that is working on a couple of resources repeatedly, you can use something like `team-blue`. You can also filter the My resources page by tags to quickly organize and find the resources that you need. For more information, see [Working with tags](/docs/account?topic=account-tag) and [Platform Tagging on the Enhanced {{site.data.keyword.Bluemix_notm}} Platform](https://www.ibm.com/blog/announcement/platform-tagging-on-the-enhanced-ibm-cloud-platform/){: external}.
 
 Get accurate monthly costs with the cost estimator
-:   To help you decide and analyze what services you'd like to purchase, you can use the cost estimator. Now, you can go through the console and select each service you'd like to have, and add all of the costs in an easy to use tool. You can even enter projected data usages, lookups per second, writes per second, and queries per second to get a more accurate estimation of your monthly expenditures. You can use the cost estimator with each catalog service you select, or you can click the Cost Estimator icon ![Cost Estimator icon](../icons/calculator.svg "Cost Estimator") in the console menu to get a summary of your estimated costs. For more information, see [Estimating your costs](/docs/billing-usage?topic=billing-usage-cost).
+:   To help you decide and analyze what services you'd like to purchase, you can use the cost estimator. Now, you can go through the console and select each service you'd like to have, and add all of the costs in an easy to use tool. You can even enter projected data usages, lookups per second, writes per second, and queries per second to get a more accurate estimation of your monthly expenditures. You can use the cost estimator with each catalog service you select, or you can click the Cost Estimator icon ![Cost Estimator icon](../icons/calculator.svg "Cost Estimator") in the console menu to get a summary of your estimated costs. For more information, see [Estimating your costs](/docs/account?topic=account-cost).
 
 
 ### 01 November 2018
@@ -1533,7 +1533,7 @@ Protect your service IDs and API keys
 {: release-note}
 
 Upgrade your Lite account to a Subscription account
-:   You can now upgrade your Lite account to a Subscription account directly from the {{site.data.keyword.Bluemix_notm}} console. With a Subscription account, you can use both platform and infrastructure offerings, and take advantage of discounted pricing by making a monthly spending and term commitment. You can also avoid surprises with fixed billing on a monthly payment schedule, but with the flexibility to order more or less based on your needs. For more information, see [FAQS for billing and usage](/docs/billing-usage?topic=billing-usage-billusagefaqs).
+:   You can now upgrade your Lite account to a Subscription account directly from the {{site.data.keyword.Bluemix_notm}} console. With a Subscription account, you can use both platform and infrastructure offerings, and take advantage of discounted pricing by making a monthly spending and term commitment. You can also avoid surprises with fixed billing on a monthly payment schedule, but with the flexibility to order more or less based on your needs. For more information, see [FAQS for billing and usage](/docs/account?topic=account-billusagefaqs).
 
 
 ### 15 May 2018

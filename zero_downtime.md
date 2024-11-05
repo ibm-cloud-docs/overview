@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2024
-lastupdated: "2024-11-04"
+lastupdated: "2024-11-05"
 
 keywords: load balancing, global load balancing, HA, DR, high availability, disaster recovery, HA for the platform, high availability for platform, disaster recovery plan, disaster event, zero downtime, workloads, failover, failover design, network resiliency, recovery time objective, recovery point objective
 
@@ -152,7 +152,7 @@ For more information about the specific options for best practices when you use 
 
 | Platform service | Details |
 |------------------|----------------|
-|  Account management  |    [Best practices for setting up your account](/docs/account?topic=account-account_setup) and [Best practices for billing and usage](/docs/billing-usage?topic=billing-usage-best-practices)     |
+|  Account management  |    [Best practices for setting up your account](/docs/account?topic=account-account_setup) and [Best practices for billing and usage](/docs/account?topic=account-billing-best-practices)     |
 | Catalogs    |    [Managing catalog settings](/docs/account?topic=account-filter-account)               |
 | {{site.data.keyword.cloud-shell_short}} | [Understanding high availability and disaster recovery for Cloud Shell](/docs/cloud-shell?topic=cloud-shell-ha-dr) |
 | Console | [Navigating the console](/docs/overview?topic=overview-ui) |

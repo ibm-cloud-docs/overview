@@ -16,7 +16,7 @@ subcollection: overview
 # Extended support and product release levels
 {: #services_availability}
 
-{{site.data.keyword.cloud}} is committed to support a set of key products for extended periods. Depending on a product's release level, various levels of [support](/docs/get-support?topic=get-support-using-avatar), committed warranties, or service level agreements (SLAs) are available.
+{{site.data.keyword.cloud}} is committed to support a set of key products for extended periods. Depending on a product's release level, various levels of [support](/docs/account?topic=account-using-avatar), committed warranties, or service level agreements (SLAs) are available.
 
 ## Extended support for key products
 {: #extended_support}

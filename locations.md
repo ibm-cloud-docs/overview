@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2024
-lastupdated: "2024-10-10"
+lastupdated: "2024-11-01"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -277,5 +277,5 @@ See the following table for the specific code for each data center.
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-The table includes certain data centers that are set to close soon. For the list of data centers that are closing, see [Data center closures](/docs/get-support?topic=get-support-dc-closure).
+The table includes certain data centers that are set to close soon. For the list of data centers that are closing, see [Data center closures](/docs/account?topic=account-dc-closure).
 {: note}

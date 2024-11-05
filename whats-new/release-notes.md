@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2024-10-21"
+lastupdated: "2024-11-04"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -31,7 +31,7 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 Consolidated and simplified {{site.data.keyword.cloud_notm}} platform
 :   {{site.data.keyword.cloud_notm}} is bringing simplification to your door. The {{site.data.keyword.cloud_notm}} platform recently consolidated and simplified services and features. Services and areas of the console are now unified into the following hubs: Infrastructure, Containers, Automation, Databases, Observability, and Security with the goal to bundle together related services to make it easier to find, deploy, and use them. Users can now easily search for new services to accelerate business-critical workloads and better manage what is already running to help ensure their business stays on top of its velocity. For more information, see [Navigating the {{site.data.keyword.cloud_notm}} console](/docs/overview?topic=overview-ui#navoptions).
 
-Improving the account and enterprise documentation experience 
+Improving the account and enterprise documentation experience
 :   Easily navigate enterprise information with the latest update to {{site.data.keyword.cloud_notm}} docs. Now, you can browse key information about enterprises in one location. The documentation that supports enterprise accounts is moved to [enterprise management](/docs/enterprise-management). This includes everything you need to successfully create and manage enterprise accounts, including billing and usage and getting support.
 
    A simplified account documentation experience is now available. You can find all information related to your account in the updated [account documentation](/docs/account), including billing and usage and getting support.
@@ -166,7 +166,7 @@ Duplicate configurations in your project
 {: release-note}
 
 Limit access with resource attribute-based conditions
-:   {{site.data.keyword.Bluemix_notm}} IAM is excited to give customers the ability to grant access based on multiple resource attribute-based conditions. With this ability, you can create a single policy with various conditions instead of individual access policies. For more information, see [Limiting access with resource attribute-based conditions](/docs/account?topic=account-iam-resource-based&interface=api).
+:   {{site.data.keyword.Bluemix_notm}} IAM is excited to give customers the ability to grant access based on multiple resource attribute-based conditions. With this ability, you can create a single policy with various conditions instead of individual access policies. For more information, see [Limiting access with resource attribute-based conditions](/docs/account?topic=account-iam-time-based).
 
 
 ## November 2023
@@ -177,7 +177,7 @@ Limit access with resource attribute-based conditions
 {: release-note}
 
 Protect your private catalog and private products
-:   Add an extra layer of protection to your private catalogs with context-based restrictions. Users can view the catalogs that you protect only if they satisfy your rule. For more information, see [Protecting catalogs with context-based restrictions](/docs/account?topic=account-cbr&interface=terraform).
+:   Add an extra layer of protection to your private catalogs with context-based restrictions. Users can view the catalogs that you protect only if they satisfy your rule.
 
 ### 14 November 2023
 {: #overview-nov1423}
@@ -260,7 +260,7 @@ Catalog and onboarding support for {{site.data.keyword.IBMz}} when deploying VSI
 {: release-note}
 
 Centrally administer your multi-account environment
-:   {{site.data.keyword.cloud_notm}} is excited to announce that you can now centrally administer access and security settings in your organization with Enterprise-managed IAM. By using enterprise IAM templates, you can quickly create and manage access groups and trusted profiles across accounts and easily ensure that all new accounts inherit the same settings. Leveraging Enterprise-managed IAM can help your organization save time and effort, reduce the risk of unauthorized access, stay compliant with industry regulations and better protect your data.  For more information, see [Best practices for assigning access in an enterprise](https://cloud.ibm.com/docs/secure-enterprise?topic=secure-enterprise-access-enterprises).
+:   {{site.data.keyword.cloud_notm}} is excited to announce that you can now centrally administer access and security settings in your organization with Enterprise-managed IAM. By using enterprise IAM templates, you can quickly create and manage access groups and trusted profiles across accounts and easily ensure that all new accounts inherit the same settings. Leveraging Enterprise-managed IAM can help your organization save time and effort, reduce the risk of unauthorized access, stay compliant with industry regulations and better protect your data.  For more information, see [Best practices for assigning access in an enterprise](/docs/enterprise-management?topic=enterprise-management-access-enterprises).
 
 ### 1 September 2023
 {: #overview-sep0123}
@@ -345,7 +345,7 @@ Specify language support for community-supported products
 {: release-note}
 
 View email notification history
-:   You can use the Communication history page in the console to check the status of all email notifications that are sent you to verify if the emails are being delivered successfully. You can also view the last 90 days of {{site.data.keyword.cloud_notm}} email history, which can help save you time troubleshooting any delivery issues without needing to contact {{site.data.keyword.IBM_notm}} support. For more information, see [Checking the delivery status of email notifications and viewing email history](/docs/get-support?topic=get-support-viewing-notifications#view-email-history).
+:   You can use the Communication history page in the console to check the status of all email notifications that are sent you to verify if the emails are being delivered successfully. You can also view the last 90 days of {{site.data.keyword.cloud_notm}} email history, which can help save you time troubleshooting any delivery issues without needing to contact {{site.data.keyword.IBM_notm}} support. For more information, see [Checking the delivery status of email notifications and viewing email history](/docs/account?topic=account-viewing-cloud-status#view-email-history).
 
 ### 04 April 2023
 {: #overview-apr0423}
@@ -439,7 +439,7 @@ A new way to provide the {{site.data.keyword.cloud_notm}} docs team your feedbac
 {: release-note}
 
 Setting an alternative account owner
-:   As the owner of an account with classic infrastructure, you can set a trusted profile as the alternative account owner. An alternative account owner ensures that you always have a secure way to manage account ownership if your account owner leaves your organization or isn't available. For more information, see [Setting an alternative account owner](/docs/account?topic=account-classic-infra-owner&interface=ui).
+:   As the owner of an account with classic infrastructure, you can set a trusted profile as the alternative account owner. An alternative account owner ensures that you always have a secure way to manage account ownership if your account owner leaves your organization or isn't available.
 
 ### 04 October 2022
 {: #overview-04oct2022}
@@ -499,7 +499,7 @@ Specifying a user onboarding strategy
 {: release-note}
 
 Increased policy limit
-:   The shared limit for IAM policies and context-based restrictions has increased from 2010 to 4020 so that you don't need to [request an increase to the limit in your account](/docs/account?topic=account-account-limits&interface=cli#limit-increase) as you grow your organizational capacity. For more information, see [Known issues and limitations](/docs/account?topic=account-known-issues#iam_limits).
+:   The shared limit for IAM policies and context-based restrictions has increased from 2010 to 4020 so that you don't need to [request an increase to the limit in your account](/docs/account?topic=account-account-limits&interface=cli#limit-increase) as you grow your organizational capacity. For more information, see [Known issues and limitations](/docs/account?topic=account-known-issues).
 
 ## August 2022
 {: #august-2022}
@@ -617,7 +617,7 @@ Use feature and subscription codes to create new accounts
 {: release-note}
 
 365 days of status history is now available
-:   You can now easily view events that were completed in the past year on the {{site.data.keyword.cloud_notm}} Status page. Previously, you could view only the history of completed events from the past month. For more information about the {{site.data.keyword.cloud_notm}} Status page, see [Viewing cloud status](/docs/get-support?topic=get-support-viewing-cloud-status).
+:   You can now easily view events that were completed in the past year on the {{site.data.keyword.cloud_notm}} Status page. Previously, you could view only the history of completed events from the past month. For more information about the {{site.data.keyword.cloud_notm}} Status page, see [Viewing cloud status](/docs/account?topic=account-viewing-cloud-status&interface=ui#view-status-page).
 
 ### 7 February 2022
 {: #overview-feb0722}
@@ -652,7 +652,7 @@ Data centers closed in 2021
     - Oslo: OSL01
     - Washington DC: WDC01 – POD3 and POD4
 
-    For more information about upcoming data center closures, see [Data center consolidations](/docs/get-support?topic=get-support-dc-closure).
+    For more information about upcoming data center closures, see [Data center consolidations](/docs/account?topic=account-dc-closure).
 
 ### 1 November 2021
 {: #overview-nov0121}
@@ -716,7 +716,7 @@ Assigning access policies based on resource location
 Checking the root cause of an incident
 :   You can now visit the {{site.data.keyword.Bluemix_notm}} [Incident reports page](/status/incident-reports){: external} to check the health of an {{site.data.keyword.Bluemix_notm}} service. You can find Customer Incident Reports (CIR) on the page, which provide Root Cause Analysis (RCA) for past major outages. You are able to view and download the incident reports from the page about any events that affect {{site.data.keyword.Bluemix_notm}} availability. These reports are in PDF file formats and available for 5 years starting from the date when the event happened.
 
-   For more information, see [Checking Incident reports](/docs/get-support?topic=get-support-viewing-cloud-status#status-incident-report).
+   For more information, see [Checking Incident reports](/docs/account?topic=account-viewing-cloud-status&interface=ui#view-status-page#status-incident-report).
 
 ### 01 September 2021
 {: #overview-sep0121}
@@ -736,7 +736,7 @@ Delivering notifications by using Microsoft Teams webhooks
 :   Adding Microsoft Teams webhooks to your distribution list is available for receiving account-related {{site.data.keyword.cloud_notm}} notifications. To create a webhook, you need to add an incoming webhook to a Teams channel and a unique URL that maps to the selected channel.
 With this webhook integration, you can easily receive the notifications in a selected Microsoft Teams channel in which you added the incoming webhook.
 
-   For more information, see [Adding Microsoft Teams webhooks to a distribution list](/docs/account?topic=account-webhook-distribution-list#add-microsoft-teams-webhook).
+   For more information, see [Adding Microsoft Teams webhooks to a distribution list](/docs/account?topic=account-add-users-distribution-list#add-microsoft-teams-webhook).
 
 
 ### 04 August 2021
@@ -773,7 +773,7 @@ Assigning access to federated users and compute resources by using trusted profi
 {: release-note}
 
 Scoping support cases to what matters to you
-:   When you create a case in the {{site.data.keyword.Bluemix_notm}} Support Center, you now have options to narrow the subject of your case to a specific topic that's most closely related to the issue you're experiencing. As a result, you can ensure that your support case gets routed to the appropriate support engineer and resolved as efficiently as possible. For more information, see [Creating support cases](/docs/get-support?topic=get-support-open-case&interface=ui#creating-support-case).
+:   When you create a case in the {{site.data.keyword.Bluemix_notm}} Support Center, you now have options to narrow the subject of your case to a specific topic that's most closely related to the issue you're experiencing. As a result, you can ensure that your support case gets routed to the appropriate support engineer and resolved as efficiently as possible. For more information, see [Creating support cases](/docs/account?topic=account-open-case&interface=ui#creating-support-case).
 
 
 ### 14 July 2021
@@ -784,7 +784,7 @@ Delivering notifications by using Slack webhooks
 :   In addition to generic webhooks, you can now add Slack webhooks to your distribution list and receive account-wide {{site.data.keyword.cloud_notm}} notifications through them. To create a webhook, you need to set up an app in Slack and a unique URL.
 With this new webhook integration, you can easily receive the notifications in a selected Slack channel in which you installed your app.
 
-   For more information on Slack webhooks, see [Adding Slack webhooks to a distribution list](/docs/account?topic=account-webhook-distribution-list#add-slack-webhook).
+   For more information on Slack webhooks, see [Adding Slack webhooks to a distribution list](/docs/account?topic=account-add-users-distribution-list#add-slack-webhook).
 
 
 ### 07 July 2021
@@ -834,7 +834,7 @@ Support for third-party virtual server images with Terraform
 Delivering notifications by using webhooks
 :   You can now easily add webhooks to the notification distribution list in addition to adding email addresses. You can register a webhook with your account on the [Notification distribution list page](https://cloud.ibm.com/account/notifications-distribution-list) to receive all account notifications. Administrators can use webhooks to configure an application to receive asynchronous notifications whenever an event occurs on the {{site.data.keyword.Bluemix_notm}} platform. Any registered webhook must support HTTP POST requests and accept the notification as a JSON.
 
-   For more information, see [Adding webhooks to a distribution list](/docs/account?topic=account-webhook-distribution-list).
+   For more information, see [Adding webhooks to a distribution list](/docs/account?topic=account-add-users-distribution-list#webhook-distribution-list).
 
 
 ### 19 April 2021
@@ -846,7 +846,7 @@ Upcoming changes to the user invitation flow
 
    Concerned about how this change will impact your automation? To avoid any disruption to on-going workflows, you need to check your scripts:
 
-   * To accept invitations in the CLI, existing members of {{site.data.keyword.Bluemix}} must use the [**`ibmcloud login`**](//docs/cli?topic=cli-ibmcloud_cli#ibmcloud_login) command. They need to target the account that they are invited to join and use the new `--accept` flag.
+   * To accept invitations in the CLI, existing members of {{site.data.keyword.Bluemix}} must use the [**`ibmcloud login`**](/docs/cli?topic=cli-ibmcloud_cli#ibmcloud_login) command. They need to target the account that they are invited to join and use the new `--accept` flag.
 
    As an account administrator, you may want to remind your users to accept these invitations upon initial change of this behavior.
    {: note}
@@ -903,7 +903,7 @@ Controlling access to resources by using tags
 New notifications experience
 :   A more detailed [Notification preferences page](https://cloud.ibm.com/user/notifications){: external} is now available for you to customize your preferences for receiving email notifications. You receive only one email per event unless you subscribe to them, or you can subscribe to specific incidents from the Status page on an ad hoc basis. For more information, see [Setting email preferences for notifications](/docs/account?topic=account-email-prefs).
 
-   Based on which preferences the account owner or administrator sets, users in the account can view all {{site.data.keyword.Bluemix_notm}} incidents, maintenance, announcements, and security bulletins on the [Notifications page](https://cloud.ibm.com/notifications){: external}. They can filter the list by selecting a specific type of event, or by using keyword searches. For more information, see [Viewing notifications](/docs/get-support?topic=get-support-viewing-notifications).
+   Based on which preferences the account owner or administrator sets, users in the account can view all {{site.data.keyword.Bluemix_notm}} incidents, maintenance, announcements, and security bulletins on the [Notifications page](https://cloud.ibm.com/notifications){: external}. They can filter the list by selecting a specific type of event, or by using keyword searches. For more information, see [Viewing notifications](/docs/account?topic=account-viewing-cloud-status#viewing-notifications).
 
 
 ### 01 February 2021
@@ -983,7 +983,7 @@ Enhanced payments & invoicing for new US-based Pay-As-You-Go accounts with credi
 {: release-note}
 
 Enhancements to the {{site.data.keyword.Bluemix_notm}} Status page
-:   You can now experience an enhanced version of the Status page in the {{site.data.keyword.Bluemix_notm}} console that offers reduced time to visibility of issues, as well as more detailed and up-to-date status information. For more information, see [Viewing cloud status](/docs/get-support?topic=get-support-viewing-cloud-status).
+:   You can now experience an enhanced version of the Status page in the {{site.data.keyword.Bluemix_notm}} console that offers reduced time to visibility of issues, as well as more detailed and up-to-date status information. For more information, see [Viewing cloud status](/docs/account?topic=account-viewing-cloud-status&interface=ui#view-status-page).
 
 ## November 2020
 {: #overview-nov-2020}
@@ -999,7 +999,7 @@ Data centers closed in 2020
     - Seattle: SEA01
     - Legacy Planet: D2 (colocation in Dallas), D6 and D7 (Dallas), H2 (Houston)
 
-    For more information about upcoming data center closures, see [Data center consolidations](/docs/get-support?topic=get-support-dc-closure).
+    For more information about upcoming data center closures, see [Data center consolidations](/docs/account?topic=account-dc-closure).
 
 ### 25 November 2020
 {: #overview-nov2520}
@@ -1094,7 +1094,7 @@ Customizing scoped dashboards
 {: release-note}
 
 Audit logs for private catalogs
-:   View recorded changes to your private catalogs with the new audit logs feature. Audit logs are recorded when you create, delete, or update your private catalog. Visit your Audit logs page in the {{site.data.keyword.Bluemix_notm}} console by going to **Manage** > **Catalogs**, and selecting **Audit logs**. For more information, see [Viewing changes to your private catalogs](/docs/account?topic=account-catalog-audit-logs).
+:   View recorded changes to your private catalogs with the new audit logs feature. Audit logs are recorded when you create, delete, or update your private catalog. Visit your Audit logs page in the {{site.data.keyword.Bluemix_notm}} console by going to **Manage** > **Catalogs**, and selecting **Audit logs**. For more information, see [Viewing changes to your private catalogs](/docs/account?topic=account-filter-account&interface=ui#audit-logs-table).
 
 ## July 2020
 {: #overview-jul-2020}
@@ -1104,7 +1104,7 @@ Audit logs for private catalogs
 {: release-note}
 
 Notification distribution list
-:   You can now create a list of up to 10 email addresses that receive account-wide notifications in the {{site.data.keyword.Bluemix_notm}} console by going to **Account**  > **Notification distribution list**. Users that are added to the distribution list are notified about any event that's affecting the account. For more information, see [Adding users to a distribution list](/docs/account?topic=account-webhook-distribution-list).
+:   You can now create a list of up to 10 email addresses that receive account-wide notifications in the {{site.data.keyword.Bluemix_notm}} console by going to **Account**  > **Notification distribution list**. Users that are added to the distribution list are notified about any event that's affecting the account. For more information, see [Adding users to a distribution list](/docs/account?topic=account-add-users-distribution-list#webhook-distribution-list).
 
 CLI support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
 :   You can now use the following commands to set and manage filters in accounts within an enterprise hierarchy:
@@ -1176,7 +1176,7 @@ Support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
 Unified notifications experience
 :   Viewing your notifications is now easier than ever with the new unified notifications experience. The notifications page is the centralized place to view and manage all incidents, maintenance, and announcements that might affect your account. In the {{site.data.keyword.Bluemix_notm}} console, click the **Notifications** icon ![Notification icon](../../icons/Notification.svg "Notifications") on the console menu bar to view your notifications.
 
-   Additionally, you can find all infrastructure notifications on the new notifications page. To learn more about the new notifications experience, see [Viewing notifications](/docs/get-support?topic=get-support-viewing-notifications).
+   Additionally, you can find all infrastructure notifications on the new notifications page. To learn more about the new notifications experience, see [Viewing notifications](/docs/account?topic=account-viewing-cloud-status#viewing-notifications).
 
 
 ### 18 April 2020
@@ -1337,7 +1337,7 @@ Redirecting SoftLayer to {{site.data.keyword.Bluemix_notm}}
    * Subscription credit is aggregated into a credit pool and shared with all accounts in the enterprise. Not only is tracking your subscriptions easier, but you can get fewer, larger subscriptions for a better discount because the credit is shared.
    * Top-down usage reporting gives you a unified view of usage costs from all accounts, organized according to your enterprise hierarchy.
 
-   If you have multiple accounts, at least one of which is a Subscription account, you can create an enterprise. See [What is an enterprise?](/docs/secure-enterprise?topic=secure-enterprise-what-is-enterprise) and [Introducing IBM Cloud Enterprises](https://www.ibm.com/blog/announcement/introducing-ibm-cloud-enterprises/){: external}  for more information.
+   If you have multiple accounts, at least one of which is a Subscription account, you can create an enterprise. See [What is an enterprise?](/docs/enterprise-management?topic=enterprise-management-what-is-enterprise) and [Introducing IBM Cloud Enterprises](https://www.ibm.com/blog/announcement/introducing-ibm-cloud-enterprises/){: external}  for more information.
 
 Subscriptions page for tracking subscription credit spending
 :   If you have a Subscription account, you can now view all of your subscriptions and analyze your credit spending on the Subscriptions page. You get a high-level view of the total subscription credit in your account and detailed charts that visualize trends such as your credit burndown and monthly spending. You can also view credit from any promotions in your account. For more information, see [Managing subscriptions](/docs/billing-usage?topic=billing-usage-subscriptions).
@@ -1577,7 +1577,7 @@ Cloud Foundry Service US East region
 {: release-note}
 
 Support for resources in the European Union
-:   If your services and data centers are located in Europe, {{site.data.keyword.Bluemix_notm}} now offers extra capabilities to protect your data in the European Union. You can request that support is provided by customer success teams that are located in Europe. This support is available 24 hours a day, 7 days a week. See [Enabling the EU supported option](/docs/account?topic=account-eu-supported) and [Requesting support for resources in the European Union](/docs/get-support?topic=get-support-using-avatar#eusupported) for more information.
+:   If your services and data centers are located in Europe, {{site.data.keyword.Bluemix_notm}} now offers extra capabilities to protect your data in the European Union. You can request that support is provided by customer success teams that are located in Europe. This support is available 24 hours a day, 7 days a week. See [Enabling the EU supported option](/docs/account?topic=account-eu-supported) and [Requesting support for resources in the European Union](/docs/account?topic=account-using-avatar#eusupported) for more information.
 
 
 ## November 2017
@@ -1603,7 +1603,7 @@ Updates for {{site.data.keyword.Bluemix_notm}} IAM
 :   The introduction of resource groups within your {{site.data.keyword.Bluemix_notm}} account provides a new way for you to assign access. Users and service IDs can be assigned access to all services within a resource group, enabling you to quickly assign access to more than one resource at a time. You can also customize access for each user or service ID by assigning access to just some services within a resource group, or you choose to assign access to individual resources down to the service instance level. For more information about the features that you can take advantage of by using IAM, see [What features does IAM provide?](/docs/account?topic=account-iamoverview#features)
 
 Customize your dashboard view
-:   You can view and manage all the resources in your account from your dashboard in the {{site.data.keyword.Bluemix_notm}} console. And now, you can set filters to customize your view. For example, you can filter by resource group to view the specific resources in a resource group. You can also filter by region or Cloud Foundry space. For more details, see [Customizing your dashboard](/docs/account?topic=account-tutorial-custom-dash).
+:   You can view and manage all the resources in your account from your dashboard in the {{site.data.keyword.Bluemix_notm}} console. And now, you can set filters to customize your view. For example, you can filter by resource group to view the specific resources in a resource group. You can also filter by region or Cloud Foundry space.
 
 ### 02 November 2017
 {: #overview-nov0217}

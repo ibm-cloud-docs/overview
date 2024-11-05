@@ -66,7 +66,7 @@ As a financial officer for your company, you might be interested in simplifying 
 * Account groups provide a way to organize related accounts. And, you get a unified view of resource usage costs across all accounts that are included in an account group.
 * Similar to stand-alone accounts, accounts in an enterprise contain resources and resource groups and independent access permissions.
 
-For more information, see the [Enterprise account architecture](/docs/enterprise-account-architecture) white paper and the [best practices for setting up an enterprise](/docs/secure-enterprise?topic=secure-enterprise-enterprise-best-practices).
+For more information, see the [Enterprise account architecture](/docs/enterprise-account-architecture) white paper and the [best practices for setting up an enterprise](/docs/enterprise-management?topic=enterprise-management-enterprise-best-practices).
 
 ## {{site.data.keyword.Bluemix_notm}} catalog
 {: #catalog}
@@ -400,7 +400,7 @@ Use the {{site.data.keyword.at_full}} service to monitor the activity of your {{
 ## Viewing status
 {: #status-service}
 
-The {{site.data.keyword.Bluemix_notm}} Status page is the central place to find all unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix_notm}} platform. You can filter these categories by selecting specific locations, components, types of ongoing events, or by using keyword searches. For more information, see [Viewing cloud status](/docs/get-support?topic=get-support-viewing-cloud-status).
+The {{site.data.keyword.Bluemix_notm}} Status page is the central place to find all unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix_notm}} platform. You can filter these categories by selecting specific locations, components, types of ongoing events, or by using keyword searches. For more information, see [Viewing cloud status](/docs/account?topic=account-viewing-cloud-status&interface=ui#view-status-page).
 
 
 ## Notification preferences

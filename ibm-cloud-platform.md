@@ -330,7 +330,7 @@ You can also scope your view of the catalog by using the **Provider** filter to 
 ## Pricing and billing
 {: #pricing-billing}
 
-You can view the pricing details for each service when you're browsing the catalog. If you choose a service plan with a paid plan, you can estimate your costs by using the cost estimator tool. For more information, see [Estimating your costs](/docs/billing-usage?topic=billing-usage-cost).
+You can view the pricing details for each service when you're browsing the catalog. If you choose a service plan with a paid plan, you can estimate your costs by using the cost estimator tool. For more information, see [Estimating your costs](/docs/account?topic=account-cost).
 
 {{site.data.keyword.Bluemix_notm}} billing provides multiple services that ensure the {{site.data.keyword.Bluemix_notm}} platform can securely manage pricing, accounts, usage, and more.
 

@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2024
-lastupdated: "2024-08-14"
+lastupdated: "2024-11-05"
 
 keywords: terms of use, IBM Cloud, CSA, Cloud Service Agreement, data egress charges, EU data act
 
@@ -80,4 +80,4 @@ Abuse abuse@softlayer.com
 For residents of Australia, be aware of your additional safety rights:
 
 * [https://www.esafety.gov.au/report](https://www.esafety.gov.au/report){: external}
-* [https://www.onlinesafety.org.au/codes](https://www.onlinesafety.org.au/codes){: external}
+* [https://onlinesafety.org.au/codes/](https://onlinesafety.org.au/codes/){: external}

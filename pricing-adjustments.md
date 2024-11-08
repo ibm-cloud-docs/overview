@@ -3,7 +3,7 @@
 
 copyright:
   years: 2023, 2024
-lastupdated: "2024-10-10"
+lastupdated: "2024-11-08"
 
 published-location: https://cloud.ibm.com/docs/overview?topic=overview-price-adjustments
 
@@ -77,6 +77,7 @@ PaaS services outside of the United States will adopt the same location premiums
 - {{site.data.keyword.containerlong_notm}} and {{site.data.keyword.openshiftlong_notm}}
 - {{site.data.keyword.logs_full_notm}}
 - {{site.data.keyword.cloudaccesstraillong_notm}} [Deprecated]{: tag-deprecated}
+- {{site.data.keyword.codeenginefull_notm}}
 - {{site.data.keyword.loganalysislong_notm}} [Deprecated]{: tag-deprecated}
 - {{site.data.keyword.monitoringlong_notm}}
 - {{site.data.keyword.databases-for-elasticsearch_full_notm}}
@@ -92,7 +93,6 @@ PaaS services outside of the United States will adopt the same location premiums
 - {{site.data.keyword.appconfig_full}}
 - {{site.data.keyword.appid_full_notm}}
 - {{site.data.keyword.cloudant_short_notm}}
-- {{site.data.keyword.codeenginefull_notm}}
 - {{site.data.keyword.registrylong_notm}}
 - {{site.data.keyword.cloud_notm}} Continuous Delivery
 - {{site.data.keyword.en_full_notm}}

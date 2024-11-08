@@ -3,7 +3,7 @@
 
 copyright:
   years: 2023, 2024
-lastupdated: "2024-10-10"
+lastupdated: "2024-11-08"
 
 published-location: https://cloud.ibm.com/docs/overview?topic=overview-price-adjustments
 

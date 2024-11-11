@@ -22,6 +22,16 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 {: shortdesc}
 
 
+## November 2024
+{: #novemeber-2024}
+
+### 11 November 2024
+{: #overview-nov724}
+{: release-note}
+
+The AI assistant is generally available
+:   The AI assistant is available to help answer your questions about working in {{site.data.keyword.cloud_notm}}. In addition to being able to launch the AI assistant in the {{site.data.keyword.cloud_notm}} console, you can also ask questions from the {{site.data.keyword.cloud_notm}} CLI. For more information, see [Getting help from the AI assistant](/docs/overview?topic=overview-ask-ai-assistant).
+
 
 ## October 2024
 {: #october-2024}

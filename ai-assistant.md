@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024
-lastupdated: "2024-11-07"
+lastupdated: "2024-11-11"
 
 keywords:
 
@@ -17,7 +17,7 @@ subcollection: overview
 
 {{site.data.keyword.cloud}}'s AI assistant, which is powered by {{site.data.keyword.IBM}}'s watsonx, is designed to help you learn about working in {{site.data.keyword.cloud_notm}} and building solutions with the available catalog of offerings.
 {: shortdesc}
- 
+
 The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models (LLMs) using [{{site.data.keyword.IBM_notm}}'s watsonx](https://www.ibm.com/watsonx){: external} and the {{site.data.keyword.cloud_notm}} docs.
 
 {{site.data.keyword.cloud_notm}} does not gather any personal identifiable information when you are using the AI feature and it is not connected to or associated with your account. When you query the AI assistant, it is not being trained based on user input and does not associate any queries with your identity or account. {{site.data.keyword.IBM_notm}} endeavors to develop AI in accordance with its published principles of trust and transparency. For more information, see [AI Ethics](https://www.ibm.com/impact/ai-ethics){: external}.
@@ -32,11 +32,11 @@ The AI assistant supports all [national languages supported by {{site.data.keywo
 
 No matter where you are working in the {{site.data.keyword.cloud_notm}} console, the AI assistant is available to help with your questions about {{site.data.keyword.cloud_notm}} so that you can learn more about the platform or the services that you're using.
 
-You can start the AI assistant from the {{site.data.keyword.cloud_notm}} console header from the Help menu anytime that you want to ask a question, and it follows along with you in the console until you close it. With each question that you ask, reference citations from the {{site.data.keyword.cloud_notm}} docs are provided to ensure that you have access to additional information and the ability to verify responses.
+You can start the AI assistant from the {{site.data.keyword.cloud_notm}} console header from the Help menu anytime that you want to ask a question, and it follows along with you in the console until you close it. With each question that you ask, reference citations from the {{site.data.keyword.cloud_notm}} docs are provided.
 
 1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **AI assistant**.
 1. Ask questions about working in your account, working with products and offerings from the catalog, and more to help you stay productive in {{site.data.keyword.cloud_notm}}.
-1. You can use the supported product documentation references that are returned to have access to additional information and the ability to verify responses.
+1. Use the supported product documentation references that are returned to have access to additional information and the ability to verify responses.
 
 Content that is generated in the AI assistant might include mistakes or be incorrect.
 {: important}
@@ -49,13 +49,13 @@ All of the questions that you ask and the generated responses are retained in th
 ### Closing the chat
 {: #close-assistant}
 
-The AI assistant follows along with you in the console until you close it. You can move it to position it wherever you'd like on the page. When you're ready to close it, click the **Close chat** icon ![Close chat icon](../icons/close-icon.svg "Close chat"). Your history is saved even when you close the AI assistant, so you can see your previous questions and answers the next time that you open it.
+The AI assistant follows along with you in the console until you close it. You can move it to position it wherever you'd like on the page. When you're ready to close it, click the **Close** icon ![Close icon](../icons/close-icon.svg "Close"). Your history is saved even when you close the AI assistant, so you can see your previous questions and answers the next time that you open it.
 
 
 ## Using the AI assistant in the {{site.data.keyword.cloud_notm}} CLI
 {: #ai-assistant-cli}
 
-You can also ask a question to the AI assistant from the {{site.data.keyword.cloud_notm}} CLI.
+You can also ask questions in the {{site.data.keyword.cloud_notm}} CLI.
 
 1. Log in with the `ibmcloud login` command. If you are logging in with a federated ID, use the `--sso` option to authenticate with a one-time passcode, or use the `--apikey` option to authenticate with an API key.
 2. Ask a question with the `ibmcloud assist` command.

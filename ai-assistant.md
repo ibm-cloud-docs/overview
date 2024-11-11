@@ -41,7 +41,10 @@ You can start the AI assistant from the {{site.data.keyword.cloud_notm}} console
 Content that is generated in the AI assistant might include mistakes or be incorrect.
 {: important}
 
+### Submitting feedback for generated responses
+{: #ai-feedback}
 
+You can provide feedback for each response from the AI assistant by using the **Good response** icon ![Good response icon](images/thumbs-up.svg "Good response") and **Bad response** icon ![Bad response icon](images/thumbs-down.svg "Bad response") options. You can choose to just mark the provided answer as a good response or bad response, and you can provide additional feedback by selecting from a common set of qualities that describe why you chose the rating and add additional feedback in the form of a comment. Your feedback is not used to train or enhance AI models.
 
 ### Clearing your chat history
 {: #clear-history}

@@ -41,6 +41,10 @@ You can start the AI assistant from the {{site.data.keyword.cloud_notm}} console
 Content that is generated in the AI assistant might include mistakes or be incorrect.
 {: important}
 
+
+
+
+
 ### Clearing your chat history
 {: #clear-history}
 

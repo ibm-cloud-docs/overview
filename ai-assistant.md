@@ -43,12 +43,10 @@ Content that is generated in the AI assistant might include mistakes or be incor
 
 
 
-
-
 ### Clearing your chat history
 {: #clear-history}
 
-All of the questions that you ask and the generated responses are retained in the AI assistant until you decide that you want to clear the history. To clear the history, open the AI assistant, and then click **Open menu** icon ![Open Menu icon](../icons/icon_hamburger.svg "Open menu") > **Clear history**.
+All of the questions that you ask and the generated responses are retained in the AI assistant until you decide that you want to clear the history. To clear the history, open the AI assistant, and then click **Open menu** icon ![Open menu icon](../icons/icon_hamburger.svg "Open menu") > **Clear history**.
 
 ### Closing the chat
 {: #close-assistant}
@@ -80,6 +78,7 @@ The AI assistant has the following limitations:
 * AI-generated responses are limited to information from the {{site.data.keyword.cloud_notm}} docs and the LLM.
 * Actions like creating resources or making changes within your account can't be completed by the AI assistant.
 * Answers from the previous query and response are not used to answer subsequent queries.
+* If you encounter any styling issues in the console, use the **Open menu** icon ![Open menu icon](../icons/icon_hamburger.svg "Open menu") > **Clear history** option, and refresh the page.
 
 
 

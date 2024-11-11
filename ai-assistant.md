@@ -82,6 +82,7 @@ The AI assistant has the following limitations:
 * Answers from the previous query and response are not used to answer subsequent queries.
 
 
+
 ## Tips for creating effective prompts
 {: #ai-question-tips}
 

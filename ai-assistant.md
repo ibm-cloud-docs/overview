@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024
-lastupdated: "2024-11-11"
+lastupdated: "2024-11-12"
 
 keywords:
 
@@ -36,7 +36,7 @@ You can start the AI assistant from the {{site.data.keyword.cloud_notm}} console
 
 1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **AI assistant**.
 1. Ask questions about working in your account, working with products and offerings from the catalog, and more to help you stay productive in {{site.data.keyword.cloud_notm}}.
-1. Use the supported product documentation references that are returned to have access to additional information and the ability to verify responses.
+1. Use the supported documentation references that are returned to have access to additional information and the ability to verify responses.
 
 Content that is generated in the AI assistant might include mistakes or be incorrect.
 {: important}

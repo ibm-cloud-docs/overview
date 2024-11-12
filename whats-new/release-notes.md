@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2024-11-05"
+lastupdated: "2024-11-12"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -20,6 +20,18 @@ content-type: release-note
 
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
+
+## November 2024
+{: #novemeber-2024}
+
+### 12 November 2024
+{: #overview-nov1224}
+{: release-note}
+
+The AI assistant is generally available
+:   The AI assistant is available to help answer your questions about working in {{site.data.keyword.cloud_notm}}. In addition to being able to launch the AI assistant in the {{site.data.keyword.cloud_notm}} console, you can also ask questions from the {{site.data.keyword.cloud_notm}} CLI. For more information, see [Getting help from the AI assistant](/docs/overview?topic=overview-ask-ai-assistant).
+
 
 ## October 2024
 {: #october-2024}

@@ -26,7 +26,7 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 {: #novemeber-2024}
 
 ### 12 November 2024
-{: #overview-nov724}
+{: #overview-nov1224}
 {: release-note}
 
 The AI assistant is generally available

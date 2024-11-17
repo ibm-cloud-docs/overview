@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2024-11-15"
+lastupdated: "2024-11-17"
 
 keywords: resource deployment, location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -420,7 +420,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Virtual Private Endpoint for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Virtual Server for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Watson Discovery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Watson Machine Learning |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Watson Machine Learning | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Watson Query |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Watson Studio |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Workspace for Power Virtual Server |  |  |  |  | 

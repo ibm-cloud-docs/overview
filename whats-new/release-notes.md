@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2024-11-12"
+lastupdated: "2024-11-22"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -21,9 +21,15 @@ content-type: release-note
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
-
 ## November 2024
 {: #novemeber-2024}
+
+### 21 November 2024
+{: #overview-nov2124}
+{: release-note}
+
+Experimental: Connect your project to a Git repository
+:   You can now connect a project to a Git repository to save configurations there. By doing so, you can use your repository and the CI / CD tools of your choosing to automate pipelines on configurations. Connecting a project to a Git repository works best with a new project that doesn't contain any configurations. This is an experimental feature that is available for evaluation and testing purposes and might change without notice. For more information, go to [Integrating a project with a Git repository](/docs/secure-enterprise?topic=secure-enterprise-connect-to-git). 
 
 ### 12 November 2024
 {: #overview-nov1224}

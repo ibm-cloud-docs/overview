@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2024
-lastupdated: "2024-09-24"
+lastupdated: "2024-12-05"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 subcollection: overview
@@ -15,7 +15,7 @@ subcollection: overview
 {: #glossary}
 
 This glossary provides terms and definitions for {{site.data.keyword.cloud}}.
-{:shortdesc}
+{: shortdesc}
 
 The following cross-references are used in this glossary:
 
@@ -83,6 +83,11 @@ An iterative process for resolving annotation conflicts by comparing the annotat
 
 Two or more container group instances running on the same network node. See also [anti-affinity](#x8888040).
 
+### agent
+{: #x2000100}
+
+A process that performs an action on behalf of a user or other program without user intervention or on a regular schedule, and reports the results back to the user or program.
+
 ### AI
 {: #x9443388}
 
@@ -129,7 +134,7 @@ Two or more container group instances that run on different network nodes to ens
 ### API key
 {: #x8051010}
 
-A unique code that is passed to an API to identify the calling application or user. An API key is used to track and control how the API is being used, for example, to prevent malicious use or abuse of the API.
+A unique code that is used to authenticate and authorize API requests. The code is passed to an API to identify the calling application or user and to track and control how the API is used.
 
 ### API operation
 {: #x9826953}
@@ -378,7 +383,7 @@ A collection of consumer organizations. It is used as a grouping construct when 
 ### component
 {: #x2017871}
 
-In source control management, a grouping of related artifacts in a stream or repository workspace. A component can contain any number of folders and files.
+An object that is used to construct a service or resource in a stream or workspace. Examples include a physical server, disk, network switch, power supply, battery back up.
 
 ### compute
 {: #x3723424}
@@ -587,7 +592,7 @@ A component that identifies mentions in text that match a specific set of words.
 ### disaster recovery (DR)
 {: #x2113280}
 
-The ability of IT services to recover from rare but major incidents and non-transient, wide-scale failures, such as service disruption that affects an entire geographical area. The impact of such an incident exceeds the ability of the high availability design to handle it. See also high availability, recovery time objective, recovery point objective. See also [high availability](#x2284708), [recovery time objective](#x3167918), [recovery point objective](#x3429911).
+The ability of a service or workload to recover from rare, major incidents and wide-scale failures, such as service disruption. This includes a physical disaster that affects an entire region, corruption of a database, or the loss of a service contributing to a workload. The impact exceeds the ability of the high availability design to handle it. See also [high availability](#x2284708), [recovery time objective](#x3167918).
 
 ### Dockerfile
 {: #x9860414}
@@ -882,7 +887,7 @@ A client operation that writes, deletes, or inserts data. Heavy API calls consum
 ### high availability (HA)
 {: #x2284708}
 
-The ability of IT services to withstand all outages and continue providing processing capability according to some predefined service level. Covered outages include both planned events, such as maintenance and backups, and unplanned events, such as software failures, hardware failures, power failures, and disasters. See also [disaster recovery](#x2113280).
+The ability of a service or workload to withstand failures and continue providing processing capability according to some predefined service level. For services, availability is defined in the Service Level Agreement. Availability includes both planned and unplanned events, such as maintenance, failures, and disasters.  See also [disaster recovery](#x2113280).
 
 ### HMAC
 {: #x3560783}
@@ -893,7 +898,7 @@ See [Hash-Based Message Authentication Code](#x6652268).
 ### host
 {: #x2002243}
 
-A computer that is connected to a network and that provides an access point to that network. The host can be a client, a server, or both a client and server simultaneously. See also [subdomain](#x2040080), [client](#x2000644), [Uniform Resource Locator](#x2042491), [custom domain](#x5728384), [domain](#x2021210), [route](#x2037338).
+A virtual or physical device, not including a router, that exists on a network. See also [subdomain](#x2040080), [client](#x2000644), [Uniform Resource Locator](#x2042491), [custom domain](#x5728384), [domain](#x2021210), [route](#x2037338).
 
 ### HSM
 {: #x2009137}
@@ -1025,6 +1030,11 @@ The global network of endpoints that can capture or generate data. For example, 
 
 An IP-based standard for linking data storage devices over a network and transferring data by carrying SCSI commands over IP networks.
 
+### inventory
+{: #x10299035}
+
+A dynamic set of application and environment data from ingestion jobs or uploaded software bill of materials (SBOM) data.
+
 ### invoke
 {: #x2057232}
 
@@ -1061,6 +1071,11 @@ A Java archive file.
 {: #x3292165}
 
 A lightweight data-interchange format that is based on the object-literal notation of JavaScript. JSON is programming-language neutral but uses conventions from various languages.
+
+### job
+{: #x2007884}
+
+A group of executable tasks and operations that can be run as a batch. As a result, a historical record of the actions performed is created.
 
 ### JSON
 {: #x4267096}
@@ -1650,12 +1665,12 @@ A measurement that specifies the percentage of relevant results returned, out of
 ### recovery point objective (RPO)
 {: #x3429911}
 
-In disaster recovery planning, the point at which data is restored to in the event of a disaster. See also [disaster recovery](#x2113280).
+In disaster recovery planning, the time at which data is restored measured in time  (seconds, minutes, hours) starting at the recovered instance and ending at the point of disaster. 
 
 ### recovery time objective (RTO)
 {: #x3167918}
 
-The maximum duration of time within which an application should be restored after any type of disaster. See also [disaster recovery](#x2113280).
+In disaster recovery planning, the duration of time for a business process to be restored after a disaster.  See also [disaster recovery](#x2113280).
 
 ### red-black deployment
 {: #x8439181}
@@ -1695,7 +1710,7 @@ A software architectural style that guides the design and development of the arc
 ### resource
 {: #x2004267}
 
-A physical or logical component that can be provisioned or reserved for an application or service instance. Examples of resources can include storage, processors, memory, clusters, and VMs.
+ A physical or logical instance that can be provisioned or reserved. Examples of resources can include storage, processors, memory, databases, clusters, and VMs. 
 
 ### resource group
 {: #x2161955}
@@ -1730,7 +1745,7 @@ A symmetric wrapping key that is used for encrypting and decrypting other keys t
 The URL that is used to direct requests to an application. A route is made up of an optional host (or subdomain) and a domain that are specified when an application is pushed. For example, in the route myapp.example.com, myapp is the host and example.com is the domain. A route can be associated with one or more applications. Unless a custom domain is specified, IBM Cloud uses a default shared domain in the route to an application. See also [host](#x2002243), [subdomain](#x2040080), [Uniform Resource Locator](#x2042491), [custom domain](#x5728384), [endpoint](#x2026820), [domain](#x2021210).
 
 ### RPO
-{: #x3429916}
+{: #x10299035}
 
 See [recovery point objective](#x3429911).
 
@@ -1832,7 +1847,7 @@ A production-ready product that is available for sale and accessible to select c
 ### service
 {: #x2038343}
 
-A cloud extension that provides ready-for-use functionality, such as database, messaging, and web software for running code, or application management or monitoring capabilities. Services usually do not require installation or maintenance and can be combined to create applications.
+An IBM Cloud offering that supports the creation, deletion, and management of resources and provides a wide range of services like compute, storage, analytics, and AI to handle business workloads.
 
 ### service binding
 {: #x5333865}
@@ -2049,7 +2064,7 @@ To set up a Watson instance with components that enable the system to function i
 ### training data
 {: #x2860199}
 
-A set of annotated documents that can be used to train machine learning models. See also [testing data](#x7736833), [blind data](#x7881128).
+A collection of data that is used to train machine learning models. See also [testing data](#x7736833), [blind data](#x7881128).
 
 ### transaction
 {: #x2005321}
@@ -2237,7 +2252,7 @@ A compressed file format, defined by the Java EE standard, for storing all the r
 ### workload
 {: #x2012537}
 
-A set of customer applications, services, or capabilities that consumes compute, network, storage, or other cloud resources.
+A set of applications, services, or capabilities that consumes compute, network, storage, or other resources to complete a business objective.
 
 ### workspace
 {: #x2096037}

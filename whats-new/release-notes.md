@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2024-11-22"
+lastupdated: "2024-12-13"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -20,6 +20,16 @@ content-type: release-note
 
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
+## December 2024
+{: #december-2024}
+
+### 13 December 2024
+{: #overview-dec1324}
+{: release-note}
+
+Service ID limits are increased with groups
+:   With Service ID groups, your account can now contain up to 100,000 service IDs, with up to 2,000 service IDs in each group. Existing service IDs were added to the default group. For more information, go to [Creating and working with service IDs](/docs/account?topic=account-serviceids&interface=ui#serviceids).
 
 ## November 2024
 {: #novemeber-2024}

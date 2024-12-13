@@ -53,20 +53,9 @@ toc:
           - topic: locations.md
             navtitle: Locations for resource deployment
           - service-rollout.md
-      - topicgroup:
-          label: High availability and disaster recovery
-          topics:
-          - zero_downtime.md
-          - ha-considerations.md
-          - topicgroup:
-              label: Best practices for business continuity and disaster recovery
-              topics:
-              - bcdr-understand.md
-              - bcdr-pitfalls.md
-              - bcdr-plan.md
-              - bcdr-networking.md
-              - bcdr-testing.md
-          - slo.md
+      - link:
+          label: IBM Cloud Resiliency
+          href: https://test.cloud.ibm.com/docs/resiliency
       - shared-responsibility.md
       - peering_policy.md
       - nls.md

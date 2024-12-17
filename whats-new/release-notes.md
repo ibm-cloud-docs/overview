@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2024-12-13"
+lastupdated: "2024-12-17"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -23,6 +23,15 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 
 ## December 2024
 {: #december-2024}
+
+### 17 December 2024
+{: #overview-dec1724}
+{: release-note}
+
+Experimental: Customize a deployable architecture from the catalog
+:   You can now customize a deployable architecture by adding optional components in the {{site.data.keyword.cloud_notm}} console. Add the [Cloud automation for {{site.data.keyword.secrets-manager_short}}](https://cloud.ibm.com/catalog/7a4d68b4-cf8b-40cd-a3d1-f49aff526eb3/architecture/testing-deploy-arch-ibm-secrets-manager-5f149ae6-d781-460a-977d-c8c4171ad0fa-global){: external} deployable architecture to a project to get started. 
+   
+   For more information about onboarding a deployable architecture and specifying optional components that work with it, go to [Optional and swappable components for deployable architectures](/docs/secure-enterprise?topic=secure-enterprise-choose-plan-process#optional-swappable).
 
 ### 13 December 2024
 {: #overview-dec1324}

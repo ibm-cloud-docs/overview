@@ -55,7 +55,7 @@ toc:
           - service-rollout.md
       - link:
           label: IBM Cloud Resiliency
-          href: https://test.cloud.ibm.com/docs/resiliency
+          href: https://cloud.ibm.com/docs/resiliency
       - shared-responsibility.md
       - peering_policy.md
       - nls.md

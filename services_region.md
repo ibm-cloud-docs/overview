@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2025-01-22"
+lastupdated: "2025-01-31"
 
 keywords: resource deployment, location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -98,7 +98,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Instrument Analytics | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Internet Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Internet of Things Platform |  |  |  |  | 
 | Investment Portfolio | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Key Protect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Knowledge Studio | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -156,7 +155,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Discovery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Workspace for Power Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | watsonx Assistant | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| watsonx Orchestrate | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| watsonx Orchestrate | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | watsonx.ai Runtime | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | watsonx.ai Studio | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | watsonx.data | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -233,7 +232,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Instrument Analytics |  |  |  | 
 | Internet Services | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Internet of Things Platform |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Investment Portfolio |  |  |  | 
 | Key Protect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Knowledge Studio | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -368,7 +366,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Instrument Analytics |  |  |  |  | 
 | Internet Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Internet of Things Platform |  |  |  |  | 
 | Investment Portfolio |  |  |  |  | 
 | Key Protect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Knowledge Studio | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 

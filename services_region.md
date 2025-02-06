@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2025-01-31"
+lastupdated: "2025-02-06"
 
 keywords: resource deployment, location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -156,8 +156,8 @@ Services that are hosted globally create resources that operate across multiple 
 | Workspace for Power Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | watsonx Assistant | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | watsonx Orchestrate | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| watsonx.ai Runtime | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
-| watsonx.ai Studio | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
+| watsonx.ai Runtime | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| watsonx.ai Studio | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | watsonx.data | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | watsonx.governance | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 {: row-headers}

@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2024-12-17"
+lastupdated: "2025-02-07"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -29,8 +29,8 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 {: release-note}
 
 Experimental: Customize a deployable architecture from the catalog
-:   You can now customize a deployable architecture by adding optional components in the {{site.data.keyword.cloud_notm}} console. Add the [Cloud automation for {{site.data.keyword.secrets-manager_short}}](https://cloud.ibm.com/catalog/7a4d68b4-cf8b-40cd-a3d1-f49aff526eb3/architecture/testing-deploy-arch-ibm-secrets-manager-5f149ae6-d781-460a-977d-c8c4171ad0fa-global){: external} deployable architecture to a project to get started. 
-   
+:   You can now customize a deployable architecture by adding optional components in the {{site.data.keyword.cloud_notm}} console. Add the [Cloud automation for {{site.data.keyword.secrets-manager_short}}](https://cloud.ibm.com/catalog/7a4d68b4-cf8b-40cd-a3d1-f49aff526eb3/architecture/testing-deploy-arch-ibm-secrets-manager-5f149ae6-d781-460a-977d-c8c4171ad0fa-global){: external} deployable architecture to a project to get started.
+
    For more information about onboarding a deployable architecture and specifying optional components that work with it, go to [Optional and swappable components for deployable architectures](/docs/secure-enterprise?topic=secure-enterprise-choose-plan-process#optional-swappable).
 
 ### 13 December 2024
@@ -48,7 +48,7 @@ Service ID limits are increased with groups
 {: release-note}
 
 Experimental: Connect your project to a Git repository
-:   You can now connect a project to a Git repository to save configurations there. By doing so, you can use your repository and the CI / CD tools of your choosing to automate pipelines on configurations. Connecting a project to a Git repository works best with a new project that doesn't contain any configurations. This is an experimental feature that is available for evaluation and testing purposes and might change without notice. For more information, go to [Integrating a project with a Git repository](/docs/secure-enterprise?topic=secure-enterprise-connect-to-git). 
+:   You can now connect a project to a Git repository to save configurations there. By doing so, you can use your repository and the CI / CD tools of your choosing to automate pipelines on configurations. Connecting a project to a Git repository works best with a new project that doesn't contain any configurations. This is an experimental feature that is available for evaluation and testing purposes and might change without notice. For more information, go to [Integrating a project with a Git repository](/docs/secure-enterprise?topic=secure-enterprise-connect-to-git).
 
 ### 12 November 2024
 {: #overview-nov1224}
@@ -163,7 +163,7 @@ Experimental: Stacking deployable architectures
 {: release-note}
 
 Increased limits for enterprises
-:   Easily scale your organization and workloads with increased limits on the number of accounts and account groups that you can have in your enterprise. You can have a maximum of 1000 accounts and 500 account groups. For more information, see [Enterprise limitations](/docs/secure-enterprise?topic=secure-enterprise-known-issues#enterprise-limits).
+:   Easily scale your organization and workloads with increased limits on the number of accounts and account groups that you can have in your enterprise. You can have a maximum of 1000 accounts and 500 account groups.
 
 ### 05 March 2024
 {: #overview-mar0524}
@@ -382,7 +382,7 @@ Specify language support for community-supported products
 {: release-note}
 
 View email notification history
-:   You can use the Communication history page in the console to check the status of all email notifications that are sent you to verify if the emails are being delivered successfully. You can also view the last 90 days of {{site.data.keyword.cloud_notm}} email history, which can help save you time troubleshooting any delivery issues without needing to contact {{site.data.keyword.IBM_notm}} support. For more information, see [Checking the delivery status of email notifications and viewing email history](/docs/account?topic=account-viewing-cloud-status#view-email-history).
+:   You can use the Communication history page in the console to check the status of all email notifications that are sent you to verify if the emails are being delivered successfully. You can also view the last 90 days of {{site.data.keyword.cloud_notm}} email history, which can help save you time troubleshooting any delivery issues without needing to contact {{site.data.keyword.IBM_notm}} support. For more information, see [Checking the delivery status of email notifications and viewing email history](/docs/account?topic=account-viewing-notifications#view-email-history).
 
 ### 04 April 2023
 {: #overview-apr0423}
@@ -753,7 +753,7 @@ Assigning access policies based on resource location
 Checking the root cause of an incident
 :   You can now visit the {{site.data.keyword.Bluemix_notm}} [Incident reports page](/status/incident-reports){: external} to check the health of an {{site.data.keyword.Bluemix_notm}} service. You can find Customer Incident Reports (CIR) on the page, which provide Root Cause Analysis (RCA) for past major outages. You are able to view and download the incident reports from the page about any events that affect {{site.data.keyword.Bluemix_notm}} availability. These reports are in PDF file formats and available for 5 years starting from the date when the event happened.
 
-   For more information, see [Checking Incident reports](/docs/account?topic=account-viewing-cloud-status#status-incident-report).
+   For more information, see [Checking Incident reports](/docs/account?topic=account-viewing-status#status-incident-report).
 
 ### 01 September 2021
 {: #overview-sep0121}
@@ -940,7 +940,7 @@ Controlling access to resources by using tags
 New notifications experience
 :   A more detailed [Notification preferences page](https://cloud.ibm.com/user/notifications){: external} is now available for you to customize your preferences for receiving email notifications. You receive only one email per event unless you subscribe to them, or you can subscribe to specific incidents from the Status page on an ad hoc basis. For more information, see [Setting email preferences for notifications](/docs/account?topic=account-email-prefs).
 
-   Based on which preferences the account owner or administrator sets, users in the account can view all {{site.data.keyword.Bluemix_notm}} incidents, maintenance, announcements, and security bulletins on the [Notifications page](https://cloud.ibm.com/notifications){: external}. They can filter the list by selecting a specific type of event, or by using keyword searches. For more information, see [Viewing notifications](/docs/account?topic=account-viewing-cloud-status#viewing-notifications).
+   Based on which preferences the account owner or administrator sets, users in the account can view all {{site.data.keyword.Bluemix_notm}} incidents, maintenance, announcements, and security bulletins on the [Notifications page](https://cloud.ibm.com/notifications){: external}. They can filter the list by selecting a specific type of event, or by using keyword searches. For more information, see [Viewing notifications](/docs/account?topic=account-viewing-notifications).
 
 
 ### 01 February 2021
@@ -959,7 +959,7 @@ Managing product availability in catalogs by location
 Pay as you go with Committed Use pricing model
 :   Customers with a Subscription account can use the new pricing model, {{site.data.keyword.Bluemix_notm}} Pay as you go with Committed Use. The new pricing model provides you with additional benefits as you navigate and build on {{site.data.keyword.Bluemix_notm}}.
 
-   With this pricing model, you commit to spend a certain amount and receive discounts across the entire platform. You are billed monthly based on your usage, and unlike a subscription, you continue to receive a discount even after you reach your committed amount. For more information, see [Pay as you go with Committed Use pricing model](/docs/account?topic=account-committed-use).
+   With this pricing model, you commit to spend a certain amount and receive discounts across the entire platform. You are billed monthly based on your usage, and unlike a subscription, you continue to receive a discount even after you reach your committed amount. For more information, see [Pay as you go with Committed Use pricing model](/docs/enterprise-management?topic=enterprise-management-committed-use).
 
 ## December 2020
 {: #overview-dec-2020}
@@ -1213,7 +1213,7 @@ Support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
 Unified notifications experience
 :   Viewing your notifications is now easier than ever with the new unified notifications experience. The notifications page is the centralized place to view and manage all incidents, maintenance, and announcements that might affect your account. In the {{site.data.keyword.Bluemix_notm}} console, click the **Notifications** icon ![Notification icon](../../icons/Notification.svg "Notifications") on the console menu bar to view your notifications.
 
-   Additionally, you can find all infrastructure notifications on the new notifications page. To learn more about the new notifications experience, see [Viewing notifications](/docs/account?topic=account-viewing-cloud-status#viewing-notifications).
+   Additionally, you can find all infrastructure notifications on the new notifications page. To learn more about the new notifications experience, see [Viewing notifications](/docs/account?topic=account-viewing-notifications).
 
 
 ### 18 April 2020

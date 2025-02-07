@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2023, 2024
-lastupdated: "2024-06-20"
+  years: 2023, 2025
+lastupdated: "2025-02-07"
 
 keywords:
 
@@ -24,8 +24,8 @@ For regional and zonal services, you request instances of the service to be depl
 
 About your business contact and account usage information (as defined in the [{{site.data.keyword.cloud_notm}} Service Agreement](https://www.ibm.com/support/customer/csol/terms/?id=Z126-6304&cc=us&lc=en){: external}), also called client’s metadata, {{site.data.keyword.cloud_notm}} stores and processes them where the control planes of the regional and global services are located.
 
-- Regional services typically have control planes that are located in the same region where you selected for the service except for the services indicated in [Services with global control planes](/docs/overview?topic=overview-zero-downtime#service-global-control-plane).
-- Global services control planes locations are indicated in [Global platform services](/docs/overview?topic=overview-zero-downtime#global-platform).
+- Regional services typically have control planes that are located in the same region where you selected for the service except for the services indicated in [Services with global control planes](/docs/resiliency?topic=resiliency-ha-redundancy#service-global-control-plane).
+- Global services control planes locations are indicated in [Global platform services](/docs/resiliency?topic=resiliency-ha-redundancy#global-platform).
 
 For a complete list of data attributes that are stored and processed by each single {{site.data.keyword.cloud_notm}} service you can refer to the documentation of the API of each service in the [API and SDK reference library](https://cloud.ibm.com/docs?tab=api-docs).
 

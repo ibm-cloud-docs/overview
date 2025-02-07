@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2022, 2024
-lastupdated: "2024-10-10"
+lastupdated: "2025-02-07"
 
 keywords: csm
 
@@ -39,7 +39,7 @@ At the end of the day, the CSM’s success is your success.
 |----------|-------------|
 |[Asset Management](https://www.ibm.com/products/maximo/asset-management?lnk=STW_US_STESCH&lnk2=learn_Maximo&pexp=DEF&psrc=NONE&mhsrc=ibmsearch_a&mhq=asset%20management) | IBM Maximo Manage is a fully integrated asset management platform that uses advanced analytic tools and IoT data to improve operational availability, extend asset lifecycles and optimize performance. |
 | [Supply Chain](https://www.ibm.com/products/b2b-integration-saas?lnk=STW_US_STESCH&lnk2=demo_SupplyChnBus&pexp=def&psrc=none&mhsrc=ibmsearch_a&mhq=supply%20chain) | Supply chain resiliency starts with a business network that handles peak events with ease and detects potential issues before they occur. |
-| [Data Fabric](https://www.ibm.com/topics/data-fabric?mhsrc=ibmsearch_a&mhq=data%20fabric) | Data fabric is an architecture that facilitates the end-to-end integration of various data pipelines and cloud environments through the use of intelligent and automated systems. |
+| [Data Fabric](https://www.ibm.com/think/topics/data-fabric?mhsrc=ibmsearch_a&mhq=data%20fabric) | Data fabric is an architecture that facilitates the end-to-end integration of various data pipelines and cloud environments through the use of intelligent and automated systems. |
 | [Business Automation](https://www.ibm.com/products/cloud-pak-for-business-automation?lnk=STW_US_STESCH&lnk2=learn_CloudPakAtm&pexp=DEF&psrc=NONE&mhsrc=ibmsearch_a&mhq=Business%20Automation) | IBM Cloud Pak for Business Automation is a modular set of integrated software components, built for any hybrid cloud, designed to automate work and accelerate business growth. |
 | [Security](https://www.ibm.com/cloud-paks) | IBM Cloud Pak for Security can help you gain deeper insights, mitigate risks and accelerate response. |
 | [IBM Cloud](https://ibm.com/cloud) | {{site.data.keyword.cloud_notm}} provides solutions that enable higher levels of compliance, security, and management, with proven architecture patterns and methods for rapid delivery for running mission-critical workloads.  |

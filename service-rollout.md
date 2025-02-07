@@ -3,7 +3,7 @@
 copyright:
 
   years: 2022, 2024
-lastupdated: "2024-10-10"
+lastupdated: "2025-02-07"
 
 keywords: rollout
 
@@ -93,9 +93,9 @@ For each service, you can review our dependency and availability standards.
 
 * {{site.data.keyword.cloud_notm}} services are available in several [regions worldwide](/docs/overview?topic=overview-services_region).
 * IBM services can be deployed by using various models, and the SLA standards that apply to each model are outlined in the [Service Level Agreements](https://www.ibm.com/support/customer/csol/terms/?id=i126-6605&lc=en){: external}
-* Follow our best practices to ensure your environment that integrates the use of the {{site.data.keyword.cloud_notm}} services is as resilient as possible. Check out the [resiliency documentation](https://www.ibm.com/topics/cyber-resilience){: external} that is published in the architecture center.
+* Follow our best practices to ensure your environment that integrates the use of the {{site.data.keyword.cloud_notm}} services is as resilient as possible. Check out the [resiliency documentation](https://www.ibm.com/think/topics/cyber-resilience){: external} that is published in the architecture center.
 * To build a solution that meets your needs, it is important for you to see the [Shared responsibility matrix](/docs/overview?topic=overview-shared-responsibilities) for more information on the scope of the services.
-* For quick reference, we include links to the high availability documents for the services within our [SLO](/docs/overview?topic=overview-slo) description.
+* For quick reference, we include links to the high availability documents for the services within our [SLO](/docs/resiliency?topic=resiliency-slo) description.
 
 ### Dependency levels
 {: #dependency-levels}
@@ -158,5 +158,5 @@ Storage
 | [SLA](https://www.ibm.com/support/customer/csol/terms/?id=i126-6605&lc=en){: external} | {{site.data.keyword.cloud_notm}} SLA  |
 | [Shared Responsibility Matrix](/docs/overview?topic=overview-shared-responsibilities)  | {{site.data.keyword.IBM_notm}}'s customer shared responsibility matrix |
 | [Availability of services](/docs/overview?topic=overview-services_region) | Listing of services available by location   |
-| [SLO](/docs/overview?topic=overview-slo)  | {{site.data.keyword.cloud_notm}} SLO  |
+| [SLO](/docs/resiliency?topic=resiliency-slo)  | {{site.data.keyword.cloud_notm}} SLO  |
 {: caption="Related documents" caption-side="top"}

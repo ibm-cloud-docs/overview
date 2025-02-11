@@ -2,7 +2,7 @@
 
 copyright:
   years: 2014, 2022
-lastupdated: "2024-10-22"
+lastupdated: "2025-02-11"
 
 keywords: translation, national language support
 

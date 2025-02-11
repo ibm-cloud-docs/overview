@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2024
-lastupdated: "2024-11-01"
+lastupdated: "2025-02-11"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -93,13 +93,15 @@ If you're referencing a region when using the CLI, API, SDK, or Terraform, ensur
 ### Single-campus MZRs
 {: #single-campus-mzr}
 
+
+
 Single-campus MZRs (SC-MZR) contain three zones in different sections of the same building or within multiple buildings on a campus where the power, cooling, networking, and physical security dependencies overlap but are not identical between any two zones. This setup ensures a level of continuous availability and survivability of any one system outage, planned or unplanned.
 
 SLAs are maintained because the infrastructure is set up in a concurrently maintainable fashion so that a single failure does not affect all three zones in the same campus. This setup is ideal for services that support local users as it reduces latency or to support disaster recovery workloads.
 
-
-
 ![This diagram shows a geography that contains an SC-MZR](images/single-campus-mzr.svg){: caption="Single-campus MZR" caption-side="bottom"}
+
+
 
 The following table lists the SC-MZR locations that are available in {{site.data.keyword.cloud_notm}} and the associated regions and zones.
 

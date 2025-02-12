@@ -20,6 +20,8 @@ subcollection: overview
 
 ![Global map showing MZR and data center locations](images/Global-View.svg "MZR and data center locations"){: caption="MZR and data center locations map" caption-side="bottom"}
 
+
+
 This image is an artistic representation and does not reflect actual political or geographic boundaries.
 {: note}
 

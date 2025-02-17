@@ -15,7 +15,7 @@ subcollection: overview
 # National language support for {{site.data.keyword.cloud_notm}}
 {: #language-support}
 
-{{site.data.keyword.cloud}} supports nine national languages other than English. However, depending on the release level of the products included in {{site.data.keyword.cloud_notm}}, the content that is provided might not be translated.
+{{site.data.keyword.cloud}} products and services support nine national languages other than English. However, depending on the release level of the products included in {{site.data.keyword.cloud_notm}}, the content that is provided might not be translated.
 {: shortdesc}
 
 The {{site.data.keyword.cloud_notm}} console and the Support Center display content according to your browser's language setting. You can switch languages for the console user interface and Support Center by going to your browser's settings page and changing the language.

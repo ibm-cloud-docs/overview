@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024
-lastupdated: "2024-11-12"
+lastupdated: "2025-02-20"
 
 keywords:
 
@@ -20,9 +20,9 @@ subcollection: overview
 
 The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models (LLMs) using [{{site.data.keyword.IBM_notm}}'s watsonx](https://www.ibm.com/watsonx){: external} and the {{site.data.keyword.cloud_notm}} docs.
 
-{{site.data.keyword.cloud_notm}} does not gather any personal identifiable information when you are using the AI feature and it is not connected to or associated with your account. When you query the AI assistant, it is not being trained based on user input and does not associate any queries with your identity or account. {{site.data.keyword.IBM_notm}} endeavors to develop AI in accordance with its published principles of trust and transparency. For more information, see [AI Ethics](https://www.ibm.com/impact/ai-ethics){: external}.
+{{site.data.keyword.cloud_notm}} does not gather any personal identifiable information when you are querying the AI assistant. When you query the AI assistant, it is not being trained based on user input and does not associate any queries with your identity or account. {{site.data.keyword.IBM_notm}} endeavors to develop AI in accordance with its published principles of trust and transparency. For more information, see [AI Ethics](https://www.ibm.com/impact/ai-ethics){: external}.
 
-The AI assistant supports all [national languages supported by {{site.data.keyword.cloud_notm}}](/docs/overview?topic=overview-language-support) including Brazilian Portuguese, English, French, German, Japanese, Korean, Italian, Spanish, Simplified Chinese, and Traditional Chinese. To get responses from the AI assistant in one of the supported languages, ask your question in one of the languages and get an answer back in that same language.
+The AI assistant responds in all [national languages that are supported by {{site.data.keyword.cloud_notm}}](/docs/overview?topic=overview-language-support) including Brazilian Portuguese, English, French, German, Japanese, Korean, Italian, Spanish, Simplified Chinese, and Traditional Chinese. To get responses from the AI assistant in one of the supported languages, ask your question in one of the languages and get an answer back in that same language.
 {: note}
 
 
@@ -30,7 +30,10 @@ The AI assistant supports all [national languages supported by {{site.data.keywo
 {: #ai-assistant-console}
 
 
-No matter where you are working in the {{site.data.keyword.cloud_notm}} console, the AI assistant is available to help with your questions about {{site.data.keyword.cloud_notm}} so that you can learn more about the platform or the services that you're using.
+No matter where you are working in the {{site.data.keyword.cloud_notm}} console, the AI assistant is available to help with your questions about {{site.data.keyword.cloud_notm}} so that you can learn more about the platform or the services that you're using. Additionally, if you're experiencing a technical account or billing issue, you can use the AI assistant in the console to chat with a live agent, depending on your support plan. You can also get the status of open cases in the account that you have access to view or manage.
+
+### Asking a question in the AI assistant
+{: #ask-about-cloud}
 
 You can start the AI assistant from the {{site.data.keyword.cloud_notm}} console header from the Help menu anytime that you want to ask a question, and it follows along with you in the console until you close it. With each question that you ask, reference citations from the {{site.data.keyword.cloud_notm}} docs are provided.
 
@@ -41,10 +44,33 @@ You can start the AI assistant from the {{site.data.keyword.cloud_notm}} console
 Content that is generated in the AI assistant might include mistakes or be incorrect.
 {: important}
 
+### Chatting with a live support agent
+{: #chat-with-support}
+
+If you have a paid support plan, you can chat with a live agent by entering `agent` in the chat from the console. With a Basic support plan, you can chat with a live agent about account and billing issues only. With an Advanced or Premium plan, you can also get technical support. Initiating a chat with a live support agent isn't supported in the CLI.
+
+1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **AI assistant**.
+1. Enter **agent**.
+1. Choose between **Technical Support** or **Account & Billing Support**.
+1. Select a topic that relates to your question to be transferred to a live agent and start your chat.
+
+When you chat with a live support agent, English and Japanese are the two supported languages.
+{: note}
+
+### Getting support case status
+{: #support-case-status}
+
+You can use the AI assistant in the console to get a quick status on the open cases in the account, if you have the correct access assigned. As an account owner, you have access to all cases, but if you're not the account owner, you must be assigned a specific access policy to view and manage cases. For more information about the required access to work with cases see, [Managing access to support cases](/docs/account?topic=account-access-cases).
+
+1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **AI assistant**.
+1. Enter **case status** to get a list of all open cases that you have access to, or enter a case number to view the current status of a specific support case.
+
+Alternatively, you can always go to the [Manage cases](/unifiedsupport/cases){: external} page to review and work with your support cases.
+
 ### Submitting feedback for generated responses
 {: #ai-feedback}
 
-You can provide feedback for each response from the AI assistant by using the **Good response** icon ![Good response icon](images/thumbs-up.svg "Good response") and **Bad response** icon ![Bad response icon](images/thumbs-down.svg "Bad response") options. You can choose to just mark the provided answer as a good response or bad response, and you can provide additional feedback by selecting from a common set of qualities that describe why you chose the rating and add additional feedback in the form of a comment. Your feedback is not used to train or enhance AI models.
+You can provide feedback for each response from the AI assistant by using the **Good response** icon ![Good response icon](images/thumbs-up.svg "Good response") and **Bad response** icon ![Bad response icon](images/thumbs-down.svg "Bad response") options. You can choose to just mark the provided answer as a good response or bad response, and you can provide feedback by selecting from a common set of qualities that describe why you chose the rating and add additional feedback in the form of a comment. Your feedback is not used to train or enhance AI models.
 
 ### Clearing your chat history
 {: #clear-history}
@@ -60,7 +86,7 @@ The AI assistant follows along with you in the console until you close it. You c
 ## Using the AI assistant in the {{site.data.keyword.cloud_notm}} CLI
 {: #ai-assistant-cli}
 
-You can also ask questions in the {{site.data.keyword.cloud_notm}} CLI.
+You can ask the AI assistant questions in the {{site.data.keyword.cloud_notm}} CLI. The `ibmcloud assist` command is also available for use in Cloud Shell.
 
 1. Log in with the `ibmcloud login` command. If you are logging in with a federated ID, use the `--sso` option to authenticate with a one-time passcode, or use the `--apikey` option to authenticate with an API key.
 2. Ask a question with the `ibmcloud assist` command.
@@ -68,6 +94,9 @@ You can also ask questions in the {{site.data.keyword.cloud_notm}} CLI.
    ibmcloud assist "How do I update the CLI?"
    ```
    {: codeblock}
+
+Chatting with a live support agent and requesting case status in the AI assistant is not supported in the CLI or Cloud Shell.
+{: note}
 
 For more information about using the AI assistant in the {{site.data.keyword.cloud_notm}} CLI, see [General IBM Cloud CLI (ibmcloud) commands](/docs/cli?topic=cli-ibmcloud_cli#ibmcloud_assist).
 
@@ -82,6 +111,7 @@ The AI assistant has the following limitations:
 * Actions like creating resources or making changes within your account can't be completed by the AI assistant.
 * Answers from the previous query and response are not used to answer subsequent queries.
 * If you encounter any styling issues in the console, use the **Open menu** icon ![Open menu icon](../icons/icon_hamburger.svg "Open menu") > **Clear history** option, and refresh the page.
+
 
 
 

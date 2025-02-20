@@ -2,7 +2,7 @@
 
 copyright:
   years: 2014, 2022
-lastupdated: "2025-02-11"
+lastupdated: "2025-02-20"
 
 keywords: translation, national language support
 
@@ -43,7 +43,7 @@ The following table lists the supported national languages and language codes fo
 ## National language support for support
 {: #support-language-support}
 
-Support by local technical account managers is available in any of the supported national languages that are listed during local business hours. Our major centers have several bilingual technical support professionals who support local languages as needed.
+Support by local technical account managers is available in any of the supported national languages that are listed during local business hours. Our major centers have several bilingual technical support professionals who support local languages as needed. When you chat with a live support agent in the {{site.data.keyword.cloud_notm}} console, only English and Japanese languages are supported.
 
 ## National language support for sales
 {: #sales-language-support}

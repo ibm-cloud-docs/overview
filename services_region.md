@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2025-02-26"
+lastupdated: "2025-02-27"
 
 keywords: resource deployment, location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -40,7 +40,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Auto Scale for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Bare Metal Servers for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage Snapshots for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -50,7 +49,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Cloud Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Cloudant | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Cluster Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Code Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Container Registry | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -77,18 +75,15 @@ Services that are hosted globally create resources that operate across multiple 
 | Event Notifications | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Event Streams | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | File Storage for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Floating IP for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Flow Logs for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Historical Instrument Analytics | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Hyper Protect Crypto Services | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Pak for Data | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | IBM Cloud Reservations for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Knowledge Catalog | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | IBM Match 360 with Watson | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | IBM Verify |  |  |  |  | 
 | IBM watsonx Code Assistant | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
-| Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Instrument Analytics | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Internet Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Investment Portfolio | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
@@ -99,46 +94,34 @@ Services that are hosted globally create resources that operate across multiple 
 | Log Analysis[Deprecated]{: tag-deprecated} |  |  |  |  | 
 | MQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Messages for RabbitMQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Multi Volume Snapshots for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Netezza Performance Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Network ACL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | OpenPages | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Partner with Technology Expert Labs | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Placement Groups for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Planning Analytics | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Portfolio Optimization | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Power Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Power Virtual Server DR Automation | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Predictive Market Scenarios | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Private Path Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Public Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Qiskit Runtime |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Real-Time Payments | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| SSH Key for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Satellite | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Satellite Infrastructure Service |  |  |  |  | 
 | Schematics | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Secrets Manager | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secure Gateway[Deprecated]{: tag-deprecated} | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Security Group for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Security and Compliance Center | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Security and Compliance Center Workload Protection | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Simulated Historical Instrument Analytics | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Simulated Instrument Analytics | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
-| Software Instance | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Speech to Text | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Streaming Analytics[Deprecated]{: tag-deprecated} | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Subnet | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Text to Speech | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Toolchain | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Transit Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| VCF as a Service - Cloud Director Site | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| VCF as a Service - Virtual Data Center | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | VMware Solutions | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Virtual Network Interface | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Endpoint for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Server for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -163,7 +146,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Analytics Engine |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Auto Scale for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Bare Metal Servers for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage Snapshots for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -173,7 +155,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Cloud Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Cloudant | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Cluster Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Code Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Container Registry | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -200,18 +181,15 @@ Services that are hosted globally create resources that operate across multiple 
 | Event Notifications | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Event Streams | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | File Storage for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Floating IP for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Flow Logs for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Historical Instrument Analytics |  |  |  | 
 | Hyper Protect Crypto Services | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Pak for Data | Hosted Globally | Hosted Globally | Hosted Globally | 
 | IBM Cloud Reservations for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Knowledge Catalog | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | IBM Match 360 with Watson |  |  |  | 
 | IBM Verify |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | IBM watsonx Code Assistant |  |  |  | 
-| Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Instrument Analytics |  |  |  | 
 | Internet Services | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Investment Portfolio |  |  |  | 
@@ -222,46 +200,34 @@ Services that are hosted globally create resources that operate across multiple 
 | Log Analysis[Deprecated]{: tag-deprecated} |  |  |  | 
 | MQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Messages for RabbitMQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Multi Volume Snapshots for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Netezza Performance Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Network ACL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | OpenPages | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Partner with Technology Expert Labs | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Placement Groups for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Planning Analytics | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Portfolio Optimization |  |  |  | 
 | Power Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Power Virtual Server DR Automation | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Predictive Market Scenarios |  |  |  | 
 | Private Path Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Public Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Qiskit Runtime |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Real-Time Payments |  |  |  | 
 | Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| SSH Key for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Satellite | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Satellite Infrastructure Service |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Schematics | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Secrets Manager | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secure Gateway[Deprecated]{: tag-deprecated} | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Security Group for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Security and Compliance Center |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Security and Compliance Center Workload Protection | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Simulated Historical Instrument Analytics |  |  |  | 
 | Simulated Instrument Analytics |  |  |  | 
-| Software Instance | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Speech to Text | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Streaming Analytics[Deprecated]{: tag-deprecated} | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Subnet | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Text to Speech | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Toolchain | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Transit Gateway | Hosted Globally | Hosted Globally | Hosted Globally | 
-| VCF as a Service - Cloud Director Site | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| VCF as a Service - Virtual Data Center | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | VMware Solutions | Hosted Globally | Hosted Globally | Hosted Globally | 
 | VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Virtual Network Interface | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Endpoint for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Server for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -286,7 +252,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Analytics Engine |  |  |  |  | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Auto Scale for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Bare Metal Servers for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Block Storage Snapshots for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Block Storage for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -296,7 +261,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Cloud Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Cloudant | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Cluster Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Code Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Container Registry | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -323,18 +287,15 @@ Services that are hosted globally create resources that operate across multiple 
 | Event Notifications | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Event Streams | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | File Storage for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Floating IP for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Flow Logs for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Historical Instrument Analytics |  |  |  |  | 
 | Hyper Protect Crypto Services |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | IBM Cloud Backup for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| IBM Cloud Pak for Data | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | IBM Cloud Reservations for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | IBM Knowledge Catalog | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | IBM Match 360 with Watson |  |  |  |  | 
 | IBM Verify |  |  |  |  | 
 | IBM watsonx Code Assistant |  |  |  |  | 
-| Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Instrument Analytics |  |  |  |  | 
 | Internet Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Investment Portfolio |  |  |  |  | 
@@ -345,46 +306,34 @@ Services that are hosted globally create resources that operate across multiple 
 | Log Analysis[Deprecated]{: tag-deprecated} |  |  |  |  | 
 | MQ |  |  |  |  | 
 | Messages for RabbitMQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Multi Volume Snapshots for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Natural Language Understanding | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Netezza Performance Server |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Network ACL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | OpenPages | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Partner with Technology Expert Labs | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Placement Groups for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Planning Analytics | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Portfolio Optimization |  |  |  |  | 
 | Power Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Power Virtual Server DR Automation | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Predictive Market Scenarios |  |  |  |  | 
 | Private Path Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Public Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Qiskit Runtime |  |  |  |  | 
 | Real-Time Payments |  |  |  |  | 
 | Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| SSH Key for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Satellite | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Satellite Infrastructure Service |  |  |  |  | 
 | Schematics |  |  |  |  | 
 | Secrets Manager | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Secure Gateway[Deprecated]{: tag-deprecated} | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
-| Security Group for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Security and Compliance Center |  |  |  |  | 
 | Security and Compliance Center Workload Protection | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Simulated Historical Instrument Analytics |  |  |  |  | 
 | Simulated Instrument Analytics |  |  |  |  | 
-| Software Instance | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Speech to Text | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Streaming Analytics[Deprecated]{: tag-deprecated} |  |  |  |  | 
-| Subnet | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Text to Speech | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Toolchain | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Transit Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| VCF as a Service - Cloud Director Site | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| VCF as a Service - Virtual Data Center | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | VMware Solutions | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Virtual Network Interface | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Virtual Private Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Virtual Private Endpoint for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Virtual Server for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 

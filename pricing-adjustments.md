@@ -2,8 +2,8 @@
 
 
 copyright:
-  years: 2023, 2024
-lastupdated: "2024-11-08"
+  years: 2023, 2025
+lastupdated: "2025-02-28"
 
 published-location: https://cloud.ibm.com/docs/overview?topic=overview-price-adjustments
 
@@ -18,8 +18,25 @@ subcollection: overview
 # {{site.data.keyword.cloud_notm}} price changes
 {: #price-adjustments}
 
-The following page outlines the price changes for {{site.data.keyword.cloud}}.
+The following page outlines price changes for {{site.data.keyword.cloud}}.
 {: shortdesc}
+
+## April 2025 price changes
+{: #apr-2025}
+
+Effective 1 April 2025, {{site.data.keyword.cloud_notm}} is making price changes for Microsoft Operating System licenses purchased through {{site.data.keyword.cloud_notm}}.
+
+| Offering | Platform | Edition | Metric | Current price | New price |
+| --- | --- | --- | --- | --- | --- |
+| Virtual Private Cloud | Virtual Server instance | Standard | vCPU Hour | $0.0460 | $0.051 |
+| Virtual Private Cloud | Bare Metal | Standard | vCPU Hour | $0.0035 | $0.051 |
+| Classic Infrastructure | Virtual Server Instance | Standard / DC | vCPU Hour | $0.046 | $0.051 |
+| Classic Infrastructure | Virtual Server Instance | Standard / DC | vCPU Month | $30.58 | $33.638 |
+| Classic Infrastructure | Bare Metal | Standard | Core Month | $4.50 | $4.950 |
+| Classic Infrastructure | Bare Metal | DC | Core Month | $31.25 | $34.375 |
+| VMware | Virtual Server Instance | Standard or DC | vCPU Hour | $0.019 | $0.021 |
+{: caption="Microsoft Operating System licence cost changes" caption-side="top"}
+
 
 ## January 2025 price changes
 {: #jan-2025}

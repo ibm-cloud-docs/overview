@@ -21,9 +21,6 @@ content-type: release-note
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
-## March 2025
-{: #march-2025}
-
 
 
 ## December 2024

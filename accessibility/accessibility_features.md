@@ -3,8 +3,8 @@
 
 
 copyright:
-  years: 2016, 2024
-lastupdated: "2024-05-31"
+  years: 2016, 2025
+lastupdated: "2025-03-13"
 
 keywords: quick keys, accessibility, screen reader
 
@@ -16,6 +16,7 @@ subcollection: overview
 
 # Accessibility features for {{site.data.keyword.Bluemix_notm}}
 {: #accessibility-platform}
+
 
 Accessibility features assist users who have a disability, such as restricted mobility or limited vision, to use information technology content successfully.
 {: shortdesc}

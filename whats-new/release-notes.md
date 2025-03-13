@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2024
 
 
-lastupdated: "2025-02-24"
+lastupdated: "2025-03-13"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -21,7 +21,15 @@ content-type: release-note
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
+## March 2025
+{: #march-2025}
 
+### 13 March 2025
+{: #overview-mar1325}
+{: release-note}
+
+Montreal single-campus MZR availability
+:   A new single-campus MZR (SC-MZR) location is now available in Montreal (`ca-mon`). You can review the [Service and infrastructure availability by location](/docs/overview?topic=overview-services_region) page to learn about the services that are available in this new location. For more information about {{site.data.keyword.cloud_notm}} SC-MZRs and MZRs, see [{{site.data.keyword.cloud_notm}} region and data center locations for resource deployment](/docs/overview?topic=overview-locations).
 
 ## December 2024
 {: #december-2024}

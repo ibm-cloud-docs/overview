@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2024
-lastupdated: "2025-02-12"
+lastupdated: "2025-03-13"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -19,8 +19,6 @@ subcollection: overview
 {: shortdesc}
 
 ![Global map showing MZR and data center locations](images/Global-View.svg "MZR and data center locations"){: caption="MZR and data center locations map" caption-side="bottom"}
-
-
 
 This image is an artistic representation and does not reflect actual political or geographic boundaries.
 {: note}
@@ -95,14 +93,11 @@ If you're referencing a region when using the CLI, API, SDK, or Terraform, ensur
 ### Single-campus MZRs
 {: #single-campus-mzr}
 
-
-
-Single-campus MZRs (SC-MZR) contain three zones in different sections of the same building or within multiple buildings on a campus where the power, cooling, networking, and physical security dependencies overlap but are not identical between any two zones. This setup ensures a level of continuous availability and survivability of any one system outage, planned or unplanned.
+Single-campus MZRs (SC-MZR) contain three zones in different sections of the same building or within multiple buildings on a campus where the power, cooling, networking, and physical security dependencies might overlap. An SC-MZR is set up with sufficient redundancy and resiliency to ensure a level of continuous availability and survivability through any one system outage, planned or unplanned.
 
 SLAs are maintained because the infrastructure is set up in a concurrently maintainable fashion so that a single failure does not affect all three zones in the same campus. This setup is ideal for services that support users colocated in the zone as it reduces latency to support disaster recovery workloads.
 
 ![This diagram shows a geography that contains an SC-MZR](images/single-campus-mzr.svg){: caption="Single-campus MZR" caption-side="bottom"}
-
 
 
 The following table lists the SC-MZR locations that are available in {{site.data.keyword.cloud_notm}} and the associated regions and zones.
@@ -110,6 +105,7 @@ The following table lists the SC-MZR locations that are available in {{site.data
 | Region   | Zone |
 |----------|------|
 | Osaka (`jp-osa`)   |jp-osa-1  \n jp-osa-2  \n jp-osa-3 |
+| Montreal (`ca-mon`) | ca-mon-1  \n ca-mon-2  \n ca-mon-3 |
 {: caption="single-campus MZRs" caption-side="top"}
 
 ### Zone mapping per account
@@ -124,7 +120,7 @@ The account zone mapping is established when the first VPC resource is created i
 
 
 
-Understanding your account’s zone mapping is helpful if you’re creating a mixed VPC and Power application, for example. You can create your VPC resources first, and then review your zone mapping to determine which universal zone the VPC resources are in so that you can ensure that the classic resources are created in the same physical location. Classic infrastructure and {{site.data.keyword.powerSysFull}} services locations are specified by data center while the physical location for VPC resources are specified by the universal zone name.
+Understanding your account’s zone mapping is helpful if you’re creating a mixed VPC and {{site.data.keyword.powerSys_notm}} application, for example. You can create your VPC resources first, and then review your zone mapping to determine which universal zone the VPC resources are in so that you can ensure that the classic resources are created in the same physical location. Classic infrastructure and {{site.data.keyword.powerSysFull}} services locations are specified by data center while the physical location for VPC resources are specified by the universal zone name.
 {: tip}
 
 The following table shows the available physical locations by using their universal zone name, associated data centers, and available [Point of Presence (PoP)](#x5458832){: term} locations per MZR.
@@ -173,6 +169,7 @@ The following table shows the available physical locations using their universal
 | Region   |  Universal zone name |Data center | PoP |
 |----------|------|------|----|
 | Osaka (`jp-osa`)   | jp-osa-osa21-a  \n jp-osa-osa22-a  \n jp-osa-osa23-a | OSA21  \n OSA22  \n OSA23 | OSA01 |
+| Montreal (`ca-mon`) | ca-mon-mon04-a  \n ca-mon-mon04-b  \n ca-mon-mon04-c | MON04 | MON02 |
 {: caption="single-campus MZR universal zone name" caption-side="top"}
 
 

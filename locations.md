@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2024
-lastupdated: "2025-03-12"
+lastupdated: "2025-03-13"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -120,7 +120,7 @@ The account zone mapping is established when the first VPC resource is created i
 
 
 
-Understanding your account’s zone mapping is helpful if you’re creating a mixed VPC and Power application, for example. You can create your VPC resources first, and then review your zone mapping to determine which universal zone the VPC resources are in so that you can ensure that the classic resources are created in the same physical location. Classic infrastructure and {{site.data.keyword.powerSysFull}} services locations are specified by data center while the physical location for VPC resources are specified by the universal zone name.
+Understanding your account’s zone mapping is helpful if you’re creating a mixed VPC and {{site.data.keyword.powerSys_notm}} application, for example. You can create your VPC resources first, and then review your zone mapping to determine which universal zone the VPC resources are in so that you can ensure that the classic resources are created in the same physical location. Classic infrastructure and {{site.data.keyword.powerSysFull}} services locations are specified by data center while the physical location for VPC resources are specified by the universal zone name.
 {: tip}
 
 The following table shows the available physical locations by using their universal zone name, associated data centers, and available [Point of Presence (PoP)](#x5458832){: term} locations per MZR.

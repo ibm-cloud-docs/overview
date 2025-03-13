@@ -93,7 +93,7 @@ If you're referencing a region when using the CLI, API, SDK, or Terraform, ensur
 ### Single-campus MZRs
 {: #single-campus-mzr}
 
-Single-campus MZRs (SC-MZR) contain three zones in different sections of the same building or within multiple buildings on a campus where the power, cooling, networking, and physical security dependencies may overlap. An SC-MZR is set up with sufficient redundancy and resiliency to ensure a level of continuous availability and survivability through any one system outage, planned or unplanned.
+Single-campus MZRs (SC-MZR) contain three zones in different sections of the same building or within multiple buildings on a campus where the power, cooling, networking, and physical security dependencies might overlap. An SC-MZR is set up with sufficient redundancy and resiliency to ensure a level of continuous availability and survivability through any one system outage, planned or unplanned.
 
 SLAs are maintained because the infrastructure is set up in a concurrently maintainable fashion so that a single failure does not affect all three zones in the same campus. This setup is ideal for services that support users colocated in the zone as it reduces latency to support disaster recovery workloads.
 

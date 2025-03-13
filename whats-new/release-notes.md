@@ -29,7 +29,7 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 {: release-note}
 
 Montreal single-campus MZR availability
-:   A new single-campus MZR (SC-MZR) location is now available in Montreal, Canada (`ca-mon`). You can review the [Service and infrastructure availability by location](/docs/overview?topic=overview-services_region) page to learn about the services that are available in this new location. For more information about {{site.data.keyword.cloud_notm}} SC-MZRs and MZRs, see [{{site.data.keyword.cloud_notm}} region and data center locations for resource deployment](/docs/overview?topic=overview-locations). 
+:   A new single-campus MZR (SC-MZR) location is now available in Montreal (`ca-mon`). You can review the [Service and infrastructure availability by location](/docs/overview?topic=overview-services_region) page to learn about the services that are available in this new location. For more information about {{site.data.keyword.cloud_notm}} SC-MZRs and MZRs, see [{{site.data.keyword.cloud_notm}} region and data center locations for resource deployment](/docs/overview?topic=overview-locations).
 
 ## December 2024
 {: #december-2024}

@@ -29,7 +29,7 @@ Effective 1 April 2025, {{site.data.keyword.cloud_notm}} is making price changes
 | Offering | Platform | Edition | Metric | Current price | New price |
 | --- | --- | --- | --- | --- | --- |
 | Virtual Private Cloud | Virtual Server instance | Standard | vCPU Hour | $0.0460 | $0.051 |
-| Virtual Private Cloud | Bare Metal | Standard | vCPU Hour | $0.0037 | $0.051 |
+| Virtual Private Cloud | Bare Metal | Standard | vCPU Hour | $0.0037 | $0.0037 |
 | Classic Infrastructure | Virtual Server Instance | Standard / DC | vCPU Hour | $0.046 | $0.051 |
 | Classic Infrastructure | Virtual Server Instance | Standard / DC | vCPU Month | $30.58 | $33.638 |
 | Classic Infrastructure | Bare Metal | Standard | Core Month | $4.50 | $4.950 |

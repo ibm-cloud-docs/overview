@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2015, 2023
-lastupdated: "2025-03-12"
+  years: 2015, 2025
+lastupdated: "2025-03-17"
 
 keywords: resource deployment, location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -53,7 +53,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Container Registry | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Data Engine (previously SQL Query)[Deprecated]{: tag-deprecated} | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | Data Product Hub | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Data Replication | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Data Virtualization | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
@@ -150,7 +149,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Container Registry | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Data Engine (previously SQL Query)[Deprecated]{: tag-deprecated} |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Data Product Hub |  |  |  | 
 | Data Replication | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Data Virtualization | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -247,7 +245,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Container Registry | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Data Engine (previously SQL Query)[Deprecated]{: tag-deprecated} |  |  |  |  | 
 | Data Product Hub | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Data Replication | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Data Virtualization |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 

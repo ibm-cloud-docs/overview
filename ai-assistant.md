@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024
-lastupdated: "2025-02-20"
+lastupdated: "2025-03-19"
 
 keywords:
 
@@ -30,12 +30,12 @@ The AI assistant responds in all [national languages that are supported by {{sit
 {: #ai-assistant-console}
 
 
-No matter where you are working in the {{site.data.keyword.cloud_notm}} console, the AI assistant is available to help with your questions about {{site.data.keyword.cloud_notm}} so that you can learn more about the platform or the services that you're using. Additionally, if you're experiencing a technical account or billing issue, you can use the AI assistant in the console to chat with a live agent, depending on your support plan. You can also get the status of open cases in the account that you have access to view or manage.
+No matter where you are working in the {{site.data.keyword.cloud_notm}} console, the AI assistant is available to help with your questions about {{site.data.keyword.cloud_notm}} so that you can learn more about the platform or the services that you're using. Additionally, if you're experiencing a technical account or billing issue, you can use the AI assistant in the console to contact support by chatting with a live agent, depending on your support plan. You can also get the status of open cases in the account that you have access to view or manage.
 
 ### Asking a question in the AI assistant
 {: #ask-about-cloud}
 
-You can start the AI assistant from the {{site.data.keyword.cloud_notm}} console header from the Help menu anytime that you want to ask a question, and it follows along with you in the console until you close it. With each question that you ask, reference citations from the {{site.data.keyword.cloud_notm}} docs are provided.
+Start the AI assistant from the {{site.data.keyword.cloud_notm}} console header from the Help menu anytime that you want to ask a question, and it follows along with you in the console until you close it. With each question that you ask, reference citations from the {{site.data.keyword.cloud_notm}} docs are provided.
 
 1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **AI assistant**.
 1. Ask questions about working in your account, working with products and offerings from the catalog, and more to help you stay productive in {{site.data.keyword.cloud_notm}}.

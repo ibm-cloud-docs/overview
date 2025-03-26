@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2025
 
 
-lastupdated: "2025-03-25"
+lastupdated: "2025-03-26"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -23,6 +23,13 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 
 ## March 2025
 {: #march-2025}
+
+### 26 March 2025
+{: #overview-mar2625}
+{: release-note}
+
+IBM Cloud AI assistant can now assist you with getting support
+:   To bring you an updated platform experience, the IBM Cloud AI assistant is available to help with your questions about IBM Cloud and can assist you with getting support for account, billing, and technical support issues according to your support plan. You can query about your support cases or request to be handed off to a live support agent. For more information, see [Getting help from the AI assistant](/docs/overview?topic=overview-ask-ai-assistant).
 
 ### 13 March 2025
 {: #overview-mar1325}

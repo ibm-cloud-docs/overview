@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2024
-lastupdated: "2024-10-21"
+  years: 2015, 2025
+lastupdated: "2025-03-28"
 
 keywords: ui, platform, console, using the console
 
@@ -78,7 +78,7 @@ Databases
 :   All of your database needs are now centralized into one location. From **Databases**, you can create and manage relational databases ({{site.data.keyword.databases-for-mysql}}, Db2, {{site.data.keyword.databases-for-postgresql}}, and Databases for EDB); auxiliary databases ({{site.data.keyword.dashdbshort_notm}}, {{site.data.keyword.databases-for-etcd}}, and {{site.data.keyword.databases-for-redis}}); and non-relational databases ({{site.data.keyword.databases-for-elasticsearch}}, {{site.data.keyword.databases-for-mongodb}}, and {{site.data.keyword.cloudant}}).
 
 Infrastructure
-:   The previous **Classic Infrastructure**, **VPC Infrastructure**, and **Interconnectivity** menu options are now nested within **Infrastructure**.
+:   The previous **Classic Infrastructure**, **VPC Infrastructure**, **Power Virtual Server**, and **Interconnectivity** menu options are now nested within **Infrastructure**.
 
 Observability
 :   The **Observability** option still provides access to **Logging**, **Monitoring**, and **Activity tracking**. 

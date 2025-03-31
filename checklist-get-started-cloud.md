@@ -2,7 +2,7 @@
 copyright:
   years: 2022, 2024
 
-lastupdated: "2025-03-28"
+lastupdated: "2025-03-31"
 
 keywords: onboard to cloud, onboarding, onboarding checklist, get started on {{site.data.keyword.cloud_notm}}, account set up
 
@@ -29,7 +29,7 @@ If you have little to no experience with {{site.data.keyword.cloud_notm}}, or yo
 | Task | Description |
 |---|-------------|
 | - [ ] **Learn about the {{site.data.keyword.cloud_notm}} platform**  | Review the [What is the {{site.data.keyword.cloud_notm}} platform?](/docs/overview?topic=overview-whatis-platform) documentation to get familiar. |
-| - [ ] **Understand your options for working with resources in {{site.data.keyword.cloud_notm}}** | To create and manage resources in {{site.data.keyword.cloud_notm}}, you can use any of the following tools: \n * [{{site.data.keyword.cloud_notm}} console](https://cloud.ibm.com/) \n* [{{site.data.keyword.cloud_notm}} projects](/projects) \n * [{{site.data.keyword.cloud_notm}} Command Line Interface (CLI)](https://github.com/IBM-Cloud/ibm-cloud-cli-release) \n * [{{site.data.keyword.cloud-shell_notm}}](/shell). \n * [{{site.data.keyword.bpfull_notm}}](/schematics) \n * Each service offers a set of APIs and SDKs available as part of their documentation. |
+| - [ ] **Understand your options for working with resources in {{site.data.keyword.cloud_notm}}** | To create and manage resources in {{site.data.keyword.cloud_notm}}, you can use any of the following tools: \n * [{{site.data.keyword.cloud_notm}} console](https://cloud.ibm.com/) \n* [{{site.data.keyword.cloud_notm}} projects](/projects) \n * [{{site.data.keyword.cloud_notm}} Command Line Interface (CLI)](https://github.com/IBM-Cloud/ibm-cloud-cli-release) \n * [{{site.data.keyword.cloud-shell_notm}}](/shell) \n * [{{site.data.keyword.bpfull_notm}}](/schematics) \n * Each service offers a set of APIs and SDKs available as part of their documentation. |
 | - [ ] **Learn how to navigate the {{site.data.keyword.cloud_notm}} console** | The console is the user interface that you use to create and manage all your {{site.data.keyword.cloud_notm}} resources. You can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. For more information, see [Navigating the {{site.data.keyword.cloud_notm}} console](/docs/overview?topic=overview-ui). |
 | - [ ] **Get started with {{site.data.keyword.cloud_notm}} projects** | IBM Cloud projects and deployable architectures allow you to securely create and manage resources as code. For more information, see [Using projects for IaC Deployments](/docs/secure-enterprise?topic=secure-enterprise-understanding-projects).  |
 | - [ ] **Get started with the {{site.data.keyword.cloud_notm}} CLI** | The command line interface (CLI) is a set of plug-ins and tools that you can use to create and manage your resources. For more information, see [Getting started with the {{site.data.keyword.cloud_notm}} CLI](/docs/cli?topic=cli-getting-started).  |

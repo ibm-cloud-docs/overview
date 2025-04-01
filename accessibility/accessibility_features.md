@@ -4,7 +4,7 @@
 
 copyright:
   years: 2016, 2025
-lastupdated: "2025-03-18"
+lastupdated: "2025-04-01"
 
 keywords: quick keys, accessibility, screen reader
 
@@ -28,7 +28,7 @@ Accessibility features assist users who have a disability, such as restricted mo
 * Keyboard-only operation
 * Operations that use a screen reader
 
-{{site.data.keyword.Bluemix_notm}} uses the W3C Standard, [WAI-ARIA 1.2](http://www.w3.org/TR/wai-aria/){: external}, to ensure compliance to ensure compliance to [US Section 508](https://www.access-board.gov/ict/){: external}, [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/){: external}, and [EN 301 549](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf){: external}. To take advantage of accessibility features, use the latest release of your screen reader in combination with the latest Firefox web browser that is supported by this product.
+{{site.data.keyword.Bluemix_notm}} uses the W3C Standard, [WAI-ARIA 1.2](http://www.w3.org/TR/wai-aria/){: external}, to ensure compliance to ensure compliance to [US Section 508](https://www.access-board.gov/ict/){: external}, [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/){: external}, and [EN 301 549](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf){: external}. To take advantage of accessibility features, use the latest release of your screen reader in combination with the latest Chrome web browser that is supported by this product.
 
 
 
@@ -38,7 +38,7 @@ Accessibility features assist users who have a disability, such as restricted mo
 
 Review the following information about the {{site.data.keyword.Bluemix_notm}} user interface:
 
-* If you are using a screen reader with the {{site.data.keyword.Bluemix_notm}} web user interface or product documentation, use the latest version of Firefox with the latest release of the screen reader.
+* If you are using a screen reader with the {{site.data.keyword.Bluemix_notm}} web user interface or product documentation, use the latest version of Chrome with the latest release of the screen reader.
 * If you are using keyboard operation only, ensure that your MacOS setting is enabled for `Keyboard navigation: Use keyboard navigation to move focus between controls`.
 * The {{site.data.keyword.Bluemix_notm}} user interfaces do not have content that flashes 2 - 55 times per second.
 * The {{site.data.keyword.Bluemix_notm}} web user interfaces rely on cascading style sheets to render content properly and to provide a usable experience. The application provides an equivalent way for low-vision users to use a user’s system display settings, including high-contrast mode. You can control font size by using the device or web browser settings.

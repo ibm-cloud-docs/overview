@@ -39,7 +39,7 @@ By distributing your workloads across three zones and consuming highly available
 ### Multizone regions
 {: #table-mzr}
 
-MZRs are composed of three or more data centers in multiple zones with independent power, cooling, and network connectivity to help ensure that failures in these components will be isolated to a single zone. MZRs provide low latency (< 2-milliseconds latency) and high bandwidth (> 1000 Gbps) connectivity within a zone.
+MZRs are composed of three or more data centers in multiple zones with independent power, cooling, and network connectivity to ensure that failures in these components will be isolated to a single zone. MZRs provide low latency (< 2-milliseconds latency) and high bandwidth (> 1000 Gbps) connectivity within a zone.
 
 Offering the highest level of redundancy and availability by leveraging three separate sites within a region, MZRs have a minimum distance of at least 1 mile between zones and exact distances vary by region. Zone-to-zone latency can be found in the [network latency dashboards](/docs/vpc?topic=vpc-network-latency-dashboard).
 
@@ -85,7 +85,7 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZR locations and
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the locaiton type in the specific geographical area."}
 
-If you're referencing a region when using the CLI, API, SDK, or Terraform, help ensure that you're using the programmatic region name. For example, use `us-south` to target the Dallas (`us-south`) region.
+If you're referencing a region when using the CLI, API, SDK, or Terraform, use the the programmatic region name. For example, use `us-south` to target the Dallas (`us-south`) region.
 {: note}
 
 

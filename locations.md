@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2024
-lastupdated: "2025-03-13"
+lastupdated: "2025-04-09"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -47,8 +47,7 @@ Offering the highest level of redundancy and availability by leveraging three se
 
 MZRs support different types of compute for both VPC and classic infrastructure resources. The location of classic resources is specified by a data center while VPC resource locations are specified by the zone. For more information about the physical locations available for your account per region for VPC resources, see [Zone mapping per account](#zone-mapping).
 
-The following table lists the {{site.data.keyword.cloud_notm}} MZR locations and zones for each.
-
+The following table lists the {{site.data.keyword.cloud_notm}} MZR locations and zones for the geography.
 
 | Region | Zone |
 |----------|------|
@@ -86,14 +85,14 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZR locations and
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the locaiton type in the specific geographical area."}
 
-If you're referencing a region when using the CLI, API, SDK, or Terraform, ensure that you're using the programmatic region name. For example, use `us-south` to target the Dallas (`us-south`) region.
+If you're referencing a region when using the CLI, API, SDK, or Terraform, help ensure that you're using the programmatic region name. For example, use `us-south` to target the Dallas (`us-south`) region.
 {: note}
 
 
 ### Single-campus MZRs
 {: #single-campus-mzr}
 
-Single-campus MZRs (SC-MZR) contain three zones in different sections of the same building or within multiple buildings on a campus where the power, cooling, networking, and physical security dependencies might overlap. An SC-MZR is set up with sufficient redundancy and resiliency to ensure a level of continuous availability and survivability through any one system outage, planned or unplanned.
+Single-campus MZRs (SC-MZR) contain three zones in different sections of the same building or within multiple buildings on a campus where the power, cooling, networking, and physical security dependencies might overlap. An SC-MZR is set up with sufficient redundancy and resiliency to help ensure a level of continuous availability and survivability through any one system outage, planned or unplanned.
 
 SLAs are maintained because the infrastructure is set up in a concurrently maintainable fashion so that a single failure does not affect all three zones in the same campus. This setup is ideal for services that support users colocated in the zone as it reduces latency to support disaster recovery workloads.
 

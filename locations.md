@@ -85,7 +85,7 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZR locations and
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the locaiton type in the specific geographical area."}
 
-If you're referencing a region when using the CLI, API, SDK, or Terraform, use the the programmatic region name. For example, use `us-south` to target the Dallas (`us-south`) region.
+If you're referencing a region when using the CLI, API, SDK, or Terraform, use the programmatic region name. For example, use `us-south` to target the Dallas (`us-south`) region.
 {: note}
 
 

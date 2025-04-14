@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2016, 2024
-lastupdated: "2024-12-05"
+  years: 2016, 2025
+lastupdated: "2025-04-14"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 subcollection: overview
@@ -21,7 +21,6 @@ The following cross-references are used in this glossary:
 
 - *See* refers you from a nonpreferred term to the preferred term or from an abbreviation to the spelled-out form.
 - *See also* refers you to a related or contrasting term.
-
 
 ## A
 {: #glossa}
@@ -369,6 +368,11 @@ An organization that provides cloud computing resources.
 {: #x9494304}
 
 A globally unique identifier for a specific cloud resource. The value is segmented hierarchically by version, instance, type, location, and scope, separated by colons.
+
+### cluster network
+{: #x5727730}
+
+A high performance network within a virtual private cloud (VPC)'s boundary that has it's own isolated IPv4 address space.
 
 ### command-line interface (CLI)
 {: #x2051424}
@@ -1104,7 +1108,7 @@ A user-defined identifier attached to a grouping of resources that are contained
 ### large language model (LLM)
 {: #x10298052}
 
-A language model with a large number of parameters, trained on a large quantity of text.
+A language model with many parameters, trained on a large quantity of text.
 
 ### layer
 {: #x2028320}
@@ -1701,6 +1705,17 @@ Typically a verb that reflects how entities are related to one another. For exam
 {: #x3157818}
 
 A binary, unidirectional relationship between two entities. For example, Mary employedBy IBM is a valid relationship; IBM employedBy Mary is not.
+
+### repo
+{: #x7639721}
+
+See [repository](#x2036865).
+
+
+### repository (repo)
+{: #x2036865}
+
+A persistent storage area for data and other application resources.
 
 ### Representational State Transfer (REST)
 {: #x3220976}

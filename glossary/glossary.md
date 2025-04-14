@@ -22,6 +22,8 @@ The following cross-references are used in this glossary:
 - *See* refers you from a nonpreferred term to the preferred term or from an abbreviation to the spelled-out form.
 - *See also* refers you to a related or contrasting term.
 
+
+
 ## A
 {: #glossa}
 
@@ -987,7 +989,7 @@ See [identity provider](#x2714740).
 ### image
 {: #x2024928}
 
-A file system and its execution parameters that are used within a container runtime to create a container. The file system consists of a series of layers, combined at runtime, that are created as the image is built by successive updates. The image does not retain state as the container executes. See also [container](#x2010901), [registry](#x2064940), [namespace](#x2031005), [layer](#x2028320), [base image](#x5366487), [parent image](#x8439210), [private image repository](#x8439215).
+A file system and its execution parameters that are used within a container runtime to create a container. The file system consists of a series of layers, combined at runtime, that are created as the image is built by successive updates. The image does not retain state as the container executes. See also [container](#x2010901), [registry](#x2064940), [namespace](#x2031005), [layer](#x2028320), [base image](#x5366487), [parent image](#x8439210).
 
 ### imprint mode
 {: #x9860399}
@@ -1317,7 +1319,7 @@ A concept in a domain that falls in to a well defined category, such as names of
 ### namespace
 {: #x2031005}
 
-A collection of repositories that store images in a registry. A namespace is associated with an IBM Cloud account, which can include multiple namespaces. See also [image](#x2024928), [private image repository](#x8439215).
+A collection of repositories that store images in a registry. A namespace is associated with an IBM Cloud account, which can include multiple namespaces. See also [image](#x2024928).
 
 ### NAT
 {: #x2245519}
@@ -1534,11 +1536,6 @@ A measurement that specifies the proportion of results that are relevant. Precis
 {: #x4585362}
 
 A cloud computing environment in which access is limited to members of an enterprise and partner networks. See also [public cloud](#x4585370).
-
-### private image repository
-{: #x8439215}
-
-The combination of an organization's IBM Cloud registry and its namespace. The private image repository is used when referencing an image in a command. See also [image](#x2024928), [namespace](#x2031005).
 
 ### private key
 {: #x2034701}

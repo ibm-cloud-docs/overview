@@ -900,6 +900,21 @@
     ]
   },
   {
+    "Lemma": "cluster network",
+    "ID": "x5727730",
+    "Homonyms": [
+      {
+        "Senses": [
+          {
+            "Definitions": [
+              "A high performance network within a virtual private cloud (VPC)'s boundary that has it's own isolated IPv4 address space."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Lemma": "command-line interface (CLI)",
     "ID": "x2051424",
     "Homonyms": [
@@ -2612,7 +2627,7 @@
         "Senses": [
           {
             "Definitions": [
-              "A language model with a large number of parameters, trained on a large quantity of text."
+              "A language model with many parameters, trained on a large quantity of text."
             ]
           }
         ]
@@ -3485,21 +3500,6 @@
     ]
   },
   {
-    "Lemma": "private image repository",
-    "ID": "x8439215",
-    "Homonyms": [
-      {
-        "Senses": [
-          {
-            "Definitions": [
-              "The combination of an organization's IBM Cloud registry and its namespace. The private image repository is used when referencing an image in a command."
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "Lemma": "private key",
     "ID": "x2034701",
     "Homonyms": [
@@ -3955,6 +3955,21 @@
     ]
   },
   {
+    "Lemma": "repository (repo)",
+    "ID": "x2036865",
+    "Homonyms": [
+      {
+        "Senses": [
+          {
+            "Definitions": [
+              "A persistent storage area for data and other application resources."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Lemma": "Representational State Transfer (REST)",
     "ID": "x3220976",
     "Homonyms": [
@@ -3977,7 +3992,7 @@
         "Senses": [
           {
             "Definitions": [
-              " A physical or logical instance that can be provisioned or reserved. Examples of resources can include storage, processors, memory, databases, clusters, and VMs. "
+              " A physical or logical instance that can be provisioned or reserved. Examples of resources can include storage, processors, memory, databases, clusters, and VMs. "
             ]
           }
         ]

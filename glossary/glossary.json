@@ -3977,7 +3977,7 @@
         "Senses": [
           {
             "Definitions": [
-              " A physical or logical instance that can be provisioned or reserved. Examples of resources can include storage, processors, memory, databases, clusters, and VMs. "
+              " A physical or logical instance that can be provisioned or reserved. Examples of resources can include storage, processors, memory, databases, clusters, and VMs. "
             ]
           }
         ]

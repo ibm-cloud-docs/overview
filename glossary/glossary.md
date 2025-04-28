@@ -2,10 +2,12 @@
 
 copyright:
   years: 2016, 2025
-lastupdated: "2025-04-14"
+lastupdated: "2025-04-22"
 
-keywords: glossary, IBM Cloud glossary, terms, definitions
+keywords: "glossary, IBM Cloud glossary, terms, definitions"
+
 subcollection: overview
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -21,7 +23,6 @@ The following cross-references are used in this glossary:
 
 - *See* refers you from a nonpreferred term to the preferred term or from an abbreviation to the spelled-out form.
 - *See also* refers you to a related or contrasting term.
-
 
 
 ## A
@@ -334,6 +335,18 @@ Executable code that contains business logic agreed to by a set of organizations
 
 A private subset of a larger  blockchain network with specific rules and a separate ledger that only channel members can access.
 
+### CIE
+{: #x10299035}
+
+See [customer impacting event](#x10299035).
+
+
+### CIR
+{: #x10299035}
+
+See [customer incident report](#x10299035).
+
+
 ### CLI
 {: #x2008863}
 
@@ -519,6 +532,16 @@ To select, collect, preserve, and maintain content relevant to a specific topic.
 {: #x5728384}
 
 The customized portion of the URL selected by the user to direct requests to the application. A custom domain makes up part of the route. A custom domain can be a shared domain, a shared subdomain, or a shared domain and host. See also [host](#x2002243), [subdomain](#x2040080), [Uniform Resource Locator](#x2042491), [domain](#x2021210), [route](#x2037338).
+
+### customer impacting event (CIE)
+{: #x10299035}
+
+An event that causes a customer to lose access to data, causes a customer to lose data, or causes an installation or repair to exceed the expected length of time.
+
+### customer incident report (CIR)
+{: #x10299035}
+
+A report that is generated for larger, enterprise-level issues that details the root cause, service impact, and planned resolution.
 
 ## D
 {: #glossd}
@@ -1389,7 +1412,7 @@ Pertaining to software that is installed and run on the local computers of a use
 ### ontology
 {: #x3069177}
 
-An explicit formal specification of the representation of the objects, concepts, and other entities that can exist in some area of interest and the relationships among them.
+An explicit formal specification of the representation of the objects, concepts, and other entities that can exist in some area of interest and the relationships among them. See also [taxonomy](#x2221451).
 
 ### orderer node
 {: #x9826016}
@@ -2047,6 +2070,11 @@ A user-defined identifier attached to a grouping of resources that are contained
 {: #x2262507}
 
 The resource or set of resources to provide a subject access to in an access policy. The set of resources is defined by one or more attributes. For example, a target could be all resources in a resource group, all resources of a certain resource type, or the resource with a certain resource ID.
+
+### taxonomy
+{: #x2221451}
+
+The classification of information that is used to discuss, analyze, or retrieve that information. See also [ontology](#x3069177).
 
 ### template
 {: #x2041200}

@@ -1290,6 +1290,36 @@
     ]
   },
   {
+    "Lemma": "customer impacting event (CIE)",
+    "ID": "x10299035",
+    "Homonyms": [
+      {
+        "Senses": [
+          {
+            "Definitions": [
+              "An event that causes a customer to lose access to data, causes a customer to lose data, or causes an installation or repair to exceed the expected length of time."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Lemma": "customer incident report (CIR)",
+    "ID": "x10299035",
+    "Homonyms": [
+      {
+        "Senses": [
+          {
+            "Definitions": [
+              "A report that is generated for larger, enterprise-level issues that details the root cause, service impact, and planned resolution."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Lemma": "daemon",
     "ID": "x2019215",
     "Homonyms": [
@@ -3992,7 +4022,7 @@
         "Senses": [
           {
             "Definitions": [
-              " A physical or logical instance that can be provisioned or reserved. Examples of resources can include storage, processors, memory, databases, clusters, and VMs. "
+              " A physical or logical instance that can be provisioned or reserved. Examples of resources can include storage, processors, memory, databases, clusters, and VMs. "
             ]
           }
         ]
@@ -4708,6 +4738,21 @@
           {
             "Definitions": [
               "The resource or set of resources to provide a subject access to in an access policy. The set of resources is defined by one or more attributes. For example, a target could be all resources in a resource group, all resources of a certain resource type, or the resource with a certain resource ID."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Lemma": "taxonomy",
+    "ID": "x2221451",
+    "Homonyms": [
+      {
+        "Senses": [
+          {
+            "Definitions": [
+              "The classification of information that is used to discuss, analyze, or retrieve that information."
             ]
           }
         ]

@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2025
 
 
-lastupdated: "2025-04-14"
+lastupdated: "2025-04-30"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -21,7 +21,15 @@ content-type: release-note
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
+## April 2025
+{: #april-2025}
 
+### 30 April 2025
+{: #overview-apr1725}
+{: release-note}
+
+Experimental: Extend a deployable architecture as you onboard it to a private catalog
+:   You can now create a more complex deployable architecture by stacking it with other architectures as you onboard it to a private catalog. By doing so, you can include dependencies and optional deployable architectures for extended use cases, so users can customize your solution to meet their needs. For more information, go to [Extending a deployable architecture during onboarding](/docs/secure-enterprise?topic=secure-enterprise-extend-da).
 
 ## March 2025
 {: #march-2025}

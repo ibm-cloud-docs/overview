@@ -48,7 +48,6 @@ toc:
           label: Product availability and locations
           topics:
           - services_region.md
-          - services_coming.md
           - topic: locations.md
             navtitle: Locations for resource deployment
           - service-rollout.md

@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2024
-lastupdated: "2025-03-19"
+  years: 2024, 2025
+lastupdated: "2025-05-06"
 
 keywords:
 
@@ -15,7 +15,7 @@ subcollection: overview
 # Getting help from the AI assistant
 {: #ask-ai-assistant}
 
-{{site.data.keyword.cloud}}'s AI assistant, which is powered by {{site.data.keyword.IBM}}'s watsonx, is designed to help you learn about working in {{site.data.keyword.cloud_notm}} and building solutions with the available catalog of offerings.
+The {{site.data.keyword.cloud}} AI assistant, which is powered by {{site.data.keyword.IBM}} watsonx, is designed to help you learn about working in {{site.data.keyword.cloud_notm}} and building solutions with the available catalog of offerings.
 {: shortdesc}
 
 The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models (LLMs) using [{{site.data.keyword.IBM_notm}}'s watsonx](https://www.ibm.com/watsonx){: external} and the {{site.data.keyword.cloud_notm}} docs.

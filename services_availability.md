@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2015, 2023
-lastupdated: "2023-09-18"
+  years: 2015, 2025
+lastupdated: "2025-05-15"
 
 keywords: lifecycle, end of support, service availability, deprecation, product availability, product release level, extended support, terms
 
@@ -27,13 +27,11 @@ The following table lists the products that {{site.data.keyword.IBM}} will not w
 | ------------- | -------------------------- |
 | {{site.data.keyword.appid_short}} | 2026-12-31 |
 | {{site.data.keyword.cloudant}} | 2026-12-31 |
-| {{site.data.keyword.openwhisk_short}} | 2026-12-31 |
 | {{site.data.keyword.databases-for-postgresql}} | 2027-12-31 |
 | {{site.data.keyword.dashdbshort}} | 2026-12-31 |
 | {{site.data.keyword.messagehub}} | 2027-12-31 |
 | {{site.data.keyword.containershort_notm}} | 2027-12-31 |
 | {{site.data.keyword.objectstorageshort}} | 2026-12-31 |
-| {{site.data.keyword.powerSysShort}} | 2026-12-31 |
 {: caption="Product support" caption-side="top"}
 
 For products that are not included in the previous table, {{site.data.keyword.IBM_notm}} will provide at least 30 days notice of its intention to discontinue or replace a generally available product. If no replacement is provided, {{site.data.keyword.IBM_notm}} will use commercially reasonable means to continue the operation and support of previously deployed instances of the product for a period of at least 12 months.

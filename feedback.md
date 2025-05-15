@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2024
-lastupdated: "2024-06-02"
+lastupdated: "2025-05-15"
 
 keywords: feedback button, comments, requirements, product improvements, submit feedback, documentation, console, feedback
 
@@ -16,7 +16,7 @@ subcollection: overview
 # Submitting feedback
 {: #feedback}
 
-We want to hear from you! You can submit feedback for the {{site.data.keyword.Bluemix_notm}} team on the documentation or the console. You can choose from a few different methods to provide feedback.
+We want to hear from you! You can submit feedback for the {{site.data.keyword.cloud_notm}} team on the documentation or the console. You can choose from a few different methods to provide feedback.
 {: shortdesc}
 
 ## Providing a content update with a pull request
@@ -59,4 +59,4 @@ When you're completing a task in the console, you can find a feedback form from 
 ## Submitting ideas for product improvements
 {: #ideas}
 
-To submit ideas for {{site.data.keyword.Bluemix_notm}} and services improvements, go to [IBM Cloud Ideas](https://ibmcloud.ideas.ibm.com/){: external}.
+To submit ideas, feature requests for {{site.data.keyword.cloud_notm}}, and services improvements, go to [IBM Cloud Ideas](https://ibmcloud.ideas.ibm.com/){: external}. The Product Management team, which is responsible for the full lifecycle of an {{site.data.keyword.cloud_notm}} product offering, reviews the ideas.

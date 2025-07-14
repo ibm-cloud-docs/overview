@@ -1,8 +1,8 @@
 ---
 copyright:
-  years: 2022, 2024
+  years: 2022, 2025
 
-lastupdated: "2025-06-13"
+lastupdated: "2025-07-11"
 
 keywords: onboard to cloud, onboarding, onboarding checklist, get started on {{site.data.keyword.cloud_notm}}, account set up
 
@@ -133,7 +133,7 @@ Analyze logs, collect metrics, and configure near real-time alerts on your cloud
 | - [ ] **Configure streaming of log data** (optional) | You can stream data from an {{site.data.keyword.logs_full_notm}} instance to other corporate tools such as Security Information and Event Management (SIEM) tools. Learn more about [streaming data](/docs/cloud-logs?topic=cloud-logs-streaming). |
 | - [ ] **Configure logging agents** | The logging agent collects and forwards logs to your {{site.data.keyword.logs_full_notm}} instance. After you provision an {{site.data.keyword.logs_full_notm}} instance, you must configure a logging agent for each log source, for example in classic infrastructure or VPC infrastructure, that you want to monitor. Learn more about [logging agents](/docs/cloud-logs?topic=cloud-logs-agent-about). |
 | - [ ] **Configure {{site.data.keyword.monitoringshort_notm}}** | {{site.data.keyword.monitoringlong_notm}} is a cloud-native, and container-intelligence management system that you can include as part of your {{site.data.keyword.cloud_notm}} architecture. Use it to gain operational visibility into the performance and health of your applications, services, and platforms. It offers administrators, DevOps teams, and developers full stack telemetry with advanced features to monitor and troubleshoot, define alerts, and design custom dashboards. Learn more about [getting started with {{site.data.keyword.monitoringshort_notm}}](/docs/monitoring?topic=monitoring-getting-started). |
-| - [ ] **Configure monitoring agent**  | Depending on the compute resource type that you are monitoring, follow these guides to configure the monitoring agent in classic infrastructure or VPC infrastructure: \n * [Working with the Kubernetes agent](/docs/monitoring?topic=monitoring-agent_Kube) \n * [Working with the {{site.data.keyword.openshiftshort}} agent](/docs/monitoring?topic=monitoring-agent_openshift) \n * [Working with the Linux agent](/docs/monitoring?topic=monitoring-agent_linux). \n * [Working with the Docker agent](/docs/monitoring?topic=monitoring-agent_docker). |
+| - [ ] **Configure monitoring agent**  | Depending on the compute resource type that you are monitoring, follow these guides to configure the monitoring agent in classic infrastructure or VPC infrastructure: \n * [Working with the Linux agent](/docs/monitoring?topic=monitoring-agent_linux). \n * [Working with the Docker agent](/docs/monitoring?topic=monitoring-agent_docker). |
 | - [ ] **Configure streaming of {{site.data.keyword.monitoringfull_notm}}** | You can use {{site.data.keyword.monitoringfull_notm}} to push a set of selected metrics to a Kafka service such as {{site.data.keyword.messagehub_full}}. For more information, see [Streaming metrics to a Kafka service](/docs/monitoring?topic=monitoring-data_streaming). |
 {: caption="Getting started tasks for enabling logging and monitoring" caption-side="top"}
 

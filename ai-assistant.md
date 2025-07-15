@@ -2,9 +2,9 @@
 
 copyright:
   years: 2024, 2025
-lastupdated: "2025-05-15"
+lastupdated: "2025-07-15"
 
-keywords:
+keywords: AI assistant, AI help
 
 subcollection: overview
 
@@ -18,7 +18,7 @@ subcollection: overview
 The {{site.data.keyword.cloud}} AI assistant, which is powered by {{site.data.keyword.IBM}} watsonx, is designed to help you learn about working in {{site.data.keyword.cloud_notm}} and building solutions with the available catalog of offerings.
 {: shortdesc}
 
-The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models (LLMs) using [{{site.data.keyword.IBM_notm}}'s watsonx](https://www.ibm.com/watsonx){: external} and the {{site.data.keyword.cloud_notm}} docs.
+The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models (LLMs) using [{{site.data.keyword.IBM_notm}}'s watsonx](https://www.ibm.com/products/watsonx){: external} and the {{site.data.keyword.cloud_notm}} docs.
 
 {{site.data.keyword.cloud_notm}} does not gather any personal identifiable information when you are querying the AI assistant. When you query the AI assistant, it is not being trained based on user input and does not associate any queries with your identity or account. {{site.data.keyword.IBM_notm}} endeavors to develop AI in accordance with its published principles of trust and transparency. For more information, see [AI Ethics](https://www.ibm.com/artificial-intelligence/ai-ethics){: external}.
 
@@ -106,7 +106,7 @@ For more information about using the AI assistant in the {{site.data.keyword.clo
 
 The AI assistant has the following limitations:
 
-* Questions must be limited to 500 characters or less.
+* Questions must be limited to 1000 characters or less.
 * AI-generated responses are limited to information from the {{site.data.keyword.cloud_notm}} docs and the LLM.
 * Actions like creating resources or making changes within your account can't be completed by the AI assistant.
 * Answers from the previous query and response are not used to answer subsequent queries.

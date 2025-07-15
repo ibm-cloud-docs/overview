@@ -2,9 +2,9 @@
 
 copyright:
   years: 2024, 2025
-lastupdated: "2025-05-15"
+lastupdated: "2025-07-15"
 
-keywords:
+keywords: AI assistant, AI help
 
 subcollection: overview
 
@@ -106,7 +106,7 @@ For more information about using the AI assistant in the {{site.data.keyword.clo
 
 The AI assistant has the following limitations:
 
-* Questions must be limited to 500 characters or less.
+* Questions must be limited to 1000 characters or less.
 * AI-generated responses are limited to information from the {{site.data.keyword.cloud_notm}} docs and the LLM.
 * Actions like creating resources or making changes within your account can't be completed by the AI assistant.
 * Answers from the previous query and response are not used to answer subsequent queries.

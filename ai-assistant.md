@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024, 2025
-lastupdated: "2025-07-15"
+lastupdated: "2025-08-01"
 
 keywords: AI assistant, AI help
 
@@ -111,6 +111,7 @@ The AI assistant has the following limitations:
 * Actions like creating resources or making changes within your account can't be completed by the AI assistant.
 * Answers from the previous query and response are not used to answer subsequent queries.
 * If you encounter any styling issues in the console, use the **Open menu** icon ![Open menu icon](../icons/icon_hamburger.svg "Open menu") > **Clear history** option, and refresh the page.
+* Speech to text is unavailable in the Firefox browser.
 
 
 

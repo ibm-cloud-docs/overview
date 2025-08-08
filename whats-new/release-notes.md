@@ -21,6 +21,9 @@ content-type: release-note
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
+## August 2025
+{: #august-2025}
+
 ### 08 August 2025
 {: #overview-august0825}
 {: release-note}
@@ -34,6 +37,9 @@ Centralized IAM policy support for enterprise log routing
 
 Federate enterprise IdP administrators to {{site.data.keyword.cloud_notm}} by using SAML
 :   {{site.data.keyword.cloud_notm}} now supports SAML-based identity federation directly through {{site.data.keyword.cloud_notm}} IAM, enabling customers to federate identities from their external Identity Providers (IdPs) to manage {{site.data.keyword.cloud_notm}} resources. This enhancement helps ensure continuity for existing App ID integrations and provides a seamless path for onboarding to the new federation capability with minimal impact. For more information, go to [Enabling authentication from an external identity provider](/docs/account?topic=account-ibm-idp-integration).
+
+## July 2025
+{: #july-2025}
 
 ### 01 July 2025
 {: #overview-july0125}

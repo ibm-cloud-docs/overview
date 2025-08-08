@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2025
-lastupdated: "2025-08-07"
+lastupdated: "2025-08-08"
 
 keywords: notices, IBM Cloud, creative commons, licenses
 
@@ -85,7 +85,7 @@ The United States prohibits most commercial transactions and other dealings with
 
 {{site.data.keyword.cloud_notm}} implements network-wide blocking of communications to IP addresses which originate from countries subject to those trade and economic sanctions. This policy affects all {{site.data.keyword.cloud_notm}} data center locations and environments, and blocks access by IP addresses registered to countries subject to U.S. trade and economic sanctions.
 
-To identify IP addresses associated with U.S. embargoed countries, {{site.data.keyword.cloud_notm}} references the Geo IP2 Database maintained by [MaxMind](https://www.maxmind.com/en/home){: external}). {{site.data.keyword.cloud_notm}} updates its IP address country mapping on a quarterly basis.
+To identify IP addresses associated with U.S. embargoed countries, {{site.data.keyword.cloud_notm}} references the Geo IP2 Database maintained by [MaxMind](https://www.maxmind.com/en/home){: external}. {{site.data.keyword.cloud_notm}} updates its IP address country mapping on a quarterly basis.
 
 Note: This restriction does not apply to content that is not prohibited under U.S. sanctions and embargoes. Please email IBM_Cloud_Embargo_Exemption_Request@wwpdl.vnet.ibm.com if you believe your content is not prohibited under U.S. trade and economic sanctions.
 
@@ -237,14 +237,14 @@ The URL to the license is https://creativecommons.org/licenses/by/2.5/
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/3.0/legalcode
 
-spdx-exceptions (https://github.com/jslicense/spdx-exceptions.json/archive/v2.2.0.zip), SPDX (https://github.com/spdx), SPDX STANDARD [spdx-expression-parse] (https://github.com/spdx/spdx-spec), GO GOPHER [gonum/gonum](https://codeload.github.com/gonum/gonum/zip/4340aa3071a0acb819e023bd5cd455c714a1f154), DOCUMENTATION [opencontainers/runc](https://github.com/opencontainers/runc/tree/v0.1.1), H2DEMO/TMPL.GO [x/net], POLY [google-api-go-client](https://github.com/googleapis/google-api-go-client/tree/5213b8090861), DIR.TMPL [x/tools], THE IVY MASCOT [x/mobile](https://github.com/golang/mobile/tree/e47acb2ca7f9)
+spdx-exceptions (https://github.com/jslicense/spdx-exceptions.json/archive/v2.2.0.zip), SPDX (https://github.com/spdx), SPDX STANDARD [spdx-expression-parse] (https://github.com/spdx/spdx-spec), GO GOPHER [gonum/gonum](https://codeload.github.com/gonum/gonum/zip/4340aa3071a0acb819e023bd5cd455c714a1f154){: external download="gonum/gonum"}, DOCUMENTATION [opencontainers/runc](https://github.com/opencontainers/runc/tree/v0.1.1), H2DEMO/TMPL.GO [x/net], POLY [google-api-go-client](https://github.com/googleapis/google-api-go-client/tree/5213b8090861), DIR.TMPL [x/tools], THE IVY MASCOT [x/mobile](https://github.com/golang/mobile/tree/e47acb2ca7f9)
 
 #### Creative Commons Attribution 4.0 Generic
 {: #devcon-40}
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/4.0/legalcode
 
-heartbeat_test.c (https://packages.debian.org/stretch/libssl1.0.2), NPM-DISPUTES.HTML [npm] (https://github.com/nodejs/node/tree/v12.13.0/deps/npm), README.MD FILE AND DOCS [docker/go-metrics](https://codeload.github.com/docker/go-metrics/zip/b84716841b82eab644a0c64fc8b42d480e49add5), ZSCHEMA-BROWSER-TEST.JS [z-schema](http://registry.npmjs.org/z-schema/-/z-schema-3.25.1.tgz), README AND DOCS FOLDER [containerd/containerd](https://github.com/containerd/containerd/tree/v1.3.0-beta.2)
+heartbeat_test.c (https://packages.debian.org/stretch/libssl1.0.2), NPM-DISPUTES.HTML [npm] (https://github.com/nodejs/node/tree/v12.13.0/deps/npm), README.MD FILE AND DOCS [docker/go-metrics](https://codeload.github.com/docker/go-metrics/zip/b84716841b82eab644a0c64fc8b42d480e49add5){: external download="docker/go-metrics"}, ZSCHEMA-BROWSER-TEST.JS [z-schema](http://registry.npmjs.org/z-schema/-/z-schema-3.25.1.tgz), README AND DOCS FOLDER [containerd/containerd](https://github.com/containerd/containerd/tree/v1.3.0-beta.2)
 
 #### Creative Commons Attribution Share Alike 1.0 license
 {: #devcon-share-10}
@@ -425,10 +425,10 @@ The Program includes some or all of the following works licensed under the Creat
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/3.0/legalcode
 
 * [BOOTSTRAP DOCS](https://github.com/twbs/bootstrap/tree/v3.3.2)
-* SITE-POLICIES [golang/net](https://codeload.github.com/golang/net/zip/161cd47e91fd58ac17490ef4d742dc98bb4cf60e), DIR.TMPL - SITE POLICIES [golang/tools](https://codeload.github.com/golang/tools/zip/bf090417da8b6150dcfe96795325f5aa78fff718)
+* SITE-POLICIES [golang/net](https://codeload.github.com/golang/net/zip/161cd47e91fd58ac17490ef4d742dc98bb4cf60e){: external download="golang/net"}, DIR.TMPL - SITE POLICIES [golang/tools](https://codeload.github.com/golang/tools/zip/bf090417da8b6150dcfe96795325f5aa78fff718){: external download="golang/tools"}
 * CONTENT-SITE-POLICIES#RESTRICTIONS [golang.org/x/tools](https://proxy.golang.org/golang.org/x/tools/@v/v0.0.0-20201224043029-2b0845dc783e.zip), DOCS [docker/libtrust](https://proxy.golang.org/github.com/docker/libtrust/@v/v0.0.0-20160708172513-aabc10ec26b7.zip), GODOCS btoa (Not Required), GOPROXY-JQUERY-VERSION elazarl/goproxy(Not Required)
 * WEBPAGECONTENTS-HTML/TESTDATA/GO1.HTML [github.com/hashicorp/go.net (Not Required)](https://proxy.golang.org/github.com/hashicorp/go.net/@v/v0.0.1.zip), GO1.HTML [github.com/hashicorp/go.net (Not Required)](https://proxy.golang.org/github.com/hashicorp/go.net/@v/v0.0.1.zip), [GODOC.HTML (no copyright)](https://proxy.golang.org/golang.org/x/tools/@v/v0.1.4.zip), PHP_MAN.HTML [elazarl/goproxy (Not Required)](https://proxy.golang.org/github.com/elazarl/goproxy/@v/v0.0.0-20170405201442-c4fc26588b6e.zip), GOLANG-ORG.YAML [github.com/dnaeon/go-vcr (Not Required)](https://proxy.golang.org/github.com/dnaeon/go-vcr/@v/v1.0.1.zip),
-[POLY-GEN.GO (no copyright)](https://proxy.golang.org/google.golang.org/api/@v/v0.25.0.zip), FONT
+[POLY-GEN.GO (no copyright)](https://proxy.golang.org/google.golang.org/api/@v/v0.25.0.zip){: external download="POLY-GEN.GO"}, FONT
 AWESOME [ANGularJS (Not Required)](https://github.com/angular/angular.js/releases/tag/v1.0.6),
 [ABOUTIVY.HTML (no copyright)](https://proxy.golang.org/golang.org/x/mobile/@v/v0.0.0-20190719004257-d2bd2a29d028.zip), [DIR.TMPL (no copyright)](https://proxy.golang.org/golang.org/x/tools/@v/v0.1.4.zip), [SPRITES (no copyright)](https://proxy.golang.org/golang.org/x/mobile/@v/v0.0.0-20190719004257-d2bd2a29d028.zip), GOPHER [gonum.org/v1/gonum (Not Required)](https://proxy.golang.org/gonum.org/v1/gonum/@v/v0.0.0-20190331200053-3d26580ed485.zip), GOPHER IMAGE BY RENEE FRENCH [Go (Copyright (c) Renee French)](https://go.dev/doc/gopher/fiveyears.jpg)
 * PAGE CONTENT TMPL.GO [golang.org/x/net (Copyright 2017 The Go Authors)](https://github.com/golang/net/blob/e18ecbb051101a46fc263334b127c89bc7bff7ea/http2/h2demo/tmpl.go)
@@ -444,7 +444,7 @@ the Creative Commons. The URL to the license is https://creativecommons.org/lice
 * SPDYSTREAM/DOCS [docker/spdystream](/spdystream-449fdfce4d962303d702fec724ef0ad181c92528/README.md),
 FIXTURES [go-openapi/spec] (Not Required)
 * DOCS [containerd/containerd (Not Required)](http://creativecommons.org/licenses/by/4.0/), EXPANDER_TEST.GO
-[go-openapi/spec (Not Required)](https://proxy.golang.org/github.com/go-openapi/spec/@v/v0.19.3.zip)
+[go-openapi/spec (Not Required)](https://proxy.golang.org/github.com/go-openapi/spec/@v/v0.19.3.zip){: external download="go-openapi/spec"}
 
 #### Creative Commons Attribution Share Alike 1.0 Generic
 {: #cli-share-10}
@@ -452,7 +452,7 @@ FIXTURES [go-openapi/spec] (Not Required)
 The Program includes some or all of the following works licensed under
 the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/1.0/legalcode.
 
-TXT_RU [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.0)
+TXT_RU [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.0){: external download="golang/text"}
 
 #### Creative Commons Attribution Share Alike 2.0 Generic
 {: #cli-share-20}
@@ -460,14 +460,14 @@ TXT_RU [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/2.0/legalcode
 
 * MASTER SHAKE PHOTO BY SOL GRUNDY (MASTER_SHAKE.JPG) [rest-client (Ruby Gem)](https://rubygems.org/gems/rest-client-1.8.0.gem)
-* TXT_KR [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.0)
+* TXT_KR [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.0){: external download="golang/text"}
 
 #### Creative Commons Attribution Share Alike 2.5 Generic
 {: #cli-share-25}
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/2.5/legalcode
 
-TXT_CN [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.0)
+TXT_CN [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.0){: external download="golang/text"}
 
 #### Creative Commons Attribution Share Alike 3.0 Generic
 {: #cli-share-30}
@@ -475,7 +475,7 @@ TXT_CN [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/3.0/legalcode
 
 * [envoyproxy/protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate/archive/v0.1.0.zip)
-* TXT_VN [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.0)
+* TXT_VN [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.0){: external download="golang/text"}
 * IMAGES [jQuery-ui (Not Required)](http://jqueryui.com/resources/download/jquery-ui-1.10.3.zip)
 
 #### Creative Commons Attribution Share Alike 4.0 Generic
@@ -484,8 +484,8 @@ The Program includes some or all of the following works licensed under the Creat
 The Program includes some or all of the following works licensed under the Creative Commons.
 The URL to the license is https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-* README.MD [docker-ce-cli](https://codeload.github.com/docker/docker-ce/zip/refs/tags/v19.03.12)
-* GO-METRICS DOCS [docker-ce-cli](https://codeload.github.com/docker/docker-ce/zip/refs/tags/v19.03.12), DOCS
+* README.MD [docker-ce-cli](https://codeload.github.com/docker/docker-ce/zip/refs/tags/v19.03.12){: external download="docker-ce-cli"}
+* GO-METRICS DOCS [docker-ce-cli](https://codeload.github.com/docker/docker-ce/zip/refs/tags/v19.03.12){: external download="docker-ce-cli"}, DOCS
 [go-digest](https://proxy.golang.org/github.com/opencontainers/go-digest/@v/v1.0.0-rc1.zip),
 GLOB LOGO [Glob](http://registry.npmjs.org/glob/-/glob-7.1.6.tgz)
 
@@ -610,14 +610,14 @@ JCIP-ANNOTATIONS [HttpCore](https://mvnrepository.com/artifact/net.jcip/jcip-ann
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/3.0/legalcode
 
-DOCS. [jq](http://archive.ubuntu.com/ubuntu/pool/universe/j/jq/jq_1.5+dfsg.orig.tar.gz), FONT AWESOME DOCUMENTATION [goconvey](https://fontawesome.com), SOUNDMANAGER.TS [xterm](http://registry.npmjs.org/xterm/-/xterm-3.14.5.tgz), H2DEMO [golang/net](https://codeload.github.com/golang/net/zip/13f9640d40b9cc418fb53703dfbd177679788ceb), [SPDX-EXCEPTIONS](http://registry.npmjs.org/spdx-exceptions/-/spdx-exceptions-2.3.0.tgz), SPDX STANDARD [spdx-expression-parse](https://github.com/spdx/spdx-spec), FIREWORKS.JPEG [Snappy](http://registry.npmjs.org/snappy/-/snappy-6.3.5.tgz), GO1.HTML [hashicorp/go.net](https://codeload.github.com/hashicorp/go.net/zip/afc3cb3a421746fc66dd55b09a270c750cf536ce),GODOC.HTML [golang.org/x/tools] (Not Required), GOLANG-ORG.YAML [dnaeon/go-vcr](https://codeload.github.com/dnaeon/go-vcr/zip/refs/tags/v1.0.1), GO [Go](https://go.dev/dl/), HTTP2/H2DEMO/TMPL.GO [dns](https://pkg.go.dev/github.com/miekg/dns@v1.0.14), POLY [google.golang.org/api](https://proxy.golang.org/google.golang.org/api/@v/v0.9.0.zip), GOPHER IMAGE [Go](https://github.com/golang/go/releases/tag/go1.15.2), DIR.TMPL [golang.org/x/tools] (Not Required), SPRITES [golang.org/x/mobile](https://pkg.go.dev/golang.org/x/mobile), GOPHER [gonum](https://github.com/gonum/gonum/tree/3d26580ed485), RUNC-DOCUMENTATION [opencontainers/runc](https://github.com/opencontainers/runc/tree/v0.1.1)
+DOCS. [jq](http://archive.ubuntu.com/ubuntu/pool/universe/j/jq/jq_1.5+dfsg.orig.tar.gz), FONT AWESOME DOCUMENTATION [goconvey](https://fontawesome.com), SOUNDMANAGER.TS [xterm](http://registry.npmjs.org/xterm/-/xterm-3.14.5.tgz), H2DEMO [golang/net](https://codeload.github.com/golang/net/zip/13f9640d40b9cc418fb53703dfbd177679788ceb){: external download="golang/net"}, [SPDX-EXCEPTIONS](http://registry.npmjs.org/spdx-exceptions/-/spdx-exceptions-2.3.0.tgz), SPDX STANDARD [spdx-expression-parse](https://github.com/spdx/spdx-spec), FIREWORKS.JPEG [Snappy](http://registry.npmjs.org/snappy/-/snappy-6.3.5.tgz), GO1.HTML [hashicorp/go.net](https://codeload.github.com/hashicorp/go.net/zip/afc3cb3a421746fc66dd55b09a270c750cf536ce){: external download="hashicorp/go.net"},GODOC.HTML [golang.org/x/tools] (Not Required), GOLANG-ORG.YAML [dnaeon/go-vcr](https://codeload.github.com/dnaeon/go-vcr/zip/refs/tags/v1.0.1){: external download="GOLANG-ORG.YAML"}, GO [Go](https://go.dev/dl/), HTTP2/H2DEMO/TMPL.GO [dns](https://pkg.go.dev/github.com/miekg/dns@v1.0.14), POLY [google.golang.org/api](https://proxy.golang.org/google.golang.org/api/@v/v0.9.0.zip){: external download="google.golang.org/api"}, GOPHER IMAGE [Go](https://github.com/golang/go/releases/tag/go1.15.2), DIR.TMPL [golang.org/x/tools] (Not Required), SPRITES [golang.org/x/mobile](https://pkg.go.dev/golang.org/x/mobile), GOPHER [gonum](https://github.com/gonum/gonum/tree/3d26580ed485), RUNC-DOCUMENTATION [opencontainers/runc](https://github.com/opencontainers/runc/tree/v0.1.1)
 
 #### Creative Commons Attribution 4.0 Generic
 {: #cloudshell-40}
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/4.0/legalcode
 
-DOM [Typescript](http://registry.npmjs.org/typescript/-/typescript-3.7.2.tgz), GO-DIGEST-README.MD FILE AND CONTRIBUTING.MD [distribution](https://github.com/docker/distribution/archive/v2.7.1.zip), DOC [docker-ce-cli](https://codeload.github.com/docker/docker-ce/zip/refs/tags/v19.03.3), TEST_CONTAINERD_DOCS [Microsoft/hcsshim](https://pkg.go.dev/github.com/Microsoft/hcsshim@v0.8.7), CASCADINGSCHEMES.YAML [go-openapi/loads](https://pkg.go.dev/github.com/go-openapi/loads@v0.19.4), CONTAINERD DOCUMENTATION [docker/docker](https://github.com/moby/moby), DATA.GO [go-openapi/runtime](https://github.com/go-openapi/runtime/tree/v0.19.4), DOCS/LOGO.SVG [Semver](https://pypi.io/packages/source/s/semver/semver-2.13.0.tar.gz), SWAGGER PETSTORE [go-openapi/validate], EXPANDER_TEST.GO [go-openapi/spec](https://github.com/go-openapi/spec/tree/v0.19.9), PAPER-100K.PDF [Snappy](http://registry.npmjs.org/snappy/-/snappy-6.3.5.tgz), README AND DOCS FOLDER [containerd/containerd](https://codeload.github.com/containerd/containerd/zip/refs/tags/v1.3.2)
+DOM [Typescript](http://registry.npmjs.org/typescript/-/typescript-3.7.2.tgz), GO-DIGEST-README.MD FILE AND CONTRIBUTING.MD [distribution](https://github.com/docker/distribution/archive/v2.7.1.zip), DOC [docker-ce-cli](https://codeload.github.com/docker/docker-ce/zip/refs/tags/v19.03.3){: external download="docker-ce-cli"}, TEST_CONTAINERD_DOCS [Microsoft/hcsshim](https://pkg.go.dev/github.com/Microsoft/hcsshim@v0.8.7), CASCADINGSCHEMES.YAML [go-openapi/loads](https://pkg.go.dev/github.com/go-openapi/loads@v0.19.4), CONTAINERD DOCUMENTATION [docker/docker](https://github.com/moby/moby), DATA.GO [go-openapi/runtime](https://github.com/go-openapi/runtime/tree/v0.19.4), DOCS/LOGO.SVG [Semver](https://pypi.io/packages/source/s/semver/semver-2.13.0.tar.gz){: external download="semver"}, SWAGGER PETSTORE [go-openapi/validate], EXPANDER_TEST.GO [go-openapi/spec](https://github.com/go-openapi/spec/tree/v0.19.9), PAPER-100K.PDF [Snappy](http://registry.npmjs.org/snappy/-/snappy-6.3.5.tgz), README AND DOCS FOLDER [containerd/containerd](https://codeload.github.com/containerd/containerd/zip/refs/tags/v1.3.2){: external download="containerd/containerd"}
 
 #### Creative Commons Attribution Share Alike 1.0 Generic
 {: #cloudshell-share-10}
@@ -645,14 +645,14 @@ CANTONESE TEXT [golang.org/x/text](https://proxy.golang.org/golang.org/x/text/@v
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/3.0/legalcode
 
-REGULAR_EXPRESSIONS [posix-character-classes](https://en.wikibooks.org/wiki/Regular_Expressions/POSIX_Basic_Regular_Expressions), TEXT IN FOREIGN LANGUAGE [golang/text](https://codeload.github.com/golang/text/zip/cbf43d21aaebfdfeb81d91a5f444d13a3046e686), NEP-0012-MISSING-DATA.RST [NumPy](https://github.com/numpy/numpy/blob/main/doc/neps/nep-0012-missing-data.rst), VIETNAMESE TEXT [golang.org/x/text](https://proxy.golang.org/golang.org/x/text/@v/v0.3.3-0.20200430171850-afb9336c4530.zip), RAMDA LOGO [RAMda](http://registry.npmjs.org/ramda/-/ramda-0.27.1.tgz), NEP-0012-MISSING-DATA.RST [NumPy](https://pypi.org/project/numpy/#files), DATA LICENSE (GEOLITE COUNTRY AND CITY DATABASES) [geoip](https://github.com/maxmind/geoip-api-c/releases/tag/v1.6.12), NEP12 [NumPy], MAP_TEST.GO [x/text]
+REGULAR_EXPRESSIONS [posix-character-classes](https://en.wikibooks.org/wiki/Regular_Expressions/POSIX_Basic_Regular_Expressions), TEXT IN FOREIGN LANGUAGE [golang/text](https://codeload.github.com/golang/text/zip/cbf43d21aaebfdfeb81d91a5f444d13a3046e686){: external download="golang/text"}, NEP-0012-MISSING-DATA.RST [NumPy](https://github.com/numpy/numpy/blob/main/doc/neps/nep-0012-missing-data.rst), VIETNAMESE TEXT [golang.org/x/text](https://proxy.golang.org/golang.org/x/text/@v/v0.3.3-0.20200430171850-afb9336c4530.zip), RAMDA LOGO [RAMda](http://registry.npmjs.org/ramda/-/ramda-0.27.1.tgz), NEP-0012-MISSING-DATA.RST [NumPy](https://pypi.org/project/numpy/#files), DATA LICENSE (GEOLITE COUNTRY AND CITY DATABASES) [geoip](https://github.com/maxmind/geoip-api-c/releases/tag/v1.6.12), NEP12 [NumPy], MAP_TEST.GO [x/text]
 
 #### Creative Commons Attribution Share Alike 4.0 Generic
 {: #cloudshell-share-40}
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-DOCS [kubernetes-sigs/cri-tools](https://codeload.github.com/kubernetes-sigs/cri-tools/zip/refs/heads/release-1.7), GLOB LOGO [Glob](http://registry.npmjs.org/glob/-/glob-7.1.4.tgz), SCREENSHOTS [shortid](http://registry.npmjs.org/shortid/-/shortid-2.2.15.tgz), GO-METRICS DOCS [docker/go-metrics](https://github.com/docker/go-metrics/tree/399ea8c73916), DISPUTES.7 [NodeJS] (Not Required), GLOB [NodeJS](https://github.com/nodejs/node/releases/tag/v10.17.0), GO-DIGEST DOCS [Microsoft/hcsshim](https://pkg.go.dev/github.com/Microsoft/hcsshim@v0.8.7), GO-DIGEST DOCUMENTATION [go-digest](https://pkg.go.dev/github.com/opencontainers/go-digest@v1.0.0-rc1), DISPUTES [npm](http://registry.npmjs.org/npm/-/npm-6.14.4.tgz), DISPUTES DOC [NodeJS] (Not Required), SCREENSHOTS [shortid](https://github.com/dylang/shortid/tree/2.2.16)
+DOCS [kubernetes-sigs/cri-tools](https://codeload.github.com/kubernetes-sigs/cri-tools/zip/refs/heads/release-1.7){: external download="kubernetes-sigs/cri-tools"}, GLOB LOGO [Glob](http://registry.npmjs.org/glob/-/glob-7.1.4.tgz), SCREENSHOTS [shortid](http://registry.npmjs.org/shortid/-/shortid-2.2.15.tgz), GO-METRICS DOCS [docker/go-metrics](https://github.com/docker/go-metrics/tree/399ea8c73916), DISPUTES.7 [NodeJS] (Not Required), GLOB [NodeJS](https://github.com/nodejs/node/releases/tag/v10.17.0), GO-DIGEST DOCS [Microsoft/hcsshim](https://pkg.go.dev/github.com/Microsoft/hcsshim@v0.8.7), GO-DIGEST DOCUMENTATION [go-digest](https://pkg.go.dev/github.com/opencontainers/go-digest@v1.0.0-rc1), DISPUTES [npm](http://registry.npmjs.org/npm/-/npm-6.14.4.tgz), DISPUTES DOC [NodeJS] (Not Required), SCREENSHOTS [shortid](https://github.com/dylang/shortid/tree/2.2.16)
 
 ### {{site.data.keyword.cloud_notm}} {{site.data.keyword.compliance_short}}
 {: #sec-comp}

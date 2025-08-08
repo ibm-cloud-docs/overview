@@ -476,7 +476,7 @@ The Program includes some or all of the following works licensed under the Creat
 
 * [envoyproxy/protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate/archive/v0.1.0.zip)
 * TXT_VN [golang/text](https://codeload.github.com/golang/text/zip/refs/tags/v0.3.0)
-* IMAGES [jQuery-ui (Not Required)](http://jqueryui.com/resources/download/jquery-ui-1.10.3.zip){: external download="jquery-ui"}
+* IMAGES [jQuery-ui (Not Required)](http://jqueryui.com/resources/download/jquery-ui-1.10.3.zip)
 
 #### Creative Commons Attribution Share Alike 4.0 Generic
 {: #cli-share-40}

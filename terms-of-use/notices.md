@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2025
-lastupdated: "2025-08-07"
+lastupdated: "2025-08-08"
 
 keywords: notices, IBM Cloud, creative commons, licenses
 
@@ -444,7 +444,7 @@ the Creative Commons. The URL to the license is https://creativecommons.org/lice
 * SPDYSTREAM/DOCS [docker/spdystream](/spdystream-449fdfce4d962303d702fec724ef0ad181c92528/README.md),
 FIXTURES [go-openapi/spec] (Not Required)
 * DOCS [containerd/containerd (Not Required)](http://creativecommons.org/licenses/by/4.0/), EXPANDER_TEST.GO
-[go-openapi/spec (Not Required)](https://proxy.golang.org/github.com/go-openapi/spec/@v/v0.19.3.zip)
+[go-openapi/spec (Not Required)](https://proxy.golang.org/github.com/go-openapi/spec/@v/v0.19.3.zip){: external download="go-openapi/spec"}
 
 #### Creative Commons Attribution Share Alike 1.0 Generic
 {: #cli-share-10}

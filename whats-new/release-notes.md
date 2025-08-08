@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2025
 
 
-lastupdated: "2025-07-15"
+lastupdated: "2025-08-08"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -20,6 +20,27 @@ content-type: release-note
 
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
+### 08 August 2025
+{: #overview-august0825}
+{: release-note}
+
+Centralized IAM policy support for enterprise log routing
+:   {{site.data.keyword.cloud_notm}} now supports centralized IAM policies for enterprise-wide log routing. This enhancement enables enterprise customers to configure a single service-to-service (s2s) authorization policy that allows log forwarding from multiple child accounts to a centralized logging instance, without the need to create individual policies for each account. For more information, go to [Setting up centralized access to manage enterprise audit logs](/docs/enterprise-management?topic=enterprise-management-enterprise-access-management#enterprise-audit-logs).
+
+### 07 August 2025
+{: #overview-august0725}
+{: release-note}
+
+Federate enterprise IdP administrators to {{site.data.keyword.cloud_notm}} by using SAML
+:   {{site.data.keyword.cloud_notm}} now supports SAML-based identity federation directly through {{site.data.keyword.cloud_notm}} IAM, enabling customers to federate identities from their external Identity Providers (IdPs) to manage {{site.data.keyword.cloud_notm}} resources. This enhancement helps ensure continuity for existing App ID integrations and provides a seamless path for onboarding to the new federation capability with minimal impact. For more information, go to [Enabling authentication from an external identity provider](/docs/account?topic=account-ibm-idp-integration).
+
+### 01 July 2025
+{: #overview-july0125}
+{: release-note}
+
+Manage one-time view credentials
+:   {{site.data.keyword.cloud_notm}} enables one-time view by default for newly created service credentials. This change enhances security by ensuring that credentials are only visible at the time of creation. For more information, go to [Connecting service apps](/docs/account?topic=account-service_credentials&interface=ui).
 
 ## April 2025
 {: #april-2025}
@@ -38,8 +59,8 @@ Experimental: Extend a deployable architecture as you onboard it to a private ca
 {: #overview-mar2625}
 {: release-note}
 
-IBM Cloud AI assistant can now assist you with getting support
-:   To bring you an updated platform experience, the IBM Cloud AI assistant is available to help with your questions about IBM Cloud and can assist you with getting support for account, billing, and technical support issues according to your support plan. You can query about your support cases or request to be handed off to a live support agent. For more information, see [Getting help from the AI assistant](/docs/overview?topic=overview-ask-ai-assistant).
+{{site.data.keyword.cloud_notm}} AI assistant can now assist you with getting support
+:   To bring you an updated platform experience, the {{site.data.keyword.cloud_notm}} AI assistant is available to help with your questions about {{site.data.keyword.cloud_notm}} and can assist you with getting support for account, billing, and technical support issues according to your support plan. You can query about your support cases or request to be handed off to a live support agent. For more information, see [Getting help from the AI assistant](/docs/overview?topic=overview-ask-ai-assistant).
 
 ### 13 March 2025
 {: #overview-mar1325}
@@ -275,7 +296,7 @@ Introducing environments and general improvements to projects API and CLI
 {: release-note}
 
 Selecting currency
-:   The option to select local currency and USD is now available during IBM Cloud registration for users in Canada, United Kingdom/Ireland, Italy, Spain, France, Germany, Austria, Switzerland, Belgium, the Netherlands, Luxembourg, Denmark, Norway, Sweden, Finland, Australia, and New Zealand.
+:   The option to select local currency and USD is now available during {{site.data.keyword.cloud_notm}} registration for users in Canada, United Kingdom/Ireland, Italy, Spain, France, Germany, Austria, Switzerland, Belgium, the Netherlands, Luxembourg, Denmark, Norway, Sweden, Finland, Australia, and New Zealand.
 
 ### 26 October 2023
 {: #overview-oct2423}
@@ -510,7 +531,7 @@ Setting an alternative account owner
 {: release-note}
 
 Catalog integration with Virtual Private Cloud custom images
-:   ISV Partners and {{site.data.keyword.cloud_notm}} customers can now import custom VPC images directly to their account or enterprise, or sell on the IBM Cloud catalog without depending on Terraform. For more information, see [Onboarding a virtual server image for VPC](/docs/account?topic=account-catalog-vsivpc-tutorial).
+:   ISV Partners and {{site.data.keyword.cloud_notm}} customers can now import custom VPC images directly to their account or enterprise, or sell on the {{site.data.keyword.cloud_notm}} catalog without depending on Terraform. For more information, see [Onboarding a virtual server image for VPC](/docs/account?topic=account-catalog-vsivpc-tutorial).
 
 ## September 2022
 {: #september-2022}
@@ -607,7 +628,7 @@ Onboarding software to sell on {{site.data.keyword.cloud_notm}} by using the API
 {: release-note}
 
 Identify inactive identities
-:   You can create a report in the [IBM Cloud console](/iam/inactive-identities) to identify which users, service IDs, trusted profiles, and API keys in your account are inactive. Removing access for inactive identities can reduce the risk of unauthorized access to your {{site.data.keyword.cloud}} resources and help you manage access more efficiently. For more information, see [Identifying inactive identities](/docs/account?topic=account-id-inactive-identities).
+:   You can create a report in the [{{site.data.keyword.cloud_notm}} console](/iam/inactive-identities) to identify which users, service IDs, trusted profiles, and API keys in your account are inactive. Removing access for inactive identities can reduce the risk of unauthorized access to your {{site.data.keyword.cloud}} resources and help you manage access more efficiently. For more information, see [Identifying inactive identities](/docs/account?topic=account-id-inactive-identities).
 
 Updated process for assigning access
 :   Assigning IAM, Classic Infrastructure, and {{site.data.keyword.ibmcf_notm}} access just got more streamlined. When assigning access, each service that you select has an in-context description. You can also find all IAM access policy and access group information for an identity under a single tab. Check out the updated process by assigning access to any user, service ID, or trusted profile.
@@ -644,7 +665,7 @@ To determine if your service is affected, review your service's documentation. F
 {: release-note}
 
 Onboarding virtual server images for {{site.data.keyword.powerSys_notm}}
-:   You can now onboard virtual server images for {{site.data.keyword.powerSys_notm}} to private catalogs and the {{site.data.keyword.cloud_notm}} catalog. For more information about onboarding to the {{site.data.keyword.cloud_notm}}, see [Registering a virtual server image for Power Systems in IBM Cloud Partner Center](/docs/sell?topic=sell-vsipower-register). For more information about onboarding to your private catalog, see [Onboarding a virtual server image for Power Systems to a private catalog](/docs/sell?topic=sell-vsipower-onboard).
+:   You can now onboard virtual server images for {{site.data.keyword.powerSys_notm}} to private catalogs and the {{site.data.keyword.cloud_notm}} catalog. For more information about onboarding to the {{site.data.keyword.cloud_notm}}, see [Registering a virtual server image for Power Systems in {{site.data.keyword.cloud_notm}} Partner Center](/docs/sell?topic=sell-vsipower-register). For more information about onboarding to your private catalog, see [Onboarding a virtual server image for Power Systems to a private catalog](/docs/sell?topic=sell-vsipower-onboard).
 
 Upload translations of your software by using the CLI
 :   You can now download and upload translations of your software by using the CLI. For more information, see [Translating product details by using the CLI](/docs/account?topic=account-translate-product-details).

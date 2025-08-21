@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2025
 
 
-lastupdated: "2025-08-08"
+lastupdated: "2025-08-12"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -29,14 +29,14 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 {: release-note}
 
 Centralized IAM policy support for enterprise log routing
-:   {{site.data.keyword.cloud_notm}} now supports centralized IAM policies for enterprise-wide log routing. This enhancement enables enterprise customers to configure a single service-to-service (s2s) authorization policy that allows log forwarding from multiple child accounts to a centralized logging instance, without the need to create individual policies for each account. For more information, go to [Setting up centralized access to manage enterprise audit logs](/docs/enterprise-management?topic=enterprise-management-enterprise-access-management#enterprise-audit-logs).
+:   {{site.data.keyword.cloud_notm}} now supports centralized IAM policies for enterprise-wide log routing. This enhancement enables enterprise customers to configure a single service-to-service authorization policy that allows log forwarding from multiple child accounts to a centralized logging instance, without the need to create individual policies for each account. For more information, see [Setting up centralized access to manage enterprise audit logs](/docs/enterprise-management?topic=enterprise-management-enterprise-access-management#enterprise-audit-logs).
 
 ### 07 August 2025
 {: #overview-august0725}
 {: release-note}
 
 Federate enterprise IdP administrators to {{site.data.keyword.cloud_notm}} by using SAML
-:   {{site.data.keyword.cloud_notm}} now supports SAML-based identity federation directly through {{site.data.keyword.cloud_notm}} IAM, enabling customers to federate identities from their external Identity Providers (IdPs) to manage {{site.data.keyword.cloud_notm}} resources. This enhancement helps ensure continuity for existing App ID integrations and provides a seamless path for onboarding to the new federation capability with minimal impact. For more information, go to [Enabling authentication from an external identity provider](/docs/account?topic=account-ibm-idp-integration).
+:   {{site.data.keyword.cloud_notm}} now supports SAML-based identity federation directly through {{site.data.keyword.cloud_notm}} IAM, enabling customers to federate identities from their external Identity Providers (IdPs) to manage {{site.data.keyword.cloud_notm}} resources. This enhancement helps ensure continuity for existing {{site.data.keyword.appid_short}} integrations and provides a seamless path for onboarding to the new federation capability with minimal impact. For more information, see [Enabling authentication from an external identity provider](/docs/account?topic=account-ibm-idp-integration).
 
 ## July 2025
 {: #july-2025}
@@ -46,7 +46,7 @@ Federate enterprise IdP administrators to {{site.data.keyword.cloud_notm}} by us
 {: release-note}
 
 Manage one-time view credentials
-:   {{site.data.keyword.cloud_notm}} enables one-time view by default for newly created service credentials. This change enhances security by ensuring that credentials are only visible at the time of creation. For more information, go to [Connecting service apps](/docs/account?topic=account-service_credentials&interface=ui).
+:   {{site.data.keyword.cloud_notm}} enables one-time view by default for newly created service credentials. This change enhances security by ensuring that credentials are only visible at the time of creation. For more information, see [Connecting service apps](/docs/account?topic=account-service_credentials&interface=ui).
 
 ## April 2025
 {: #april-2025}
@@ -56,7 +56,7 @@ Manage one-time view credentials
 {: release-note}
 
 Experimental: Extend a deployable architecture as you onboard it to a private catalog
-:   You can now create a more complex deployable architecture by stacking it with other architectures as you onboard it to a private catalog. By doing so, you can include dependencies and optional deployable architectures for extended use cases, so users can customize your solution to meet their needs. For more information, go to [Extending a deployable architecture during onboarding](/docs/secure-enterprise?topic=secure-enterprise-extend-da).
+:   You can now create a more complex deployable architecture by stacking it with other architectures as you onboard it to a private catalog. By doing so, you can include dependencies and optional deployable architectures for extended use cases, so users can customize your solution to meet their needs. For more information, see [Extending a deployable architecture during onboarding](/docs/secure-enterprise?topic=secure-enterprise-extend-da).
 
 ## March 2025
 {: #march-2025}
@@ -85,14 +85,14 @@ Montreal single-campus MZR availability
 Experimental: Customize a deployable architecture from the catalog
 :   You can now customize a deployable architecture by adding optional components in the {{site.data.keyword.cloud_notm}} console. Add the [Cloud automation for {{site.data.keyword.secrets-manager_short}}](https://cloud.ibm.com/catalog/7a4d68b4-cf8b-40cd-a3d1-f49aff526eb3/architecture/testing-deploy-arch-ibm-secrets-manager-5f149ae6-d781-460a-977d-c8c4171ad0fa-global){: external} deployable architecture to a project to get started.
 
-   For more information about onboarding a deployable architecture and specifying optional components that work with it, go to [Optional and swappable components for deployable architectures](/docs/secure-enterprise?topic=secure-enterprise-choose-plan-process#optional-swappable).
+   For more information about onboarding a deployable architecture and specifying optional components that work with it, see [Optional and swappable components for deployable architectures](/docs/secure-enterprise?topic=secure-enterprise-choose-plan-process#optional-swappable).
 
 ### 13 December 2024
 {: #overview-dec1324}
 {: release-note}
 
 Service ID limits are increased with groups
-:   With Service ID groups, your account can now contain up to 100,000 service IDs, with up to 2,000 service IDs in each group. Existing service IDs were added to the default group. For more information, go to [Creating and working with service IDs](/docs/account?topic=account-serviceids&interface=ui#serviceids).
+:   With Service ID groups, your account can now contain up to 100,000 service IDs, with up to 2,000 service IDs in each group. Existing service IDs were added to the default group. For more information, see [Creating and working with service IDs](/docs/account?topic=account-serviceids&interface=ui#serviceids).
 
 ## November 2024
 {: #novemeber-2024}
@@ -102,7 +102,7 @@ Service ID limits are increased with groups
 {: release-note}
 
 Experimental: Connect your project to a Git repository
-:   You can now connect a project to a Git repository to save configurations there. By doing so, you can use your repository and the CI / CD tools of your choosing to automate pipelines on configurations. Connecting a project to a Git repository works best with a new project that doesn't contain any configurations. This is an experimental feature that is available for evaluation and testing purposes and might change without notice. For more information, go to [Integrating a project with a Git repository](/docs/secure-enterprise?topic=secure-enterprise-connect-to-git).
+:   You can now connect a project to a Git repository to save configurations there. By doing so, you can use your repository and the CI / CD tools of your choosing to automate pipelines on configurations. Connecting a project to a Git repository works best with a new project that doesn't contain any configurations. This is an experimental feature that is available for evaluation and testing purposes and might change without notice. For more information, see [Integrating a project with a Git repository](/docs/secure-enterprise?topic=secure-enterprise-connect-to-git).
 
 ### 12 November 2024
 {: #overview-nov1224}
@@ -318,7 +318,7 @@ Symantec VIP 2FA is deprecated
 {: release-note}
 
 Partner Center Build & Grow is deprecated
-:   As of 19 October 2023, Partner Center Build and Grow is no longer supported. The new simplified and unified build experience has moved to the {{site.data.keyword.IBM_notm}} Partner Plus website, where you can start enrolling. For more information, go to the [Partner Plus](https://www.ibm.com/partnerplus){: external} website and enroll by clicking **Join {{site.data.keyword.IBM_notm}} Partner Plus**.
+:   As of 19 October 2023, Partner Center Build and Grow is no longer supported. The new simplified and unified build experience has moved to the {{site.data.keyword.IBM_notm}} Partner Plus website, where you can start enrolling. For more information, see the [Partner Plus](https://www.ibm.com/partnerplus){: external} website and enroll by clicking **Join {{site.data.keyword.IBM_notm}} Partner Plus**.
 
 ## September 2023
 {: #sept-2023}

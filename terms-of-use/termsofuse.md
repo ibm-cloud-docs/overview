@@ -4,8 +4,8 @@
 
 copyright:
 
-  years: 2015, 2024
-lastupdated: "2024-11-05"
+  years: 2015, 2025
+lastupdated: "2025-09-04"
 
 keywords: terms of use, IBM Cloud, CSA, Cloud Service Agreement, data egress charges, EU data act
 
@@ -52,7 +52,7 @@ If you or your company is a covered entity as defined by the US Health Insurance
 ## EU Data Act
 {: #eu-data-act}
 
-If you are a client based in the European Union and are planning to migrate your data out of IBM Cloud, you are entitled to reduced data egress charges under the terms of the EU Data Act (Regulation (EU) 2023/2854). Please contact your IBM or IBM Business Partner representative, or create a new case in the IBM Cloud Support Center for further information and assistance.
+If you are a client based in the European Union and are planning to migrate your data out of {{site.data.keyword.cloud_notm}}, you are entitled to reduced data egress charges under the terms of the EU Data Act (Regulation (EU) 2023/2854). The EU Data Act Terms - section Switching Data Processing Services available at [http://ibm.com/dpa](http://ibm.com/dpa){: external}. Please contact your {{site.data.keyword.IBM_notm}} or {{site.data.keyword.IBM_notm}} Business Partner representative, or create a new case in the {{site.data.keyword.cloud_notm}} support center for more information and assistance.
 
 
 ## Abuse reporting and legal contact information

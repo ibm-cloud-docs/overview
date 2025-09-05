@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2025
-lastupdated: "2025-08-20"
+lastupdated: "2025-09-03"
 
 keywords: resource deployment, location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -211,7 +211,7 @@ Services that are hosted globally create resources that operate across multiple 
 | watsonx.data | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | watsonx.data integration |  |  |  | 
 | watsonx.data intelligence | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| watsonx.governance |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| watsonx.governance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 {: row-headers}
 {: caption="Service availability - Europe" caption-side="top"}
 {: #paas-table2}

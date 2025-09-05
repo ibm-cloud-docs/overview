@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2025
 
 
-lastupdated: "2025-08-12"
+lastupdated: "2025-09-05"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -37,6 +37,9 @@ Centralized IAM policy support for enterprise log routing
 
 Federate enterprise IdP administrators to {{site.data.keyword.cloud_notm}} by using SAML
 :   {{site.data.keyword.cloud_notm}} now supports SAML-based identity federation directly through {{site.data.keyword.cloud_notm}} IAM, enabling customers to federate identities from their external Identity Providers (IdPs) to manage {{site.data.keyword.cloud_notm}} resources. This enhancement helps ensure continuity for existing {{site.data.keyword.appid_short}} integrations and provides a seamless path for onboarding to the new federation capability with minimal impact. For more information, see [Enabling authentication from an external identity provider](/docs/account?topic=account-ibm-idp-integration).
+
+Stand-alone policy templates in IAM
+:   IAM supports the creation of stand-alone policy templates. This capability enables enterprise administrators to define access rules independently, without linking them to an access group or trusted profile template. It centralizes policy management, reduces duplication, and simplifies applying consistent access rules across enterprise accounts. For more information, see [Creating a stand-alone policy template](/docs/enterprise-management?topic=enterprise-management-policy-template-create&interface=ui#create-standalone-policytemplate-ui).
 
 ## July 2025
 {: #july-2025}

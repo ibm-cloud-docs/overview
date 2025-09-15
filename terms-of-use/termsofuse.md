@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2025
-lastupdated: "2025-09-04"
+lastupdated: "2025-09-15"
 
 keywords: terms of use, IBM Cloud, CSA, Cloud Service Agreement, data egress charges, EU data act
 
@@ -27,7 +27,7 @@ The following terms apply to an {{site.data.keyword.cloud}} account and use of t
 2. Additional Service Descriptions (SDs) for each Cloud Service ordered using your {{site.data.keyword.cloud_notm}} account, available in the IBM Cloud catalog or on the [IBM Terms website](https://www.ibm.com/support/customer/csol/terms/?cat=cloud-sd){: external}. Additional SDs contain links to the applicable Data Sheet for each Cloud Service.
 3. One of the following base agreements based upon selected account type and country.
    - IBM Cloud International B.V. (formerly SoftLayer Dutch Holding B.V.) Cloud Services Agreement available at [https://www.ibm.com/support/customer/csol/terms/?id=Z126-6304_IBMCIBV](https://www.ibm.com/support/customer/csol/terms/?id=Z126-6304_IBMCIBV){: external} which applies to:
-      - Enterprise Savings Plan accounts for Clients with business addresses in France, Italy, Spain, Brazil, India, Japan, Israel, or Mexico, invoiced by IBM Cloud International B.V.
+      - Enterprise Savings Plan accounts for Clients with business addresses in Italy, Brazil, India, Japan, Israel, or Mexico, invoiced by IBM Cloud International B.V.
       - U.S. Dollar Pay as you Go (PayGo) credit card accounts in all countries **except** Australia, Austria, Belgium, Canada, Denmark, Finland, Germany, Ireland, Luxembourg, Netherlands, New Zealand, Norway, Sweden, Switzerland, United Kingdom, or the United States of America.
       - Free/Lite Accounts.
    - The country-specific IBM Cloud Service Agreement found at [https://www.ibm.com/support/customer/csol/terms/?id=Z126-6304](https://www.ibm.com/support/customer/csol/terms/?id=Z126-6304){: external} applicable to Client's business address which applies to  all other accounts contracted with IBM local country entities, including:

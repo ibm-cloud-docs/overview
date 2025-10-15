@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2025
 
 
-lastupdated: "2025-09-05"
+lastupdated: "2025-10-15"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -20,6 +20,16 @@ content-type: release-note
 
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
+## September 2025
+{: #september-2025}
+
+### 22 September 2025
+{: #overview-september2225}
+{: release-notes}
+
+Carbon insights at the data center-level
+:   Tracking carbon emissions at the data center-level helps you measure, analyze, and report the environment impact of your workloads with accuracy. By breaking down emissions at both the data center and regional levels, users gain deeper insights into where and how their workloads use energy. It enables more informed deployment decisions, better sustainability reporting, and improved alignment with global compliance standards. For more information, see [{{site.data.keyword.cloud_notm}} carbon calculator methodology](/docs/account?topic=account-what-is-cloud-calc&interface=ui#carbon-methodology).
 
 ## August 2025
 {: #august-2025}

@@ -107,8 +107,8 @@ The following table lists the SC-MZR locations that are available in {{site.data
 
 | Region   | Zone |
 |----------|------|
-| Osaka (`jp-osa`)   |jp-osa-1  \n jp-osa-2  \n jp-osa-3 |
 | Montreal (`ca-mon`) | ca-mon-1  \n ca-mon-2  \n ca-mon-3 |
+| Osaka (`jp-osa`)   |jp-osa-1  \n jp-osa-2  \n jp-osa-3 |
 {: caption="single-campus MZRs" caption-side="top"}
 
 ### Zone mapping per account
@@ -166,8 +166,8 @@ The following table shows the available physical locations using their universal
 
 | Region   |  Universal zone name |Data center | PoP |
 |----------|------|------|----|
-| Osaka (`jp-osa`)   | jp-osa-osa21-a  \n jp-osa-osa22-a  \n jp-osa-osa23-a | OSA21  \n OSA22  \n OSA23 | OSA01 |
 | Montreal (`ca-mon`) | ca-mon-mon04-a  \n ca-mon-mon04-b  \n ca-mon-mon04-c | MON04 | MON02 |
+| Osaka (`jp-osa`)   | jp-osa-osa21-a  \n jp-osa-osa22-a  \n jp-osa-osa23-a | OSA21  \n OSA22  \n OSA23 | OSA01 |
 {: caption="single-campus MZR universal zone name" caption-side="top"}
 
 

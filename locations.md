@@ -80,7 +80,6 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZR locations and
 
 | Region   | Zone |
 |----------|------|
-
 | Sydney (`au-syd`)   | au-syd-1  \n au-syd-2  \n au-syd-3 |
 | Tokyo (`jp-tok`)   | jp-tok-1  \n jp-tok-2  \n jp-tok-3 |
 {: caption="MZRs in Asia Pacific" caption-side="top"}
@@ -151,7 +150,6 @@ The following table shows the available physical locations by using their univer
 
 | Region | Universal zone name | Data center | PoP |
 |----------|------|------|----|
-
 | Sydney (`au-syd`) | au-syd-syd01-a  \n au-syd-syd04-a  \n au-syd-syd05-a | SYD01  \n SYD04  \n SYD05 | MEL02  \n PER01  \n SYD02  \n SYD03 |
 | Tokyo (`jp-tok`)   | jp-tok-tok02-a  \n jp-tok-tok04-a  \n jp-tok-tok05-a | TOK02  \n TOK04  \n TOK05 | TOK01  \n TOK03 |
 {: caption="MZR universal zone names - Asia Pacific" caption-side="top"}

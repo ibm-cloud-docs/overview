@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2019, 2024
-lastupdated: "2025-05-05"
+  years: 2019, 2025
+lastupdated: "2025-10-16"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -18,7 +18,11 @@ subcollection: overview
 {{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. Resources in different locations are consolidated into an account-based billing and usage view. You can also deploy your workloads to the location that is nearest to your customers to achieve low latency connectivity. {{site.data.keyword.cloud_notm}} provides [multizone regions (MZR)](#x9774820){: term}, [single-campus multizone regions (SC-MZR)](#x10127487){: term}, and classic [data centers](#x2439906){: term} for classic infrastructure resources.
 {: shortdesc}
 
+
 ![Global map showing MZR and data center locations](images/Global-View.svg "MZR and data center locations"){: caption="MZR and data center locations map" caption-side="bottom"}
+
+
+
 
 This image is an artistic representation and does not reflect actual political or geographic boundaries.
 {: note}
@@ -76,8 +80,8 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZR locations and
 
 | Region   | Zone |
 |----------|------|
-| Sydney (`au-syd`)   |au-syd-1  \n au-syd-2  \n au-syd-3 |
-| Tokyo (`jp-tok`)   |jp-tok-1  \n jp-tok-2  \n jp-tok-3 |
+| Sydney (`au-syd`)   | au-syd-1  \n au-syd-2  \n au-syd-3 |
+| Tokyo (`jp-tok`)   | jp-tok-1  \n jp-tok-2  \n jp-tok-3 |
 {: caption="MZRs in Asia Pacific" caption-side="top"}
 {: #asiapacific-mzr}
 {: tab-title="Asia Pacific"}
@@ -109,7 +113,6 @@ The following table lists the SC-MZR locations that are available in {{site.data
 
 ### Zone mapping per account
 {: #zone-mapping}
-
 
 Within each region, there are three or more zones that are identified in the API, SDK, CLI, and Terraform by using a `regionname-number` syntax, for example `us-south-1`. Each {{site.data.keyword.cloud_notm}} account has a zone mapping for each region that determines the relationship between the zone and the physical location. The zones map to a physical location, which is referred to by a universal zone name by using a `regionname-datacenter-letter` syntax, for example `us-south-dal10-a`.
 

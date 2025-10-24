@@ -2,7 +2,7 @@
 
 copyright:
   years: 2014, 2022
-lastupdated: "2025-02-20"
+lastupdated: "2025-10-24"
 
 keywords: translation, national language support
 
@@ -48,16 +48,16 @@ Support by local technical account managers is available in any of the supported
 ## National language support for sales
 {: #sales-language-support}
 
-IBM has a local presence in most countries, with sales and technical resources that speak the local language. The [{{site.data.keyword.cloud_notm}} website](https://www.ibm.com/cloud){: external} does IP detection to designate the website language, and you can also change your business location in the **Let's talk** button. There, you can find a local phone number and contact information for your country.
+IBM has a local presence in most countries, with sales and technical resources that speak the local language. The [{{site.data.keyword.cloud_notm}} website](https://www.ibm.com/solutions/cloud){: external} does IP detection to designate the website language, and you can also change your business location in the **Let's talk** button. There, you can find a local phone number and contact information for your country.
 
 The following list displays the website URL and local phone number for a selection of locations that {{site.data.keyword.cloud_notm}} sales supports across the world.
 
-* United States [https://www.ibm.com/cloud](https://www.ibm.com/cloud){: external} / telephone: +18449525683
-* Brazil [https://www.ibm.com/br-pt/cloud](https://www.ibm.com/br-pt/cloud){: external} / telephone: +558007071426
-* France [https://www.ibm.com/fr-fr/cloud](https://www.ibm.com/fr-fr/cloud){: external} / telephone: +33810005810
-* Germany [https://www.ibm.com/de-de/cloud](https://www.ibm.com/de-de/cloud){: external} / telephone: +491805426014
-* Japan [https://www.ibm.com/jp-ja/cloud](https://www.ibm.com/jp-ja/cloud){: external} / telephone: 81-3-6667-1111
-* Korea [https://www.ibm.com/kr-ko/cloud](https://www.ibm.com/kr-ko/cloud){: external} / telephone: +82237815156
-* Italy [https://www.ibm.com/it-it/cloud](https://www.ibm.com/it-it/cloud){: external} / telephone: +390270316122
-* Spain [https://www.ibm.com/es-es/cloud](https://www.ibm.com/es-es/cloud){: external} / telephone: +34902022007
-* China [https://www.ibm.com/cn-zh/cloud](https://www.ibm.com/cn-zh/cloud){: external} / telephone: +864006682350
+* United States [https://www.ibm.com/solutions/cloud](https://www.ibm.com/solutions/cloud){: external} / telephone: +18449525683
+* Brazil [https://www.ibm.com/br-pt/solutions/cloud](https://www.ibm.com/br-pt/solutions/cloud){: external} / telephone: +558007071426
+* France [https://www.ibm.com/fr-fr/solutions/cloud](https://www.ibm.com/fr-fr/solutions/cloud){: external} / telephone: +33810005810
+* Germany [https://www.ibm.com/de-de/solutions/cloud](https://www.ibm.com/de-de/solutions/cloud){: external} / telephone: +491805426014
+* Japan [https://www.ibm.com/jp-ja/solutions/cloud](https://www.ibm.com/jp-ja/solutions/cloud){: external} / telephone: 81-3-6667-1111
+* Korea [https://www.ibm.com/kr-ko/solutions/cloud](https://www.ibm.com/kr-ko/solutions/cloud){: external} / telephone: +82237815156
+* Italy [https://www.ibm.com/it-it/solutions/cloud](https://www.ibm.com/it-it/solutions/cloud){: external} / telephone: +390270316122
+* Spain [https://www.ibm.com/es-es/solutions/cloud](https://www.ibm.com/es-es/solutions/cloud){: external} / telephone: +34902022007
+* China [https://www.ibm.com/cn-zh/solutions/cloud](https://www.ibm.com/cn-zh/solutions/cloud){: external} / telephone: +864006682350

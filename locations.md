@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2025
-lastupdated: "2025-10-16"
+lastupdated: "2025-10-24"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -230,9 +230,9 @@ See the following table for the specific code for each data center.
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-[^tabletext3]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/government)
+[^tabletext3]: IBM Cloud for Government [Learn more](https://www.ibm.com/products/cloud/government)
 
-[^tabletext4]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/government)
+[^tabletext4]: IBM Cloud for Government [Learn more](https://www.ibm.com/products/cloud/government)
 
 | Data center  | Code  |
 |--------------|-------|

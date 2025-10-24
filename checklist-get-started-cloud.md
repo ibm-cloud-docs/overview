@@ -2,7 +2,7 @@
 copyright:
   years: 2022, 2025
 
-lastupdated: "2025-07-11"
+lastupdated: "2025-10-24"
 
 keywords: onboard to cloud, onboarding, onboarding checklist, get started on {{site.data.keyword.cloud_notm}}, account set up
 
@@ -173,6 +173,6 @@ If you experience problems with {{site.data.keyword.cloud_notm}}, you have sever
 | - [ ] **Connect and get developer resources**  | Learn in-demand skills, build solutions with real sample code, and connect with a global community of developers. Bookmark [IBM Developer](https://developer.ibm.com/){: external}. |
 | - [ ] **Ask questions and find answers on Stack Overflow** | Ask questions or view responses on [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external} by using the [`ibm-cloud` tag](https://stackoverflow.com/questions/tagged/ibm-cloud?tab=Newest){: external} or expand to include more related [tags](https://stackoverflow.com/questions/tagged/ibm-cloud+or+ibm-cloud-code-engine+or+ibm-appid?tab=Newest){: external}. |
 | - [ ] **Find an answer to your FAQ about support** | Visit the FAQ library in the console to get answers about [frequently asked questions for getting support](/docs?tab=faqs&tags=get-support). |
-| - [ ] **Working with a Customer Success Manager (CSM)** | A CSM is reserved for those clients who have made a significant commitment to employ {{site.data.keyword.cloud_notm}} for their cloud-based solution. Assignment takes place by a nomination process with supporting criteria that does vary per geo location. Work through your local {{site.data.keyword.IBM_notm}} Sales team or [Inbound Sales](https://www.ibm.com/cloud?contactmodule){: external} for additional details on receiving a dedicated CSM resource. |
+| - [ ] **Working with a Customer Success Manager (CSM)** | A CSM is reserved for those clients who have made a significant commitment to employ {{site.data.keyword.cloud_notm}} for their cloud-based solution. Assignment takes place by a nomination process with supporting criteria that does vary per geo location. Work through your local {{site.data.keyword.IBM_notm}} Sales team or [Inbound Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} for additional details on receiving a dedicated CSM resource. |
 | - [ ] **Submit product ideas and feature requests** | Submit your ideas and feature requests for review and possible implementation by the Product Management team. The Product Management team is responsible for the full lifecycle of an {{site.data.keyword.cloud_notm}} product offering. Go to the [IBM Cloud Ideas Portal](https://ibmcloud.ideas.ibm.com/){: external} to submit a request. |
 {: caption="Getting started tasks for get support and other resources" caption-side="top"}

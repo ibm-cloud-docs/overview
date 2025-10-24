@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024, 2025
-lastupdated: "2025-08-01"
+lastupdated: "2025-10-24"
 
 keywords: AI assistant, AI help
 
@@ -20,7 +20,7 @@ The {{site.data.keyword.cloud}} AI assistant, which is powered by {{site.data.ke
 
 The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models (LLMs) using [{{site.data.keyword.IBM_notm}}'s watsonx](https://www.ibm.com/products/watsonx){: external} and the {{site.data.keyword.cloud_notm}} docs.
 
-{{site.data.keyword.cloud_notm}} does not gather any personal identifiable information when you are querying the AI assistant. When you query the AI assistant, it is not being trained based on user input and does not associate any queries with your identity or account. {{site.data.keyword.IBM_notm}} endeavors to develop AI in accordance with its published principles of trust and transparency. For more information, see [AI Ethics](https://www.ibm.com/artificial-intelligence/ai-ethics){: external}.
+{{site.data.keyword.cloud_notm}} does not gather any personal identifiable information when you are querying the AI assistant. When you query the AI assistant, it is not being trained based on user input and does not associate any queries with your identity or account. {{site.data.keyword.IBM_notm}} endeavors to develop AI in accordance with its published principles of trust and transparency. For more information, see [Responsible AI](https://www.ibm.com/trust/responsible-ai){: external}.
 
 The AI assistant responds in all [national languages that are supported by {{site.data.keyword.cloud_notm}}](/docs/overview?topic=overview-language-support) including Brazilian Portuguese, English, French, German, Japanese, Korean, Italian, Spanish, Simplified Chinese, and Traditional Chinese. To get responses from the AI assistant in one of the supported languages, ask your question in one of the languages and get an answer back in that same language.
 {: note}

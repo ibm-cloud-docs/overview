@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2025
-lastupdated: "2025-10-16"
+lastupdated: "2025-10-24"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -107,8 +107,8 @@ The following table lists the SC-MZR locations that are available in {{site.data
 
 | Region   | Zone |
 |----------|------|
-| Osaka (`jp-osa`)   |jp-osa-1  \n jp-osa-2  \n jp-osa-3 |
 | Montreal (`ca-mon`) | ca-mon-1  \n ca-mon-2  \n ca-mon-3 |
+| Osaka (`jp-osa`)   |jp-osa-1  \n jp-osa-2  \n jp-osa-3 |
 {: caption="single-campus MZRs" caption-side="top"}
 
 ### Zone mapping per account
@@ -166,8 +166,8 @@ The following table shows the available physical locations using their universal
 
 | Region   |  Universal zone name |Data center | PoP |
 |----------|------|------|----|
-| Osaka (`jp-osa`)   | jp-osa-osa21-a  \n jp-osa-osa22-a  \n jp-osa-osa23-a | OSA21  \n OSA22  \n OSA23 | OSA01 |
 | Montreal (`ca-mon`) | ca-mon-mon04-a  \n ca-mon-mon04-b  \n ca-mon-mon04-c | MON04 | MON02 |
+| Osaka (`jp-osa`)   | jp-osa-osa21-a  \n jp-osa-osa22-a  \n jp-osa-osa23-a | OSA21  \n OSA22  \n OSA23 | OSA01 |
 {: caption="single-campus MZR universal zone name" caption-side="top"}
 
 
@@ -230,9 +230,9 @@ See the following table for the specific code for each data center.
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-[^tabletext3]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/government)
+[^tabletext3]: IBM Cloud for Government [Learn more](https://www.ibm.com/products/cloud/government)
 
-[^tabletext4]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/government)
+[^tabletext4]: IBM Cloud for Government [Learn more](https://www.ibm.com/products/cloud/government)
 
 | Data center  | Code  |
 |--------------|-------|

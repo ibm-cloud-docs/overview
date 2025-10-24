@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2022, 2025
-lastupdated: "2025-07-15"
+lastupdated: "2025-10-24"
 
 keywords: csm
 
@@ -42,7 +42,7 @@ At the end of the day, the CSM’s success is your success.
 | [Data Fabric](https://www.ibm.com/think/topics/data-fabric?mhsrc=ibmsearch_a&mhq=data%20fabric) | Data fabric is an architecture that facilitates the end-to-end integration of various data pipelines and cloud environments through the use of intelligent and automated systems. |
 | [Business Automation](https://www.ibm.com/products/cloud-pak-for-business-automation?lnk=STW_US_STESCH&lnk2=learn_CloudPakAtm&pexp=DEF&psrc=NONE&mhsrc=ibmsearch_a&mhq=Business%20Automation) | IBM Cloud Pak for Business Automation is a modular set of integrated software components, built for any hybrid cloud, designed to automate work and accelerate business growth. |
 | [Security](https://www.ibm.com/products/cloud-paks) | IBM Cloud Pak for Security can help you gain deeper insights, mitigate risks and accelerate response. |
-| [IBM Cloud](https://ibm.com/cloud) | {{site.data.keyword.cloud_notm}} provides solutions that enable higher levels of compliance, security, and management, with proven architecture patterns and methods for rapid delivery for running mission-critical workloads.  |
+| [IBM Cloud](https://ibm.com/solutions/cloud) | {{site.data.keyword.cloud_notm}} provides solutions that enable higher levels of compliance, security, and management, with proven architecture patterns and methods for rapid delivery for running mission-critical workloads.  |
 {: caption="Examples of services that CSMs support" caption-side="bottom"}
 
 ## Learn how our customers are finding success

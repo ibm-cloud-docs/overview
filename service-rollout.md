@@ -3,7 +3,7 @@
 copyright:
 
   years: 2022, 2024
-lastupdated: "2025-02-07"
+lastupdated: "2025-10-24"
 
 keywords: rollout
 
@@ -70,7 +70,7 @@ Adding new core service to existing MZRs
 Updating existing core services in existing MZRs
 :   After a generally available update to an existing core service is deployed in the first MZR and documented in a release note, the same update will be deployed to all other MZRs within a period of 30 days.
 
-Not all hardware dependent profiles and features are available in all MZRs. If the service you want depends on such a profile or feature, contact [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} for details on availability.
+Not all hardware dependent profiles and features are available in all MZRs. If the service you want depends on such a profile or feature, contact [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} for details on availability.
 {: important}
 
 Some services could deploy sooner.
@@ -79,7 +79,7 @@ Some services could deploy sooner.
 ### Market-driven deployments
 {: #market-driven-deploy}
 
-Market-driven services are deployed based on sufficient customer demand. To request that one of these services is available in your region, contact [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external}.
+Market-driven services are deployed based on sufficient customer demand. To request that one of these services is available in your region, contact [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external}.
 
 Deployments into any location other than an MZR are always market-driven.
 

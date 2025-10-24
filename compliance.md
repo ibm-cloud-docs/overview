@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2024
-lastupdated: "2025-06-30"
+lastupdated: "2025-10-24"
 
 keywords: compliance, environmental information, gdpr, compliance reports, financial services, compliance settings, compliance features
 
@@ -15,7 +15,7 @@ subcollection: overview
 # Understanding compliance in {{site.data.keyword.Bluemix_notm}}
 {: #compliance}
 
-{{site.data.keyword.cloud}} provides a secure cloud platform that you can trust. {{site.data.keyword.cloud_notm}} compliance results from a platform and services that are built on best-in-industry security standards, including GDPR, HIPAA, ISO 9001, ISO 27001, ISO 27017, ISO 27018, PCI, SOC2, and others. For more information, see [Compliance on the {{site.data.keyword.cloud_notm}}](https://www.ibm.com/cloud/compliance){: external}
+{{site.data.keyword.cloud}} provides a secure cloud platform that you can trust. {{site.data.keyword.cloud_notm}} compliance results from a platform and services that are built on best-in-industry security standards, including GDPR, HIPAA, ISO 9001, ISO 27001, ISO 27017, ISO 27018, PCI, SOC2, and others. For more information, see [Compliance on the {{site.data.keyword.cloud_notm}}](https://www.ibm.com/products/cloud/compliance){: external}
 {: shortdesc}
 
 ## Compliance reports
@@ -29,7 +29,7 @@ If you have an {{site.data.keyword.cloud_notm}} account and want an infrastructu
 
 If you don't have an {{site.data.keyword.cloud_notm}} account or want a PaaS compliance report, go to [https://www.ibm.com/account/reg/us-en/signup?formid=MAIL-publiccloud](https://www.ibm.com/account/reg/us-en/signup?formid=MAIL-publiccloud){: external}. Complete the form and you will be contacted by an IBM representative.
 
-For questions about the compliance program or about the availability of a compliance report, go to [Compliance on the IBM Cloud: Next steps](https://www.ibm.com/cloud/compliance#Next+steps){: external} for contact options.
+For questions about the compliance program or about the availability of a compliance report, go to [Compliance on the IBM Cloud: Next steps](https://www.ibm.com/products/cloud/compliance#Next+steps){: external} for contact options.
 
 ## General Data Protection Regulation (GDPR)
 {: #gdpr}

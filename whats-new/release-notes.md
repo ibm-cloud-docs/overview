@@ -3,7 +3,7 @@ copyright:
   years: 2015, 2025
 
 
-lastupdated: "2025-10-17"
+lastupdated: "2025-10-31"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -21,6 +21,16 @@ content-type: release-note
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
+
+## October 2025
+{: #october-2025}
+
+### 31 October 2025
+{: #overview-oct3125}
+{: release-notes}
+
+Chennai single-campus MZR availability
+:   A new single-campus MZR (SC-MZR) location is now available in Chennai (`in-che`). You can review the [Service and infrastructure availability by location](/docs/overview?topic=overview-services_region) page to learn about the services that are available in this new location. For more information about {{site.data.keyword.cloud_notm}} SC-MZRs and MZRs, see [{{site.data.keyword.cloud_notm}} region and data center locations for resource deployment](/docs/overview?topic=overview-locations).
 
 
 ## September 2025

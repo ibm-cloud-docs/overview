@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2025
-lastupdated: "2025-10-24"
+lastupdated: "2025-10-31"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -17,6 +17,7 @@ subcollection: overview
 
 {{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. Resources in different locations are consolidated into an account-based billing and usage view. You can also deploy your workloads to the location that is nearest to your customers to achieve low latency connectivity. {{site.data.keyword.cloud_notm}} provides [multizone regions (MZR)](#x9774820){: term}, [single-campus multizone regions (SC-MZR)](#x10127487){: term}, and classic [data centers](#x2439906){: term} for classic infrastructure resources.
 {: shortdesc}
+
 
 
 ![Global map showing MZR and data center locations](images/Global-View.svg "MZR and data center locations"){: caption="MZR and data center locations map" caption-side="bottom"}
@@ -107,6 +108,7 @@ The following table lists the SC-MZR locations that are available in {{site.data
 
 | Region   | Zone |
 |----------|------|
+| Chennai (`in-che`)   | in-che-1  \n in-che-2  \n in-che-3 |
 | Montreal (`ca-mon`) | ca-mon-1  \n ca-mon-2  \n ca-mon-3 |
 | Osaka (`jp-osa`)   |jp-osa-1  \n jp-osa-2  \n jp-osa-3 |
 {: caption="single-campus MZRs" caption-side="top"}
@@ -166,6 +168,7 @@ The following table shows the available physical locations using their universal
 
 | Region   |  Universal zone name |Data center | PoP |
 |----------|------|------|----|
+| Chennai (`in-che`) | in-che-che02-a  \n in-che-che02-b  \n in-che-che02-c |  CHE01  \n  CHE02 | CHE03 |
 | Montreal (`ca-mon`) | ca-mon-mon04-a  \n ca-mon-mon04-b  \n ca-mon-mon04-c | MON04 | MON02 |
 | Osaka (`jp-osa`)   | jp-osa-osa21-a  \n jp-osa-osa22-a  \n jp-osa-osa23-a | OSA21  \n OSA22  \n OSA23 | OSA01 |
 {: caption="single-campus MZR universal zone name" caption-side="top"}

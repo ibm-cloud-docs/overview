@@ -224,7 +224,7 @@ Services that are hosted globally create resources that operate across multiple 
 {: class="simple-tab-table"}
 {: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
 
-| Service | Sydney  \n(`au-syd`) | Tokyo  \n(`jp-tok`) | Osaka  \n(`jp-osa`) | Chennai  \n(`in-che`) | 
+| Service | Sydney  \n(`au-syd`) | Tokyo  \n(`jp-tok`) | Osaka  \n(`jp-osa`) | Chennai - Airtel  \n(`in-che`) | 
 |-----|-----|-----|-----|-----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Analytics Engine |  |  |  |  | 
@@ -334,12 +334,23 @@ The following classic infrastructure resources are available in North and South 
 | Service | Montreal 01 | Toronto 01 | 
 |---|---|---|
 | Bare Metal Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  |  | 
 | Direct Link Dedicated Hosting on Classic |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange on Classic |  |  | 
+| File Storage for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| FortiGate Security Appliance 10Gbps |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Americas infrastructure availability - Canada" caption-side="top"}
 {: #iaas-table1}
@@ -352,12 +363,23 @@ The following classic infrastructure resources are available in North and South 
 | Service | Dallas 09 | Dallas 10 | Dallas 12 | Dallas 13 | Dallas 14 | San Jose 03 | San Jose 04 | Washington DC 04 | Washington DC 06 | Washington DC 07 | 
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | Bare Metal Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  |  |  |  |  |  |  |  |  |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange on Classic |  |  |  |  |  |  |  |  |  |  | 
+| File Storage for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Americas infrastructure availability - United States" caption-side="top"}
 {: #iaas-table2}
@@ -370,12 +392,23 @@ The following classic infrastructure resources are available in North and South 
 | Service | Sao Paulo 01 | 
 |--|--|
 | Bare Metal Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud HSM |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange on Classic |  | 
+| File Storage for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| FortiGate Security Appliance 10Gbps |  | 
+| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Americas infrastructure availability - Brazil" caption-side="top"}
 {: #iaas-table3}
@@ -393,12 +426,23 @@ The following classic infrastructure resources are available in Europe. Match th
 | Service | Amsterdam 03 | 
 |--|--|
 | Bare Metal Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic |  | 
 | Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange on Classic |  | 
+| File Storage for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Europe infrastructure availability - Netherlands" caption-side="top"}
 {: #iaas-table4}
@@ -411,12 +455,23 @@ The following classic infrastructure resources are available in Europe. Match th
 | Service | Frankfurt 02 | Frankfurt 04 | Frankfurt 05 | 
 |----|----|----|----|
 | Bare Metal Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  |  |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange on Classic |  |  |  | 
+| File Storage for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Europe infrastructure availability - Germany" caption-side="top"}
 {: #iaas-table5}
@@ -429,12 +484,23 @@ The following classic infrastructure resources are available in Europe. Match th
 | Service | London 02 | London 04 | London 05 | London 06 | 
 |-----|-----|-----|-----|-----|
 | Bare Metal Server for Classic |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  |  |  |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange on Classic |  |  |  |  | 
+| File Storage for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Europe infrastructure availability - United Kingdom" caption-side="top"}
 {: #iaas-table6}
@@ -447,12 +513,23 @@ The following classic infrastructure resources are available in Europe. Match th
 | Service | Milan 01 | 
 |--|--|
 | Bare Metal Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud HSM |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic |  | 
 | Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange on Classic |  | 
+| File Storage for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| FortiGate Security Appliance 10Gbps |  | 
+| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Europe infrastructure availability - Italy" caption-side="top"}
 {: #iaas-table7}
@@ -465,12 +542,23 @@ The following classic infrastructure resources are available in Europe. Match th
 | Service | Paris 01 | 
 |--|--|
 | Bare Metal Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange on Classic |  | 
+| File Storage for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Europe infrastructure availability - France" caption-side="top"}
 {: #iaas-table8}
@@ -483,12 +571,23 @@ The following classic infrastructure resources are available in Europe. Match th
 | Service | Madrid 02 | Madrid 04 | Madrid 05 | 
 |----|----|----|----|
 | Bare Metal Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Citrix NetScaler VPX |  |  |  | 
+| Cloud HSM |  |  |  | 
+| Cloud Load Balancer |  |  |  | 
 | Direct Link Connect on Classic |  |  |  | 
 | Direct Link Dedicated Hosting on Classic |  |  |  | 
 | Direct Link Dedicated on Classic |  |  |  | 
 | Direct Link Exchange on Classic |  |  |  | 
+| File Storage for Classic |  |  |  | 
+| FortiGate Security Appliance 10Gbps |  |  |  | 
+| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hardware Firewall |  |  |  | 
 | IBM Cloud Backup for Classic |  |  |  | 
+| IPSec VPN |  |  |  | 
+| Juniper vSRX |  |  |  | 
+| SSL Certificates |  |  |  | 
 | Secondary Subnets |  |  |  | 
+| Virtual Router Appliance |  |  |  | 
 {: row-headers}
 {: caption="Europe infrastructure availability - Spain" caption-side="top"}
 {: #iaas-table9}
@@ -506,12 +605,23 @@ The following classic infrastructure resources are available in Asia and the Pac
 | Service | Sydney 01 | Sydney 04 | Sydney 05 | 
 |----|----|----|----|
 | Bare Metal Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  |  |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange on Classic |  |  |  | 
+| File Storage for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Asia Pacific infrastructure availability - Australia" caption-side="top"}
 {: #iaas-table10}
@@ -524,12 +634,23 @@ The following classic infrastructure resources are available in Asia and the Pac
 | Service | Chennai 01 | 
 |--|--|
 | Bare Metal Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting on Classic |  | 
 | Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange on Classic |  | 
+| File Storage for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| FortiGate Security Appliance 10Gbps |  | 
+| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Asia Pacific infrastructure availability - India" caption-side="top"}
 {: #iaas-table11}
@@ -542,12 +663,23 @@ The following classic infrastructure resources are available in Asia and the Pac
 | Service | Tokyo 02 | Tokyo 04 | Tokyo 05 | 
 |----|----|----|----|
 | Bare Metal Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange on Classic |  |  |  | 
+| File Storage for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Asia Pacific infrastructure availability - Japan" caption-side="top"}
 {: #iaas-table12}
@@ -560,12 +692,23 @@ The following classic infrastructure resources are available in Asia and the Pac
 | Service | Singapore 01 | 
 |--|--|
 | Bare Metal Server for Classic |  | 
+| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud HSM |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange on Classic |  | 
+| File Storage for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Asia Pacific infrastructure availability - Singapore" caption-side="top"}
 {: #iaas-table13}

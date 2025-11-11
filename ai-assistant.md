@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024, 2025
-lastupdated: "2025-10-24"
+lastupdated: "2025-11-11"
 
 keywords: AI assistant, AI help
 
@@ -51,7 +51,9 @@ If you have a paid support plan, you can chat with a live agent by entering `age
 
 1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **AI assistant**.
 1. Enter **agent**.
-1. Choose between **Technical Support** or **Account & Billing Support**.
+1. Choose from **Cloud Technical Support**, **Software SaaS Support**, or **Cloud Account & Billing Support**.
+    - Select **Cloud Technical Support** for native cloud services, like {{site.data.keyword.logs_full_notm}} or {{site.data.keyword.containershort_notm}}, and for infrastructure services such as Storage, Networking, or Security.
+    - Select **Software SaaS Support** for any software applications that you use, like watsonx, {{site.data.keyword.apiconnect_short}}, {{site.data.keyword.Db2_on_Cloud_short}}, or {{site.data.keyword.speechtotextshort}}. 
 1. Select a topic that relates to your question to be transferred to a live agent and start your chat.
 
 When you chat with a live support agent, English and Japanese are the two supported languages.

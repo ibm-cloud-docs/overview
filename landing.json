@@ -2,7 +2,7 @@
   "version": 2,
   "title": "IBM Cloud overview docs",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
-  "product_page": "https://www.ibm.com/cloud",
+  "product_page": "https://www.ibm.com/solutions/cloud",
   "console_page": "/",
   "section_topics": {
     "links": [
@@ -44,11 +44,11 @@
     }
   ],
   "section_devtools": {
-      "api": "/docs?tab=api-docs&category=platform_services",
-      "cli": "/docs/cli?topic=cli-getting-started",
-      "terraform": "https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs"
-    },
+    "api": "/docs?tab=api-docs&category=platform_services",
+    "cli": "/docs/cli?topic=cli-getting-started",
+    "terraform": "https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs"
+  },
   "section_updates": {
-      "view_more": "/docs/overview?topic=overview-whatsnew"
+    "view_more": "/docs/overview?topic=overview-whatsnew"
   }
 }

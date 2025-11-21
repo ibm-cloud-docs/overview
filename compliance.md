@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2024
-lastupdated: "2025-10-24"
+lastupdated: "2025-11-21"
 
 keywords: compliance, environmental information, gdpr, compliance reports, financial services, compliance settings, compliance features
 
@@ -23,7 +23,7 @@ subcollection: overview
 
 {{site.data.keyword.cloud_notm}} provides compliance reports for some compliance regulations, for example SOC or PCI, to advise clients. The reports include details of the audit experience and can help users assess and address the high, medium, and low risks identified.
 
-For a description on each security standard and for information on whether to download or request reports, see [Compliance on the {{site.data.keyword.cloud_notm}}](https://www.ibm.com/cloud/compliance){: external}.
+For a description on each security standard and for information on whether to download or request reports, see [Compliance on the {{site.data.keyword.cloud_notm}}](https://www.ibm.com/products/cloud/compliance){: external}.
 
 If you have an {{site.data.keyword.cloud_notm}} account and want an infrastructure compliance report, go to [https://cloud.ibm.com/classic-gen1/compliance-report](https://cloud.ibm.com/classic-gen1/compliance-report){: external}. Complete the form to receive an email with the requested reports attached.
 

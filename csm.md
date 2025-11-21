@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2022, 2025
-lastupdated: "2025-10-24"
+lastupdated: "2025-11-21"
 
 keywords: csm
 
@@ -59,7 +59,6 @@ Travelping drives connected cars into the data fast lane with cloud-native techn
 Karnataka Bank creates single integration platform for its data-driven transformation.
 :   Financial institutions are constantly operating in a complex, competitive and compliance-driven financial environment where making timely and data-driven decisions is key for efficient growth and effective risk management. By leveraging tools such as data lake, advanced analytics, and accessible reporting, a bank can establish baseline performance metrics across applications, deposits, and loans. Read the [article](https://cio.economictimes.indiatimes.com/amp/news/business-analytics/karnataka-bank-sets-up-center-of-excellence-to-become-a-data-driven-bank/90042025){: external}.
 
-Pandora offers customers a personlized digital expereinces.
-:   With IBM Sterling Order Management on Cloud, Pandora is digitally transforming online sales, order management, fulfillment and returns, to offer customers  personalized digital interactions similar to the in-store experience. Sterling platform in Europe was online in less than five months, with excellent results. Read the [case study](https://www.ibm.com/case-studies/pandora-jewellery/){: external}.
+
 
 [^note]: CSMs are assigned to customers at IBM’s discretion.

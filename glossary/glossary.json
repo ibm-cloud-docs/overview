@@ -1937,7 +1937,7 @@
         "Senses": [
           {
             "Definitions": [
-              "The process of adapting a pre-trained model to perform a specific task by conducting additional training. Fine tuning may involve (1) updating the model’s existing parameters, known as full fine tuning, or (2) updating a subset of the model’s existing parameters or adding new parameters to the model and training them while freezing the model’s existing parameters, known as parameter-efficient fine tuning."
+              "The process of adapting a pre-trained model to perform a specific task by conducting additional training. Fine tuning may involve (1) updating the model\u2019s existing parameters, known as full fine tuning, or (2) updating a subset of the model\u2019s existing parameters or adding new parameters to the model and training them while freezing the model\u2019s existing parameters, known as parameter-efficient fine tuning."
             ]
           }
         ]
@@ -2867,7 +2867,7 @@
         "Senses": [
           {
             "Definitions": [
-              "An IBM Business Partner that provides IT services on a contractual basis to maintain clients' computers, networks or software. They manage services on-site at the clients' data center, remotely in the clients’ data center, or in a third-party data center."
+              "An IBM Business Partner that provides IT services on a contractual basis to maintain clients' computers, networks or software. They manage services on-site at the clients' data center, remotely in the clients\u2019 data center, or in a third-party data center."
             ]
           }
         ]
@@ -3692,7 +3692,7 @@
         "Senses": [
           {
             "Definitions": [
-              "An efficient, low-cost way of adapting a pre-trained model to new tasks without retraining the model or updating its weights. Prompt tuning involves learning a small number of new parameters that are appended to a model’s prompt, while freezing the model’s existing parameters."
+              "An efficient, low-cost way of adapting a pre-trained model to new tasks without retraining the model or updating its weights. Prompt tuning involves learning a small number of new parameters that are appended to a model\u2019s prompt, while freezing the model\u2019s existing parameters."
             ]
           }
         ]
@@ -4022,7 +4022,7 @@
         "Senses": [
           {
             "Definitions": [
-              " A physical or logical instance that can be provisioned or reserved. Examples of resources can include storage, processors, memory, databases, clusters, and VMs. "
+              " A physical or logical instance that can be provisioned or reserved.\u00a0Examples of resources can include storage, processors, memory, databases, clusters, and VMs. "
             ]
           }
         ]
@@ -4052,7 +4052,7 @@
         "Senses": [
           {
             "Definitions": [
-              "A technique in which a large language model is augmented with knowledge from external sources to generate text. In the retrieval step, relevant documents from an external source are identified from the user’s query. In the generation step, portions of those documents are included in the LLM prompt to generate a response grounded in the retrieved documents."
+              "A technique in which a large language model is augmented with knowledge from external sources to generate text. In the retrieval step, relevant documents from an external source are identified from the user\u2019s query. In the generation step, portions of those documents are included in the LLM prompt to generate a response grounded in the retrieved documents."
             ]
           }
         ]

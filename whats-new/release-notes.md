@@ -2,8 +2,7 @@
 copyright:
   years: 2015, 2025
 
-
-lastupdated: "2025-11-21"
+lastupdated: "2025-12-02"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -20,6 +19,20 @@ content-type: release-note
 
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
+
+## December 2025
+{: #december-2025}
+
+### 02 December 2025
+{: #december-01-2025}
+
+Updates to the basic support policy
+:   To improve efficiency and align with industry standards, {{site.data.keyword.cloud_notm}} is updating the Basic Support policy starting 5 January 2026. These changes emphasize self-service and AI-driven support, reducing reliance on manual case handling for technical issues.
+
+   Starting on that date, users with a basic support plan will no longer be able to open technical support cases through either the portal or API. Basic support will also no longer support the ability to initiate or escalate managed escalations through the portal or internal channels. 
+
+   Users will still be able to self-report hard ware issues, submit account or billing requests - including quota increases - via the portal, respond to IBM-initiated support cases, and access the following self-service tools: {{site.data.keyword.cloud_notm}} AI assistant, {{site.data.keyword.cloud_notm}} docs, Community forums, and status pages.
 
 
 ## October 2025

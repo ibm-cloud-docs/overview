@@ -1,7 +1,6 @@
 includes:
-  - https://github.ibm.com/cloud-docs/vpc
-
+- https://github.ibm.com/cloud-docs/vpc
 translation:
   exclude:
     byFilePath:
-      - /terms-of-use/notices.md
+    - /terms-of-use/notices.md

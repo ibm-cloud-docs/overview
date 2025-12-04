@@ -89,14 +89,14 @@ Platform Automation
 :   The previous **DevOps** and **{{site.data.keyword.bpshort}}** options are now nested within **Platform Automation**, along with {{site.data.keyword.en_short}}.
 
 Security
-:   **{{site.data.keyword.compliance_short}}** is now integrated with {{site.data.keyword.keymanagementservicelong_notm}} and {{site.data.keyword.secrets-manager_short}} and can be accessed from the **Security** menu option. 
+:   **Workload Protection** is now integrated with {{site.data.keyword.keymanagementservicelong_notm}} and {{site.data.keyword.secrets-manager_short}} and can be accessed from the **Security** menu option. 
 
 
 
 <console-zero>
 
 ## Using the new console
-{: #consoleoptions}
+{: #newconsoleoptions}
 
 When you log in to {{site.data.keyword.cloud_notm}}, the home page is displayed, which has links to various areas of your account that you might need to access.
 
@@ -115,7 +115,7 @@ View your resources
 :   In the **Shortcuts** section, click **Resources** to view a full list of your resources.
 
 Learn how to build larger solutions
-:   In the **IBMaaS** section, you can find groupings of like services such as Infrastructure, Platform Automation, and Security that can be deployed together to form more complex solutions.
+:   In the **IBMaaS** section, you can access areas of {{site.data.keyword.cloud_notm}} that are focused on specific use cases and industries such as Infrastructure, Platform Automation, and Security.
 
 Get support when something's not working as expected
 :   In the **Shortcuts** section, click the **Support center** tile to go to the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: external} page.

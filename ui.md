@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2025
-lastupdated: "2025-12-04"
+lastupdated: "2025-12-05"
 
 keywords: ui, platform, console, using the console
 
@@ -15,10 +15,10 @@ subcollection: overview
 # Navigating the {{site.data.keyword.cloud_notm}} console
 {: #ui}
 
-The [{{site.data.keyword.cloud}} console](https://cloud.ibm.com){: external} is the user interface that you use to manage all your {{site.data.keyword.cloud_notm}} resources. You can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. <console-prod>After you log in, the menu bar contains a **Navigation Menu** icon ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu") and more links.</console-prod>
+The [{{site.data.keyword.cloud}} console](https://cloud.ibm.com){: external} is the user interface that you use to manage all your {{site.data.keyword.cloud_notm}} resources. You can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. After you log in, the menu bar contains a **Navigation Menu** icon ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu") and more links.
 {: shortdesc}
 
-## Using the <console-zero>classic</console-zero> console
+## Using the  console
 {: #consoleoptions}
 
 When you log in to {{site.data.keyword.cloud_notm}}, your dashboard is displayed, which shows widgets that summarize the status of your account. If you're interested in customizing your dashboard, see [Working with scoped dashboards](/docs/account?topic=account-custom-dashboard).
@@ -90,45 +90,3 @@ Platform Automation
 
 Security
 :   **Workload Protection** is now integrated with {{site.data.keyword.keymanagementservicelong_notm}} and {{site.data.keyword.secrets-manager_short}} and can be accessed from the **Security** menu option. 
-
-
-
-<console-zero>
-
-## Using the new console
-{: #newconsoleoptions}
-
-When you log in to {{site.data.keyword.cloud_notm}}, the home page is displayed, which has links to various areas of your account that you might need to access.
-
-Use the following options to navigate to general areas of the console:
-
-See what needs your attention
-:   In the **Dashboard** section, you can see all of the areas in which your attention is needed.
-
-Browse available products
-:   Use the **Catalog** section to explore over 350 products that offer options for compute, networking, security management, end-to-end developer solutions, and more. Use the tabs to filter the catalog to quickly access [deployable architectures](#x10293733){: term}, {{site.data.keyword.IBM_notm}} products, Cloud essentials, and more.
-
-Keep working where you left off
-:   Use the **Recent projects** section to return to the projects you were most recently working on.
-
-View your resources
-:   In the **Shortcuts** section, click **Resources** to view a full list of your resources.
-
-Learn how to build larger solutions
-:   In the **IBMaaS** section, you can access areas of {{site.data.keyword.cloud_notm}} that are focused on specific use cases and industries such as Infrastructure, Platform Automation, and Security.
-
-Get support when something's not working as expected
-:   In the **Shortcuts** section, click the **Support center** tile to go to the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: external} page.
-
-Manage account preferences and more
-:   From the **Manage** menu, you can access your account, billing and usage, and Identity and Access Management options.
-
-Stay up to date with notifications
-:   Click the **Notifications** icon ![Notifications icon](../icons/Notification.svg "Notifications") to view and control all incidents, maintenance, and announcements that are likely to affect your account. You can also click the **Cloud status** tile in the **Shortcuts** section to view notifications for all of {{site.data.keyword.cloud_notm}}.
-
-Customize your profile and more
-:   Click the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg "Avatar") to access your profile, guided tours, console theme options, and more.
-
-In addition to the console, [command-line interfaces (CLIs)](/docs/cli?topic=cli-getting-started), APIs, and SDKs are available for interacting with you cloud account and resources. [Terraform](/docs/ibm-cloud-provider-for-terraform?topic=ibm-cloud-provider-for-terraform-getting-started) support is also available through use of the {{site.data.keyword.cloud_notm}} Provider plug-in for managing cloud resources at enterprise scale through templates and scripting. 
-
-</console-zero>

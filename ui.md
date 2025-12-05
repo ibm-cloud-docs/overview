@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2025
-lastupdated: "2025-03-28"
+lastupdated: "2025-12-05"
 
 keywords: ui, platform, console, using the console
 
@@ -18,7 +18,7 @@ subcollection: overview
 The [{{site.data.keyword.cloud}} console](https://cloud.ibm.com){: external} is the user interface that you use to manage all your {{site.data.keyword.cloud_notm}} resources. You can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. After you log in, the menu bar contains a **Navigation Menu** icon ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu") and more links.
 {: shortdesc}
 
-## Using the console
+## Using the  console
 {: #consoleoptions}
 
 When you log in to {{site.data.keyword.cloud_notm}}, your dashboard is displayed, which shows widgets that summarize the status of your account. If you're interested in customizing your dashboard, see [Working with scoped dashboards](/docs/account?topic=account-custom-dashboard).
@@ -49,7 +49,9 @@ Stay up to date with notifications
 Customize your profile and more
 :   Click the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg "Avatar") to access your profile, guided tours, console theme options, and more.
 
-In addition to the console, [command-line interfaces (CLIs)](/docs/cli?topic=cli-getting-started), APIs, and SDKs are available for interacting with you cloud account and resources. [Terraform](/docs/ibm-cloud-provider-for-terraform?topic=ibm-cloud-provider-for-terraform-getting-started) support is also available through use of the {{site.data.keyword.cloud_notm}} Provider plug-in for managing cloud resources at enterprise scale through templates and scripting. 
+In addition to the console, [command-line interfaces (CLIs)](/docs/cli?topic=cli-getting-started), APIs, and SDKs are available for interacting with you cloud account and resources. [Terraform](/docs/ibm-cloud-provider-for-terraform?topic=ibm-cloud-provider-for-terraform-getting-started) support is also available through use of the {{site.data.keyword.cloud_notm}} Provider plug-in for managing cloud resources at enterprise scale through templates and scripting.
+
+
 
 ## Can't find what you're looking for? 
 {: #navoptions}
@@ -87,4 +89,4 @@ Platform Automation
 :   The previous **DevOps** and **{{site.data.keyword.bpshort}}** options are now nested within **Platform Automation**, along with {{site.data.keyword.en_short}}.
 
 Security
-:   **{{site.data.keyword.compliance_short}}** is now integrated with {{site.data.keyword.keymanagementservicelong_notm}} and {{site.data.keyword.secrets-manager_short}} and can be accessed from the **Security** menu option. 
+:   **Workload Protection** is now integrated with {{site.data.keyword.keymanagementservicelong_notm}} and {{site.data.keyword.secrets-manager_short}} and can be accessed from the **Security** menu option. 

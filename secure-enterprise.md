@@ -3,7 +3,7 @@
 
 copyright:
   years: 2023, 2024
-lastupdated: "2024-11-04"
+lastupdated: "2025-12-08"
 
 keywords: deployable architecture, secure enterprise workloads
 
@@ -77,7 +77,7 @@ If you work in a financial institution, you might want to work with {{site.data.
 
 When your team has evaluated and chosen a deployable architecture, development engineers can use a [project](/docs/secure-enterprise?topic=secure-enterprise-understanding-projects#project-benefits) to configure it to fit your enterprise's business needs.
 
-A project is a named collection of configurations that are used to manage related resources and Infrastructure as Code (IaC) deployments across accounts. They enable your teams to focus on a shift-left approach by using DevOps best practices to configure, deploy, and monitor deployments. Each project includes tools that scan for potentially harmful resource changes, compliance, security, and cost, as well as tracking versioning and governance. They're designed with an IaC and compliance-first approach that helps to ensure that a project is managed, secure, and always compliant.
+A project is a named collection of configurations that are used to manage related resources and Infrastructure as Code (IaC) deployments across accounts. They enable your teams to focus on a shift-left approach by using DevOps best practices to configure, deploy, and monitor deployments. Each project includes tools that scan for potentially harmful resource changes, compliance, security, and cost, as well as tracking versioning and governance. They're designed with an IaC and compliance-first approach that helps to ensure that a project is managed, secure, and always compliant.  
 
 ![The diagram shows the flow that a user would take when working with projects from creating a project, editing a configuration from the catalog, validating it, approving it, deploying resources, and then getting notified of available updates](images/projects-flow.svg){: caption="Understanding the projects workflow." caption-side="bottom"}
 

@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2025
 
-lastupdated: "2025-12-02"
+lastupdated: "2025-12-10"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -28,11 +28,9 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 {: #december-01-2025}
 
 Updates to the basic support policy
-:   To improve efficiency and align with industry standards, {{site.data.keyword.cloud_notm}} is updating the Basic Support policy starting 5 January 2026. These changes emphasize self-service and AI-driven support, reducing reliance on manual case handling for technical issues.
+:   {{site.data.keyword.cloud_notm}} is updating the Basic Support policy starting 5 January 2026. These changes emphasize self-service and AI-driven support, reducing reliance on manual case handling for technical issues. Starting on that date, users with a basic support plan will no longer be able to open technical support cases through either the portal or API. Basic support will also no longer support the ability to initiate or escalate managed escalations through the portal or internal channels. 
 
-   Starting on that date, users with a basic support plan will no longer be able to open technical support cases through either the portal or API. Basic support will also no longer support the ability to initiate or escalate managed escalations through the portal or internal channels. 
-
-   Users will still be able to self-report hard ware issues, submit account or billing requests - including quota increases - via the portal, respond to IBM-initiated support cases, and access the following self-service tools: {{site.data.keyword.cloud_notm}} AI assistant, {{site.data.keyword.cloud_notm}} docs, Community forums, and status pages.
+   Users will still be able to self-report hard ware issues, submit account or billing requests - including quota increases - via the portal, respond to IBM-initiated support cases, and access the following self-service tools: {{site.data.keyword.cloud_notm}} AI assistant, {{site.data.keyword.cloud_notm}} docs, Community forums, and status pages. If your organization needs more advanced technical support, faster response times, or severity-level control, we recommend upgrading to a paid support plan. Learn more from your IBM Sales representative or open an account upgrade case in the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter).
 
 
 ## October 2025

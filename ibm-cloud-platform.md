@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2025
-lastupdated: "2025-07-11"
+lastupdated: "2025-12-08"
 
 keywords: console, platform overview, overview, catalog, IBM Cloud catalog
 
@@ -354,8 +354,8 @@ Usage reports return the summary for the account for the specified month. Accoun
 
 The {{site.data.keyword.compliance_full}} offers a single location where you can validate that your resources are meeting continuous security and compliance.
 
-You can create profiles and config rules to ensure that specific areas of your business adhere to your defined requirements or industry regulations. From the {{site.data.keyword.compliance_short}} dashboard, you can download detailed reports that you can use to provide evidence to stakeholders or external auditors. The {{site.data.keyword.compliance_short}} also offers security insights that you can use to detect potential threats when observing your account activity. For more information, see [Getting started with {{site.data.keyword.compliance_short}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
+You can create policies and controls to ensure that specific areas of your business adhere to your defined requirements or industry regulations. From the {{site.data.keyword.sysdigsecure_full_notm}} dashboard, you can download detailed reports that you can use to provide evidence to stakeholders or external auditors. The {{site.data.keyword.sysdigsecure_full_notm}} also offers security insights that you can use to detect potential threats when observing your account activity. For more information, see [Getting started with {{site.data.keyword.sysdigsecure_full_notm}}](/workload-protection?topic=workload-protection-getting-started).
+ 
 ## Creating resources
 {: #provisioning-layer}
 

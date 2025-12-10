@@ -3,8 +3,8 @@
 
 copyright:
   years: 2023, 2024
-lastupdated: "2024-11-04"
-
+lastupdated: "2025-12-08"
+ 
 keywords: deployable architecture, secure enterprise workloads
 
 subcollection: overview
@@ -21,37 +21,8 @@ With continuous compliance at the core of {{site.data.keyword.cloud}}'s platform
 
 For highly regulated industries, such as financial services, achieving continuous compliance within a cloud environment is an important first step toward protecting customer and application data. Historically, that process has been difficult and manual, which placed your organization at risk. But, with {{site.data.keyword.cloud_notm}} you can work with predefined deployable architectures, automate infrastructure-as-code deployments with [projects](#x2035151){: term}, and integrate automatic security checks into every day workflows to minimize risk.
 
-With {{site.data.keyword.cloud_notm}}, your whole team from solution architects, compliance managers, infrastructure DevOps teams, to application development teams can use a shift-left approach to identify security risks and exposures early when developing and deploying cloud solutions. This keeps security and compliance at the center of your workflow and organizational culture so that your enterprise can operate in the cloud with confidence. Check out the following video to learn more about how {{site.data.keyword.cloud_notm}} can help you accelerate and maintain your regulated standards at scale.
+With {{site.data.keyword.cloud_notm}}, your whole team from solution architects, compliance managers, infrastructure DevOps teams, to application development teams can use a shift-left approach to identify security risks and exposures early when developing and deploying cloud solutions. This keeps security and compliance at the center of your workflow and organizational culture so that your enterprise can operate in the cloud with confidence.
 
-![Accelerating and Maintaining Your Regulated Standards at Scale](https://www.kaltura.com/p/1773841/sp/177384100/embedIframeJs/uiconf_id/27941801/partner_id/1773841?iframeembed=true&entry_id=1_u5wb1ug0){: video output="iframe" data-script="#enterprise-video-transcript" id="mediacenter-player" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen}
-
-## Video transcript
-{: #enterprise-video-transcript}
-{: notoc}
-
-Hi, I’m Mark Meredith a product manager for IBM Cloud.
-
-As a large enterprise your requirements for scale, security, infrastructure, and governance all influence your move to the cloud.
-
-With the tools available through IBM Cloud, you can start and stay compliant, use automation, and ensure deployments are done by using a secure software supply chain, all while managing your resources at scale.
-
-Creating secure, compliant, robust, and scalable application infrastructure can be difficult to set up and costly to maintain.
-
-But, if you standardize application infrastructure where possible and then host many applications on the same infrastructure you can reduce operations costs.
-
-You can do this with deployable architectures and projects on IBM Cloud.
-
-With our growing catalog of deployable architectures you can quickly get started by adding it to a project and customizing it to your needs.
-
-Projects aren’t just for configuring your solution though. Projects also enable you to organize resources by what you care about in your organization, whether it’s by application or business unit, to get helpful views into cost, availability, and compliance.
-
-Projects have built in governance ensuring that only validated, compliant, and approved code is deployed.
-
-Achieving continuous security and compliance for your regulated workloads is key to your business and ours. With IBM Cloud Security and Compliance Center, you can integrate daily, automatic compliance checks into your development lifecycle to help minimize risk and be audit-ready.
-
-From automating the creation of accounts to authorizing only IBM Cloud projects to deploy resources from approved, compliant deployable architectures, your enterprise can shift left and reduce the possibility of human error that can lead to major security or financial risks.
-
-Visit the IBM Cloud catalog to check out the secure by default deployable architectures that you can add to a project to get started today.
 
 ## Defining your compliance strategy
 {: #define-enterprise-compliance}
@@ -61,7 +32,7 @@ By planning and defining your enterprise's goals for running secure workloads on
 ### Understanding security and compliance requirements
 {: #security-compliance-requirements}
 
-While you're working through the planning phase of running your enterprise solutions on {{site.data.keyword.cloud_notm}}, it's important to consider the internal and external standards that your organization must meet. For example, if you are a medical establishment, you most likely need to prove that you are upholding HIPAA requirements. Or, if you are a financial institution you might need to prove that you are meeting NIST standards. With [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started), you can take advantage of predefined control libaries that are designed to help you validate and prove compliance for a group of controls.
+While you're working through the planning phase of running your enterprise solutions on {{site.data.keyword.cloud_notm}}, it's important to consider the internal and external standards that your organization must meet. For example, if you are a medical establishment, you most likely need to prove that you are upholding HIPAA requirements. Or, if you are a financial institution you might need to prove that you are meeting NIST standards. With [{{site.data.keyword.sysdigsecure_full_notm}}](/docs/workload-protection?topic=workload-protection-getting-started), you can take advantage of predefined control policies that are designed to help you validate and prove compliance for a group of controls.
 
 ### Identifying the right infrastructure architecture
 {: #define-architecture}
@@ -77,7 +48,7 @@ If you work in a financial institution, you might want to work with {{site.data.
 
 When your team has evaluated and chosen a deployable architecture, development engineers can use a [project](/docs/secure-enterprise?topic=secure-enterprise-understanding-projects#project-benefits) to configure it to fit your enterprise's business needs.
 
-A project is a named collection of configurations that are used to manage related resources and Infrastructure as Code (IaC) deployments across accounts. They enable your teams to focus on a shift-left approach by using DevOps best practices to configure, deploy, and monitor deployments. Each project includes tools that scan for potentially harmful resource changes, compliance, security, and cost, as well as tracking versioning and governance. They're designed with an IaC and compliance-first approach that helps to ensure that a project is managed, secure, and always compliant.
+A project is a named collection of configurations that are used to manage related resources and Infrastructure as Code (IaC) deployments across accounts. They enable your teams to focus on a shift-left approach by using DevOps best practices to configure, deploy, and monitor deployments. Each project includes tools that scan for potentially harmful resource changes, compliance, security, and cost, as well as tracking versioning and governance. They're designed with an IaC and compliance-first approach that helps to ensure that a project is managed, secure, and always compliant.  
 
 ![The diagram shows the flow that a user would take when working with projects from creating a project, editing a configuration from the catalog, validating it, approving it, deploying resources, and then getting notified of available updates](images/projects-flow.svg){: caption="Understanding the projects workflow." caption-side="bottom"}
 
@@ -100,9 +71,7 @@ To learn more, see the [DevSecOps documentation](/docs/devsecops?topic=devsecops
 ## Assessing and maintaining compliance of enterprise workloads
 {: #assess-compliance}
 
-Although {{site.data.keyword.cloud_notm}} reduces the time and complexity of setting up a compliant enterprise application, you still need to ensure that you're maintaining compliance. To do so, you can use the {{site.data.keyword.compliance_short}} to run automatic evaluations on your resource configurations. The evaluation results are provided in the dashboard of the {{site.data.keyword.compliance_short}} or you can get notified of changes. You are able to quickly assess the risk to your organization, fix issues, and generate reports so that you're always audit-ready.
-
-![A visual representation of the Security and Compliance Center dashboard](images/dashboard.svg){: caption="Example Security and Compliance Center dashboard" caption-side="bottom"}
+Although {{site.data.keyword.cloud_notm}} reduces the time and complexity of setting up a compliant enterprise application, you still need to ensure that you're maintaining compliance. To do so, you can use the [{{site.data.keyword.sysdigsecure_full_notm}}](/docs/workload-protection?topic=workload-protection-getting-started) to run evaluations on your multi-cloud resource configurations. The evaluation results are provided in the dashboard of the {{site.data.keyword.sysdigsecure_full_notm}}. You are able to quickly assess the risk to your organization, fix issues, and generate reports so that you're always audit-ready.
 
 Also, using DevSecOps CI/CD/CC toolchains can help to automate the evaluation of controls as part of the development process and can block noncompliant changes from being promoted. Managing your application code this way ensures that you have the evidence and change history that is needed to meet the required compliance standards for your industry. For more information about a shift-left approach to deploying your code, see [DevSecOps architecture](/docs/devsecops?topic=devsecops-cd-devsecops-arch).
 
@@ -110,7 +79,7 @@ Also, using DevSecOps CI/CD/CC toolchains can help to automate the evaluation of
 ## Get started with your enterprise workloads on {{site.data.keyword.cloud_notm}}
 {: #enterprise-get-started}
 
-With the tools available through {{site.data.keyword.cloud_notm}}, you can start and stay compliant with automation and ensure that deployments are done by using a secure software supply chain, all while managing your resources at scale. Go to the [{{site.data.keyword.cloud_notm}} catalog](/catalog) to check out the deployable architectures and visit the [{{site.data.keyword.compliance_short}}](/security-compliance/overview) today to start defining your goals for security and compliance.
+With the tools available through {{site.data.keyword.cloud_notm}}, you can start and stay compliant with automation and ensure that deployments are done by using a secure software supply chain, all while managing your resources at scale. Go to the [{{site.data.keyword.cloud_notm}} catalog](/catalog) to check out the deployable architectures and visit the [{{site.data.keyword.sysdigsecure_full_notm}}](/docs/workload-protection?topic=workload-protection-getting-started) today to start evaluating for security and compliance.
 
 For more information about setting up your enterprise, configuring automated deployments by using projects, customizing deployable architectures, and more, see the [Enterprise account architecture](/docs/enterprise-account-architecture) white paper and [Running secure enterprise workloads](/docs/secure-enterprise) documentation.
 

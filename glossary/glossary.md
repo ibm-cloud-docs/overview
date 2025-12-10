@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2025
-lastupdated: "2025-04-22"
+lastupdated: "2025-12-10"
 
 keywords: "glossary, IBM Cloud glossary, terms, definitions"
 
@@ -178,11 +178,6 @@ An application programming interface that provides rich functionality for intera
 {: #x2172042}
 
 Tangible or intangible goods, services, or property represented as an entity that is traded on a blockchain network.
-
-### attachment
-{: #x2014428}
-
-In Security and Compliance Center, the connection between a profile and scope.
 
 ### attribute
 {: #x2000252}
@@ -459,22 +454,6 @@ An access management method that defines and enforces access for resources based
 {: #x2018434}
 
 A technical, administrative, or physical safeguard designed to meet a set of defined security and privacy requirements. Controls exist to prevent, detect, or lessen the ability of a threat to exploit a vulnerability.
-
-
-### control assessment
-{: #x10134907}
-
-The evaluation of a configuration for compliance with applicable standards.
-
-### control library
-{: #x8454197}
-
-A collection of similar predefined or custom controls.
-
-### control specification
-{: #x2018576}
-
-A statement that defines the specific security and privacy requirements that a control must meet.
 
 ### coreference
 {: #x9440294}
@@ -1584,8 +1563,6 @@ A .pear archive file that includes an Unstructured Information Management Archit
 {: #x2034950}
 
 - A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
-- In Security and Compliance Center, a grouping of similar controls that can be used to evaluate resource configuration for compliance.A profile can be customized to fit specific use cases by editing the default parameters.
- See also [rule](#x2037526), [scope](#x2037763).
 
 ### project
 {: #x2035151}
@@ -1790,13 +1767,6 @@ See [recovery point objective](#x3429911).
 
 See [recovery time objective](#x3167918).
 
-
-### rule
-{: #x2037526}
-
-- The set of allowed contexts that are associated with an IBM Cloud resource. The defined contexts dictate a user's or service's access to that resource.
-- A set of conditional statements that are used to determine whether a build can be promoted. See also [profile](#x2034950), [scope](#x2037763).
-
 ### rule set
 {: #x2065665}
 
@@ -1831,12 +1801,6 @@ To increase platform (or system) capacity by adding more application or service 
 {: #x2116206}
 
 See [source control management](#x3579285).
-
-
-### scope
-{: #x2037763}
-
-A grouping of resources that can be validated or evaluated for security and compliance. See also [rule](#x2037526), [profile](#x2034950).
 
 ### secret
 {: #x2789492}

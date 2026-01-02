@@ -38,7 +38,6 @@ toc:
       - ai-assistant.md
       - private-endpoints.md
       - key-encryption.md
-      - certifications.md
       - feedback.md
   - navgroup:
       id: reference

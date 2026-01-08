@@ -2,8 +2,8 @@
 
 
 copyright:
-  years: 2018, 2024
-lastupdated: "2025-05-15"
+  years: 2018, 2026
+lastupdated: "2026-01-08"
 
 keywords: feedback button, comments, requirements, product improvements, submit feedback, documentation, console, feedback
 
@@ -36,7 +36,7 @@ Complete the following process to submit a pull request to the content team:
 ## Opening an issue for the documentation
 {: #feedback-docissue}
 
-You can open an issue for the content team to address from any documentation page. Within your issue, provide the details about the improvement that you'd like to see. For example, you might report that the steps on the page don't match the UI or more details about a specific subject are needed.
+You can open an issue for the content team to address from any documentation page. Within your issue, provide the details about the improvement that you'd like to see. For example, you might report that the steps in the documentation don't match the UI or a link is broken. 
 
 To open an issue from a documentation page, complete the following steps:
 

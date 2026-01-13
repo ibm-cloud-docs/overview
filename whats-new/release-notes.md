@@ -1,8 +1,8 @@
 ---
 copyright:
-  years: 2015, 2025
+  years: 2015, 2026
 
-lastupdated: "2025-12-10"
+lastupdated: "2026-01-13"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -20,9 +20,18 @@ content-type: release-note
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
-
 ## December 2025
 {: #december-2025}
+
+### 12 December 2025
+{: #overview-dec1225}
+{: release-notes}
+
+Onboarding managed professional services with usage-based pricing plans
+:   IBM Business Partners can now use Partner Center to onboard managed professional services for clients to discover and use. After the services are onboarded, you can approve requests from clients to use the service and add billing entries, while clients can optionally request engagement closure and clean up resources. This streamlined lifecycle helps ensure reduced operational burden for businesses. For more information, see [Getting set up to sell managed professional services](/docs/sell?topic=sell-mps-getting-started).
+
+Creating enterprise role templates
+:   {{site.data.keyword.cloud_notm}} now supports enterprise role templates, enabling administrators to apply consistent service restrictions across multiple child accounts. You can create and configure templates by selecting services, defining allowed actions, and committing the template for use. After it is committed, templates can be assigned to child accounts and account groups, streamlining access management across enterprise environments. For more information, see [Creating enterprise role templates](/docs/enterprise-management?topic=enterprise-management-crt-roletemplate-create&interface=ui).
 
 ### 02 December 2025
 {: #december-01-2025}
@@ -31,7 +40,6 @@ Updates to the basic support policy
 :   {{site.data.keyword.cloud_notm}} is updating the Basic Support policy starting 5 January 2026. These changes emphasize self-service and AI-driven support, reducing reliance on manual case handling for technical issues. Starting on that date, users with a basic support plan will no longer be able to open technical support cases through either the portal or API. Basic support will also no longer support the ability to initiate or escalate managed escalations through the portal or internal channels. 
 
    Users will still be able to self-report hard ware issues, submit account or billing requests - including quota increases - via the portal, respond to IBM-initiated support cases, and access the following self-service tools: {{site.data.keyword.cloud_notm}} AI assistant, {{site.data.keyword.cloud_notm}} docs, Community forums, and status pages. If your organization needs more advanced technical support, faster response times, or severity-level control, we recommend upgrading to a paid support plan. Learn more from your IBM Sales representative or open an account upgrade case in the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter).
-
 
 ## October 2025
 {: #october-2025}
@@ -43,6 +51,12 @@ Updates to the basic support policy
 Chennai single-campus MZR availability
 :   A new single-campus MZR (SC-MZR) location is now available in Chennai (`in-che`). You can review the [Service and infrastructure availability by location](/docs/overview?topic=overview-services_region) page to learn about the services that are available in this new location. For more information about {{site.data.keyword.cloud_notm}} SC-MZRs and MZRs, see [{{site.data.keyword.cloud_notm}} region and data center locations for resource deployment](/docs/overview?topic=overview-locations).
 
+### 20 October 2025
+{: #overview-oct2025}
+{: release-notes}
+
+Enhanced user access controls
+:   IAM now supports settings to give you greater control over how users are invited and viewed within your accounts. With the **Restrict user invitations** option, you can now limit invitations to specific, approved email domains, which can ensure only trusted users gain access. The **Restrict user list visibility** option allows you to define which users can see each other, improving privacy and maintaining clearer boundaries across sub accounts. For more information, see [Restricting domains for account invitations](/docs/enterprise-management?topic=enterprise-management-settings-template-create&interface=ui#restrict-user-invitation) and [Restricting user visibility](/docs/enterprise-management?topic=enterprise-management-settings-template-create&interface=ui#restrict-user-visibility).
 
 ## September 2025
 {: #september-2025}

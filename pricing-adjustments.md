@@ -124,7 +124,7 @@ PaaS services outside of the United States will adopt the same location premiums
 - {{site.data.keyword.sysdigsecure_full_notm}}
 
 
-### {{site.data.keyword.cos_full_notm}}
+### Price changes for {{site.data.keyword.cos_full_notm}}
 {: #cos-adjustments-jan-2025}
 
 {{site.data.keyword.cos_short}} will introduce charges for Aspera high-speed uploads and adopt new, simpler, flat, and consistent charges for high-speed downloads:
@@ -138,7 +138,7 @@ PaaS services outside of the United States will adopt the same location premiums
 Additionally, {{site.data.keyword.cos_short}} prices will be increased by 2% in the Sao Paulo (`br-sao`) and Toronto (`ca-tor`) regions. In Chennai (`in-che`), the 2% increase will apply to Archive only.
 
 
-### R1Soft Backup Services
+### Price changes for R1Soft Backup Services
 {: #r1soft-adjustments-jan-2025}
 
 Charges for R1Soft Backup Services will increase as follows:
@@ -152,7 +152,7 @@ Charges for R1Soft Backup Services will increase as follows:
 {: caption="R1Soft backup services changes" caption-side="top"}
 
 
-### {{site.data.keyword.compliance_long}}
+### Price changes for {{site.data.keyword.compliance_long}}
 {: #scc-adjustments-jan-2025}
 
 Charges for {{site.data.keyword.sysdigsecure_full_notm}} cloud security posture management will increase from $8.24/compute instance/month to $18.00/compute instance/month.
@@ -173,7 +173,7 @@ All other {{site.data.keyword.compliance_short}} charges remain unchanged.
 {: note}
 
 
-### {{site.data.keyword.keymanagementservicelong_notm}}
+### Price changes for {{site.data.keyword.keymanagementservicelong_notm}}
 {: #keyprotect-adjustments-jan-2025}
 
 {{site.data.keyword.keymanagementserviceshort}} is making two changes to its pricing structure:

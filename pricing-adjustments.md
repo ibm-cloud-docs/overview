@@ -21,7 +21,7 @@ subcollection: overview
 The following page outlines price changes for {{site.data.keyword.cloud}}.
 {: shortdesc}
 
-For more information about 2026 price changes, click the [**Notifications**](/notifications) icon ![Notifications icon](../icons/Notification.svg "Notifications") in the {{site.data.keyword.cloud_notm}} console. 
+For more information about 2026 price changes, go to [Notifications](/notifications) in the {{site.data.keyword.cloud_notm}} console. 
 {: important}
 
 ## April 2025 price changes

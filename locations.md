@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2019, 2025
-lastupdated: "2025-10-31"
+  years: 2019, 2026
+lastupdated: "2026-01-14"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -189,7 +189,7 @@ As illustrated in the following graphic, a data center is a physical building th
 
 ![A location hierarchy that shows a geography that contains data center buildings inside of zones that are interconnected with points-of-presence within a metro.](images/dc-geography.svg){: caption="Location hierarchy" caption-side="bottom"}
 
-## Classic data centers
+## Classic infrastructure data centers
 {: #data-centers}
 
 In addition to selecting a region for your resource, you can select from a list of the {{site.data.keyword.Bluemix_notm}} data centers, if you're working with classic infrastructure or {{site.data.keyword.powerSys_notm}} resources.

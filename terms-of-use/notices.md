@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2025
-lastupdated: "2025-11-24"
+lastupdated: "2026-01-14"
 
 keywords: notices, IBM Cloud, creative commons, licenses
 
@@ -39,7 +39,7 @@ INTERNATIONAL BUSINESS MACHINES CORPORATION PROVIDES THIS PUBLICATION "AS IS" WI
 
 This information might include technical inaccuracies or typographical errors. Changes are periodically made to the information herein; these changes will be incorporated in new editions of the publication. {{site.data.keyword.IBM_notm}} may make improvements and/or changes in the product(s) and/or the program(s) described in this publication at any time without notice.
 
-Portions of {{site.data.keyword.cloud_notm}} Docs may be generated with the assistance of {{site.data.keyword.IBM_notm}} Granite and {{site.data.keyword.IBM_notm}} watsonx Code Assistant.
+Portions of {{site.data.keyword.cloud_notm}} documentation may be generated with the assistance of {{site.data.keyword.IBM_notm}} AI technologies.
 
 Any references in this information to non-{{site.data.keyword.IBM_notm}} websites are provided for convenience only and do not in any manner serve as an endorsement of those websites. The materials at those websites are not part of the materials for this {{site.data.keyword.IBM_notm}} product and use of those websites is at your own risk.
 

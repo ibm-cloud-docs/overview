@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2024, 2025
-lastupdated: "2025-11-11"
+  years: 2024, 2026
+lastupdated: "2026-01-21"
 
 keywords: AI assistant, AI help
 
@@ -19,6 +19,8 @@ The {{site.data.keyword.cloud}} AI assistant, which is powered by {{site.data.ke
 {: shortdesc}
 
 The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models (LLMs) using [{{site.data.keyword.IBM_notm}}'s watsonx](https://www.ibm.com/products/watsonx){: external} and the {{site.data.keyword.cloud_notm}} docs.
+
+
 
 {{site.data.keyword.cloud_notm}} does not gather any personal identifiable information when you are querying the AI assistant. When you query the AI assistant, it is not being trained based on user input and does not associate any queries with your identity or account. {{site.data.keyword.IBM_notm}} endeavors to develop AI in accordance with its published principles of trust and transparency. For more information, see [Responsible AI](https://www.ibm.com/trust/responsible-ai){: external}.
 
@@ -53,7 +55,7 @@ If you have a paid support plan, you can chat with a live agent by entering `age
 1. Enter **agent**.
 1. Choose from **Cloud Technical Support**, **Software SaaS Support**, or **Cloud Account & Billing Support**.
     - Select **Cloud Technical Support** for native cloud services, like {{site.data.keyword.logs_full_notm}} or {{site.data.keyword.containershort_notm}}, and for infrastructure services such as Storage, Networking, or Security.
-    - Select **Software SaaS Support** for any software applications that you use, like watsonx, {{site.data.keyword.apiconnect_short}}, {{site.data.keyword.Db2_on_Cloud_short}}, or {{site.data.keyword.speechtotextshort}}. 
+    - Select **Software SaaS Support** for any software applications that you use, like watsonx, {{site.data.keyword.apiconnect_short}}, {{site.data.keyword.Db2_on_Cloud_short}}, or {{site.data.keyword.speechtotextshort}}.
 1. Select a topic that relates to your question to be transferred to a live agent and start your chat.
 
 When you chat with a live support agent, English and Japanese are the two supported languages.

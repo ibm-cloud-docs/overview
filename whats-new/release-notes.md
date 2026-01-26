@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-01-23"
+lastupdated: "2026-01-26"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,21 @@ content-type: release-note
 
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
+
+
+## January 2026
+{: #january-2026}
+
+### 26 January 2026
+{: #overview-jan2626}
+{: release-notes}
+
+Report technical issues with Basic support plan
+:   Users with a Basic support plan can now report technical issues about the {{site.data.keyword.cloud_notm}} platform or third-party products available in the {{site.data.keyword.cloud_notm}} catalog. While these technical issue reports do not include direct interaction with the support team, they enable Basic plan users to document and track platform-related technical problems. If an issue requires advanced support case handling, users can upgrade their support plan. For more information, see [Reporting a technical issue](/docs/account?topic=account-using-avatar#report-issue).
+
+The IBM certificate for ISO 31000 will be deprecated
+:   ISO 31000 is a guidance-only risk management standard for which the IBM certificate is scheduled to expire in October 2026. IBM Cloud does not intend to renew it. The risk management principals that are referenced in IS 31000 are already incorporated and independently assessed through existing compliance programs including ISO/IEC 27001, ISO/IEC 22301, SOC 2, and PCI DSS. There is no impact to control implementation, risk management practices, or IBM Cloud's security posture. You can continue to rely on existing certifications and audit reports as evidence of established and independently validated risk management. This notification is provided for your awareness and does ot required any action.
 
 
 

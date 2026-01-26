@@ -29,7 +29,7 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 {: #overview-jan2626}
 {: release-notes}
 
-Report technical issues with Basic support plan
+Report technical issues with a Basic support plan
 :   Users with a Basic support plan can now report technical issues about the {{site.data.keyword.cloud_notm}} platform or third-party products available in the {{site.data.keyword.cloud_notm}} catalog. While these technical issue reports do not include direct interaction with the support team, they enable Basic plan users to document and track platform-related technical problems. If an issue requires advanced support case handling, users can upgrade their support plan. For more information, see [Reporting a technical issue](/docs/account?topic=account-using-avatar#report-issue).
 
 The IBM certificate for ISO 31000 will be deprecated

@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-01-26"
+lastupdated: "2026-01-27"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -33,8 +33,10 @@ Report technical issues with a Basic support plan
 :   Users with a Basic support plan can now report technical issues about the {{site.data.keyword.cloud_notm}} platform or third-party products available in the {{site.data.keyword.cloud_notm}} catalog. While these technical issue reports do not include direct interaction with the support team, they enable Basic plan users to document and track platform-related technical problems. If an issue requires advanced support case handling, users can upgrade their support plan. For more information, see [Reporting a technical issue](/docs/account?topic=account-using-avatar#report-issue).
 
 The IBM certificate for ISO 31000 will be deprecated
-:   ISO 31000 is a guidance-only risk management standard for which the {{site.data.keyword.cloud_notm}} certificate is scheduled to expire in October 2026. {{site.data.keyword.cloud_notm}} does not intend to renew it. The risk management principals that are referenced in ISO 31000 are already incorporated and independently assessed through existing compliance programs including ISO/IEC 27001, ISO/IEC 22301, SOC 2, and PCI DSS. There is no impact to control implementation, risk management practices, or {{site.data.keyword.cloud_notm}}'s security posture. You can continue to rely on existing certifications and audit reports as evidence of established and independently validated risk management. This notification is provided for your awareness and does ot required any action.
+:   ISO 31000 is a guidance-only risk management standard for which the {{site.data.keyword.cloud_notm}} certificate is scheduled to expire in October 2026. {{site.data.keyword.cloud_notm}} does not intend to renew it. The risk management principals that are referenced in ISO 31000 are already incorporated and independently assessed through existing compliance programs including ISO/IEC 27001, ISO/IEC 22301, SOC 2, and PCI DSS. There is no impact to control implementation, risk management practices, or {{site.data.keyword.cloud_notm}}'s security posture. You can continue to rely on existing certifications and audit reports as evidence of established and independently validated risk management. This notification is provided for your awareness and does not require any action.
 
+Multi-tier Cloud Security Tier 3 (MTCS) (Singapore SZR) will expire
+:   The MTCS certification is scheduled to expire in September 2026 and {{site.data.keyword.cloud_notm}} does not intend to renew it. The MTCS tier 3 security controls are aligned with controls which are already implemented and independently assessed through ISO/IEC 27001 and SOC 2 which {{site.data.keyword.cloud_notm}} maintains on a global basis. There is no impact to control implementation, risk management practices, or {{site.data.keyword.cloud_notm}}'s security posture. You can continue to rely on existing global certifications and audit reports as evidence of established and independently validated security controls. This notification is provided for your awareness and does not require any action.
 
 
 ## December 2025

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2024
-lastupdated: "2025-12-08"
+lastupdated: "2026-01-30"
 
 keywords: compliance, environmental information, gdpr, compliance reports, financial services, compliance settings, compliance features
 
@@ -66,9 +66,9 @@ For details, see the following data sheets on our physical hardware in the cloud
 ## {{site.data.keyword.sysdigsecure_full}}
 {: #security-compliance-center-overview}
 
-For highly regulated industries, such as financial services, achieving continuous security within a cloud environment is an important first step toward protecting customer and application data. Historically, that process has been difficult and manual, which placed your organization at risk. But, with the {{site.data.keyword.compliance_full}} you can integrate automatic security checks into every day workflows that are designed to minimize risk. By monitoring for risks, you can identify security vulnerabilities and quickly work to mitigate the impact and fix the issue.
+For highly regulated industries, such as financial services, achieving continuous security within a cloud environment is an important first step toward protecting customer and application data. Historically, that process has been difficult and manual, which placed your organization at risk. But, with {{site.data.keyword.sysdigsecure_full_notm}} you can integrate automatic security checks into every day workflows that are designed to minimize risk. By monitoring for risks, you can identify security vulnerabilities and quickly work to mitigate the impact and fix the issue.
 
-You can acheive continuous security and compliance within the {{site.data.keyword.cloud_notm}} platform with the {{site.data.keyword.sysdigsecure_short}}. You can view your security and compliance postures from a unified dashboard. Learn more about [Getting started](/docs/workload-protection?topic=workload-protection-getting-started).
+You can achieve continuous security and compliance within the {{site.data.keyword.cloud_notm}} platform with the {{site.data.keyword.sysdigsecure_short}}. You can view your security and compliance postures from a unified dashboard. Learn more about [Getting started](/docs/workload-protection?topic=workload-protection-getting-started).
 
 
 ## {{site.data.keyword.framework-fs_notm}}

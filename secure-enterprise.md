@@ -2,8 +2,8 @@
 
 
 copyright:
-  years: 2023, 2024
-lastupdated: "2025-12-08"
+  years: 2023, 2026
+lastupdated: "2026-02-05"
  
 keywords: deployable architecture, secure enterprise workloads
 
@@ -63,7 +63,7 @@ By using the DevSecOps Application Lifecycle Management deployable architecture 
 
 ![A visual representation of a process that includes continuous integration, deployment, and compliance](images/cd.svg){: caption="Continuous integration, deployment, and compliance" caption-side="bottom"}
 
-The [CI toolchain](/docs/devsecops?topic=devsecops-cd-devsecops-ci-pipeline) provides pipelines that scan your code and build artifacts, catch security issues early, and prevent those issues from being introduced into the product configuration, while collecting evidence that can be used for audits. The [CD toolchain](/docs/devsecops?topic=devsecops-cd-devsecops-cd-pipeline) checks for required evidence, generates a change request document with an evidence summary and description of changes, and gates deployment based on compliance with your organization’s security policies. And, because new vulnerabilities that were not previously known might always be discovered, you can leverage the [CC toolchain](/docs/devsecops?topic=devsecops-devsecops-cc-pipeline) to continuously assess app security and compliance posture for code that is already in production.
+The [CI toolchain](/docs/devsecops?topic=devsecops-cd-devsecops-ci-pipeline) provides pipelines that scan your code and build artifacts, catch security issues early, and prevent those issues from being introduced into the product configuration, while collecting evidence that can be used for audits. The [CD toolchain](/docs/devsecops?topic=devsecops-cd-devsecops-cd-pipeline-overview) checks for required evidence, generates a change request document with an evidence summary and description of changes, and gates deployment based on compliance with your organization’s security policies. And, because new vulnerabilities that were not previously known might always be discovered, you can leverage the [CC toolchain](/docs/devsecops?topic=devsecops-devsecops-cc-pipeline) to continuously assess app security and compliance posture for code that is already in production.
 
 To learn more, see the [DevSecOps documentation](/docs/devsecops?topic=devsecops-devsecops_intro).
 

@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2020, 2024
-lastupdated: "2026-01-30"
+  years: 2020, 2026
+lastupdated: "2026-02-05"
 
 keywords: compliance, environmental information, gdpr, compliance reports, financial services, compliance settings, compliance features
 
@@ -27,7 +27,7 @@ For a description on each security standard and for information on whether to do
 
 If you have an {{site.data.keyword.cloud_notm}} account and want an infrastructure compliance report, go to [https://cloud.ibm.com/classic-gen1/compliance-report](https://cloud.ibm.com/classic-gen1/compliance-report){: external}. Complete the form to receive an email with the requested reports attached.
 
-If you don't have an {{site.data.keyword.cloud_notm}} account or want a PaaS compliance report, go to [https://www.ibm.com/account/reg/us-en/signup?formid=MAIL-publiccloud](https://www.ibm.com/account/reg/us-en/signup?formid=MAIL-publiccloud){: external}. Complete the form and you will be contacted by an IBM representative.
+If you don't have an {{site.data.keyword.cloud_notm}} account or want a PaaS compliance report, go to [https://www.ibm.com/forms/mkt-mail-publiccloud](https://www.ibm.com/forms/mkt-mail-publiccloud){: external}. Complete the form and you will be contacted by an IBM representative.
 
 For questions about the compliance program or about the availability of a compliance report, go to [Compliance on the IBM Cloud: Next steps](https://www.ibm.com/products/cloud/compliance#Next+steps){: external} for contact options.
 

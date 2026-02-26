@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-01-27"
+lastupdated: "2026-02-26"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -20,6 +20,15 @@ content-type: release-note
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
+## February 2026
+{: #february-2026}
+
+### 26 February 2026
+{: #overview-feb2626}
+{: release-notes}
+
+Mumbai - Airtel single-campus MZR availability
+:   A new single-campus MZR (SC-MZR) location is now available in Mumbai (`in-mum`) in [partnership with Bharti Airtel](https://newsroom.ibm.com/2025-10-15-bharti-airtel-announces-a-strategic-partnership-with-ibm-to-augment-airtel-cloud){: external}. You can review the [Service and infrastructure availability by location](/docs/overview?topic=overview-services_region) page to learn about the services that are available in this new location. For more information about {{site.data.keyword.cloud_notm}} SC-MZRs and MZRs, see [{{site.data.keyword.cloud_notm}} region and data center locations for resource deployment](/docs/overview?topic=overview-locations).
 
 
 ## January 2026
@@ -67,7 +76,7 @@ Updates to the basic support policy
 {: #overview-oct3125}
 {: release-notes}
 
-Chennai single-campus MZR availability
+Chennai - Airtel single-campus MZR availability
 :   A new single-campus MZR (SC-MZR) location is now available in Chennai (`in-che`). You can review the [Service and infrastructure availability by location](/docs/overview?topic=overview-services_region) page to learn about the services that are available in this new location. For more information about {{site.data.keyword.cloud_notm}} SC-MZRs and MZRs, see [{{site.data.keyword.cloud_notm}} region and data center locations for resource deployment](/docs/overview?topic=overview-locations).
 
 ### 20 October 2025

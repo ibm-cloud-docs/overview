@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2025
-lastupdated: "2026-03-02"
+lastupdated: "2026-03-09"
 
 keywords: resource deployment, location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -498,34 +498,6 @@ The following classic infrastructure resources are available in Europe. Match th
 {: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
 
 
-| Service | Milan 01 | 
-|--|--|
-| Bare Metal Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Cloud HSM |  | 
-| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Direct Link Connect on Classic |  | 
-| Direct Link Dedicated Hosting on Classic |  | 
-| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Direct Link Exchange on Classic |  | 
-| File Storage for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| FortiGate Security Appliance 10Gbps |  | 
-| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Backup for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-{: row-headers}
-{: caption="Europe infrastructure availability - Italy" caption-side="top"}
-{: #iaas-table7}
-{: tab-title="Italy"}
-{: tab-group="Europe"}
-{: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
-
-
 | Service | Paris 01 | 
 |--|--|
 | Bare Metal Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -547,7 +519,7 @@ The following classic infrastructure resources are available in Europe. Match th
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Europe infrastructure availability - France" caption-side="top"}
-{: #iaas-table8}
+{: #iaas-table7}
 {: tab-title="France"}
 {: tab-group="Europe"}
 {: class="comparison-tab-table"}
@@ -575,7 +547,7 @@ The following classic infrastructure resources are available in Europe. Match th
 | Virtual Router Appliance |  |  |  | 
 {: row-headers}
 {: caption="Europe infrastructure availability - Spain" caption-side="top"}
-{: #iaas-table9}
+{: #iaas-table8}
 {: tab-title="Spain"}
 {: tab-group="Europe"}
 {: class="comparison-tab-table"}
@@ -608,7 +580,7 @@ The following classic infrastructure resources are available in Asia and the Pac
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Asia Pacific infrastructure availability - Australia" caption-side="top"}
-{: #iaas-table10}
+{: #iaas-table9}
 {: tab-title="Australia"}
 {: tab-group="Asia Pacific"}
 {: class="comparison-tab-table"}
@@ -636,7 +608,7 @@ The following classic infrastructure resources are available in Asia and the Pac
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Asia Pacific infrastructure availability - India" caption-side="top"}
-{: #iaas-table11}
+{: #iaas-table10}
 {: tab-title="India"}
 {: tab-group="Asia Pacific"}
 {: class="comparison-tab-table"}
@@ -664,7 +636,7 @@ The following classic infrastructure resources are available in Asia and the Pac
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Asia Pacific infrastructure availability - Japan" caption-side="top"}
-{: #iaas-table12}
+{: #iaas-table11}
 {: tab-title="Japan"}
 {: tab-group="Asia Pacific"}
 {: class="comparison-tab-table"}
@@ -692,7 +664,7 @@ The following classic infrastructure resources are available in Asia and the Pac
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Asia Pacific infrastructure availability - Singapore" caption-side="top"}
-{: #iaas-table13}
+{: #iaas-table12}
 {: tab-title="Singapore"}
 {: tab-group="Asia Pacific"}
 {: class="comparison-tab-table"}

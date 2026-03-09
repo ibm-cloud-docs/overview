@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2026
-lastupdated: "2026-02-26"
+lastupdated: "2026-03-09"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -247,7 +247,6 @@ See the following table for the specific code for each data center.
 |Madrid 02 | MAD02|
 |Madrid 04 | MAD04|
 |Madrid 05 | MAD05|
-|Milan 01 | MIL01|
 |Paris 01 | PAR01|
 {: caption="Data centers in Europe" caption-side="top"}
 {: #europe}

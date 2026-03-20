@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-02-26"
+lastupdated: "2026-03-18"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -25,7 +25,7 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 
 ### 26 February 2026
 {: #overview-feb2626}
-{: release-notes}
+{: release-note}
 
 Mumbai - Airtel single-campus MZR availability
 :   A new single-campus MZR (SC-MZR) location is now available in Mumbai (`in-mum`) in [partnership with Bharti Airtel](https://newsroom.ibm.com/2025-10-15-bharti-airtel-announces-a-strategic-partnership-with-ibm-to-augment-airtel-cloud){: external}. You can review the [Service and infrastructure availability by location](/docs/overview?topic=overview-services_region) page to learn about the services that are available in this new location. For more information about {{site.data.keyword.cloud_notm}} SC-MZRs and MZRs, see [{{site.data.keyword.cloud_notm}} region and data center locations for resource deployment](/docs/overview?topic=overview-locations).
@@ -36,7 +36,7 @@ Mumbai - Airtel single-campus MZR availability
 
 ### 26 January 2026
 {: #overview-jan2626}
-{: release-notes}
+{: release-note}
 
 Report technical issues with a Basic support plan
 :   Users with a Basic support plan can now report technical issues about the {{site.data.keyword.cloud_notm}} platform or third-party products available in the {{site.data.keyword.cloud_notm}} catalog. While these technical issue reports do not include direct interaction with the support team, they enable Basic plan users to document and track platform-related technical problems. If an issue requires advanced support case handling, users can upgrade their support plan. For more information, see [Reporting a technical issue](/docs/account?topic=account-using-avatar#report-issue).
@@ -53,7 +53,7 @@ Multi-tier Cloud Security Tier 3 (MTCS) (Singapore SZR) will expire
 
 ### 12 December 2025
 {: #overview-dec1225}
-{: release-notes}
+{: release-note}
 
 Onboarding managed professional services with usage-based pricing plans
 :   IBM Business Partners can now use Partner Center to onboard managed professional services for clients to discover and use. After the services are onboarded, you can approve requests from clients to use the service and add billing entries, while clients can optionally request engagement closure and clean up resources. This streamlined lifecycle helps ensure reduced operational burden for businesses. For more information, see [Getting set up to sell managed professional services](/docs/sell?topic=sell-mps-getting-started).
@@ -65,7 +65,7 @@ Creating enterprise role templates
 {: #december-01-2025}
 
 Updates to the basic support policy
-:   {{site.data.keyword.cloud_notm}} is updating the Basic Support policy starting 5 January 2026. These changes emphasize self-service and AI-driven support, reducing reliance on manual case handling for technical issues. Starting on that date, users with a basic support plan will no longer be able to open technical support cases through either the portal or API. Basic support will also no longer support the ability to initiate or escalate managed escalations through the portal or internal channels. 
+:   {{site.data.keyword.cloud_notm}} is updating the Basic Support policy starting 5 January 2026. These changes emphasize self-service and AI-driven support, reducing reliance on manual case handling for technical issues. Starting on that date, users with a basic support plan will no longer be able to open technical support cases through either the portal or API. Basic support will also no longer support the ability to initiate or escalate managed escalations through the portal or internal channels.
 
    Users will still be able to self-report hard ware issues, submit account or billing requests - including quota increases - via the portal, respond to IBM-initiated support cases, and access the following self-service tools: {{site.data.keyword.cloud_notm}} AI assistant, {{site.data.keyword.cloud_notm}} docs, Community forums, and status pages. If your organization needs more advanced technical support, faster response times, or severity-level control, we recommend upgrading to a paid support plan. Learn more from your IBM Sales representative or open an account upgrade case in the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter).
 
@@ -74,14 +74,14 @@ Updates to the basic support policy
 
 ### 31 October 2025
 {: #overview-oct3125}
-{: release-notes}
+{: release-note}
 
 Chennai - Airtel single-campus MZR availability
 :   A new single-campus MZR (SC-MZR) location is now available in Chennai (`in-che`). You can review the [Service and infrastructure availability by location](/docs/overview?topic=overview-services_region) page to learn about the services that are available in this new location. For more information about {{site.data.keyword.cloud_notm}} SC-MZRs and MZRs, see [{{site.data.keyword.cloud_notm}} region and data center locations for resource deployment](/docs/overview?topic=overview-locations).
 
 ### 20 October 2025
 {: #overview-oct2025}
-{: release-notes}
+{: release-note}
 
 Enhanced user access controls
 :   IAM now supports settings to give you greater control over how users are invited and viewed within your accounts. With the **Restrict user invitations** option, you can now limit invitations to specific, approved email domains, which can ensure only trusted users gain access. The **Restrict user list visibility** option allows you to define which users can see each other, improving privacy and maintaining clearer boundaries across sub accounts. For more information, see [Restricting domains for account invitations](/docs/enterprise-management?topic=enterprise-management-settings-template-create&interface=ui#restrict-user-invitation) and [Restricting user visibility](/docs/enterprise-management?topic=enterprise-management-settings-template-create&interface=ui#restrict-user-visibility).
@@ -91,7 +91,7 @@ Enhanced user access controls
 
 ### 22 September 2025
 {: #overview-september2225}
-{: release-notes}
+{: release-note}
 
 Carbon insights at the data center-level
 :   Tracking carbon emissions at the data center-level helps you measure, analyze, and report the environment impact of your workloads with accuracy. By breaking down emissions at both the data center and regional levels, users gain deeper insights into where and how their workloads use energy. It enables more informed deployment decisions, better sustainability reporting, and improved alignment with global compliance standards. For more information, see [{{site.data.keyword.cloud_notm}} carbon calculator methodology](/docs/account?topic=account-what-is-cloud-calc&interface=ui#carbon-methodology).

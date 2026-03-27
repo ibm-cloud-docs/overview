@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-03-18"
+lastupdated: "2026-03-27"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,24 @@ content-type: release-note
 
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
+
+
+## March 2026
+{: #march-2026}
+
+### 27 March 2026
+{: #overview-mar2726}
+{: release-notes}
+
+Creating integrated policy assignments with custom role templates
+:   You can now create custom roles directly within the policy assignment workflow when you're creating policy templates, trusted profile templates, and access group templates. You can define precise permissions that are tailored to your organization’s needs without leaving the template creation workflow. The custom role is automatically added to your template and can be used alongside existing platform and service roles. For more information, see [Creating enterprise-managed policy templates](/docs/enterprise-management?topic=enterprise-management-policy-template-create&interface=ui#create-standalone-policytemplate-ui), [Creating enterprise-managed trusted profile templates](/docs/enterprise-management?topic=enterprise-management-tp-template-create&interface=ui#add-access-tp-template), and [Creating enterprise-managed access group templates](/docs/enterprise-management?topic=enterprise-management-ag-template-create&interface=ui#add-access-ag-template).
+
+Customizing the console experience for trusted profiles
+:   As a trusted profile administrator, you can now customize the {{site.data.keyword.cloud_notm}} console navigation experience for users who apply a trusted profile. This feature streamlines the user experience by hiding unnecessary navigation elements and restricting access to areas where users don't have the required permissions. For more information, see [Customizing the console experience](/docs/account?topic=account-create-trusted-profile&interface=ui&q=You+can+integrate+with+your+external+identity+provider+%28IdP%29+to+securely+authenticate+external+users+to+your&tags=account#customize-console-experience).
+
+Share SAML IdP across {{site.data.keyword.cloud_notm}} accounts
+:   You can now share your {{site.data.keyword.cloud_notm}} SAML identity provider (IdP) configurations with other accounts in your organization or enterprise. This feature simplifies IdP management by reusing a single configuration across multiple accounts. For more information, see [Sharing SAML Sharing {{site.data.keyword.cloud_notm}} SAML IdP configuration](/docs/account?topic=account-ibm-idp-integration#share-saml).
 
 ## February 2026
 {: #february-2026}

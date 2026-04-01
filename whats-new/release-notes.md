@@ -44,7 +44,7 @@ Customizing the console experience for trusted profiles
 :   As a trusted profile administrator, you can now customize the {{site.data.keyword.cloud_notm}} console navigation experience for users who apply a trusted profile. This feature streamlines the user experience by hiding unnecessary navigation elements and restricting access to areas where users don't have the required permissions. For more information, see [Customizing the console experience](/docs/account?topic=account-create-trusted-profile&interface=ui&q=You+can+integrate+with+your+external+identity+provider+%28IdP%29+to+securely+authenticate+external+users+to+your&tags=account#customize-console-experience).
 
 Share SAML IdP across {{site.data.keyword.cloud_notm}} accounts
-:   You can now share your {{site.data.keyword.cloud_notm}} SAML identity provider (IdP) configurations with other accounts in your organization or enterprise. This feature simplifies IdP management by reusing a single configuration across multiple accounts. For more information, see [Sharing SAML Sharing {{site.data.keyword.cloud_notm}} SAML IdP configuration](/docs/account?topic=account-ibm-idp-integration#share-saml).
+:   You can now share your {{site.data.keyword.cloud_notm}} SAML identity provider (IdP) configurations with other accounts in your organization or enterprise. This feature simplifies IdP management by reusing a single configuration across multiple accounts. For more information, see [Sharing an {{site.data.keyword.cloud_notm}} SAML IdP configuration](/docs/account?topic=account-ibm-idp-integration#share-saml).
 
 ## February 2026
 {: #february-2026}

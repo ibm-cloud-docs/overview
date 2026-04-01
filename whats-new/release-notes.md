@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-03-27"
+lastupdated: "2026-04-01"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -20,7 +20,15 @@ content-type: release-note
 Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
+## April 2026
+{: #april-2026}
 
+### 01 April 2026
+{: #overview-apr0126}
+{: release-notes}
+
+Creating new identity provider integrations by using {{site.data.keyword.cloud_notm}} SAML
+:   {{site.data.keyword.appid_full_notm}} can no longer be used to create new identity provider (IdP) configurations. The {{site.data.keyword.cloud_notm}} SAML service provider is now the recommended method for new IdP integrations. However, existing users can continue to manage any existing {{site.data.keyword.appid_full_notm}} IdPs without interruption. For more information, see [What is the most suitable federation option for you?](/docs/account?topic=account-federation-option-for-you).
 
 ## March 2026
 {: #march-2026}
@@ -36,7 +44,7 @@ Customizing the console experience for trusted profiles
 :   As a trusted profile administrator, you can now customize the {{site.data.keyword.cloud_notm}} console navigation experience for users who apply a trusted profile. This feature streamlines the user experience by hiding unnecessary navigation elements and restricting access to areas where users don't have the required permissions. For more information, see [Customizing the console experience](/docs/account?topic=account-create-trusted-profile&interface=ui&q=You+can+integrate+with+your+external+identity+provider+%28IdP%29+to+securely+authenticate+external+users+to+your&tags=account#customize-console-experience).
 
 Share SAML IdP across {{site.data.keyword.cloud_notm}} accounts
-:   You can now share your {{site.data.keyword.cloud_notm}} SAML identity provider (IdP) configurations with other accounts in your organization or enterprise. This feature simplifies IdP management by reusing a single configuration across multiple accounts. For more information, see [Sharing SAML Sharing {{site.data.keyword.cloud_notm}} SAML IdP configuration](/docs/account?topic=account-ibm-idp-integration#share-saml).
+:   You can now share your {{site.data.keyword.cloud_notm}} SAML identity provider (IdP) configurations with other accounts in your organization or enterprise. This feature simplifies IdP management by reusing a single configuration across multiple accounts. For more information, see [Sharing an {{site.data.keyword.cloud_notm}} SAML IdP configuration](/docs/account?topic=account-ibm-idp-integration#share-saml).
 
 ## February 2026
 {: #february-2026}

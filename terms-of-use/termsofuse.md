@@ -4,10 +4,10 @@
 
 copyright:
 
-  years: 2015, 2025
-lastupdated: "2025-10-24"
+  years: 2015, 2026
+lastupdated: "2026-04-13"
 
-keywords: terms of use, IBM Cloud, CSA, Cloud Service Agreement, data egress charges, EU data act
+keywords: terms of use, IBM Cloud, CSA, Cloud Service Agreement, data egress charges, EU data act, French SREN law, France data portability
 
 subcollection: overview
 
@@ -52,9 +52,14 @@ If you or your company is a covered entity as defined by the US Health Insurance
 ## EU Data Act
 {: #eu-data-act}
 
-If you are a client based in the European Union and are planning to migrate your data out of {{site.data.keyword.cloud_notm}}, you are entitled to reduced data egress charges under the terms of the EU Data Act (Regulation (EU) 2023/2854). 
+If you are a client based in the European Union and are planning to migrate your data out of {{site.data.keyword.cloud_notm}}, you are entitled to reduced data egress charges under the terms of the EU Data Act (Regulation (EU) 2023/2854).
 
 The EU Data Act Terms - section Switching Data Processing Services available at [https://www.ibm.com/support/customer/csol/terms/#search-result](https://www.ibm.com/support/customer/csol/terms/#search-result){: external} apply to your {{site.data.keyword.cloud_notm}} services. Please contact your {{site.data.keyword.IBM_notm}} or {{site.data.keyword.IBM_notm}} Business Partner representative, or create a new case in the {{site.data.keyword.cloud_notm}} support center for more information and assistance.
+
+## French SREN Law
+{: #french-sren-law}
+
+If you are a client based in France and are planning to migrate your data out of {{site.data.keyword.cloud_notm}}, you are not charged data egress charges under the terms of the French SREN law, which went into effect in January 2026. To request the waiver of data egress charges, contact your {{site.data.keyword.IBM_notm}} Business Partner representative, or create a new case in the {{site.data.keyword.cloud_notm}} support center.
 
 ## Abuse reporting and legal contact information
 {: #legal-contact-info}

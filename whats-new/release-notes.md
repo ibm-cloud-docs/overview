@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-04-27"
+lastupdated: "2026-04-29"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -23,6 +23,12 @@ Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest 
 ## April 2026
 {: #april-2026}
 
+### 28 April 2026
+{: #overview-apr2426}
+{: release-notes}
+
+Change payment method to a credit card
+:   You can now change your existing account payment method from purchase order (PO) or firm offer letter (FOL) to credit card directly in the {{site.data.keyword.cloud_notm}} console. This update streamlines payment management by allowing you to add, update, and manage all credit cards in one place without visiting Invoices Online. You can also enable autopay and manage payment methods directly in the console. When you convert your account to credit card, the payment method on your support and service level commitments is also updated. This feature applies only to existing customer accounts that are changing their payment method. 
 
 
 ### 01 April 2026

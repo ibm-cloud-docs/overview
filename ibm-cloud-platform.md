@@ -3,9 +3,9 @@
 
 copyright:
   years: 2016, 2026
-lastupdated: "2026-01-30"
+lastupdated: "2026-05-14"
 
-keywords: console, platform overview, overview, catalog, IBM Cloud catalog
+keywords: ibm cloud platform, paas, iaas, hybrid cloud, multicloud, console, platform overview, overview, catalog, IBM Cloud catalog
 
 subcollection: overview
 
@@ -13,11 +13,13 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# What is the {{site.data.keyword.Bluemix_notm}} platform?
+# IBM Cloud platform overview and capabilities
 {: #whatis-platform}
 
-The {{site.data.keyword.cloud}} platform combines platform as a service (PaaS) with infrastructure as a service (IaaS) to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on {{site.data.keyword.cloud}} spins up fast and performs reliably in a tested and supported environment you can trust!
+Explore the IBM Cloud platform combining PaaS and IaaS, including hybrid cloud, multicloud, VPC, and deployment options across global data centers.
 {: shortdesc}
+
+The {{site.data.keyword.cloud}} platform combines platform as a service (PaaS) with infrastructure as a service (IaaS) to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on {{site.data.keyword.cloud}} spins up fast and performs reliably in a tested and supported environment you can trust!
 
 {{site.data.keyword.cloud_notm}} provides solutions that enable higher levels of compliance, security, and management, with proven architecture patterns and methods for rapid delivery for running mission-critical workloads. Available in data centers worldwide, with multizone regions in North and South America, Europe, Asia, and Australia, you are enabled to deploy locally with global scalability.
 
@@ -355,7 +357,7 @@ Usage reports return the summary for the account for the specified month. Accoun
 The {{site.data.keyword.sysdigsecure_full_notm}} offers a single location where you can validate that your resources are meeting continuous security and compliance.
 
 You can create policies and controls to ensure that specific areas of your business adhere to your defined requirements or industry regulations. From the {{site.data.keyword.sysdigsecure_full_notm}} dashboard, you can download detailed reports that you can use to provide evidence to stakeholders or external auditors. The {{site.data.keyword.sysdigsecure_full_notm}} also offers security insights that you can use to detect potential threats when observing your account activity. For more information, see [Getting started with {{site.data.keyword.sysdigsecure_full_notm}}](/docs/workload-protection?topic=workload-protection-getting-started).
- 
+
 ## Creating resources
 {: #provisioning-layer}
 

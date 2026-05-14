@@ -4,7 +4,7 @@ copyright:
   years: 2014, 2022
 lastupdated: "2026-05-14"
 
-keywords: ibm cloud languages, multilingual support, language translation, console languages, translation, national language support
+keywords: translation, national language support
 
 subcollection: overview
 
@@ -12,13 +12,11 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud national language support and translations
+# National language support for {{site.data.keyword.cloud_notm}}
 {: #language-support}
 
-Learn about IBM Cloud's national language support, including available languages, machine translation, console language settings, and AI assistant multilingual support.
-{: shortdesc}
-
 {{site.data.keyword.cloud}} products and services support nine national languages other than English. However, depending on the release level of the products included in {{site.data.keyword.cloud_notm}}, the content that is provided might not be translated.
+{: shortdesc}
 
 The {{site.data.keyword.cloud_notm}} console and the Support Center display content according to your browser's language setting. You can switch languages for the console user interface and Support Center by going to your browser's settings page and changing the language.
 

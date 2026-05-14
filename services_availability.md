@@ -5,7 +5,7 @@ copyright:
   years: 2015, 2025
 lastupdated: "2025-05-15"
 
-keywords: extended support, product lifecycle, service availability, end of support dates, lifecycle, end of support, service availability, deprecation, product availability, product release level, extended support, terms
+keywords: lifecycle, end of support, service availability, deprecation, product availability, product release level, extended support, terms
 
 subcollection: overview
 
@@ -13,11 +13,8 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud extended support and product release levels
+# Extended support and product release levels
 {: #services_availability}
-
-Review IBM Cloud extended support commitments, product release levels, service availability, and end-of-support dates for key products and services.
-{: shortdesc}
 
 {{site.data.keyword.cloud}} is committed to support a set of key products for extended periods. Depending on a product's release level, various levels of [support](/docs/account?topic=account-using-avatar), committed warranties, or service level agreements (SLAs) are available.
 

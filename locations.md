@@ -4,7 +4,7 @@ copyright:
   years: 2019, 2026
 lastupdated: "2026-05-14"
 
-keywords: ibm cloud regions, mzr locations, data center locations, availability zones, data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
+keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
 subcollection: overview
 
@@ -12,13 +12,11 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud regions and data center locations
+# {{site.data.keyword.cloud_notm}} region and data center locations for resource deployment
 {: #locations}
 
-Explore IBM Cloud regions, multizone regions (MZRs), single-campus MZRs, and data center locations for deploying workloads with high availability.
-{: shortdesc}
-
 {{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. Resources in different locations are consolidated into an account-based billing and usage view. You can also deploy your workloads to the location that is nearest to your customers to achieve low latency connectivity. {{site.data.keyword.cloud_notm}} provides [multizone regions (MZR)](#x9774820){: term}, [single-campus multizone regions (SC-MZR)](#x10127487){: term}, and classic [data centers](#x2439906){: term} for classic infrastructure resources.
+{: shortdesc}
 
 ![Global map showing MZR and data center locations](images/Global-View-2026.svg "MZR and data center locations"){: caption="MZR and data center locations map" caption-side="bottom"}
 

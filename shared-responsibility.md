@@ -6,7 +6,7 @@ copyright:
 
 lastupdated: "2026-05-14"
 
-keywords: shared responsibilities, ibm responsibilities, customer responsibilities, cloud security model, roles and responsibilities, shared responsibilities, IBM responsibility, customer responsibility
+keywords: roles and responsibilities, shared responsibilities, IBM responsibility, customer responsibility
 
 subcollection: overview
 
@@ -14,11 +14,8 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Shared responsibilities for IBM Cloud products
+# Shared responsibilities for using {{site.data.keyword.cloud_notm}} products
 {: #shared-responsibilities}
-
-Understand shared responsibilities between IBM and customers for managing IBM Cloud products, including operations, security, compliance, and disaster recovery.
-{: shortdesc}
 
 In {{site.data.keyword.cloud}}, as is the case for other cloud service providers, the responsibilities for managing the lifecycle of, operating, and securing products are shared between {{site.data.keyword.IBM}} and the customer.
 

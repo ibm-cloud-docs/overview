@@ -5,7 +5,7 @@ copyright:
   years: 2018, 2026
 lastupdated: "2026-05-14"
 
-keywords: ibm cloud feedback, documentation feedback, submit feedback, pull request, feedback button, comments, requirements, product improvements, submit feedback, documentation, console, feedback
+keywords: feedback button, comments, requirements, product improvements, submit feedback, documentation, console, feedback
 
 subcollection: overview
 
@@ -13,13 +13,11 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Submitting feedback for IBM Cloud documentation
+# Submitting feedback
 {: #feedback}
 
-Learn how to submit feedback for IBM Cloud documentation and console, including pull requests, content updates, and suggestions for product improvements.
-{: shortdesc}
-
 We want to hear from you! You can submit feedback for the {{site.data.keyword.cloud_notm}} team on the documentation or the console. You can choose from a few different methods to provide feedback.
+{: shortdesc}
 
 ## Providing a content update with a pull request
 {: #feedback-pr}
@@ -38,7 +36,7 @@ Complete the following process to submit a pull request to the content team:
 ## Opening an issue for the documentation
 {: #feedback-docissue}
 
-You can open an issue for the content team to address from any documentation page. Within your issue, provide the details about the improvement that you'd like to see. For example, you might report that the steps in the documentation don't match the UI or a link is broken.
+You can open an issue for the content team to address from any documentation page. Within your issue, provide the details about the improvement that you'd like to see. For example, you might report that the steps in the documentation don't match the UI or a link is broken. 
 
 To open an issue from a documentation page, complete the following steps:
 

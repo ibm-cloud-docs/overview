@@ -12,10 +12,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud national language support and translations
+# IBM Cloud language support: national languages and translations
 {: #language-support}
 
-Learn about IBM Cloud's national language support, including available languages, machine translation, console language settings, and AI assistant multilingual support.
+Discover IBM Cloud's national language support, including available languages, machine translation, and console language settings for a seamless experience.
 {: shortdesc}
 
 {{site.data.keyword.cloud}} products and services support nine national languages other than English. However, depending on the release level of the products included in {{site.data.keyword.cloud_notm}}, the content that is provided might not be translated.

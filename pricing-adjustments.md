@@ -15,10 +15,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud price changes and adjustments
+# IBM Cloud pricing updates and adjustments
 {: #price-adjustments}
 
-Review IBM Cloud price changes and adjustments for services, including effective dates, pricing updates, and details on Microsoft Operating System licenses.
+Review the latest IBM Cloud price changes and adjustments for services, including effective dates and pricing updates for microsoft operating system licenses and infrastructure services.
 {: shortdesc}
 
 ## April 2025 price changes

@@ -12,10 +12,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Getting help from the IBM Cloud AI assistant
+# Using the IBM Cloud AI assistant for help and support
 {: #ask-ai-assistant}
 
-Learn how to use the IBM Cloud AI assistant powered by watsonx to get help with IBM Cloud documentation, services, and building solutions.
+Learn how to get assistance with IBM Cloud documentation and services using the AI assistant powered by Watsonx, available in multiple languages.
 {: shortdesc}
 
 The {{site.data.keyword.cloud}} AI assistant, which is powered by {{site.data.keyword.IBM}} watsonx, is designed to help you learn about working in {{site.data.keyword.cloud_notm}} and building solutions with the available catalog of offerings.

@@ -13,10 +13,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Running secure enterprise workloads on IBM Cloud
+# Securely running enterprise workloads on IBM Cloud with compliance
 {: #secure-enterprise}
 
-Learn how to run secure, compliant enterprise workloads on IBM Cloud using deployable architectures, projects, and automated security checks for regulated industries.
+Learn how to securely run compliant enterprise workloads on IBM Cloud using deployable architectures and automated security checks for regulated industries like finance and healthcare.
 {: shortdesc}
 
 With continuous compliance at the core of {{site.data.keyword.cloud}}'s platform, your team has all of the tools at your disposal to securely develop, deploy, and manage your regulated, mission-critical enterprise workloads in the cloud.

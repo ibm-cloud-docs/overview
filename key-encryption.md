@@ -12,10 +12,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Encrypting data in IBM Cloud with your own keys
+# Encrypting IBM Cloud data with your own keys
 {: #key-encryption}
 
-Learn how to secure IBM Cloud data at REST and in transit using BYOK and KYOK encryption options for enhanced security and control.
+Learn how to encrypt IBM Cloud data at rest and in transit using your own encryption keys with BYOK and KYOK options for enhanced data security and control.
 {: shortdesc}
 
 {{site.data.keyword.cloud}} encrypts all data in transit and at rest. Additionally, you can configure {{site.data.keyword.cloud_notm}} services to encrypt your data at rest with your own keys, and then monitor the events around the lifecycle of the encryption keys with {{site.data.keyword.cloudaccesstraillong}}.

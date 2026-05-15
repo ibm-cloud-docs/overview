@@ -13,10 +13,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud service and infrastructure availability across regions and data centers
+# IBM Cloud service and infrastructure availability by location
 {: #services_region}
 
-Discover IBM Cloud service and infrastructure availability across multizone regions, single-campus mzrs, and data centers to optimize workload deployment near your customers.
+View IBM Cloud service and infrastructure availability across multizone regions, single-campus MZRs, and data centers to deploy workloads near your customers.
 {: shortdesc}
 
 {{site.data.keyword.Bluemix}} makes it easier for you to implement, host, and scale services, infrastructure, and apps so you can focus on your application logic and application design. {{site.data.keyword.cloud_notm}}'s global network of locations provides three tiers of regions: [multizone regions](#x9774820){: term} (MZR),[single-campus multizone regions](#x10127487){: term}, and [data centers](#x2439906){: term}. To achieve low application latency, deploy your apps in a region near your customers. For details about the available {{site.data.keyword.cloud_notm}} regions and data centers for specific products, review the following sections.

@@ -12,10 +12,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud compliance: security standards and certifications
+# IBM Cloud compliance and security standards
 {: #compliance}
 
-Learn about IBM Cloud's compliance with major security standards like GDPR, HIPAA, and ISO. Get compliance reports and certifications for a secure cloud platform.
+Learn about IBM Cloud compliance with GDPR, HIPAA, ISO, PCI, SOC2, and other security standards, including compliance reports and certifications.
 {: shortdesc}
 
 {{site.data.keyword.cloud}} provides a secure cloud platform that you can trust. {{site.data.keyword.cloud_notm}} compliance results from a platform and services that are built on best-in-industry security standards, including GDPR, HIPAA, ISO 9001, ISO 27001, ISO 27017, ISO 27018, PCI, SOC2, and others. For more information, see [Compliance on the {{site.data.keyword.cloud_notm}}](https://www.ibm.com/products/cloud/compliance){: external}

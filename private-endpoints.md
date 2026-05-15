@@ -12,10 +12,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Connecting to IBM Cloud services privately using virtual private endpoints
+# Privately connecting to IBM Cloud services
 {: #endpoints-support}
 
-Learn how to securely connect to IBM Cloud services using virtual private endpoints (VPE) for VPC and service endpoints for isolated connectivity and enhanced security.
+Learn how to privately connect to IBM Cloud services using Virtual Private Endpoints (VPE) for VPC and service endpoints for secure, isolated connectivity.
 {: shortdesc}
 
 An increased focus on security is required by customers that use cloud-based services for production workloads. For many customers, accessing services in a secure manner is not only a sensible corporate policy, but in some cases required by compliance regulations. {{site.data.keyword.IBM}} has enhanced the connectivity options for customers who require isolated connectivity options for their workloads by providing the options of virtual private endpoints (VPE) for Virtual Private Cloud (VPC) and {{site.data.keyword.cloud}} service endpoints.

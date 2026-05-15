@@ -14,10 +14,10 @@ content-type: release-note
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud platform updates: latest release notes
+# Release notes for the {{site.data.keyword.cloud_notm}} platform
 {: #whatsnew}
 
-Stay up-to-date with the latest IBM Cloud platform updates, new features, and release notes to maximize your cloud experience.
+Stay up to date with what's new in {{site.data.keyword.Bluemix}} and the latest feature releases that are available on the platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
 ## April 2026
@@ -28,7 +28,7 @@ Stay up-to-date with the latest IBM Cloud platform updates, new features, and re
 {: release-notes}
 
 Change payment method to a credit card
-:   You can now change your existing account payment method from purchase order (PO) or firm offer letter (FOL) to credit card directly in the {{site.data.keyword.cloud_notm}} console. This update streamlines payment management by allowing you to add, update, and manage all credit cards in one place without visiting Invoices Online. You can also enable autopay and manage payment methods directly in the console. When you convert your account to credit card, the payment method on your support and service level commitments is also updated. This feature applies only to existing customer accounts that are changing their payment method.
+:   You can now change your existing account payment method from purchase order (PO) or firm offer letter (FOL) to credit card directly in the {{site.data.keyword.cloud_notm}} console. This update streamlines payment management by allowing you to add, update, and manage all credit cards in one place without visiting Invoices Online. You can also enable autopay and manage payment methods directly in the console. When you convert your account to credit card, the payment method on your support and service level commitments is also updated. This feature applies only to existing customer accounts that are changing their payment method. 
 
 
 ### 01 April 2026

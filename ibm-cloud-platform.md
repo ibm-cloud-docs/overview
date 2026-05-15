@@ -13,10 +13,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud platform: hybrid, multicloud, and VPC capabilities
+# IBM Cloud platform overview and capabilities
 {: #whatis-platform}
 
-Discover IBM Cloud's integrated paas and iaas platform, featuring hybrid cloud, multicloud, VPC, and global data center deployment options for scalable and secure business solutions.
+Explore the IBM Cloud platform combining PaaS and IaaS, including hybrid cloud, multicloud, VPC, and deployment options across global data centers.
 {: shortdesc}
 
 The {{site.data.keyword.cloud}} platform combines platform as a service (PaaS) with infrastructure as a service (IaaS) to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on {{site.data.keyword.cloud}} spins up fast and performs reliably in a tested and supported environment you can trust!

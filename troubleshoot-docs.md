@@ -16,11 +16,11 @@ content-type: troubleshoot
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Troubleshooting IBM Cloud docs page not displaying
+# Why isn't an {{site.data.keyword.cloud_notm}} docs page available?
 {: #troubleshoot-docs}
 {: troubleshoot}
 
-Resolve issues with IBM Cloud docs pages not displaying by searching for the content or submitting feedback to the docs team
+If you go to an {{site.data.keyword.cloud}} docs page and the content doesn't display, try searching for the content instead to get you to the correct place.
 {: shortdesc}
 
 You click a docs link, select a docs search result, or follow an existing bookmark to the {{site.data.keyword.cloud_notm}} docs, and the following error is displayed.

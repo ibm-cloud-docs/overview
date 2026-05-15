@@ -16,11 +16,11 @@ content-type: troubleshoot
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Troubleshooting access to IBM Cloud documentation
+# Why can't I access some IBM Cloud docs?
 {: #troubleshoot-allowlist}
 {: troubleshoot}
 
-Learn how to resolve issues accessing IBM Cloud documentation that's restricted to allowlisted accounts and verify your account access.
+Some documentation in {{site.data.keyword.cloud}} has limited visibility, where access is controlled by an allowlist. Only accounts that are given access to these docs can view them.
 {: shortdesc}
 
 You try to view documentation in {{site.data.keyword.cloud_notm}}, but the content doesn't load and the following error is displayed.

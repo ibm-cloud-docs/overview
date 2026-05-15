@@ -12,13 +12,11 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Navigating the IBM Cloud console interface
+# Navigating the {{site.data.keyword.cloud_notm}} console
 {: #ui}
 
-Learn how to manage your IBM Cloud resources using the IBM Cloud console, including accessing documentation, catalog, pricing, and support.
-{: shortdesc}
-
 The [{{site.data.keyword.cloud}} console](https://cloud.ibm.com){: external} is the user interface that you use to manage all your {{site.data.keyword.cloud_notm}} resources. You can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. After you log in, the menu bar contains a **Navigation Menu** icon ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu") and more links.
+{: shortdesc}
 
 
 
@@ -30,10 +28,10 @@ When you log in to {{site.data.keyword.cloud_notm}}, your dashboard is displayed
 Use the following options to navigate to general areas of the console:
 
 Browse available products
-:   Use the **Catalog** link to explore over 350 products that offer options for compute, networking, security management, end-to-end developer solutions, and more. Use the tabs to filter the catalog to quickly access [deployable architectures](#x10293733){: term}, {{site.data.keyword.IBM_notm}} products, Cloud essentials, and more.
+:   Use the **Catalog** link to explore over 350 products that offer options for compute, networking, security management, end-to-end developer solutions, and more. Use the tabs to filter the catalog to quickly access [deployable architectures](#x10293733){: term}, {{site.data.keyword.IBM_notm}} products, Cloud essentials, and more. 
 
 Find help when you need it
-:   Click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Docs** to access the product documentation.
+:   Click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Docs** to access the product documentation. 
 
 Get support when something's not working as expected
 :   Click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center** to go to the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: external} page.
@@ -57,17 +55,17 @@ In addition to the console, [command-line interfaces (CLIs)](/docs/cli?topic=cli
 
 
 
-## Can't find what you're looking for?
+## Can't find what you're looking for? 
 {: #navoptions}
 
-The {{site.data.keyword.cloud_notm}} platform recently consolidated services and features to provide you with a more simplified and customized experience. Services and areas of the console are now unified into the following hubs: Infrastructure, Containers, Automation, Databases, Observability, and Security. The goal of these changes is to bundle together related services to make it easier to find, deploy, and use them. Use our mapping and guidance to see what's changed in the {{site.data.keyword.cloud_notm}} catalog and console navigation to find what you're looking for.
+The {{site.data.keyword.cloud_notm}} platform recently consolidated services and features to provide you with a more simplified and customized experience. Services and areas of the console are now unified into the following hubs: Infrastructure, Containers, Automation, Databases, Observability, and Security. The goal of these changes is to bundle together related services to make it easier to find, deploy, and use them. Use our mapping and guidance to see what's changed in the {{site.data.keyword.cloud_notm}} catalog and console navigation to find what you're looking for. 
 
-### Streamlined and dynamic {{site.data.keyword.cloud_notm}} catalog
+### Streamlined and dynamic {{site.data.keyword.cloud_notm}} catalog 
 {: #catalog-changes-ps}
 
-In addition to the new navigation changes, we updated the discoverability and management of our catalog. The new {{site.data.keyword.cloud_notm}} catalog makes it easy to discover {{site.data.keyword.IBM_notm}} products such as managed services, preconfigured software, professional services, and even partner services. You can navigate by using the new tabs in the catalog to explore what each category consists of.
+In addition to the new navigation changes, we updated the discoverability and management of our catalog. The new {{site.data.keyword.cloud_notm}} catalog makes it easy to discover {{site.data.keyword.IBM_notm}} products such as managed services, preconfigured software, professional services, and even partner services. You can navigate by using the new tabs in the catalog to explore what each category consists of. 
 
-* Get your job done more efficiently with expertly-designed solutions. Cloud essentials is your main source for exploring related products that are tailored to specific industries in a cohesive way.
+* Get your job done more efficiently with expertly-designed solutions. Cloud essentials is your main source for exploring related products that are tailored to specific industries in a cohesive way. 
 * Use deployable architectures to understand how pre-built compositions of products work together to help solve common business problems. Deployable architectures accelerate your innovation and reduce risk across complex enterprise workloads. Industry solutions with configurations that previously took months to achieve are now available within hours.
 
 ### Simplified access to your workloads
@@ -75,7 +73,7 @@ In addition to the new navigation changes, we updated the discoverability and ma
 
 ![The image shows the navigation menu for the {{site.data.keyword.cloud_notm}} console. ](images/ps_nav.svg "Updated navigation for the {{site.data.keyword.cloud_notm}} console"){: caption="Updated navigation for the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
 
-From the **Navigation Menu** ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu"), you can access areas of {{site.data.keyword.cloud_notm}} that are focused on specific use cases and industries. Use the following options to explore the menu:
+From the **Navigation Menu** ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu"), you can access areas of {{site.data.keyword.cloud_notm}} that are focused on specific use cases and industries. Use the following options to explore the menu: 
 
 Containers
 :   The previous **Kubernetes**, **OpenShift**, **Code Engine**, and **Container Registry** menu options are now nested within **Containers**.
@@ -87,10 +85,10 @@ Infrastructure
 :   The previous **Classic Infrastructure**, **VPC Infrastructure**, **Power Virtual Server**, and **Interconnectivity** menu options are now nested within **Infrastructure**.
 
 Observability
-:   The **Observability** option still provides access to **Logging**, **Monitoring**, and **Activity tracking**.
+:   The **Observability** option still provides access to **Logging**, **Monitoring**, and **Activity tracking**. 
 
 Platform Automation
 :   The previous **DevOps** and **{{site.data.keyword.bpshort}}** options are now nested within **Platform Automation**, along with {{site.data.keyword.en_short}}.
 
 Security
-:   **Workload Protection** is now integrated with {{site.data.keyword.keymanagementservicelong_notm}} and {{site.data.keyword.secrets-manager_short}} and can be accessed from the **Security** menu option.
+:   **Workload Protection** is now integrated with {{site.data.keyword.keymanagementservicelong_notm}} and {{site.data.keyword.secrets-manager_short}} and can be accessed from the **Security** menu option. 

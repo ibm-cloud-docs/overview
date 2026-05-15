@@ -14,10 +14,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Understanding shared responsibilities for IBM Cloud products and services
+# Shared responsibilities for IBM Cloud products
 {: #shared-responsibilities}
 
-Learn about the shared responsibilities between IBM and customers for managing IBM Cloud products, including operations, security, compliance, and disaster recovery tasks.
+Understand shared responsibilities between IBM and customers for managing IBM Cloud products, including operations, security, compliance, and disaster recovery.
 {: shortdesc}
 
 In {{site.data.keyword.cloud}}, as is the case for other cloud service providers, the responsibilities for managing the lifecycle of, operating, and securing products are shared between {{site.data.keyword.IBM}} and the customer.

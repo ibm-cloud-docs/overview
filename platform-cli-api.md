@@ -13,10 +13,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Accessing IBM Cloud services through apis, clis, sdks, and Terraform
+# IBM Cloud service availability in console, APIs, SDKs, CLIs, and Terraform
 {: #platform-svc-cli-api}
 
-Discover how to access IBM Cloud services through the console, apis, sdks, clis, and Terraform with support for multiple programming languages
+Access IBM Cloud services through the console, APIs, SDKs, CLIs, and Terraform with support for Java, Node, Python, and Go programming languages.
 {: shortdesc}
 
 {{site.data.keyword.cloud}} is composed of multiple services that are available in various interfaces for a consistent cloud experience.

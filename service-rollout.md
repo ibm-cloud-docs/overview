@@ -13,10 +13,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud service rollout policy and availability across regions
+# IBM Cloud service rollout policy and availability
 {: #service-rollout}
 
-Understand IBM Cloud's service rollout policy for deploying core and market-driven services across multi-zone regions, single-campus mzrs, and data centers.
+Learn about IBM Cloud's service rollout policy for deploying core and market-driven services across multi-zone regions, single-campus MZRs, and data centers.
 {: shortdesc}
 
 {{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. To ensure that the cloud infrastructure and services are consistent and stable across our deployment locations, we created best practices for our service catalog management. These best practices help us to accomplish rollouts in the most efficient manner and minimize business impact, costs, and risks. The following information describes our guidelines on when to expect or how to request that a service is available in your region.

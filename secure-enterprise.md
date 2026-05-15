@@ -3,9 +3,9 @@
 
 copyright:
   years: 2023, 2026
-lastupdated: "2026-05-14"
- 
-keywords: deployable architecture, secure enterprise workloads
+lastupdated: "2026-05-15"
+
+keywords: secure enterprise workloads, deployable architecture, compliance automation, regulated industries, deployable architecture, secure enterprise workloads
 
 subcollection: overview
 
@@ -13,11 +13,13 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Running secure enterprise workloads on {{site.data.keyword.cloud_notm}}
+# Running secure enterprise workloads on IBM Cloud
 {: #secure-enterprise}
 
-With continuous compliance at the core of {{site.data.keyword.cloud}}'s platform, your team has all of the tools at your disposal to securely develop, deploy, and manage your regulated, mission-critical enterprise workloads in the cloud.
+Learn how to run secure, compliant enterprise workloads on IBM Cloud using deployable architectures, projects, and automated security checks for regulated industries.
 {: shortdesc}
+
+With continuous compliance at the core of {{site.data.keyword.cloud}}'s platform, your team has all of the tools at your disposal to securely develop, deploy, and manage your regulated, mission-critical enterprise workloads in the cloud.
 
 For highly regulated industries, such as financial services, achieving continuous compliance within a cloud environment is an important first step toward protecting customer and application data. Historically, that process has been difficult and manual, which placed your organization at risk. But, with {{site.data.keyword.cloud_notm}} you can work with predefined deployable architectures, automate infrastructure-as-code deployments with [projects](#x2035151){: term}, and integrate automatic security checks into every day workflows to minimize risk.
 
@@ -48,7 +50,7 @@ If you work in a financial institution, you might want to work with {{site.data.
 
 When your team has evaluated and chosen a deployable architecture, development engineers can use a [project](/docs/secure-enterprise?topic=secure-enterprise-understanding-projects#project-benefits) to configure it to fit your enterprise's business needs.
 
-A project is a named collection of configurations that are used to manage related resources and Infrastructure as Code (IaC) deployments across accounts. They enable your teams to focus on a shift-left approach by using DevOps best practices to configure, deploy, and monitor deployments. Each project includes tools that scan for potentially harmful resource changes, compliance, security, and cost, as well as tracking versioning and governance. They're designed with an IaC and compliance-first approach that helps to ensure that a project is managed, secure, and always compliant.  
+A project is a named collection of configurations that are used to manage related resources and Infrastructure as Code (IaC) deployments across accounts. They enable your teams to focus on a shift-left approach by using DevOps best practices to configure, deploy, and monitor deployments. Each project includes tools that scan for potentially harmful resource changes, compliance, security, and cost, as well as tracking versioning and governance. They're designed with an IaC and compliance-first approach that helps to ensure that a project is managed, secure, and always compliant.
 
 ![The diagram shows the flow that a user would take when working with projects from creating a project, editing a configuration from the catalog, validating it, approving it, deploying resources, and then getting notified of available updates](images/projects-flow.svg){: caption="Understanding the projects workflow." caption-side="bottom"}
 

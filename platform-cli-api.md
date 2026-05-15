@@ -2,10 +2,10 @@
 
 copyright:
   years: 2018, 2026
-lastupdated: "2026-05-14"
+lastupdated: "2026-05-15"
 
 
-keywords: ibm cloud apis, ibm cloud clis, ibm cloud sdks
+keywords: ibm cloud apis, sdks, cli tools, terraform, programming languages, ibm cloud apis, ibm cloud clis, ibm cloud sdks
 
 subcollection: overview
 
@@ -13,11 +13,13 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Service availability in the {{site.data.keyword.Bluemix_notm}} console, APIs, SDKs, CLIs, and Terraform
+# IBM Cloud service availability in console, APIs, SDKs, CLIs, and Terraform
 {: #platform-svc-cli-api}
 
-{{site.data.keyword.cloud}} is composed of multiple services that are available in various interfaces for a consistent cloud experience.
+Access IBM Cloud services through the console, APIs, SDKs, CLIs, and Terraform with support for Java, Node, Python, and Go programming languages.
 {: shortdesc}
+
+{{site.data.keyword.cloud}} is composed of multiple services that are available in various interfaces for a consistent cloud experience.
 
 Services that are available in the {{site.data.keyword.cloud_notm}} console are also available through APIs, SDKs, CLIs, and Terraform at their [general availability (GA)](#x2117947){: term} release. SDKs are, at a minimum, available in the Java, Node, Python, and Go programming languages.
 

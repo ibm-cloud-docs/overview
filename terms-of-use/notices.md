@@ -2,9 +2,9 @@
 
 copyright:
   years: 2015, 2026
-lastupdated: "2026-05-14"
+lastupdated: "2026-05-15"
 
-keywords: notices, IBM Cloud, creative commons, licenses
+keywords: ibm cloud notices, cloud data, ibm cloud service, notices, IBM Cloud, creative commons, licenses
 
 subcollection: overview
 
@@ -12,8 +12,11 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# {{site.data.keyword.Bluemix_notm}} Notices
+# IBM Cloud notices and license information
 {: #notices}
+
+Review IBM Cloud notices, license terms, and conditions for products and services, including information on patents, warranties, and third-party websites.
+{: shortdesc}
 
 This information was developed for products and services that are offered in the US. This material might be available from {{site.data.keyword.IBM_notm}} in other languages. However, you might be required to own a copy of the product or product version in that language to access it.
 

@@ -12,10 +12,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Understanding compliance in {{site.data.keyword.Bluemix_notm}}
+# IBM Cloud compliance and certifications
 {: #compliance}
 
-{{site.data.keyword.cloud}} provides a secure cloud platform that you can trust. {{site.data.keyword.cloud_notm}} compliance results from a platform and services that are built on best-in-industry security standards, including GDPR, HIPAA, ISO 9001, ISO 27001, ISO 27017, ISO 27018, PCI, SOC2, and others. For more information, see [Compliance on the {{site.data.keyword.cloud_notm}}](https://www.ibm.com/products/cloud/compliance){: external}
+Build on a secure, compliant cloud platform with certifications including GDPR, HIPAA, ISO 27001, PCI, and SOC2. Access compliance reports, enable HIPAA support, and configure EU data protection for regulated workloads.
 {: shortdesc}
 
 ## Compliance reports

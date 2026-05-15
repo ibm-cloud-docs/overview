@@ -13,8 +13,8 @@ subcollection: overview
 {{site.data.keyword.attribute-definition-list}}
 
 
-# Service Level Agreements (SLAs)
+# IBM Cloud Service Level Agreements
 {: #slas}
 
-{{site.data.keyword.cloud}} aims to deliver the highest levels of availability and offers a service level agreement (SLA), which provides credits against service charges should a service fail to meet its stated availability target. For more information, see [{{site.data.keyword.cloud_notm}} Service Level Agreements](https://www.ibm.com/support/customer/csol/terms/?id=i126-9268&lc=en#detail-document){: external}.
+Review IBM Cloud SLAs guaranteeing high availability for cloud services. Receive service credits if availability targets are not met. Access detailed SLA terms for infrastructure, platform, and managed services.
 {: shortdesc}

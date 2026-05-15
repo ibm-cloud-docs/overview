@@ -12,10 +12,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Getting help from the AI assistant
+# Using the IBM Cloud AI assistant
 {: #ask-ai-assistant}
 
-The {{site.data.keyword.cloud}} AI assistant, which is powered by {{site.data.keyword.IBM}} watsonx, is designed to help you learn about working in {{site.data.keyword.cloud_notm}} and building solutions with the available catalog of offerings.
+Get instant help with {{site.data.keyword.cloud_notm}} using the AI assistant powered by {{site.data.keyword.IBM_notm}} watsonx. Ask questions about services, troubleshoot issues, and chat with live support agents directly from the console or CLI.
 {: shortdesc}
 
 The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models (LLMs) using [{{site.data.keyword.IBM_notm}}'s watsonx](https://www.ibm.com/products/watsonx){: external} and the {{site.data.keyword.cloud_notm}} docs.

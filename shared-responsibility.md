@@ -14,10 +14,11 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Shared responsibilities for using {{site.data.keyword.cloud_notm}} products
+# Shared responsibilities for IBM Cloud
 {: #shared-responsibilities}
 
-In {{site.data.keyword.cloud}}, as is the case for other cloud service providers, the responsibilities for managing the lifecycle of, operating, and securing products are shared between {{site.data.keyword.IBM}} and the customer.
+Understand your responsibilities and IBM's responsibilities for managing, operating, and securing cloud products. Learn the shared responsibility model for IaaS, PaaS, managed services, software packages, and deployable architectures across incident management, security, and disaster recovery.
+{: shortdesc}
 
 The responsibility of completing the following types of tasks on various products can be exclusive to {{site.data.keyword.IBM_notm}}, the customer, or shared between the two. The tasks for each type of product are grouped in the following categories:
 

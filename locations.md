@@ -12,10 +12,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# {{site.data.keyword.cloud_notm}} region and data center locations for resource deployment
+# IBM Cloud regions and data centers
 {: #locations}
 
-{{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. Resources in different locations are consolidated into an account-based billing and usage view. You can also deploy your workloads to the location that is nearest to your customers to achieve low latency connectivity. {{site.data.keyword.cloud_notm}} provides [multizone regions (MZR)](#x9774820){: term}, [single-campus multizone regions (SC-MZR)](#x10127487){: term}, and classic [data centers](#x2439906){: term} for classic infrastructure resources.
+Deploy workloads across IBM Cloud's global network of multizone regions (MZRs), single-campus MZRs, and data centers. Choose locations nearest your customers for low latency, or distribute across regions for high availability and disaster recovery.
 {: shortdesc}
 
 ![Global map showing MZR and data center locations](images/Global-View-2026.svg "MZR and data center locations"){: caption="MZR and data center locations map" caption-side="bottom"}

@@ -13,10 +13,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud prerequisites and requirements
+# What are the {{site.data.keyword.Bluemix_notm}} prerequisites?
 {: #prereqs-platform}
 
-Review browser requirements and CLI prerequisites for using {{site.data.keyword.cloud_notm}}. Access the platform with supported browsers including Chrome, Firefox, Edge, and Safari, or use the IBM Cloud CLI for command-line operations.
+The prerequisites for using the {{site.data.keyword.Bluemix}} platform are limited, but we do have a few.
 {: shortdesc}
 
 ## Browsers

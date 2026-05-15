@@ -4,7 +4,7 @@ copyright:
   years: 2024, 2026
 lastupdated: "2026-05-15"
 
-keywords: ibm cloud ai assistant, watsonx, ai help, documentation assistant, AI assistant, AI help
+keywords: AI assistant, AI help
 
 subcollection: overview
 
@@ -12,13 +12,11 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Getting help from the IBM Cloud AI assistant
+# Getting help from the AI assistant
 {: #ask-ai-assistant}
 
-Learn how to use the IBM Cloud AI assistant powered by watsonx to get help with IBM Cloud documentation, services, and building solutions.
-{: shortdesc}
-
 The {{site.data.keyword.cloud}} AI assistant, which is powered by {{site.data.keyword.IBM}} watsonx, is designed to help you learn about working in {{site.data.keyword.cloud_notm}} and building solutions with the available catalog of offerings.
+{: shortdesc}
 
 The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models (LLMs) using [{{site.data.keyword.IBM_notm}}'s watsonx](https://www.ibm.com/products/watsonx){: external} and the {{site.data.keyword.cloud_notm}} docs.
 

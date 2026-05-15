@@ -7,7 +7,7 @@ lastupdated: "2026-05-15"
 
 published-location: https://cloud.ibm.com/docs/overview?topic=overview-price-adjustments
 
-keywords: ibm cloud pricing, price changes, service pricing, pricing adjustments
+keywords:
 
 subcollection: overview
 
@@ -15,10 +15,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud price changes and adjustments
+# {{site.data.keyword.cloud_notm}} price changes
 {: #price-adjustments}
 
-Review IBM Cloud price changes and adjustments for services, including effective dates, pricing updates, and details on Microsoft Operating System licenses.
+The following page outlines price changes for {{site.data.keyword.cloud}}.
 {: shortdesc}
 
 ## April 2025 price changes

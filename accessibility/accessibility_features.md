@@ -6,7 +6,7 @@ copyright:
   years: 2016, 2026
 lastupdated: "2026-05-15"
 
-keywords: ibm cloud accessibility, keyboard navigation, screen reader, assistive technology, quick keys, accessibility, screen reader
+keywords: quick keys, accessibility, screen reader
 
 subcollection: overview
 
@@ -14,13 +14,11 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud accessibility features and support
+# Accessibility features for {{site.data.keyword.Bluemix_notm}}
 {: #accessibility-platform}
 
-Learn about IBM Cloud accessibility features, including keyboard navigation, screen reader support, and assistive technology compatibility for users with disabilities.
-{: shortdesc}
-
 Accessibility features assist users who have a disability, such as restricted mobility or limited vision, to use information technology content successfully.
+{: shortdesc}
 
 ## Accessibility features
 {: #features-platform}

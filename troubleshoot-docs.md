@@ -4,7 +4,7 @@ copyright:
 
   years: 2020, 2024
 
-lastupdated: "2026-05-15"
+lastupdated: "2026-05-18"
 
 keywords: can't access docs, broken link, docs won't display
 
@@ -16,11 +16,11 @@ content-type: troubleshoot
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Why isn't an {{site.data.keyword.cloud_notm}} docs page available?
+# Troubleshooting IBM Cloud docs page not displaying
 {: #troubleshoot-docs}
 {: troubleshoot}
 
-If you go to an {{site.data.keyword.cloud}} docs page and the content doesn't display, try searching for the content instead to get you to the correct place.
+Resolve issues with IBM Cloud docs pages not displaying by searching for the content or submitting feedback to the docs team
 {: shortdesc}
 
 You click a docs link, select a docs search result, or follow an existing bookmark to the {{site.data.keyword.cloud_notm}} docs, and the following error is displayed.

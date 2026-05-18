@@ -2,9 +2,9 @@
 
 copyright:
   years: 2016, 2026
-lastupdated: "2026-05-15"
+lastupdated: "2026-05-18"
 
-keywords: "glossary, IBM Cloud glossary, terms, definitions"
+keywords: ibm cloud glossary, cloud terms, technical definitions, cloud computing terms, glossary, IBM Cloud glossary, terms, definitions
 
 subcollection: overview
 
@@ -13,10 +13,10 @@ subcollection: overview
 {:shortdesc: .shortdesc}
 {:external: target="_blank" .external}
 
-# Glossary terms for {{site.data.keyword.cloud_notm}}
+# IBM Cloud glossary of terms and definitions
 {: #glossary}
 
-This glossary provides terms and definitions for {{site.data.keyword.cloud}}.
+Browse the IBM Cloud glossary for definitions of cloud computing terms, services, and technical concepts used across the IBM Cloud platform.
 {: shortdesc}
 
 The following cross-references are used in this glossary:
@@ -73,7 +73,7 @@ Analyzing machine learning model scores to determine whether changes are needed 
 {: #x2012974}
 
 - A code snippet that can be explicitly invoked, or run in response to an event. See also [feed](#x3129185), [invoke](#x2057232).
-- A task that is performed in the context of a service. 
+- A task that is performed in the context of a service.
 
 ### adjudication
 {: #x3096333}
@@ -288,7 +288,7 @@ Pertaining to an open, non-proprietary development platform that includes public
 ### bucket
 {: #x2072079}
 
-A container for storing unstructured data. 
+A container for storing unstructured data.
 
 ### buildpack
 {: #x7233925}
@@ -1567,7 +1567,7 @@ A .pear archive file that includes an Unstructured Information Management Archit
 ### project
 {: #x2035151}
 
-A collection of artifacts that define and manage resources and Infrastructure as Code deployments. 
+A collection of artifacts that define and manage resources and Infrastructure as Code deployments.
 
 ### promo code
 {: #x8440874}
@@ -1666,7 +1666,7 @@ A measurement that specifies the percentage of relevant results returned, out of
 ### recovery point objective (RPO)
 {: #x3429911}
 
-In disaster recovery planning, the time at which data is restored measured in time  (seconds, minutes, hours) starting at the recovered instance and ending at the point of disaster. 
+In disaster recovery planning, the time at which data is restored measured in time  (seconds, minutes, hours) starting at the recovered instance and ending at the point of disaster.
 
 ### recovery time objective (RTO)
 {: #x3167918}
@@ -1722,7 +1722,7 @@ A software architectural style that guides the design and development of the arc
 ### resource
 {: #x2004267}
 
- A physical or logical instance that can be provisioned or reserved. Examples of resources can include storage, processors, memory, databases, clusters, and VMs. 
+ A physical or logical instance that can be provisioned or reserved. Examples of resources can include storage, processors, memory, databases, clusters, and VMs.
 
 ### resource group
 {: #x2161955}
@@ -1836,7 +1836,7 @@ A specification of the settings for a particular aspect of API security; for exa
 ### security group
 {: #x2066040}
 
-A resource that provides rules to filter IP traffic to resources in a virtual private cloud. Rules are stateful, such that packets in response to allowed packets are automatically permitted. 
+A resource that provides rules to filter IP traffic to resources in a virtual private cloud. Rules are stateful, such that packets in response to allowed packets are automatically permitted.
 
 ### select availability
 {: #x9773835}

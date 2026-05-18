@@ -5,9 +5,9 @@
 copyright:
 
   years: 2020, 2025
-lastupdated: "2026-05-15"
+lastupdated: "2026-05-18"
 
-keywords: terms of use, IBM Cloud, ip addresses, IP address policy
+keywords: ip address policy, ip ownership, bgp routing, client ip addresses, terms of use, IBM Cloud, ip addresses, IP address policy
 
 subcollection: overview
 
@@ -15,8 +15,11 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IP Address Policy
+# Understanding IBM Cloud IP address policy and ownership terms
 {: #ip_address_policy}
+
+Learn about IBM Cloud's IP address policy, including ownership terms, client-provided IP addresses, and BGP routing requirements for efficient IP utilization.
+{: shortdesc}
 
 ## 1. IP Address Ownership
 {: #ip_address_ownership}

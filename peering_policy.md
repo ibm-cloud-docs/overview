@@ -2,9 +2,9 @@
 
 copyright:
   years: 2020, 2024
-lastupdated: "2026-05-15"
+lastupdated: "2026-05-18"
 
-keywords: public peering
+keywords: ibm cloud peering, network peering, peeringdb, public peering
 
 subcollection: overview
 
@@ -12,11 +12,13 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Public peering
+# IBM Cloud public peering policy and guidelines for network connection
 {: #public-peering}
 
-Public peering is conducted across a shared network. Peering requests can be accepted when a mutually agreeable decision to peer based on operational needs exists.
+Review IBM Cloud's public peering policy, guidelines for network peering, peeringdb requirements, and operational standards for connecting with IBM Cloud securely and efficiently.
 {: shortdesc}
+
+Public peering is conducted across a shared network. Peering requests can be accepted when a mutually agreeable decision to peer based on operational needs exists.
 
 
 ## Guidelines and general information

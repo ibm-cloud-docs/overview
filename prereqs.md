@@ -3,9 +3,9 @@
 
 copyright:
   years: 2016, 2026
-lastupdated: "2026-05-15"
+lastupdated: "2026-05-18"
 
-keywords: prereqs, platform prereqs, platform prerequisites, supported browsers, browsers
+keywords: ibm cloud prerequisites, supported browsers, platform requirements, prereqs, platform prereqs, platform prerequisites, supported browsers, browsers
 
 subcollection: overview
 
@@ -13,10 +13,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# What are the {{site.data.keyword.Bluemix_notm}} prerequisites?
+# IBM Cloud prerequisites and supported browsers
 {: #prereqs-platform}
 
-The prerequisites for using the {{site.data.keyword.Bluemix}} platform are limited, but we do have a few.
+Review the prerequisites for using IBM Cloud, including supported browsers like Chrome, Firefox, Safari, Edge, and Opera for optimal platform performance.
 {: shortdesc}
 
 ## Browsers

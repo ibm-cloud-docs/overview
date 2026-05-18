@@ -11,7 +11,98 @@ subcollection: overview
 
 ---
 
-{{site.data.keyword.attribute-definition-list}}
+{:android: data-hd-operatingsystem="android"}
+{:api: .ph data-hd-interface="api"}
+{:audio: .audio}
+{:attention: .attention}
+{:authenticated-content: .authenticated-content}
+{:beta: .beta}
+{:c#: .ph data-hd-programlang="c#"}
+{:cli: .ph data-hd-interface="cli"}
+{:codeblock: .codeblock}
+{:curl: .ph data-hd-programlang="curl"}
+{:deprecated: .deprecated}
+{:dotnet-standard: .ph data-hd-programlang="dotnet-standard"}
+{:experimental: .experimental}
+{:exception: .exception}
+{:external: target="_blank" .external}
+{:fast-path: .fast-path}
+{:faq: data-hd-content-type="faq"}
+{:generic: data-hd-programlang="generic"}
+{:go: .ph data-hd-programlang="go"}
+{:help: data-hd-content-type="help"}
+{:here: .ph data-hd-vposition="here"}
+{:hide-dashboard: .hide-dashboard}
+{:hide-in-docs: .hide-in-docs}
+{:important: .important}
+{:ios: data-hd-operatingsystem="ios"}
+{:java: .ph data-hd-programlang="java"}
+{:javascript: .ph data-hd-programlang="javascript"}
+{:middle: .ph data-hd-position="middle"}
+{:node: .ph data-hd-programlang="node"}
+{:note: .note}
+{:objectc: .ph data-hd-programlang="Objective C"}
+{:php: .ph data-hd-programlang="PHP"}
+{:pre: .pre}
+{:preview: .preview}
+{:python: .ph data-hd-programlang="python"}
+{:release-note: data-hd-content-type="release-note"}
+{:remember: .remember}
+{:requirement: .requirement}
+{:restriction: .restriction}
+{:right: .ph data-hd-position="right"}
+{:row-headers: .row-headers}
+{:ruby: .ph data-hd-programlang="ruby"}
+{:screen: .screen}
+{:shortdesc: .shortdesc}
+{:step: data-tutorial-type="step"}
+{:support: data-reuse="support"}
+{:swift: .ph data-hd-programlang="swift"}
+{:tag-security: .tag data-tag-color="red"}
+{:tag-devops: .tag data-tag-color="magenta"}
+{:tag-app: .tag data-tag-color="purple"}
+{:tag-datastore: .tag data-tag-color="blue"}
+{:tag-network: .tag data-tag-color="cyan"}
+{:tag-observability: .tag data-tag-color="teal"}
+{:tag-management: .tag data-tag-color="teal"}
+{:tag-vpc: .tag data-tag-color="dark-teal"}
+{:tag-compute: .tag data-tag-color="green"}
+{:tag-ibm-cloud: .tag data-tag-color="blue"}
+{:tag-cp4d: .tag data-tag-color="magenta"}
+{:tag-iks: .tag data-tag-color="blue"}
+{:tag-roks: .tag data-tag-color="red"}
+{:tag-schematics: .tag data-tag-color="purple"}
+{:tag-classic-inf: .tag data-tag-color="warm-gray"}
+{:tag-satellite: .tag data-tag-color="magenta"}
+{:tag-linux: .tag data-tag-color="red"}
+{:tag-macos: .tag data-tag-color="cool-gray"}
+{:tag-windows: .tag data-tag-color="cyan"}
+{:tag-new: .tag data-tag-color="green"}
+{:tag-updated: .tag data-tag-color="blue"}
+{:tag-deprecated: .tag data-tag-color="red"}
+{:tag-red: .tag data-tag-color="red"}
+{:tag-magenta: .tag data-tag-color="magenta"}
+{:tag-purple: .tag data-tag-color="purple"}
+{:tag-blue: .tag data-tag-color="blue"}
+{:tag-cyan: .tag data-tag-color="cyan"}
+{:tag-teal: .tag data-tag-color="teal"}
+{:tag-dark-teal: .tag data-tag-color="dark-teal"}
+{:tag-green: .tag data-tag-color="green"}
+{:tag-cool-gray: .tag data-tag-color="cool-gray"}
+{:tag-warm-gray: .tag data-tag-color="warm-gray"}
+{:term: .term}
+{:terraform: .ph data-hd-interface="terraform"}
+{:tip: .tip}
+{:troubleshoot: data-hd-content-type="troubleshoot"}
+{:tsCauses: .tsCauses}
+{:tsResolve: .tsResolve}
+{:tsSymptoms: .tsSymptoms}
+{:tutorial: data-hd-content-type="tutorial"}
+{:ui: .ph data-hd-interface="ui"}
+{:unity: .ph data-hd-programlang="unity"}
+{:vbnet: .ph data-hd-programlang="vb.net"}
+{:video: .video}
+
 
 # IBM Cloud service and infrastructure availability across regions and data centers
 {: #services_region}
@@ -19,18 +110,18 @@ subcollection: overview
 Discover IBM Cloud service and infrastructure availability across multizone regions, single-campus mzrs, and data centers to optimize workload deployment near your customers.
 {: shortdesc}
 
-{{site.data.keyword.Bluemix}} makes it easier for you to implement, host, and scale services, infrastructure, and apps so you can focus on your application logic and application design. {{site.data.keyword.cloud_notm}}'s global network of locations provides three tiers of regions: [multizone regions](#x9774820){: term} (MZR),[single-campus multizone regions](#x10127487){: term}, and [data centers](#x2439906){: term}. To achieve low application latency, deploy your apps in a region near your customers. For details about the available {{site.data.keyword.cloud_notm}} regions and data centers for specific products, review the following sections.
+IBM Cloud&reg; makes it easier for you to implement, host, and scale services, infrastructure, and apps so you can focus on your application logic and application design. IBM Cloud's global network of locations provides three tiers of regions: [multizone regions](#x9774820){: term} (MZR),[single-campus multizone regions](#x10127487){: term}, and [data centers](#x2439906){: term}. To achieve low application latency, deploy your apps in a region near your customers. For details about the available IBM Cloud regions and data centers for specific products, review the following sections.
 
 IBM provides SDKs and APIs for all services that are general availability. Check out the reference docs in the [API & SDK reference library](/docs?tab=api-docs).
 
-Not all services and infrastructure are available for purchase in every {{site.data.keyword.Bluemix_notm}} location.
+Not all services and infrastructure are available for purchase in every IBM Cloud location.
 
 ## Services
 {: #paas-services}
 
-Some services are available to purchase in a location, but that service's data might be hosted in a different location. The following table shows the services that are provided by IBM. For the full list of resources that are available, see the [catalog](https://cloud.ibm.com/catalog){: external} in the {{site.data.keyword.Bluemix_notm}} console.
+Some services are available to purchase in a location, but that service's data might be hosted in a different location. The following table shows the services that are provided by IBM. For the full list of resources that are available, see the [catalog](https://cloud.ibm.com/catalog){: external} in the IBM Cloud console.
 
-Services that are hosted globally create resources that operate across multiple locations. For example, with {{site.data.keyword.cos_full_notm}}, you can choose to deploy data in a single data center, or even a combination of locations by selecting the endpoint where your application sends REST API requests. For more information about the global network of locations, see [Locations for resource deployment](https://cloud.ibm.com/docs/overview?topic=overview-locations).
+Services that are hosted globally create resources that operate across multiple locations. For example, with IBM Cloud Object Storage, you can choose to deploy data in a single data center, or even a combination of locations by selecting the endpoint where your application sends REST API requests. For more information about the global network of locations, see [Locations for resource deployment](https://cloud.ibm.com/docs/overview?topic=overview-locations).
 
 
 

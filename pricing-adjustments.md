@@ -13,7 +13,98 @@ subcollection: overview
 
 ---
 
-{{site.data.keyword.attribute-definition-list}}
+{:android: data-hd-operatingsystem="android"}
+{:api: .ph data-hd-interface="api"}
+{:audio: .audio}
+{:attention: .attention}
+{:authenticated-content: .authenticated-content}
+{:beta: .beta}
+{:c#: .ph data-hd-programlang="c#"}
+{:cli: .ph data-hd-interface="cli"}
+{:codeblock: .codeblock}
+{:curl: .ph data-hd-programlang="curl"}
+{:deprecated: .deprecated}
+{:dotnet-standard: .ph data-hd-programlang="dotnet-standard"}
+{:experimental: .experimental}
+{:exception: .exception}
+{:external: target="_blank" .external}
+{:fast-path: .fast-path}
+{:faq: data-hd-content-type="faq"}
+{:generic: data-hd-programlang="generic"}
+{:go: .ph data-hd-programlang="go"}
+{:help: data-hd-content-type="help"}
+{:here: .ph data-hd-vposition="here"}
+{:hide-dashboard: .hide-dashboard}
+{:hide-in-docs: .hide-in-docs}
+{:important: .important}
+{:ios: data-hd-operatingsystem="ios"}
+{:java: .ph data-hd-programlang="java"}
+{:javascript: .ph data-hd-programlang="javascript"}
+{:middle: .ph data-hd-position="middle"}
+{:node: .ph data-hd-programlang="node"}
+{:note: .note}
+{:objectc: .ph data-hd-programlang="Objective C"}
+{:php: .ph data-hd-programlang="PHP"}
+{:pre: .pre}
+{:preview: .preview}
+{:python: .ph data-hd-programlang="python"}
+{:release-note: data-hd-content-type="release-note"}
+{:remember: .remember}
+{:requirement: .requirement}
+{:restriction: .restriction}
+{:right: .ph data-hd-position="right"}
+{:row-headers: .row-headers}
+{:ruby: .ph data-hd-programlang="ruby"}
+{:screen: .screen}
+{:shortdesc: .shortdesc}
+{:step: data-tutorial-type="step"}
+{:support: data-reuse="support"}
+{:swift: .ph data-hd-programlang="swift"}
+{:tag-security: .tag data-tag-color="red"}
+{:tag-devops: .tag data-tag-color="magenta"}
+{:tag-app: .tag data-tag-color="purple"}
+{:tag-datastore: .tag data-tag-color="blue"}
+{:tag-network: .tag data-tag-color="cyan"}
+{:tag-observability: .tag data-tag-color="teal"}
+{:tag-management: .tag data-tag-color="teal"}
+{:tag-vpc: .tag data-tag-color="dark-teal"}
+{:tag-compute: .tag data-tag-color="green"}
+{:tag-ibm-cloud: .tag data-tag-color="blue"}
+{:tag-cp4d: .tag data-tag-color="magenta"}
+{:tag-iks: .tag data-tag-color="blue"}
+{:tag-roks: .tag data-tag-color="red"}
+{:tag-schematics: .tag data-tag-color="purple"}
+{:tag-classic-inf: .tag data-tag-color="warm-gray"}
+{:tag-satellite: .tag data-tag-color="magenta"}
+{:tag-linux: .tag data-tag-color="red"}
+{:tag-macos: .tag data-tag-color="cool-gray"}
+{:tag-windows: .tag data-tag-color="cyan"}
+{:tag-new: .tag data-tag-color="green"}
+{:tag-updated: .tag data-tag-color="blue"}
+{:tag-deprecated: .tag data-tag-color="red"}
+{:tag-red: .tag data-tag-color="red"}
+{:tag-magenta: .tag data-tag-color="magenta"}
+{:tag-purple: .tag data-tag-color="purple"}
+{:tag-blue: .tag data-tag-color="blue"}
+{:tag-cyan: .tag data-tag-color="cyan"}
+{:tag-teal: .tag data-tag-color="teal"}
+{:tag-dark-teal: .tag data-tag-color="dark-teal"}
+{:tag-green: .tag data-tag-color="green"}
+{:tag-cool-gray: .tag data-tag-color="cool-gray"}
+{:tag-warm-gray: .tag data-tag-color="warm-gray"}
+{:term: .term}
+{:terraform: .ph data-hd-interface="terraform"}
+{:tip: .tip}
+{:troubleshoot: data-hd-content-type="troubleshoot"}
+{:tsCauses: .tsCauses}
+{:tsResolve: .tsResolve}
+{:tsSymptoms: .tsSymptoms}
+{:tutorial: data-hd-content-type="tutorial"}
+{:ui: .ph data-hd-interface="ui"}
+{:unity: .ph data-hd-programlang="unity"}
+{:vbnet: .ph data-hd-programlang="vb.net"}
+{:video: .video}
+
 
 # IBM Cloud pricing updates and adjustments
 {: #price-adjustments}
@@ -24,7 +115,7 @@ Review the latest IBM Cloud price changes and adjustments for services, includin
 ## April 2025 price changes
 {: #apr-2025}
 
-Effective 1 April 2025, {{site.data.keyword.cloud_notm}} is making price changes for Microsoft Operating System licenses purchased through {{site.data.keyword.cloud_notm}}.
+Effective 1 April 2025, IBM Cloud is making price changes for Microsoft Operating System licenses purchased through IBM Cloud.
 
 | Offering | Platform | Edition | Metric | Current price | New price |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +132,7 @@ Effective 1 April 2025, {{site.data.keyword.cloud_notm}} is making price changes
 ## January 2025 price changes
 {: #jan-2025}
 
-Effective 1 January 2025, {{site.data.keyword.cloud_notm}} is making price changes for infrastructure as a service (IaaS) and platform as a service (PaaS) services, {{site.data.keyword.cos_full_notm}}, R1Soft Backup Service, {{site.data.keyword.sysdigsecure_full_notm}} cloud security posture management, and {{site.data.keyword.keymanagementservicelong_notm}}. See the following sections for additional details.
+Effective 1 January 2025, IBM Cloud is making price changes for infrastructure as a service (IaaS) and platform as a service (PaaS) services, IBM Cloud Object Storage, R1Soft Backup Service, IBM Cloud Security and Compliance Center Workload Protection cloud security posture management, and IBM Key Protect. See the following sections for additional details.
 
 ### Premium changes by location for IaaS
 {: #iaas-adjustments-jan-2025}
@@ -81,7 +172,7 @@ Location premiums for classic data centers will increase as follows:
 | SNG01 | 20% | 20% | No increase |
 {: caption="Classic data center location premium changes" caption-side="top"}
 
-Existing VMware, {{site.data.keyword.powerSys_notm}} (including SAP on {{site.data.keyword.powerSys_notm}}), High Performance Computing, and SAP deployments made before 1 January 2025 will be exempt from these increases and prices will remain unchanged.
+Existing VMware, Power Virtual Server (including SAP on Power Virtual Server), High Performance Computing, and SAP deployments made before 1 January 2025 will be exempt from these increases and prices will remain unchanged.
 {: note}
 
 
@@ -91,48 +182,48 @@ Existing VMware, {{site.data.keyword.powerSys_notm}} (including SAP on {{site.da
 PaaS services outside of the United States will adopt the same location premiums as IaaS services shown in the previous section.
 
 **Excluded** from this change are the following services:
-- {{site.data.keyword.containerlong_notm}} and {{site.data.keyword.openshiftlong_notm}}
-- {{site.data.keyword.logs_full_notm}}
-- {{site.data.keyword.cloudaccesstraillong_notm}} [Deprecated]{: tag-deprecated}
-- {{site.data.keyword.codeenginefull_notm}}
-- {{site.data.keyword.loganalysislong_notm}} [Deprecated]{: tag-deprecated}
-- {{site.data.keyword.monitoringlong_notm}}
-- {{site.data.keyword.databases-for-elasticsearch_full_notm}}
-- {{site.data.keyword.databases-for-enterprisedb_full_notm}}
-- {{site.data.keyword.databases-for-etcd_full_notm}}
-- {{site.data.keyword.databases-for-mongodb_full_notm}}
-- {{site.data.keyword.databases-for-mysql_fullnotm}}
-- {{site.data.keyword.databases-for-postgresql_full_notm}}
-- {{site.data.keyword.databases-for-redis_full_notm}}
-- {{site.data.keyword.messages-for-rabbitmq_full_notm}}
+- IBM Cloud Kubernetes Service and Red Hat OpenShift on IBM Cloud
+- IBM Cloud Logs
+- IBM Cloud Activity Tracker [Deprecated]{: tag-deprecated}
+- IBM Cloud Code Engine
+- IBM Cloud Log Analysis [Deprecated]{: tag-deprecated}
+- IBM Cloud Monitoring
+- IBM Cloud Databases for Elasticsearch
+- IBM Cloud Databases for EnterpriseDB
+- IBM Cloud Databases for etcd
+- IBM Cloud Databases for MongoDB
+- Databases for MySQL
+- IBM Cloud Databases for PostgreSQL
+- IBM Cloud Databases for Redis
+- IBM Cloud Messages for RabbitMQ
 
 **Included** in this change are the following services:
-- {{site.data.keyword.appconfig_full}}
-- {{site.data.keyword.appid_full_notm}}
-- {{site.data.keyword.cloudant_short_notm}}
-- {{site.data.keyword.registrylong_notm}}
-- {{site.data.keyword.cloud_notm}} Continuous Delivery
-- {{site.data.keyword.en_full_notm}}
-- {{site.data.keyword.satellitelong_notm}}
-- {{site.data.keyword.keymanagementservicelong_notm}}
-- IBM Event Streams for {{site.data.keyword.cloud_notm}}
-- {{site.data.keyword.secrets-manager_full_notm}}
-- {{site.data.keyword.compliance_long}}
-- {{site.data.keyword.sysdigsecure_full_notm}}
+- IBM Cloud&reg; App Configuration
+- IBM Cloud App ID
+- IBM Cloudant
+- IBM Cloud Container Registry
+- IBM Cloud Continuous Delivery
+- IBM Cloud Event Notifications
+- IBM Cloud Satellite
+- IBM Key Protect
+- IBM Event Streams for IBM Cloud
+- IBM Cloud Secrets Manager
+- IBM Cloud Compliance Manager
+- IBM Cloud Security and Compliance Center Workload Protection
 
 
-### Price changes for {{site.data.keyword.cos_full_notm}}
+### Price changes for IBM Cloud Object Storage
 {: #cos-adjustments-jan-2025}
 
-{{site.data.keyword.cos_short}} will introduce charges for Aspera high-speed uploads and adopt new, simpler, flat, and consistent charges for high-speed downloads:
+Object Storage will introduce charges for Aspera high-speed uploads and adopt new, simpler, flat, and consistent charges for high-speed downloads:
 
 | Transfer | Current charges | 2025 charges - EU/UK/US/Japan | 2025 charges - All other regions |
 |--------|--------|--------|--------|
 | High-speed uploads | $0.00 | 10 GB free/month \n 10 GB+ $0.04/GB/month | 10 GB free/month \n 10 GB+ $0.08/GB/month |
 | High-speed downloads | 0-50 TB  $0.0836/GB \n Next 100 TB $0.0627/GB \n 150 TB+ $0.0418/GB | 10 GB free/month \n 10 GB+ $0.04/GB/month | 10 GB free/month \n 10 GB+ $0.08/GB/month |
-{: caption="New {{site.data.keyword.cos_short}} high-speed data transfer charges." caption-side="top"}
+{: caption="New Object Storage high-speed data transfer charges." caption-side="top"}
 
-Additionally, {{site.data.keyword.cos_short}} prices will be increased by 2% in the Sao Paulo (`br-sao`) and Toronto (`ca-tor`) regions. In Chennai (`in-che`), the 2% increase will apply to Archive only.
+Additionally, Object Storage prices will be increased by 2% in the Sao Paulo (`br-sao`) and Toronto (`ca-tor`) regions. In Chennai (`in-che`), the 2% increase will apply to Archive only.
 
 
 ### Price changes for R1Soft Backup Services
@@ -149,10 +240,10 @@ Charges for R1Soft Backup Services will increase as follows:
 {: caption="R1Soft backup services changes" caption-side="top"}
 
 
-### Price changes for {{site.data.keyword.compliance_long}}
+### Price changes for IBM Cloud Compliance Manager
 {: #scc-adjustments-jan-2025}
 
-Charges for {{site.data.keyword.sysdigsecure_full_notm}} cloud security posture management will increase from $8.24/compute instance/month to $18.00/compute instance/month.
+Charges for IBM Cloud Security and Compliance Center Workload Protection cloud security posture management will increase from $8.24/compute instance/month to $18.00/compute instance/month.
 
 Volume discounts are available as follows:
 
@@ -164,16 +255,16 @@ Volume discounts are available as follows:
 | 1001 - 2500 | $5.768 | $12.60 |
 | 2501 - 5000 | $4.944 | $10.80 |
 | 5000+ | $4.523 | $9.90 |
-{: caption="{{site.data.keyword.sysdigsecure_full_notm}} cloud security posture management changes" caption-side="top"}
+{: caption="IBM Cloud Security and Compliance Center Workload Protection cloud security posture management changes" caption-side="top"}
 
-All other {{site.data.keyword.compliance_short}} charges remain unchanged.
+All other Compliance Manager charges remain unchanged.
 {: note}
 
 
-### Price changes for {{site.data.keyword.keymanagementservicelong_notm}}
+### Price changes for IBM Key Protect
 {: #keyprotect-adjustments-jan-2025}
 
-{{site.data.keyword.keymanagementserviceshort}} is making two changes to its pricing structure:
+Key Protect is making two changes to its pricing structure:
 1. The current free allocations of 5 key versions will be eliminated. The standard charge of $1.0764 /key version/month will apply to all keys.
 2. Charges for the global resiliency feature will be $100.00/duplicate region/month plus $1.0764/month for each duplicated key.
 
@@ -181,12 +272,12 @@ All other {{site.data.keyword.compliance_short}} charges remain unchanged.
 ## April 2024 price changes
 {: #april-2024}
 
-Effective 1 April 2024, {{site.data.keyword.cloud_notm}} is making the following price changes for cPanel and {{site.data.keyword.redhat_full}} Enterprise Linux.
+Effective 1 April 2024, IBM Cloud is making the following price changes for cPanel and Red Hat&reg; Enterprise Linux.
 
-### {{site.data.keyword.redhat_notm}} Enterprise Linux
+### Red Hat Enterprise Linux
 {: #rhel-adjustments}
 
-Effective 1 April 2024, {{site.data.keyword.redhat_notm}} is making changes to {{site.data.keyword.redhat_notm}} Enterprise Linux (RHEL) prices and introducing a new tier structure for virtual server instance pricing. {{site.data.keyword.cloud_notm}} is making the following price changes to reflect the {{site.data.keyword.redhat_notm}} changes.
+Effective 1 April 2024, Red Hat is making changes to Red Hat Enterprise Linux (RHEL) prices and introducing a new tier structure for virtual server instance pricing. IBM Cloud is making the following price changes to reflect the Red Hat changes.
 
 #### RHEL on Bare Metal Servers
 {: #rhel-bare-metal-servers}
@@ -204,7 +295,7 @@ For Bare Metal Servers, RHEL prices will change as follows:
 #### RHEL on Virtual Server Instances
 {: #rhel-vsi}
 
-{{site.data.keyword.redhat_notm}} prices for virtual server instances are changing from a 2-tier per server model to a 3-tier per vCPU model as follows:
+Red Hat prices for virtual server instances are changing from a 2-tier per server model to a 3-tier per vCPU model as follows:
 
 | Old Model - charges based on server size | Size |
 |----------|------|
@@ -236,7 +327,7 @@ With this new model, prices effective 1 April 2024 will be as follows:
 ### cPanel
 {: #cpanel-adjustments}
 
-Effective 1 April 2024, {{site.data.keyword.cloud_notm}} is making the following price changes for cPanel. These prices reflect a vendor price increase that was made in December 2023.
+Effective 1 April 2024, IBM Cloud is making the following price changes for cPanel. These prices reflect a vendor price increase that was made in December 2023.
 
 | cPanel Option | Current monthly charge | New charge from 1 April 2024 |
 |-------|-------|-------|
@@ -279,12 +370,12 @@ Effective 1 April 2024, {{site.data.keyword.cloud_notm}} is making the following
 ## January 2024 price changes
 {: #jan-2024}
 
-Effective 1 January 2024, {{site.data.keyword.cloud_notm}} is making the following price changes for IaaS and PaaS services.
+Effective 1 January 2024, IBM Cloud is making the following price changes for IaaS and PaaS services.
 
 ### IaaS data center premium changes
 {: #iaas-adjustments}
 
-Prices for {{site.data.keyword.cloud_notm}} infrastructure services vary from location to location, based on a percentage premium from US base prices. Effective 1 January 2024, these location premiums are changing as follows:
+Prices for IBM Cloud infrastructure services vary from location to location, based on a percentage premium from US base prices. Effective 1 January 2024, these location premiums are changing as follows:
 
 | Location| Current premium | New premium | Effective increase |
 |-------|-------|-------|-------|
@@ -299,39 +390,39 @@ Prices for {{site.data.keyword.cloud_notm}} infrastructure services vary from lo
 
 These new premiums will apply to Bare Metal Servers, Virtual Server Instances, File and Block Storage, and Networking infrastructure, for both classic and VPC offerings.
 
-For {{site.data.keyword.cos_full}}, the premiums that are mentioned in the previous table will affect the {{site.data.keyword.cos_short}} service only in the Sao Paulo (`br-sao`) region. Furthermore, there will be a global increase of 25% in **Accelerated Archive** prices and a 26% increase for **Deep Archive** storage.
+For IBM Cloud&reg; Object Storage, the premiums that are mentioned in the previous table will affect the Object Storage service only in the Sao Paulo (`br-sao`) region. Furthermore, there will be a global increase of 25% in **Accelerated Archive** prices and a 26% increase for **Deep Archive** storage.
 
-There will be no changes to the existing premiums for {{site.data.keyword.powerSysFull}}, third-party software, or network bandwidth.
+There will be no changes to the existing premiums for IBM&reg; Power&reg; Virtual Server, third-party software, or network bandwidth.
 
 ### PaaS global price changes
 {: #paas-adjustments}
 
-Effective 1 January 2024, all prices for {{site.data.keyword.cloud_notm}} service will increase by 3% globally. This increase covers:
+Effective 1 January 2024, all prices for IBM Cloud service will increase by 3% globally. This increase covers:
 
-- {{site.data.keyword.cloudaccesstraillong}}
-- {{site.data.keyword.appid_full}}
-- {{site.data.keyword.codeenginefull}}
-- {{site.data.keyword.contdelivery_full}}
-- {{site.data.keyword.sqlquery_full}}
-- {{site.data.keyword.security_broker_full}}
-- {{site.data.keyword.databases-for-cassandra_full}}
-- {{site.data.keyword.databases-for-elasticsearch_full}}
-- {{site.data.keyword.databases-for-enterprisedb_full}}
-- {{site.data.keyword.databases-for-etcd_full}}
-- {{site.data.keyword.databases-for-mongodb_full}}
-- {{site.data.keyword.databases-for-mysql_full}}
-- {{site.data.keyword.databases-for-postgresql_full}}
-- {{site.data.keyword.databases-for-redis_full}}
-- {{site.data.keyword.en_full}}
-- {{site.data.keyword.cis_full}}
-- {{site.data.keyword.containerlong}} and {{site.data.keyword.openshiftlong}}
-- {{site.data.keyword.loganalysislong}}
-- {{site.data.keyword.messages-for-rabbitmq_full}}
-- {{site.data.keyword.monitoringlong}}
-- {{site.data.keyword.satellitelong}}
-- {{site.data.keyword.secrets-manager_full}}
-- {{site.data.keyword.compliance_full}}
-- {{site.data.keyword.sysdigsecure_full}}
-- {{site.data.keyword.cloudantfull}}
-- {{site.data.keyword.messagehub_full}}
-- {{site.data.keyword.keymanagementservicefull}}
+- IBM Cloud&reg; Activity Tracker
+- IBM Cloud&reg; App ID
+- IBM Cloud&reg; Code Engine
+- IBM Cloud&reg; Continuous Delivery
+- IBM Cloud&reg; Data Engine
+- IBM Cloud&reg; Data Security Broker
+- IBM Cloud&reg; Databases for DataStax
+- IBM Cloud&reg; Databases for Elasticsearch
+- IBM Cloud&reg; Databases for EnterpriseDB
+- IBM Cloud&reg; Databases for etcd
+- IBM Cloud&reg; Databases for MongoDB
+- IBM Cloud&reg; Databases for MySQL
+- IBM Cloud&reg; Databases for PostgreSQL
+- IBM Cloud&reg; Databases for Redis
+- IBM Cloud&reg; Event Notifications
+- IBM Cloud&reg; Internet Services
+- IBM Cloud&reg; Kubernetes Service and Red Hat&reg; OpenShift&reg; on IBM Cloud&reg;
+- IBM Cloud&reg; Log Analysis
+- IBM Cloud&reg; Messages for RabbitMQ
+- IBM Cloud&reg; Monitoring
+- IBM Cloud Satellite&reg;
+- IBM Cloud&reg; Secrets Manager
+- IBM Cloud&reg; Compliance Manager
+- IBM Cloud&reg; Security and Compliance Center Workload Protection
+- IBM&reg; Cloudant&reg; for IBM Cloud&reg;
+- IBM&reg; Event Streams for IBM Cloud&reg;
+- IBM&reg; Key Protect for IBM Cloud&reg;

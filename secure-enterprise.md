@@ -11,7 +11,98 @@ subcollection: overview
 
 ---
 
-{{site.data.keyword.attribute-definition-list}}
+{:android: data-hd-operatingsystem="android"}
+{:api: .ph data-hd-interface="api"}
+{:audio: .audio}
+{:attention: .attention}
+{:authenticated-content: .authenticated-content}
+{:beta: .beta}
+{:c#: .ph data-hd-programlang="c#"}
+{:cli: .ph data-hd-interface="cli"}
+{:codeblock: .codeblock}
+{:curl: .ph data-hd-programlang="curl"}
+{:deprecated: .deprecated}
+{:dotnet-standard: .ph data-hd-programlang="dotnet-standard"}
+{:experimental: .experimental}
+{:exception: .exception}
+{:external: target="_blank" .external}
+{:fast-path: .fast-path}
+{:faq: data-hd-content-type="faq"}
+{:generic: data-hd-programlang="generic"}
+{:go: .ph data-hd-programlang="go"}
+{:help: data-hd-content-type="help"}
+{:here: .ph data-hd-vposition="here"}
+{:hide-dashboard: .hide-dashboard}
+{:hide-in-docs: .hide-in-docs}
+{:important: .important}
+{:ios: data-hd-operatingsystem="ios"}
+{:java: .ph data-hd-programlang="java"}
+{:javascript: .ph data-hd-programlang="javascript"}
+{:middle: .ph data-hd-position="middle"}
+{:node: .ph data-hd-programlang="node"}
+{:note: .note}
+{:objectc: .ph data-hd-programlang="Objective C"}
+{:php: .ph data-hd-programlang="PHP"}
+{:pre: .pre}
+{:preview: .preview}
+{:python: .ph data-hd-programlang="python"}
+{:release-note: data-hd-content-type="release-note"}
+{:remember: .remember}
+{:requirement: .requirement}
+{:restriction: .restriction}
+{:right: .ph data-hd-position="right"}
+{:row-headers: .row-headers}
+{:ruby: .ph data-hd-programlang="ruby"}
+{:screen: .screen}
+{:shortdesc: .shortdesc}
+{:step: data-tutorial-type="step"}
+{:support: data-reuse="support"}
+{:swift: .ph data-hd-programlang="swift"}
+{:tag-security: .tag data-tag-color="red"}
+{:tag-devops: .tag data-tag-color="magenta"}
+{:tag-app: .tag data-tag-color="purple"}
+{:tag-datastore: .tag data-tag-color="blue"}
+{:tag-network: .tag data-tag-color="cyan"}
+{:tag-observability: .tag data-tag-color="teal"}
+{:tag-management: .tag data-tag-color="teal"}
+{:tag-vpc: .tag data-tag-color="dark-teal"}
+{:tag-compute: .tag data-tag-color="green"}
+{:tag-ibm-cloud: .tag data-tag-color="blue"}
+{:tag-cp4d: .tag data-tag-color="magenta"}
+{:tag-iks: .tag data-tag-color="blue"}
+{:tag-roks: .tag data-tag-color="red"}
+{:tag-schematics: .tag data-tag-color="purple"}
+{:tag-classic-inf: .tag data-tag-color="warm-gray"}
+{:tag-satellite: .tag data-tag-color="magenta"}
+{:tag-linux: .tag data-tag-color="red"}
+{:tag-macos: .tag data-tag-color="cool-gray"}
+{:tag-windows: .tag data-tag-color="cyan"}
+{:tag-new: .tag data-tag-color="green"}
+{:tag-updated: .tag data-tag-color="blue"}
+{:tag-deprecated: .tag data-tag-color="red"}
+{:tag-red: .tag data-tag-color="red"}
+{:tag-magenta: .tag data-tag-color="magenta"}
+{:tag-purple: .tag data-tag-color="purple"}
+{:tag-blue: .tag data-tag-color="blue"}
+{:tag-cyan: .tag data-tag-color="cyan"}
+{:tag-teal: .tag data-tag-color="teal"}
+{:tag-dark-teal: .tag data-tag-color="dark-teal"}
+{:tag-green: .tag data-tag-color="green"}
+{:tag-cool-gray: .tag data-tag-color="cool-gray"}
+{:tag-warm-gray: .tag data-tag-color="warm-gray"}
+{:term: .term}
+{:terraform: .ph data-hd-interface="terraform"}
+{:tip: .tip}
+{:troubleshoot: data-hd-content-type="troubleshoot"}
+{:tsCauses: .tsCauses}
+{:tsResolve: .tsResolve}
+{:tsSymptoms: .tsSymptoms}
+{:tutorial: data-hd-content-type="tutorial"}
+{:ui: .ph data-hd-interface="ui"}
+{:unity: .ph data-hd-programlang="unity"}
+{:vbnet: .ph data-hd-programlang="vb.net"}
+{:video: .video}
+
 
 # Securely running enterprise workloads on IBM Cloud with compliance
 {: #secure-enterprise}
@@ -19,31 +110,31 @@ subcollection: overview
 Learn how to securely run compliant enterprise workloads on IBM Cloud using deployable architectures and automated security checks for regulated industries like finance and healthcare.
 {: shortdesc}
 
-With continuous compliance at the core of {{site.data.keyword.cloud}}'s platform, your team has all of the tools at your disposal to securely develop, deploy, and manage your regulated, mission-critical enterprise workloads in the cloud.
+With continuous compliance at the core of IBM Cloud&reg;'s platform, your team has all of the tools at your disposal to securely develop, deploy, and manage your regulated, mission-critical enterprise workloads in the cloud.
 
-For highly regulated industries, such as financial services, achieving continuous compliance within a cloud environment is an important first step toward protecting customer and application data. Historically, that process has been difficult and manual, which placed your organization at risk. But, with {{site.data.keyword.cloud_notm}} you can work with predefined deployable architectures, automate infrastructure-as-code deployments with [projects](#x2035151){: term}, and integrate automatic security checks into every day workflows to minimize risk.
+For highly regulated industries, such as financial services, achieving continuous compliance within a cloud environment is an important first step toward protecting customer and application data. Historically, that process has been difficult and manual, which placed your organization at risk. But, with IBM Cloud you can work with predefined deployable architectures, automate infrastructure-as-code deployments with [projects](#x2035151){: term}, and integrate automatic security checks into every day workflows to minimize risk.
 
-With {{site.data.keyword.cloud_notm}}, your whole team from solution architects, compliance managers, infrastructure DevOps teams, to application development teams can use a shift-left approach to identify security risks and exposures early when developing and deploying cloud solutions. This keeps security and compliance at the center of your workflow and organizational culture so that your enterprise can operate in the cloud with confidence.
+With IBM Cloud, your whole team from solution architects, compliance managers, infrastructure DevOps teams, to application development teams can use a shift-left approach to identify security risks and exposures early when developing and deploying cloud solutions. This keeps security and compliance at the center of your workflow and organizational culture so that your enterprise can operate in the cloud with confidence.
 
 
 ## Defining your compliance strategy
 {: #define-enterprise-compliance}
 
-By planning and defining your enterprise's goals for running secure workloads on {{site.data.keyword.cloud_notm}} early in the process, you can reduce the time to production for building infrastructure and applications in the cloud. With {{site.data.keyword.cloud_notm}}, you can save your business time and money by taking advantage of our automation and standardized best practices as you work. Get started by reviewing our predefined, compliant architectures and control libraries to see how your industry fits in the cloud.
+By planning and defining your enterprise's goals for running secure workloads on IBM Cloud early in the process, you can reduce the time to production for building infrastructure and applications in the cloud. With IBM Cloud, you can save your business time and money by taking advantage of our automation and standardized best practices as you work. Get started by reviewing our predefined, compliant architectures and control libraries to see how your industry fits in the cloud.
 
 ### Understanding security and compliance requirements
 {: #security-compliance-requirements}
 
-While you're working through the planning phase of running your enterprise solutions on {{site.data.keyword.cloud_notm}}, it's important to consider the internal and external standards that your organization must meet. For example, if you are a medical establishment, you most likely need to prove that you are upholding HIPAA requirements. Or, if you are a financial institution you might need to prove that you are meeting NIST standards. With [{{site.data.keyword.sysdigsecure_full_notm}}](/docs/workload-protection?topic=workload-protection-getting-started), you can take advantage of predefined control policies that are designed to help you validate and prove compliance for a group of controls.
+While you're working through the planning phase of running your enterprise solutions on IBM Cloud, it's important to consider the internal and external standards that your organization must meet. For example, if you are a medical establishment, you most likely need to prove that you are upholding HIPAA requirements. Or, if you are a financial institution you might need to prove that you are meeting NIST standards. With [IBM Cloud Security and Compliance Center Workload Protection](/docs/workload-protection?topic=workload-protection-getting-started), you can take advantage of predefined control policies that are designed to help you validate and prove compliance for a group of controls.
 
 ### Identifying the right infrastructure architecture
 {: #define-architecture}
 
-Instead of figuring out how to assemble a compliant infrastructure architecture on your own, you can review the deployable architectures that are available in [the catalog](/catalog#reference_architecture). {{site.data.keyword.cloud_notm}} provides automation for the deployment of common architectural patterns that combine one or more cloud resources, known as deployable architectures. Each [deployable architecture](#x10293733){: term} is built and maintained by {{site.data.keyword.cloud_notm}} experts following {{site.data.keyword.cloud_notm}} best practices to take the guesswork out of the architecture design process and reduce the time that it takes to deploy to just minutes. Compliance managers and solution architects can review the components of the architecture and the level of compliance that each deployable architecture meets by reviewing the details directly from the catalog detail pages.
+Instead of figuring out how to assemble a compliant infrastructure architecture on your own, you can review the deployable architectures that are available in [the catalog](/catalog#reference_architecture). IBM Cloud provides automation for the deployment of common architectural patterns that combine one or more cloud resources, known as deployable architectures. Each [deployable architecture](#x10293733){: term} is built and maintained by IBM Cloud experts following IBM Cloud best practices to take the guesswork out of the architecture design process and reduce the time that it takes to deploy to just minutes. Compliance managers and solution architects can review the components of the architecture and the level of compliance that each deployable architecture meets by reviewing the details directly from the catalog detail pages.
 
 ![IBM Cloud catalog showing deployable architecture tiles](images/catalog.svg){: caption="IBM Cloud catalog showing deployable architecture tiles" caption-side="bottom"}
 
-If you work in a financial institution, you might want to work with {{site.data.keyword.framework-fs_full}} validated products. The framework is designed to build trust and enable a transparent public cloud ecosystem with a focus on the specific features for security, compliance, and resiliency that finanicial institutions require. For more information about the {{site.data.keyword.framework-fs_notm}}, see [Getting started with {{site.data.keyword.framework-fs_notm}}](/docs/framework-financial-services?topic=framework-financial-services-about). To get started, you can filter the catalog to view only those products that have been Financial Services Validated. And, even if you're not in the financial industry, you can be assured that these products meet stringent industry regulations for sensitive data and complex workloads.
+If you work in a financial institution, you might want to work with IBM Cloud Framework for Financial Services validated products. The framework is designed to build trust and enable a transparent public cloud ecosystem with a focus on the specific features for security, compliance, and resiliency that finanicial institutions require. For more information about the IBM Cloud Framework for Financial Services, see [Getting started with IBM Cloud Framework for Financial Services](/docs/framework-financial-services?topic=framework-financial-services-about). To get started, you can filter the catalog to view only those products that have been Financial Services Validated. And, even if you're not in the financial industry, you can be assured that these products meet stringent industry regulations for sensitive data and complex workloads.
 
 ## Configuring and deploying compliant architectures and applications
 {: #deploy-compliant-arch}
@@ -54,12 +145,12 @@ A project is a named collection of configurations that are used to manage relate
 
 ![The diagram shows the flow that a user would take when working with projects from creating a project, editing a configuration from the catalog, validating it, approving it, deploying resources, and then getting notified of available updates](images/projects-flow.svg){: caption="Understanding the projects workflow." caption-side="bottom"}
 
-You can [customize and extend an {{site.data.keyword.cloud_notm}} deployable architecture](/docs/secure-enterprise?topic=secure-enterprise-customize-from-catalog) to ensure that the architecture meets your needs. Then, you can leverage private catalogs in your account to make your custom deployable architecture available for only members of your enterprise. After onboarding a customized deployable architecture to your private catalog, users that have access to the private catalog can then configure and deploy it from a project.
+You can [customize and extend an IBM Cloud deployable architecture](/docs/secure-enterprise?topic=secure-enterprise-customize-from-catalog) to ensure that the architecture meets your needs. Then, you can leverage private catalogs in your account to make your custom deployable architecture available for only members of your enterprise. After onboarding a customized deployable architecture to your private catalog, users that have access to the private catalog can then configure and deploy it from a project.
 
 ### Securing your software supply chain
 {: #secure-supply-chain}
 
-Your team can take advantage of cost-effective software delivery and proactive security practices with {{site.data.keyword.cloud_notm}} DevSecOps. The [DevSecOps Application Lifecycle Management deployable architecture](/docs/devsecops-alm?topic=devsecops-alm-devsecops-alm-overview) provides a streamlined way to set up continuous integration (CI), continuous development (CD), and continuous compliance (CC) toolchains for secure and agile application development.
+Your team can take advantage of cost-effective software delivery and proactive security practices with IBM Cloud DevSecOps. The [DevSecOps Application Lifecycle Management deployable architecture](/docs/devsecops-alm?topic=devsecops-alm-devsecops-alm-overview) provides a streamlined way to set up continuous integration (CI), continuous development (CD), and continuous compliance (CC) toolchains for secure and agile application development.
 
 By using the DevSecOps Application Lifecycle Management deployable architecture to set up the framework to manage the lifecycle of your application code, you can put security and compliance at the forefront of your development lifecycle and set your team up to implement an automated, shift-left approach to development.
 
@@ -73,16 +164,16 @@ To learn more, see the [DevSecOps documentation](/docs/devsecops?topic=devsecops
 ## Assessing and maintaining compliance of enterprise workloads
 {: #assess-compliance}
 
-Although {{site.data.keyword.cloud_notm}} reduces the time and complexity of setting up a compliant enterprise application, you still need to ensure that you're maintaining compliance. To do so, you can use the [{{site.data.keyword.sysdigsecure_full_notm}}](/docs/workload-protection?topic=workload-protection-getting-started) to run evaluations on your multi-cloud resource configurations. The evaluation results are provided in the dashboard of the {{site.data.keyword.sysdigsecure_full_notm}}. You are able to quickly assess the risk to your organization, fix issues, and generate reports so that you're always audit-ready.
+Although IBM Cloud reduces the time and complexity of setting up a compliant enterprise application, you still need to ensure that you're maintaining compliance. To do so, you can use the [IBM Cloud Security and Compliance Center Workload Protection](/docs/workload-protection?topic=workload-protection-getting-started) to run evaluations on your multi-cloud resource configurations. The evaluation results are provided in the dashboard of the IBM Cloud Security and Compliance Center Workload Protection. You are able to quickly assess the risk to your organization, fix issues, and generate reports so that you're always audit-ready.
 
 Also, using DevSecOps CI/CD/CC toolchains can help to automate the evaluation of controls as part of the development process and can block noncompliant changes from being promoted. Managing your application code this way ensures that you have the evidence and change history that is needed to meet the required compliance standards for your industry. For more information about a shift-left approach to deploying your code, see [DevSecOps architecture](/docs/devsecops?topic=devsecops-cd-devsecops-arch).
 
 
-## Get started with your enterprise workloads on {{site.data.keyword.cloud_notm}}
+## Get started with your enterprise workloads on IBM Cloud
 {: #enterprise-get-started}
 
-With the tools available through {{site.data.keyword.cloud_notm}}, you can start and stay compliant with automation and ensure that deployments are done by using a secure software supply chain, all while managing your resources at scale. Go to the [{{site.data.keyword.cloud_notm}} catalog](/catalog) to check out the deployable architectures and visit the [{{site.data.keyword.sysdigsecure_full_notm}}](/docs/workload-protection?topic=workload-protection-getting-started) today to start evaluating for security and compliance.
+With the tools available through IBM Cloud, you can start and stay compliant with automation and ensure that deployments are done by using a secure software supply chain, all while managing your resources at scale. Go to the [IBM Cloud catalog](/catalog) to check out the deployable architectures and visit the [IBM Cloud Security and Compliance Center Workload Protection](/docs/workload-protection?topic=workload-protection-getting-started) today to start evaluating for security and compliance.
 
 For more information about setting up your enterprise, configuring automated deployments by using projects, customizing deployable architectures, and more, see the [Enterprise account architecture](/docs/enterprise-account-architecture) white paper and [Running secure enterprise workloads](/docs/secure-enterprise) documentation.
 
-If you're already running workloads on the cloud, but you're not yet taking advantage of an enterprise account structure or tools like {{site.data.keyword.cloud_notm}} projects to manage related resources and IaC deployments across accounts, you can review the white paper on [moving to the enterprise architecture](/docs/adopt-enterprise-architecture?topic=adopt-enterprise-architecture-intro) and [learn how you can move existing deploy resources to a project](/docs/secure-enterprise?topic=secure-enterprise-move-deployed-resource-project).
+If you're already running workloads on the cloud, but you're not yet taking advantage of an enterprise account structure or tools like IBM Cloud projects to manage related resources and IaC deployments across accounts, you can review the white paper on [moving to the enterprise architecture](/docs/adopt-enterprise-architecture?topic=adopt-enterprise-architecture-intro) and [learn how you can move existing deploy resources to a project](/docs/secure-enterprise?topic=secure-enterprise-move-deployed-resource-project).

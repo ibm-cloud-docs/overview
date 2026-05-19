@@ -13,13 +13,13 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Accessing IBM Cloud services through APIs, CLIs, SDKs, and Terraform
+# Accessing {{site.data.keyword.cloud_notm}} services through APIs, CLIs, SDKs, and Terraform
 {: #platform-svc-cli-api}
 
-Discover how to access IBM Cloud services through the console, APIs, SDKs, CLIs, and Terraform with support for multiple programming languages.
+Discover how to access {{site.data.keyword.cloud}} services through the console, APIs, SDKs, CLIs, and Terraform with support for multiple programming languages.
 {: shortdesc}
 
-{{site.data.keyword.cloud}} is composed of multiple services that are available in various interfaces for a consistent cloud experience.
+{{site.data.keyword.cloud_notm}} is composed of multiple services that are available in various interfaces for a consistent cloud experience.
 
 Services that are available in the {{site.data.keyword.cloud_notm}} console are also available through APIs, SDKs, CLIs, and Terraform at their [general availability (GA)](#x2117947){: term} release. SDKs are, at a minimum, available in the Java, Node, Python, and Go programming languages.
 

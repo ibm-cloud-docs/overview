@@ -12,10 +12,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud onboarding checklist and quick start
+# {{site.data.keyword.cloud_notm}} onboarding checklist and quick start
 {: #get-started-checklist}
 
-Use the IBM Cloud onboarding checklist to set up your account, secure resources, manage costs, configure cloud connectivity, and help you efficiently meet your business needs in your {{site.data.keyword.cloud_notm}} account.
+Use the {{site.data.keyword.cloud}} onboarding checklist to set up your account, secure resources, manage costs, configure cloud connectivity, and help you efficiently meet your business needs in your {{site.data.keyword.cloud_notm}} account.
 {: shortdesc}
 
 Download the single page [{{site.data.keyword.cloud_notm}} Quick Start Guide](https://cloud.ibm.com/media/docs/downloads/overview/ibm-cloud-onboarding.pdf){: external} to share a consolidated version of this checklist within your organization to help accelerate migrating  workloads to {{site.data.keyword.cloud_notm}}.

@@ -16,7 +16,7 @@ content-type: troubleshoot
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Troubleshooting empty results in the FAQ or tutorial library
+# Troubleshooting empty results in the FAQ or tutorial library in {{site.data.keyword.cloud_notm}} docs
 {: #troubleshoot-library}
 {: troubleshoot}
 
@@ -46,7 +46,7 @@ There might not be any content with your selected filters, or a topic might not 
 Clear the selected filters, and try filtering the library again. If you still don't see any content, try searching all of the {{site.data.keyword.cloud_notm}} docs for related content.
 {: tsResolve}
 
-1. Go to the [IBM Cloud docs search](/docs/search).
+1. Go to the [{{site.data.keyword.cloud_notm}} docs search](/docs/search).
 1. Enter search terms for the topic that you're trying to find, and press Enter. For example, if the page was about configuring Kubernetes clusters, you might enter `config Kubernetes cluster`.
 1. To search in the docs for a product or category of products, refine your search results by clicking the **Filter** icon ![Filter icon "Filter"](../icons/filter.svg) , selecting the category or product, and clicking **Filter**.
 

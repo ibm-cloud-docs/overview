@@ -13,13 +13,13 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud platform: Hybrid, multicloud, and VPC capabilities
+# {{site.data.keyword.cloud_notm}} platform: Hybrid, multicloud, and VPC capabilities
 {: #whatis-platform}
 
-Discover IBM Cloud's integrated platform as a service (PaaS) and infrastructure as a service (IaaS) platform, featuring hybrid cloud, multicloud, Virtual Private Cloud (VPC), and global data center deployment options for scalable and secure business solutions.
+Discover {{site.data.keyword.cloud}}'s integrated platform as a service (PaaS) and infrastructure as a service (IaaS) platform, featuring hybrid cloud, multicloud, Virtual Private Cloud (VPC), and global data center deployment options for scalable and secure business solutions.
 {: shortdesc}
 
-The {{site.data.keyword.cloud}} platform combines PaaS with IaaS to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on {{site.data.keyword.cloud}} spins up fast and performs reliably in a tested and supported environment you can trust!
+The {{site.data.keyword.cloud_notm}} platform combines PaaS with IaaS to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on {{site.data.keyword.cloud}} spins up fast and performs reliably in a tested and supported environment you can trust!
 
 {{site.data.keyword.cloud_notm}} provides solutions that enable higher levels of compliance, security, and management, with proven architecture patterns and methods for rapid delivery for running mission-critical workloads. Available in data centers worldwide, with multizone regions in North and South America, Europe, Asia, and Australia, you are enabled to deploy locally with global scalability.
 

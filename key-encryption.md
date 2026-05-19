@@ -12,15 +12,15 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Secure IBM Cloud data with BYOK and KYOK encryption
+# Secure {{site.data.keyword.cloud_notm}} data with BYOK and KYOK encryption
 {: #key-encryption}
 
-Learn how to secure IBM Cloud data at rest and in transit using bring your own key (BYOK) and keep your own key (KYOK) encryption options for enhanced security and control.
+Learn how to secure {{site.data.keyword.cloud}} data at rest and in transit using bring your own key (BYOK) and keep your own key (KYOK) encryption options for enhanced security and control.
 {: shortdesc}
 
-{{site.data.keyword.cloud}} encrypts all data in transit and at rest. Additionally, you can configure {{site.data.keyword.cloud_notm}} services to encrypt your data at rest with your own keys, and then monitor the events around the lifecycle of the encryption keys with {{site.data.keyword.cloudaccesstraillong}}.
+{{site.data.keyword.cloud_notm}} encrypts all data in transit and at rest. Additionally, you can configure {{site.data.keyword.cloud_notm}} services to encrypt your data at rest with your own keys, and then monitor the events around the lifecycle of the encryption keys with {{site.data.keyword.cloudaccesstraillong}}.
 
-IBM Cloud supports multiple encryption options, whether you're looking for a solution that supports the BYOK or KYOK functionality. For an in-depth look at the options to secure your data depending on your organization's needs, see [Data security](https://www.ibm.com/think/topics/data-security){: external}.
+{{site.data.keyword.cloud_notm}} supports multiple encryption options, whether you're looking for a solution that supports the BYOK or KYOK functionality. For an in-depth look at the options to secure your data depending on your organization's needs, see [Data security](https://www.ibm.com/think/topics/data-security){: external}.
 
 ## Bring your own keys
 {: #byok-overview}

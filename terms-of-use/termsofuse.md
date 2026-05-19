@@ -15,7 +15,7 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Understanding IBM Cloud terms of use and service agreements
+# {{site.data.keyword.cloud_notm}} Terms of Use
 {: #terms}
 
 Review the terms of use and service agreements that apply to your {{site.data.keyword.cloud}} account and use of the {{site.data.keyword.cloud_notm}} services.

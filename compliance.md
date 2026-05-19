@@ -2,9 +2,9 @@
 
 copyright:
   years: 2020, 2026
-lastupdated: "2026-02-05"
+lastupdated: "2026-05-19"
 
-keywords: compliance, environmental information, gdpr, compliance reports, financial services, compliance settings, compliance features
+keywords: ibm cloud compliance, security standards, gdpr, hipaa, iso certification, compliance, environmental information, gdpr, compliance reports, financial services, compliance settings, compliance features
 
 subcollection: overview
 
@@ -12,11 +12,13 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Understanding compliance in {{site.data.keyword.Bluemix_notm}}
+# IBM Cloud compliance: Security standards and certifications
 {: #compliance}
 
-{{site.data.keyword.cloud}} provides a secure cloud platform that you can trust. {{site.data.keyword.cloud_notm}} compliance results from a platform and services that are built on best-in-industry security standards, including GDPR, HIPAA, ISO 9001, ISO 27001, ISO 27017, ISO 27018, PCI, SOC2, and others. For more information, see [Compliance on the {{site.data.keyword.cloud_notm}}](https://www.ibm.com/products/cloud/compliance){: external}
+Learn about IBM Cloud's compliance with major security standards like GDPR, HIPAA, and ISO, and get compliance reports and certifications for a secure cloud platform.
 {: shortdesc}
+
+{{site.data.keyword.cloud}} provides a secure cloud platform that you can trust. {{site.data.keyword.cloud_notm}} compliance results from a platform and services that are built on best-in-industry security standards, including GDPR, HIPAA, ISO 9001, ISO 27001, ISO 27017, ISO 27018, PCI, SOC2, and others. For more information, see [Compliance on the {{site.data.keyword.cloud_notm}}](https://www.ibm.com/products/cloud/compliance){: external}
 
 ## Compliance reports
 {: #reports}

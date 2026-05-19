@@ -2,9 +2,9 @@
 
 copyright:
   years: 2021
-lastupdated: "2024-08-14"
+lastupdated: "2026-05-19"
 
-keywords: service endpoints, private endpoints, virtual private endpoints, vpe, vpe for vpc
+keywords: private connectivity, vpe for vpc, service endpoints, secure connections, service endpoints, private endpoints, virtual private endpoints, vpe, vpe for vpc
 
 subcollection: overview
 
@@ -12,11 +12,13 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Privately connecting to {{site.data.keyword.cloud_notm}} services
+# Connecting to IBM Cloud services privately using virtual private endpoints
 {: #endpoints-support}
 
-An increased focus on security is required by customers that use cloud-based services for production workloads. For many customers, accessing services in a secure manner is not only a sensible corporate policy, but in some cases required by compliance regulations. {{site.data.keyword.IBM}} has enhanced the connectivity options for customers who require isolated connectivity options for their workloads by providing the options of virtual private endpoints (VPE) for Virtual Private Cloud (VPC) and {{site.data.keyword.cloud}} service endpoints.
+Learn how to securely connect to IBM Cloud services using virtual private endpoints (VPE) for VPC and service endpoints for isolated connectivity and enhanced security.
 {: shortdesc}
+
+An increased focus on security is required by customers that use cloud-based services for production workloads. For many customers, accessing services in a secure manner is not only a sensible corporate policy, but in some cases required by compliance regulations. {{site.data.keyword.IBM}} has enhanced the connectivity options for customers who require isolated connectivity options for their workloads by providing the options of VPE for Virtual Private Cloud (VPC) and {{site.data.keyword.cloud}} service endpoints.
 
 To interact with the product APIs, you can use public endpoints, VPE for VPC, or service endpoints.
 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2020, 2023
 
-lastupdated: "2023-01-03"
+lastupdated: "2026-05-19"
 
 keywords: no faq results, no tutorial results
 
@@ -16,7 +16,7 @@ content-type: troubleshoot
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Why don't I get results in the FAQ or tutorial library?
+# Troubleshooting empty results in the FAQ or tutorial library
 {: #troubleshoot-library}
 {: troubleshoot}
 

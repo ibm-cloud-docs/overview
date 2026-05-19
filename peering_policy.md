@@ -2,9 +2,9 @@
 
 copyright:
   years: 2020, 2024
-lastupdated: "2024-10-10"
+lastupdated: "2026-05-18"
 
-keywords: public peering
+keywords: ibm cloud peering, network peering, peeringdb, public peering
 
 subcollection: overview
 
@@ -12,31 +12,33 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Public peering
+# IBM Cloud public peering policy and guidelines for network connection
 {: #public-peering}
 
-Public peering is conducted across a shared network. Peering requests can be accepted when a mutually agreeable decision to peer based on operational needs exists.
+Review IBM Cloud's public peering policy, guidelines for network peering, peeringdb requirements, and operational standards for connecting with IBM Cloud securely and efficiently.
 {: shortdesc}
+
+Public peering is conducted across a shared network. Peering requests can be accepted when a mutually agreeable decision to peer based on operational needs exists.
 
 
 ## Guidelines and general information
 {: #guide-gen-info}
 
-The following are guidelines and some general information for public peering with {{site.data.keyword.Bluemix}}.
+The following are guidelines and some general information for public peering with IBM Cloud&reg;.
 
 - Potential and current peers must have and maintain a valid [PeeringDB.com](https://www.peeringdb.com/){: external} record.
 - Use of the [Internet Routing Registry (IRR)](https://irr.net/){: external} is required for prefix filtering.
 - Peers must supply a contact with 24x7 availability, such as a Network Operations Center.
-- Peers must not use any form of gateway of last resort or default route that is directed at {{site.data.keyword.Bluemix_notm}}.
+- Peers must not use any form of gateway of last resort or default route that is directed at IBM Cloud.
 - Peers must provide access to a looking glass or traceroute server to facilitate troubleshooting.
 - Peer announcements must be consistent across all Interconnect locations.
-- {{site.data.keyword.Bluemix_notm}} sends and accepts MED attributes by request only.
+- IBM Cloud sends and accepts MED attributes by request only.
 
-{{site.data.keyword.Bluemix_notm}} reserves the right to suspend peering for an indefinite period if any form of network abuse is detected and verified to be taking place through the peering interconnect. This suspension includes setting a default route to {{site.data.keyword.Bluemix_notm}}. {{site.data.keyword.Bluemix_notm}} doesn't accept any IPv4 announcements smaller than /24 or IPv6 announcements smaller than /48. An MD5 password is preferred but not required.
+IBM Cloud reserves the right to suspend peering for an indefinite period if any form of network abuse is detected and verified to be taking place through the peering interconnect. This suspension includes setting a default route to IBM Cloud. IBM Cloud doesn't accept any IPv4 announcements smaller than /24 or IPv6 announcements smaller than /48. An MD5 password is preferred but not required.
 
 For more information, see the [PeeringDB record](https://www.peeringdb.com/asn/36351){: external}.
 
-If {{site.data.keyword.Bluemix_notm}}'s operational needs cause a peering arrangement to conflict with the best interest of {{site.data.keyword.Bluemix_notm}}, {{site.data.keyword.Bluemix_notm}} reserves the right to end the peering agreement with reasonable advance notice.
+If IBM Cloud's operational needs cause a peering arrangement to conflict with the best interest of IBM Cloud, IBM Cloud reserves the right to end the peering agreement with reasonable advance notice.
 {: note}
 
 ## Public peer exchanges

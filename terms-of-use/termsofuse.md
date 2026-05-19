@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-04-28"
+lastupdated: "2026-05-19"
 
 keywords: terms of use, IBM Cloud, CSA, Cloud Service Agreement, data egress charges, EU data act, French SREN law, France data portability
 
@@ -15,8 +15,11 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# {{site.data.keyword.cloud_notm}} Terms of Use
+# Understanding IBM Cloud terms of use and service agreements
 {: #terms}
+
+Review the terms of use and service agreements that apply to your {{site.data.keyword.cloud}} account and use of the {{site.data.keyword.cloud_notm}} services.
+{: shortdesc}
 
 ## Agreement Terms
 {: #agreementterms}

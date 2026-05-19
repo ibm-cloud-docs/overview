@@ -4,7 +4,7 @@ copyright:
 
   years: 2020, 2023
 
-lastupdated: "2023-01-03"
+lastupdated: "2026-05-19"
 
 keywords: can't access docs, allowlisted docs
 
@@ -16,11 +16,11 @@ content-type: troubleshoot
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Why can't I access some IBM Cloud docs?
+# Troubleshooting access issues to IBM Cloud documentation for allowlisted accounts
 {: #troubleshoot-allowlist}
 {: troubleshoot}
 
-Some documentation in {{site.data.keyword.cloud}} has limited visibility, where access is controlled by an allowlist. Only accounts that are given access to these docs can view them.
+Learn how to resolve issues accessing IBM Cloud documentation that's restricted to allowlisted accounts and verify your account access.
 {: shortdesc}
 
 You try to view documentation in {{site.data.keyword.cloud_notm}}, but the content doesn't load and the following error is displayed.

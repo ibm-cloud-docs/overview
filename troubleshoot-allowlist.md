@@ -4,7 +4,7 @@ copyright:
 
   years: 2020, 2023
 
-lastupdated: "2026-05-18"
+lastupdated: "2026-05-19"
 
 keywords: can't access docs, allowlisted docs
 
@@ -16,7 +16,7 @@ content-type: troubleshoot
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Resolving access issues to IBM Cloud documentation for allowlisted accounts
+# Troubleshooting access issues to IBM Cloud documentation for allowlisted accounts
 {: #troubleshoot-allowlist}
 {: troubleshoot}
 

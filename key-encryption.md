@@ -2,7 +2,7 @@
 
 copyright:
   years: 2021, 2024
-lastupdated: "2026-05-18"
+lastupdated: "2026-05-19"
 
 keywords: encrypt ibm cloud data, byok, kyok, customer managed keys, byok, kyok, key encryption, data encryption, keep your own key, bring your own key, encryption at rest, encryption in transit, data at rest, data in transit
 
@@ -15,7 +15,7 @@ subcollection: overview
 # Secure IBM Cloud data with BYOK and KYOK encryption
 {: #key-encryption}
 
-Learn how to secure IBM Cloud data at REST and in transit using bring your own key (BYOK) and keep your own key (KYOK) encryption options for enhanced security and control.
+Learn how to secure IBM Cloud data at rest and in transit using bring your own key (BYOK) and keep your own key (KYOK) encryption options for enhanced security and control.
 {: shortdesc}
 
 {{site.data.keyword.cloud}} encrypts all data in transit and at rest. Additionally, you can configure {{site.data.keyword.cloud_notm}} services to encrypt your data at rest with your own keys, and then monitor the events around the lifecycle of the encryption keys with {{site.data.keyword.cloudaccesstraillong}}.

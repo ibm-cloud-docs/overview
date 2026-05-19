@@ -16,11 +16,11 @@ content-type: troubleshoot
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Troubleshooting access issues to IBM Cloud documentation for allowlisted accounts
+# Troubleshooting access issues to {{site.data.keyword.cloud_notm}} documentation for allowlisted accounts
 {: #troubleshoot-allowlist}
 {: troubleshoot}
 
-Learn how to resolve issues accessing IBM Cloud documentation that's restricted to allowlisted accounts and verify your account access.
+Learn how to resolve issues accessing {{site.data.keyword.cloud}} documentation that's restricted to allowlisted accounts and verify your account access.
 {: shortdesc}
 
 You try to view documentation in {{site.data.keyword.cloud_notm}}, but the content doesn't load and the following error is displayed.

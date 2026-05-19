@@ -13,10 +13,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud prerequisites and supported browsers
+# {{site.data.keyword.cloud_notm}} prerequisites and supported browsers
 {: #prereqs-platform}
 
-Review the prerequisites for using IBM Cloud, including supported browsers like Chrome, Firefox, Safari, and Edge for optimal platform performance.
+Review the prerequisites for using {{site.data.keyword.cloud}}, including supported browsers like Chrome, Firefox, Safari, and Edge for optimal platform performance.
 {: shortdesc}
 
 ## Browsers

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2026
-lastupdated: "2026-05-18"
+lastupdated: "2026-05-19"
 
 keywords: ibm cloud regions, mzr locations, data center locations, availability zones, data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -12,13 +12,13 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud regions and data centers for high availability
+# {{site.data.keyword.cloud_notm}} regions and data centers for high availability
 {: #locations}
 
-Discover IBM Cloud regions, multizone regions, and data center locations to deploy highly available workloads with low latency connectivity.
+Discover {{site.data.keyword.cloud}} regions, multizone regions, and data center locations to deploy highly available workloads with low latency connectivity.
 {: shortdesc}
 
-IBM Cloud&reg; has a resilient global network of locations to host your highly available cloud workload. Resources in different locations are consolidated into an account-based billing and usage view. You can also deploy your workloads to the location that is nearest to your customers to achieve low latency connectivity. IBM Cloud provides [multizone regions (MZR)](#x9774820){: term}, [single-campus multizone regions (SC-MZR)](#x10127487){: term}, and classic [data centers](#x2439906){: term} for classic infrastructure resources.
+{{site.data.keyword.cloud_notm}} has a resilient global network of locations to host your highly available cloud workload. Resources in different locations are consolidated into an account-based billing and usage view. You can also deploy your workloads to the location that is nearest to your customers to achieve low latency connectivity. {{site.data.keyword.cloud_notm}} provides [multizone regions (MZR)](#x9774820){: term}, [single-campus multizone regions (SC-MZR)](#x10127487){: term}, and classic [data centers](#x2439906){: term} for classic infrastructure resources.
 
 ![Global map showing MZR and data center locations](images/Global-View-2026.svg "MZR and data center locations"){: caption="MZR and data center locations map" caption-side="bottom"}
 
@@ -28,14 +28,14 @@ This image is an artistic representation and does not reflect actual political o
 ## Regions
 {: #regions}
 
-IBM&reg; offers two types of regions: MZRs and single-campus MZRs and both are considered an MZR. The underlying infrastructure in both types provides the same [SLA](https://www.ibm.com/support/customer/csol/terms/?id=i126-9268&lc=en){: external}. A region is
+{{site.data.keyword.IBM}} offers two types of regions: MZRs and single-campus MZRs and both are considered an MZR. The underlying infrastructure in both types provides the same [SLA](https://www.ibm.com/support/customer/csol/terms/?id=i126-9268&lc=en){: external}. A region is
 an independent geographic territory that consists of one or more zones and is typically referred to by the metropolitan (metro) city area name like Dallas or London.
 
-Each [zone](#x2070723){: term} within the region assists with improved fault tolerance and decreased latency. A zone is identified by using two separate names. There is a zone name, for example `us-south-1` that is a logical identifier for a zone in the context of the current account. There is also a universal zone name that is the identifier for a zone that is consistent across IBM Cloud, for example `us-south-dal10-a`. The universal zone name provides the location specification for VPC resources by mapping the zone name to a physical location, such as a data center. Alternatively, the location for classic resources is not specified by zone and instead uses the specific data center within the region, such as `DAL10`. For more information about zone information specific to your account, see [Zone mapping per account](#zone-mapping).
+Each [zone](#x2070723){: term} within the region assists with improved fault tolerance and decreased latency. A zone is identified by using two separate names. There is a zone name, for example `us-south-1` that is a logical identifier for a zone in the context of the current account. There is also a universal zone name that is the identifier for a zone that is consistent across {{site.data.keyword.cloud_notm}}, for example `us-south-dal10-a`. The universal zone name provides the location specification for VPC resources by mapping the zone name to a physical location, such as a data center. Alternatively, the location for classic resources is not specified by zone and instead uses the specific data center within the region, such as `DAL10`. For more information about zone information specific to your account, see [Zone mapping per account](#zone-mapping).
 {: #zone-names}
 
 
-By distributing your workloads across three zones and consuming highly available regional cloud resources through virtual private endpoints, you can increase regional availability. Distributing a workload across multiple regions can provide higher availability and serve as the foundation for a disaster recovery plan. There are zonal, regional, and global cloud services that provide a consistent set of resources across regions. The IBM regional services are distributed across zones in an MZR and generally provide 99.99% (tier 3) availability.
+By distributing your workloads across three zones and consuming highly available regional cloud resources through virtual private endpoints, you can increase regional availability. Distributing a workload across multiple regions can provide higher availability and serve as the foundation for a disaster recovery plan. There are zonal, regional, and global cloud services that provide a consistent set of resources across regions. The {{site.data.keyword.IBM_notm}} regional services are distributed across zones in an MZR and generally provide 99.99% (tier 3) availability.
 
 
 ### Multizone regions
@@ -49,7 +49,7 @@ Offering the highest level of redundancy and availability by leveraging three se
 
 MZRs support different types of compute for both VPC and classic infrastructure resources. The location of classic resources is specified by a data center while VPC resource locations are specified by the zone. For more information about the physical locations available for your account per region for VPC resources, see [Zone mapping per account](#zone-mapping).
 
-The following table lists the IBM Cloud MZR locations and zones for the geography.
+The following table lists the {{site.data.keyword.cloud_notm}} MZR locations and zones for the geography.
 
 | Region | Zone |
 |----------|------|
@@ -101,7 +101,7 @@ SLAs are maintained because the infrastructure is set up in a concurrently maint
 ![This diagram shows a geography that contains an SC-MZR](images/single-campus-mzr.svg){: caption="Single-campus MZR" caption-side="bottom"}
 
 
-The following table lists the SC-MZR locations that are available in IBM Cloud and the associated regions and zones.
+The following table lists the SC-MZR locations that are available in {{site.data.keyword.cloud_notm}} and the associated regions and zones.
 
 | Region   | Zone |
 |----------|------|
@@ -114,11 +114,11 @@ The following table lists the SC-MZR locations that are available in IBM Cloud a
 ### Zone mapping per account
 {: #zone-mapping}
 
-Within each region, there are three or more zones that are identified in the API, SDK, CLI, and Terraform by using a `regionname-number` syntax, for example `us-south-1`. Each IBM Cloud account has a zone mapping for each region that determines the relationship between the zone and the physical location. The zones map to a physical location, which is referred to by a universal zone name by using a `regionname-datacenter-letter` syntax, for example `us-south-dal10-a`.
+Within each region, there are three or more zones that are identified in the API, SDK, CLI, and Terraform by using a `regionname-number` syntax, for example `us-south-1`. Each {{site.data.keyword.cloud_notm}} account has a zone mapping for each region that determines the relationship between the zone and the physical location. The zones map to a physical location, which is referred to by a universal zone name by using a `regionname-datacenter-letter` syntax, for example `us-south-dal10-a`.
 
 The account zone mapping is established when the first VPC resource is created in the region and is determined by IBM. You can review the assigned zone mapping for an account on the [VPC Infrastructure Overview](/infrastructure/overview#endpoints) page in the Endpoint section. You can also use the [VPC API](/apidocs/vpc#list-region-zones) to list the mapping for your account. In rare cases, you can work with your technical account manager to request a change, but each request is evaluated on a case-by-case basis.
 
-Understanding your account’s zone mapping is helpful if you’re creating a mixed VPC and Power Virtual Server application, for example. You can create your VPC resources first, and then review your zone mapping to determine which universal zone the VPC resources are in so that you can ensure that the classic resources are created in the same physical location. Classic infrastructure and IBM&reg; Power&reg; Virtual Server services locations are specified by data center while the physical location for VPC resources are specified by the universal zone name.
+Understanding your account’s zone mapping is helpful if you’re creating a mixed VPC and {{site.data.keyword.powerSys_notm}} application, for example. You can create your VPC resources first, and then review your zone mapping to determine which universal zone the VPC resources are in so that you can ensure that the classic resources are created in the same physical location. Classic infrastructure and {{site.data.keyword.powerSysFull}} services locations are specified by data center while the physical location for VPC resources are specified by the universal zone name.
 {: tip}
 
 The following table shows the available physical locations by using their universal zone name, associated data centers, and available [Point of Presence (PoP)](#x5458832){: term} locations per MZR.
@@ -179,13 +179,13 @@ The following table shows the available physical locations using their universal
 
 You can view all resources and locations from the Resource list page in the console. If you want to view and work with resources in a specific location, expand the **Location** filter, and select a location from the list. By expanding a specific location, you can select to filter by regions, zones, or individual data centers.
 
-Depending on the type of resource, you might be interested in only specific types of location data. For example, if you created a service or VPC infrastructure service, you can filter the Resource list page by the region and zone codes. However, if you're working with classic infrastructure or Power Virtual Server resources, the specific data center codes are the pertinent information for you.
+Depending on the type of resource, you might be interested in only specific types of location data. For example, if you created a service or VPC infrastructure service, you can filter the Resource list page by the region and zone codes. However, if you're working with classic infrastructure or {{site.data.keyword.powerSys_notm}} resources, the specific data center codes are the pertinent information for you.
 
 For example, if you have resources that are deployed in the London 2 (eu-gb-2) zone, you can set filters to display only those resources in your resource list. Expand the **London** metro option, and the **London (eu-gb)** region option. Within that region, you can select from the list of available zones, such as **London 2 (eu-gb-2)**.
 
 If you have a classic infrastructure resource that is deployed in a specific data center, you can identify the data center by the specific metro location and alphanumeric code. For example, use **Dallas** for the metro location and then **Dallas 10 (dal10)** for the data center.
 
-You can also view resources that are deployed in Satellite locations, which are managed by an IBM Cloud metro or region and determines where the master of your Satellite control plane runs. For example, you might have a Satellite location that's managed by the Dallas metro. Expand the **Dallas** metro option, which includes your Satellite location, like `my-satellite-dal`. For more information about the metros and regions that manage Satellite locations, see [Regions](/docs/satellite?topic=satellite-sat-regions).
+You can also view resources that are deployed in Satellite locations, which are managed by an {{site.data.keyword.Bluemix_notm}} metro or region and determines where the master of your Satellite control plane runs. For example, you might have a Satellite location that's managed by the Dallas metro. Expand the **Dallas** metro option, which includes your Satellite location, like `my-satellite-dal`. For more information about the metros and regions that manage Satellite locations, see [Regions](/docs/satellite?topic=satellite-sat-regions).
 
 You might also want to display your resources that are located globally. The **Global** option means that only one logical, globally accessible instance of the service, independent of any region or zone, is published to customer workloads. These types of resources are accessible from a global endpoint.
 
@@ -196,7 +196,7 @@ As illustrated in the following graphic, a data center is a physical building th
 ## Classic infrastructure data centers
 {: #data-centers}
 
-In addition to selecting a region for your resource, you can select from a list of the IBM Cloud data centers, if you're working with classic infrastructure or Power Virtual Server resources.
+In addition to selecting a region for your resource, you can select from a list of the {{site.data.keyword.Bluemix_notm}} data centers, if you're working with classic infrastructure or {{site.data.keyword.powerSys_notm}} resources.
 
 Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location.
 

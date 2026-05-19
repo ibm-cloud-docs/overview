@@ -11,13 +11,13 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Accelerate your IBM Cloud success with a customer success manager
+# Accelerate your {{site.data.keyword.cloud_notm}} success with a customer success manager
 {: #csm}
 
-Discover how IBM customer success managers (CSMs) help you implement use cases, optimize IBM Cloud deployments, and achieve business outcomes with IBM Cloud services.
+Discover how IBM customer success managers (CSMs) help you implement use cases, optimize {{site.data.keyword.cloud}} deployments, and achieve business outcomes with {{site.data.keyword.cloud_notm}} services.
 {: shortdesc}
 
-An IBM CSM is a technical architect who works as part of your team to accelerate your time to value and help you achieve your business outcomes as you use IBM Software and IBM Cloud services.
+An IBM CSM is a technical architect who works as part of your team to accelerate your time to value and help you achieve your business outcomes as you use IBM Software and {{site.data.keyword.cloud_notm}} services.
 
 CSMs work with IBM customers to:
 

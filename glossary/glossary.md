@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2026
-lastupdated: "2026-05-18"
+lastupdated: "2026-05-19"
 
 keywords: ibm cloud glossary, cloud terms, technical definitions, cloud computing terms, glossary, IBM Cloud glossary, terms, definitions
 
@@ -13,10 +13,10 @@ subcollection: overview
 {:shortdesc: .shortdesc}
 {:external: target="_blank" .external}
 
-# IBM Cloud glossary of terms and definitions
+# {{site.data.keyword.cloud_notm}} glossary of terms and definitions
 {: #glossary}
 
-Browse the IBM Cloud glossary for definitions of cloud computing terms, services, and technical concepts used across the IBM Cloud platform.
+Browse the {{site.data.keyword.cloud}} glossary for definitions of cloud computing terms, services, and technical concepts used across the {{site.data.keyword.cloud_notm}} platform.
 {: shortdesc}
 
 The following cross-references are used in this glossary:

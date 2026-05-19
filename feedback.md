@@ -13,10 +13,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Submitting feedback for the IBM Cloud documentation and platform
+# Submitting feedback for the {{site.data.keyword.cloud_notm}} documentation and platform
 {: #feedback}
 
-Learn how to submit feedback for IBM Cloud, including pull requests and content updates for documentation and suggestions for product improvements.
+Learn how to submit feedback for {{site.data.keyword.cloud}}, including pull requests and content updates for documentation and suggestions for product improvements.
 {: shortdesc}
 
 We want to hear from you! You can submit feedback for the {{site.data.keyword.cloud_notm}} team on the documentation or the console. You can choose from a few different methods to provide feedback.

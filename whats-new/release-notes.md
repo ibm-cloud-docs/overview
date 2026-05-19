@@ -14,10 +14,10 @@ content-type: release-note
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud platform updates: Latest release notes
+# {{site.data.keyword.cloud_notm}} platform updates: Latest release notes
 {: #whatsnew}
 
-Stay up-to-date with the latest IBM Cloud platform updates, new features, and release notes to maximize your cloud experience.
+Stay up-to-date with the latest {{site.data.keyword.cloud}} platform updates, new features, and release notes to maximize your cloud experience.
 {: shortdesc}
 
 ## April 2026

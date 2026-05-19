@@ -12,10 +12,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Navigating the IBM Cloud console interface
+# Navigating the {{site.data.keyword.cloud_notm}} console interface
 {: #ui}
 
-Learn how to manage your IBM Cloud resources using the IBM Cloud console, including accessing documentation, catalog, pricing, and support.
+Learn how to manage your {{site.data.keyword.cloud}} resources using the {{site.data.keyword.cloud_notm}} console, including accessing documentation, catalog, pricing, and support.
 {: shortdesc}
 
 The [{{site.data.keyword.cloud}} console](https://cloud.ibm.com){: external} is the user interface that you use to manage all your {{site.data.keyword.cloud_notm}} resources. You can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. After you log in, the menu bar contains a **Navigation Menu** icon ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu") and more links.

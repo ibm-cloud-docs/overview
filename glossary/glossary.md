@@ -2,7 +2,8 @@
 
 copyright:
   years: 2016, 2026
-lastupdated: "2026-05-19"
+
+lastupdated: "2026-05-20"
 
 keywords: ibm cloud glossary, cloud terms, technical definitions, cloud computing terms, glossary, IBM Cloud glossary, terms, definitions
 
@@ -10,8 +11,7 @@ subcollection: overview
 
 ---
 
-{:shortdesc: .shortdesc}
-{:external: target="_blank" .external}
+{{site.data.keyword.attribute-definition-list}}
 
 # {{site.data.keyword.cloud_notm}} glossary of terms and definitions
 {: #glossary}
@@ -23,7 +23,6 @@ The following cross-references are used in this glossary:
 
 - *See* refers you from a nonpreferred term to the preferred term or from an abbreviation to the spelled-out form.
 - *See also* refers you to a related or contrasting term.
-
 
 ## A
 {: #glossa}
@@ -73,7 +72,7 @@ Analyzing machine learning model scores to determine whether changes are needed 
 {: #x2012974}
 
 - A code snippet that can be explicitly invoked, or run in response to an event. See also [feed](#x3129185), [invoke](#x2057232).
-- A task that is performed in the context of a service.
+- A task that is performed in the context of a service. 
 
 ### adjudication
 {: #x3096333}
@@ -91,7 +90,7 @@ Two or more container group instances running on the same network node. See also
 A process that performs an action on behalf of a user or other program without user intervention or on a regular schedule, and reports the results back to the user or program.
 
 ### AI
-{: #x9443388}
+{: #x10299035}
 
 See [artificial intelligence](#x3448902).
 
@@ -136,7 +135,7 @@ Two or more container group instances that run on different network nodes to ens
 ### API key
 {: #x8051010}
 
-A unique code that is used to authenticate and authorize API requests. The code is passed to an API to identify the calling application or user and to track and control how the API is used.
+A unique code that is passed to an API to identify the calling application or user, and to send tracking data. An API key is used to track and control how the API is being used, for example, to prevent malicious use or abuse of the API.
 
 ### API operation
 {: #x9826953}
@@ -157,12 +156,12 @@ A web or mobile device application. See also [web application](#x2116500), [mobi
 ### artifact
 {: #x2262995}
 
-An entity that is used or produced by a software or systems development process. Examples of artifacts include designs, requirements, source files, plans, scripts, simulations, models, test plans, and binary executable files. In an HTTP context, artifacts have a URI and are called resources.
+An entity that is used or produced by a software or systems development process.
 
 ### artificial intelligence (AI)
 {: #x3448902}
 
-The capability to acquire, process, create and apply knowledge in the form of a model to make predictions, recommendations or decisions.
+The capability to acquire, process, create, and apply knowledge in the form of a model to make predictions, recommendations or decisions.
 
 ### artificial intelligence system (AI system)
 {: #x10065431}
@@ -288,7 +287,7 @@ Pertaining to an open, non-proprietary development platform that includes public
 ### bucket
 {: #x2072079}
 
-A container for storing unstructured data.
+A container for storing unstructured data. 
 
 ### buildpack
 {: #x7233925}
@@ -357,7 +356,7 @@ See [command-line interface](#x2051424).
 ### client secret
 {: #x7024948}
 
-A piece of information that is used with an application key to verify the identity of an application. An API can be configured to require that client applications supply their application secret with their application key. The application secret functions effectively as a password known only to the application. The application secret is passed by the client using an HTTP query parameter.
+A piece of information that is used with an application key to verify the identity of an application.
 
 ### cloud computing
 {: #x3877850}
@@ -575,7 +574,7 @@ Cloud automation for deploying a common architectural pattern that combines one 
 ### deployment
 {: #x2104544}
 
-A process that retrieves the output of a build, packages the output with configuration properties, and installs the package in a pre-defined location so that it can be tested or run. See also [stage](#x2067189).
+A process that retrieves the output of a build, packages the output with configuration properties, and installs the package in a predefined location so that it can be tested or run. See also [stage](#x2067189).
 
 ### DevOps
 {: #x5784896}
@@ -764,6 +763,11 @@ The process of adapting a pre-trained model to perform a specific task by conduc
 
 To activate a trigger.
 
+### firm order letter (FOL)
+{: #x10299035}
+
+A legally binding agreement that clients who are not required to use a purchase order can use to purchase goods or services.
+
 ### Fleiss Kappa score
 {: #x9825844}
 
@@ -773,6 +777,12 @@ A measure of how consistently the same annotation was applied by multiple human 
 {: #x6326428}
 
 A public, routable IP address that makes use of 1-to-1 network address translation (NAT) so that a server can communicate with the public internet and private subnet within a cloud environment. Floating IP addresses are associated to an instance, for example, a virtual server instance, a load balancer, or a VPN gateway, by means of a virtual network interface card (vNIC).
+
+### FOL
+{: #x10299035}
+
+See [firm order letter](#x10299035).
+
 
 ### foundation model
 {: #x10298171}
@@ -885,7 +895,7 @@ The process of determining how much improvement in accuracy, precision, or recal
 ### health check
 {: #x4571658}
 
-A process that monitors system resources and conditions to determine whether the system is running efficiently. The health check can be configured to report potential problems and to display warnings and fail levels before the integrity of the system is compromised.
+A process that monitors system resources and conditions to determine whether the system is running efficiently.
 
 ### heavy API call
 {: #x7690468}
@@ -895,7 +905,7 @@ A client operation that writes, deletes, or inserts data. Heavy API calls consum
 ### high availability (HA)
 {: #x2284708}
 
-The ability of a service or workload to withstand failures and continue providing processing capability according to some predefined service level. For services, availability is defined in the Service Level Agreement. Availability includes both planned and unplanned events, such as maintenance, failures, and disasters.  See also [disaster recovery](#x2113280).
+The ability of a service or workload to withstand failures and continue providing processing capability according to some predefined service level. See also [disaster recovery](#x2113280).
 
 ### HMAC
 {: #x3560783}
@@ -1090,7 +1100,6 @@ A group of executable tasks and operations that can be run as a batch. As a resu
 
 See [JavaScript Object Notation](#x3292165).
 
-
 ## K
 {: #glossk}
 
@@ -1160,7 +1169,7 @@ See [large language model](#x10298052).
 ### load balancer
 {: #x2788902}
 
-Software or hardware that distributes workload across a set of servers to ensure that servers are not overloaded. The load balancer also directs users to another server if the initial server fails.
+Software or hardware that distributes workload across a set of servers to ensure that servers are not overloaded.
 
 ### load balancer as a service (LBaaS)
 {: #x9829528}
@@ -1259,7 +1268,7 @@ See [machine learning](#x8397498).
 ### MLOps
 {: #x10072886}
 
- A methodology that takes a machine learning model from development to production.
+A methodology that takes a machine learning model from development to production.
 
 ### mobile app
 {: #x7636517}
@@ -1377,13 +1386,7 @@ An HTTP-based authorization protocol that gives applications scoped access to a 
 
 A container image that is compliant with the OCI Image Format Specification
 
-### on-prem
-{: #x6969434}
-
-See [on-premises](#x4561212).
-
-
-### on-premises (on-prem)
+### on-premises
 {: #x4561212}
 
 Pertaining to software that is installed and run on the local computers of a user or organization.
@@ -1497,6 +1500,11 @@ The packaging construct by which APIs are made available to consumers. A plan ma
 
 The delivery of a computing platform, including applications, optimized middleware, development tools, and Java and Web 2.0 runtime environments, in a cloud-based environment.
 
+### PO
+{: #x4265773}
+
+See [purchase order](#x4264097).
+
 ### pod
 {: #x8461823}
 
@@ -1542,7 +1550,7 @@ A cloud computing environment in which access is limited to members of an enterp
 ### private key
 {: #x2034701}
 
-An algorithmic pattern used to encrypt messages that only the corresponding public key can decrypt. The private key is also used to decrypt messages that were encrypted by the corresponding public key. The private key is kept on the user system and is protected by a password.
+An algorithmic pattern used to encrypt messages that only the corresponding public key can decrypt.
 
 ### private resource
 {: #x9439035}
@@ -1562,12 +1570,12 @@ A .pear archive file that includes an Unstructured Information Management Archit
 ### profile
 {: #x2034950}
 
-- A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
+A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
 
 ### project
 {: #x2035151}
 
-A collection of artifacts that define and manage resources and Infrastructure as Code deployments.
+A collection of artifacts that define and manage resources and Infrastructure as Code deployments. 
 
 ### promo code
 {: #x8440874}
@@ -1619,6 +1627,11 @@ An entry that is visible to everyone in the IBM Cloud catalog. Public resources 
 
 The process of moving an application or product from staging so that the plans and APIs included within it are available for application developers to access and use.
 
+### purchase order (PO)
+{: #x4264097}
+
+An authorized order to an external vendor or internal supplier.
+
 ### push
 {: #x2035465}
 
@@ -1666,7 +1679,7 @@ A measurement that specifies the percentage of relevant results returned, out of
 ### recovery point objective (RPO)
 {: #x3429911}
 
-In disaster recovery planning, the time at which data is restored measured in time  (seconds, minutes, hours) starting at the recovered instance and ending at the point of disaster.
+In disaster recovery planning, the time at which data is restored measured in time  (seconds, minutes, hours) starting at the recovered instance and ending at the point of disaster. 
 
 ### recovery time objective (RTO)
 {: #x3167918}
@@ -1722,7 +1735,7 @@ A software architectural style that guides the design and development of the arc
 ### resource
 {: #x2004267}
 
- A physical or logical instance that can be provisioned or reserved. Examples of resources can include storage, processors, memory, databases, clusters, and VMs.
+A physical or logical instance that can be provisioned or reserved. Examples of resources can include storage, processors, memory, databases, clusters, and VMs. 
 
 ### resource group
 {: #x2161955}
@@ -1836,7 +1849,7 @@ A specification of the settings for a particular aspect of API security; for exa
 ### security group
 {: #x2066040}
 
-A resource that provides rules to filter IP traffic to resources in a virtual private cloud. Rules are stateful, such that packets in response to allowed packets are automatically permitted.
+A resource that provides rules to filter IP traffic to resources in a virtual private cloud. Rules are stateful, such that packets in response to allowed packets are automatically permitted. 
 
 ### select availability
 {: #x9773835}
@@ -2093,7 +2106,7 @@ An answer or annotation that is actually correct and is predicted to be correct.
 ### trusted profile
 {: #x10127466}
 
- A grouping of federated users, compute resources, or both, that are granted the same IAM access. When an identity applies a trusted profile, temporary security credentials are provided for the duration of a session. All identities that are allowed to apply a single profile inherit the same access.
+A grouping of federated users, compute resources, or both, that are granted the same IAM access. When an identity applies a trusted profile, temporary security credentials are provided for the duration of a session. All identities that are allowed to apply a single profile inherit the same access.
 
 ### trusted root
 {: #x2042234}

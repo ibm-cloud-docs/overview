@@ -287,7 +287,7 @@
         "Senses": [
           {
             "Definitions": [
-              "A unique code that is used to authenticate and authorize API requests. The code is passed to an API to identify the calling application or user and to track and control how the API is used."
+              "A unique code that is passed to an API to identify the calling application or user, and to send tracking data. An API key is used to track and control how the API is being used, for example, to prevent malicious use or abuse of the API."
             ]
           }
         ]
@@ -347,7 +347,7 @@
         "Senses": [
           {
             "Definitions": [
-              "An entity that is used or produced by a software or systems development process. Examples of artifacts include designs, requirements, source files, plans, scripts, simulations, models, test plans, and binary executable files. In an HTTP context, artifacts have a URI and are called resources."
+              "An entity that is used or produced by a software or systems development process."
             ]
           }
         ]
@@ -362,7 +362,7 @@
         "Senses": [
           {
             "Definitions": [
-              "The capability to acquire, process, create and apply knowledge in the form of a model to make predictions, recommendations or decisions."
+              "The capability to acquire, process, create, and apply knowledge in the form of a model to make predictions, recommendations or decisions."
             ]
           }
         ]
@@ -832,7 +832,7 @@
         "Senses": [
           {
             "Definitions": [
-              "A piece of information that is used with an application key to verify the identity of an application. An API can be configured to require that client applications supply their application secret with their application key. The application secret functions effectively as a password known only to the application. The application secret is passed by the client using an HTTP query parameter."
+              "A piece of information that is used with an application key to verify the identity of an application."
             ]
           }
         ]
@@ -1447,7 +1447,7 @@
         "Senses": [
           {
             "Definitions": [
-              "A process that retrieves the output of a build, packages the output with configuration properties, and installs the package in a pre-defined location so that it can be tested or run."
+              "A process that retrieves the output of a build, packages the output with configuration properties, and installs the package in a predefined location so that it can be tested or run."
             ]
           }
         ]
@@ -1960,6 +1960,21 @@
     ]
   },
   {
+    "Lemma": "firm order letter (FOL)",
+    "ID": "x10299035",
+    "Homonyms": [
+      {
+        "Senses": [
+          {
+            "Definitions": [
+              "A legally binding agreement that clients who are not required to use a purchase order can use to purchase goods or services."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Lemma": "Fleiss Kappa score",
     "ID": "x9825844",
     "Homonyms": [
@@ -2222,7 +2237,7 @@
         "Senses": [
           {
             "Definitions": [
-              "A process that monitors system resources and conditions to determine whether the system is running efficiently. The health check can be configured to report potential problems and to display warnings and fail levels before the integrity of the system is compromised."
+              "A process that monitors system resources and conditions to determine whether the system is running efficiently."
             ]
           }
         ]
@@ -2252,7 +2267,7 @@
         "Senses": [
           {
             "Definitions": [
-              "The ability of a service or workload to withstand failures and continue providing processing capability according to some predefined service level. For services, availability is defined in the Service Level Agreement. Availability includes both planned and unplanned events, such as maintenance, failures, and disasters. "
+              "The ability of a service or workload to withstand failures and continue providing processing capability according to some predefined service level."
             ]
           }
         ]
@@ -2747,7 +2762,7 @@
         "Senses": [
           {
             "Definitions": [
-              "Software or hardware that distributes workload across a set of servers to ensure that servers are not overloaded. The load balancer also directs users to another server if the initial server fails."
+              "Software or hardware that distributes workload across a set of servers to ensure that servers are not overloaded."
             ]
           }
         ]
@@ -3180,7 +3195,7 @@
     ]
   },
   {
-    "Lemma": "on-premises (on-prem)",
+    "Lemma": "on-premises",
     "ID": "x4561212",
     "Homonyms": [
       {
@@ -3537,7 +3552,7 @@
         "Senses": [
           {
             "Definitions": [
-              "An algorithmic pattern used to encrypt messages that only the corresponding public key can decrypt. The private key is also used to decrypt messages that were encrypted by the corresponding public key. The private key is kept on the user system and is protected by a password."
+              "An algorithmic pattern used to encrypt messages that only the corresponding public key can decrypt."
             ]
           }
         ]
@@ -3768,6 +3783,21 @@
           {
             "Definitions": [
               "The process of moving an application or product from staging so that the plans and APIs included within it are available for application developers to access and use."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Lemma": "purchase order (PO)",
+    "ID": "x4264097",
+    "Homonyms": [
+      {
+        "Senses": [
+          {
+            "Definitions": [
+              "An authorized order to an external vendor or internal supplier."
             ]
           }
         ]

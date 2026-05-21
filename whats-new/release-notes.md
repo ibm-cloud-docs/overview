@@ -46,7 +46,7 @@ Change payment method to a credit card
 {: release-notes}
 
 Creating new identity provider integrations by using {{site.data.keyword.cloud_notm}} SAML
-:   {{site.data.keyword.appid_full_notm}} can no longer be used to create new identity provider (IdP) configurations. The {{site.data.keyword.cloud_notm}} SAML service provider is now the recommended method for new IdP integrations. However, existing users can continue to manage any existing {{site.data.keyword.appid_full_notm}} IdPs without interruption. For more information, see [What is the most suitable federation option for you?](/docs/account?topic=account-federation-option-for-you).
+:   {{site.data.keyword.appid_full_notm}} can no longer be used to create new identity provider (IdP) configurations. The {{site.data.keyword.cloud_notm}} SAML service provider is now the recommended method for new IdP integrations. However, existing users can continue to manage any existing {{site.data.keyword.appid_full_notm}} IdPs without interruption. For more information, see [What is the most suitable federation option for you?](/docs/iam?topic=iam-federation-option-for-you).
 
 ## March 2026
 {: #march-2026}
@@ -59,10 +59,10 @@ Creating integrated policy assignments with custom role templates
 :   You can now create custom roles directly within the policy assignment workflow when you're creating policy templates, trusted profile templates, and access group templates. You can define precise permissions that are tailored to your organization’s needs without leaving the template creation workflow. The custom role is automatically added to your template and can be used alongside existing platform and service roles. For more information, see [Creating enterprise-managed policy templates](/docs/enterprise-management?topic=enterprise-management-policy-template-create&interface=ui#create-standalone-policytemplate-ui), [Creating enterprise-managed trusted profile templates](/docs/enterprise-management?topic=enterprise-management-tp-template-create&interface=ui#add-access-tp-template), and [Creating enterprise-managed access group templates](/docs/enterprise-management?topic=enterprise-management-ag-template-create&interface=ui#add-access-ag-template).
 
 Customizing the console experience for trusted profiles
-:   As a trusted profile administrator, you can now customize the {{site.data.keyword.cloud_notm}} console navigation experience for users who apply a trusted profile. This feature streamlines the user experience by hiding unnecessary navigation elements and restricting access to areas where users don't have the required permissions. For more information, see [Customizing the console experience](/docs/account?topic=account-create-trusted-profile&interface=ui#customize-console-experience).
+:   As a trusted profile administrator, you can now customize the {{site.data.keyword.cloud_notm}} console navigation experience for users who apply a trusted profile. This feature streamlines the user experience by hiding unnecessary navigation elements and restricting access to areas where users don't have the required permissions. For more information, see [Customizing the console experience](/docs/iam?topic=iam-create-trusted-profile&interface=ui&interface=ui#customize-console-experience).
 
 Share SAML IdP across {{site.data.keyword.cloud_notm}} accounts
-:   You can now share your {{site.data.keyword.cloud_notm}} SAML identity provider (IdP) configurations with other accounts in your organization or enterprise. This feature simplifies IdP management by reusing a single configuration across multiple accounts. For more information, see [Sharing an {{site.data.keyword.cloud_notm}} SAML IdP configuration](/docs/account?topic=account-ibm-idp-integration#share-saml).
+:   You can now share your {{site.data.keyword.cloud_notm}} SAML identity provider (IdP) configurations with other accounts in your organization or enterprise. This feature simplifies IdP management by reusing a single configuration across multiple accounts. For more information, see [Sharing an {{site.data.keyword.cloud_notm}} SAML IdP configuration](/docs/iam?topic=iam-ibm-idp-integration#share-saml).
 
 ## February 2026
 {: #february-2026}
@@ -83,7 +83,7 @@ Mumbai - Airtel single-campus MZR availability
 {: release-note}
 
 Report technical issues with a Basic support plan
-:   Users with a Basic support plan can now report technical issues about the {{site.data.keyword.cloud_notm}} platform or third-party products available in the {{site.data.keyword.cloud_notm}} catalog. While these technical issue reports do not include direct interaction with the support team, they enable Basic plan users to document and track platform-related technical problems. If an issue requires advanced support case handling, users can upgrade their support plan. For more information, see [Reporting a technical issue](/docs/account?topic=account-using-avatar#report-issue).
+:   Users with a Basic support plan can now report technical issues about the {{site.data.keyword.cloud_notm}} platform or third-party products available in the {{site.data.keyword.cloud_notm}} catalog. While these technical issue reports do not include direct interaction with the support team, they enable Basic plan users to document and track platform-related technical problems. If an issue requires advanced support case handling, users can upgrade their support plan. For more information, see [Reporting a technical issue](/docs/support?topic=support-using-avatar#report-issue).
 
 The IBM certificate for ISO 31000 will be deprecated
 :   ISO 31000 is a guidance-only risk management standard for which the {{site.data.keyword.cloud_notm}} certificate is scheduled to expire in October 2026. {{site.data.keyword.cloud_notm}} does not intend to renew it. The risk management principals that are referenced in ISO 31000 are already incorporated and independently assessed through existing compliance programs including ISO/IEC 27001, ISO/IEC 22301, SOC 2, and PCI DSS. There is no impact to control implementation, risk management practices, or {{site.data.keyword.cloud_notm}}'s security posture. You can continue to rely on existing certifications and audit reports as evidence of established and independently validated risk management. This notification is provided for your awareness and does not require any action.
@@ -155,7 +155,7 @@ Centralized IAM policy support for enterprise log routing
 {: release-note}
 
 Federate enterprise IdP administrators to {{site.data.keyword.cloud_notm}} by using SAML
-:   {{site.data.keyword.cloud_notm}} now supports SAML-based identity federation directly through {{site.data.keyword.cloud_notm}} IAM, enabling customers to federate identities from their external Identity Providers (IdPs) to manage {{site.data.keyword.cloud_notm}} resources. This enhancement helps ensure continuity for existing {{site.data.keyword.appid_short}} integrations and provides a seamless path for onboarding to the new federation capability with minimal impact. For more information, see [Enabling authentication from an external identity provider](/docs/account?topic=account-ibm-idp-integration).
+:   {{site.data.keyword.cloud_notm}} now supports SAML-based identity federation directly through {{site.data.keyword.cloud_notm}} IAM, enabling customers to federate identities from their external Identity Providers (IdPs) to manage {{site.data.keyword.cloud_notm}} resources. This enhancement helps ensure continuity for existing {{site.data.keyword.appid_short}} integrations and provides a seamless path for onboarding to the new federation capability with minimal impact. For more information, see [Enabling authentication from an external identity provider](/docs/iam?topic=iam-ibm-idp-integration).
 
 Stand-alone policy templates in IAM
 :   IAM supports the creation of stand-alone policy templates. This capability enables enterprise administrators to define access rules independently, without linking them to an access group or trusted profile template. It centralizes policy management, reduces duplication, and simplifies applying consistent access rules across enterprise accounts. For more information, see [Creating a stand-alone policy template](/docs/enterprise-management?topic=enterprise-management-policy-template-create&interface=ui#create-standalone-policytemplate-ui).
@@ -214,7 +214,7 @@ Experimental: Customize a deployable architecture from the catalog
 {: release-note}
 
 Service ID limits are increased with groups
-:   With Service ID groups, your account can now contain up to 100,000 service IDs, with up to 2,000 service IDs in each group. Existing service IDs were added to the default group. For more information, see [Creating and working with service IDs](/docs/account?topic=account-serviceids&interface=ui#serviceids).
+:   With Service ID groups, your account can now contain up to 100,000 service IDs, with up to 2,000 service IDs in each group. Existing service IDs were added to the default group. For more information, see [Creating and working with service IDs](/docs/iam?topic=iam-serviceids&interface=ui#serviceids).
 
 ## November 2024
 {: #novemeber-2024}
@@ -379,7 +379,7 @@ Duplicate configurations in your project
 {: release-note}
 
 Limit access with resource attribute-based conditions
-:   {{site.data.keyword.Bluemix_notm}} IAM is excited to give customers the ability to grant access based on multiple resource attribute-based conditions. With this ability, you can create a single policy with various conditions instead of individual access policies. For more information, see [Limiting access with resource attribute-based conditions](/docs/account?topic=account-iam-time-based).
+:   {{site.data.keyword.Bluemix_notm}} IAM is excited to give customers the ability to grant access based on multiple resource attribute-based conditions. With this ability, you can create a single policy with various conditions instead of individual access policies. For more information, see [Limiting access with resource attribute-based conditions](/docs/iam?topic=iam-iam-time-based&interface=ui).
 
 
 ## November 2023
@@ -433,7 +433,7 @@ Selecting currency
 Symantec VIP 2FA is deprecated
 :   If you are currently using Symantec VIP as your external authentication method, you can continue to use it and add subscribers as needed until 26 October 2024. If you are not already using Symantec VIP, then you can't purchase Symantec VIP to use as your external authentication method as of 26 October 2023.
 
-   All customers currently using Symantec VIP must migrate to {{site.data.keyword.cloud_notm}} MFA by 26 October 2024. For more information about how easy is it to migrate to this no-cost MFA option, see [Migrating to {{site.data.keyword.cloud_notm}} MFA](/docs/account?topic=account-migrate-mfa).
+   All customers currently using Symantec VIP must migrate to {{site.data.keyword.cloud_notm}} MFA by 26 October 2024. For more information about how easy is it to migrate to this no-cost MFA option, see [Migrating to {{site.data.keyword.cloud_notm}} MFA](docs/iam?topic=iam-migrate-mfa).
 
 ### 19 October 2023
 {: #overview-oct1923}
@@ -558,7 +558,7 @@ Specify language support for community-supported products
 {: release-note}
 
 View email notification history
-:   You can use the Communication history page in the console to check the status of all email notifications that are sent you to verify if the emails are being delivered successfully. You can also view the last 90 days of {{site.data.keyword.cloud_notm}} email history, which can help save you time troubleshooting any delivery issues without needing to contact {{site.data.keyword.IBM_notm}} support. For more information, see [Checking the delivery status of email notifications and viewing email history](/docs/account?topic=account-viewing-notifications).
+:   You can use the Communication history page in the console to check the status of all email notifications that are sent you to verify if the emails are being delivered successfully. You can also view the last 90 days of {{site.data.keyword.cloud_notm}} email history, which can help save you time troubleshooting any delivery issues without needing to contact {{site.data.keyword.IBM_notm}} support. For more information, see [Checking the delivery status of email notifications and viewing email history](/docs/support?topic=support-viewing-notifications).
 
 ### 04 April 2023
 {: #overview-apr0423}
@@ -578,10 +578,10 @@ Add a custom provider name for your private products
 {: release-note}
 
 Generate a report on the MFA status of account users
-:   Users that don't meet MFA requirements leave your account vulnerable. You can now identify the users in your account that don't satisfy your MFA requirements. For more information, see [Identifying a user's MFA status](/docs/account?topic=account-id-user-mfa).
+:   Users that don't meet MFA requirements leave your account vulnerable. You can now identify the users in your account that don't satisfy your MFA requirements. For more information, see [Identifying a user's MFA status](/docs/iam?topic=iam-id-user-mfa).
 
 An extra layer of security for users that don't use MFA
-:   {{site.data.keyword.Bluemix_notm}} recommends enabling multifactor authentication (MFA) for all users in your account, but some automation scenarios might require you to exclude specific users from your MFA requirement. For users that are excluded from MFA, you can make access more secure by disabling CLI logins with only a username and password. This way, you require an API key to log in to the CLI or users can log in with `--sso`. For more information, see [Disabling MFA](/docs/account?topic=account-enablemfa#disablemfa).
+:   {{site.data.keyword.Bluemix_notm}} recommends enabling multifactor authentication (MFA) for all users in your account, but some automation scenarios might require you to exclude specific users from your MFA requirement. For users that are excluded from MFA, you can make access more secure by disabling CLI logins with only a username and password. This way, you require an API key to log in to the CLI or users can log in with `--sso`. For more information, see [Disabling MFA](/docs/iam?topic=iam-enablemfa#disablemfa).
 
 ## February 2023
 {: #february-2023}
@@ -591,7 +591,7 @@ An extra layer of security for users that don't use MFA
 {: release-note}
 
 User-specific MFA
-:   You can now enforce user-specific multifactor authentication (MFA) requirements that differ from the account default MFA setting. After you update the MFA requirement for an individual user, view a list of users that have unique MFA requirements in the account by going to Manage > Access (IAM) > Settings > Authentication. For more information, see [Enabling MFA for an individual user](/docs/account?topic=account-enablemfa&interface=ui#enabling-user).
+:   You can now enforce user-specific multifactor authentication (MFA) requirements that differ from the account default MFA setting. After you update the MFA requirement for an individual user, view a list of users that have unique MFA requirements in the account by going to Manage > Access (IAM) > Settings > Authentication. For more information, see [Enabling MFA for an individual user](/docs/iam?topic=iam-enablemfa&interface=ui#enabling-user).
 
 ### 20 February 2023
 {: #overview-20feb23}
@@ -608,17 +608,17 @@ Download and read {{site.data.keyword.cloud_notm}} docs offline
 {: release-note}
 
 New services integrating with context-based restriction
-:   Services continue to integrate with the {{site.data.keyword.Bluemix_notm}} platform's context-based restrictions feature, including [{{site.data.keyword.vpc_full}} (VPC) Infrastructure Services](/docs/vpc?topic=vpc-cbr). To see a full list of services that can use context-based restrictions to define and enforce access restrictions on their resources, see [Services integrated with context-based restrictions](/docs/account?topic=account-context-restrictions-whatis#cbr-adopters).
+:   Services continue to integrate with the {{site.data.keyword.Bluemix_notm}} platform's context-based restrictions feature, including [{{site.data.keyword.vpc_full}} (VPC) Infrastructure Services](/docs/vpc?topic=vpc-cbr). To see a full list of services that can use context-based restrictions to define and enforce access restrictions on their resources, see [Services integrated with context-based restrictions](/docs/iam?topic=iam-context-restrictions-whatis#cbr-adopters).
 
 ### 25 January 2023
 {: #overview-25jan23}
 {: release-note}
 
 Time-based conditions in IAM access policies
-:   {{site.data.keyword.Bluemix_notm}} IAM is excited to give customers the ability to set access controls based on a specified time and date. You can now create policies that grant employees access to a resource during only their working hours, or grant automated processes temporary access for a specified duration. Implementing such limitations helps you to apply the principle of least privilege for assigning access and reduces the opportunity for attack in the event of a security breach. For more information, see [Limiting access with time-based conditions](/docs/account?topic=account-iam-time-based&interface=ui).
+:   {{site.data.keyword.Bluemix_notm}} IAM is excited to give customers the ability to set access controls based on a specified time and date. You can now create policies that grant employees access to a resource during only their working hours, or grant automated processes temporary access for a specified duration. Implementing such limitations helps you to apply the principle of least privilege for assigning access and reduces the opportunity for attack in the event of a security breach. For more information, see [Limiting access with time-based conditions](/docs/iam?topic=iam-iam-time-based&interface=ui&interface=ui).
 
 IAM Policy Management API V2 release
-:   A new version (`v2`) of the IAM Policy Management API is now available. This version adds a new JSON schema to support a conditional policy construct and several time-based comparison operators. These operators provide the capability to restrict access based on time and date. With time-based access control, customers can establish granular policy enforcement based on a specified time period. For more information, see the [IAM Policy Management API change log](/docs/account?topic=account-api-change-log&interface=ui)
+:   A new version (`v2`) of the IAM Policy Management API is now available. This version adds a new JSON schema to support a conditional policy construct and several time-based comparison operators. These operators provide the capability to restrict access based on time and date. With time-based access control, customers can establish granular policy enforcement based on a specified time period. For more information, see the [IAM Policy Management API change log](/docs/iam?topic=iam-api-change-log)
 
 ### 09 January 2023
 {: #overview-09jan23}
@@ -671,17 +671,17 @@ Catalog integration with Virtual Private Cloud custom images
 Enabling {{site.data.keyword.en_full_notm}} for the notification distribution list
 :   You can now easily add {{site.data.keyword.en_short}} instances to the notification distribution list and receive account-wide {{site.data.keyword.cloud_notm}} notifications. With {{site.data.keyword.en_short}}, you can choose to deliver your notifications to different destinations, including email, SMS, or webhooks. When an event of interest occurs on the {{site.data.keyword.cloud_notm}} platform and an event is generated, the notification distribution list communicates with a connected {{site.data.keyword.en_short}} instance to forward a notification to the supported destination.
 
-For more information, see [Enabling {{site.data.keyword.en_short}} for the notification distribution list](/docs/account?topic=account-add-users-distribution-list#event-notifications-distribution-list).
+For more information, see [Enabling {{site.data.keyword.en_short}} for the notification distribution list](/docs/support?topic=support-add-users-distribution-list#event-notifications-distribution-list).
 
 ### 26 September 2022
 {: #overview-26sept2022}
 {: release-note}
 
 Identifying inactive policies
-:   To reduce the number of policies in your account and keep only the minimum access that is necessary for each user, you can now identify the infrequently used access policies on the [Inactive policies](/iam/inactive-policies) page in the console. You can determine whether to remove the inactive policies, or in some cases, you might expect an infrequently used policy. For more information, see [Managing inactive policies](/docs/account?topic=account-iam-audit-policies&interface=ui#iam-audit-policies-list).
+:   To reduce the number of policies in your account and keep only the minimum access that is necessary for each user, you can now identify the infrequently used access policies on the [Inactive policies](/iam/inactive-policies) page in the console. You can determine whether to remove the inactive policies, or in some cases, you might expect an infrequently used policy. For more information, see [Managing inactive policies](/docs/iam?topic=iam-iam-audit-policies&interface=ui).
 
 Exporting user access reports
-:   Make sure that users have only the access that they need. Export an access policy report for any user in your account to view all of the access policies that they are assigned. For more information, see [Exporting user access policy reports](/docs/account?topic=account-iam-audit-policies&interface=ui#audit-user-access-policies).
+:   Make sure that users have only the access that they need. Export an access policy report for any user in your account to view all of the access policies that they are assigned. For more information, see [Exporting user access policy reports](/docs/iam?topic=iam-audit-user-access).
 
 ### 22 September 2022
 {: #overview-22sept2022}
@@ -705,14 +705,14 @@ Attaching tags on service IDs
 :   In addition to tagging resources, you can now attach user tags and access management tags on service IDs. User tags help you group service IDs for usage reports, and you can use access management tags to control access to your service IDs. For more information, see [Working with tags](/docs/account?topic=account-tag&interface=ui).
 
 Specifying a user onboarding strategy
-:   If you’re [Enabling and connecting your identity provider](/docs/account?topic=account-ibm-idp-integration), you can now specify how you want to onboard users to the account upon first-time login. This way, you can add each user to your account when they log in the first time, add users to your account only if they log in and don't select a trusted profile, or never add users to your account and provide access only by using trusted profiles. For more information about trusted profiles, see [Creating trusted profiles](/docs/account?topic=account-create-trusted-profile).
+:   If you’re [Enabling and connecting your identity provider](/docs/iam?topic=iam-ibm-idp-integration), you can now specify how you want to onboard users to the account upon first-time login. This way, you can add each user to your account when they log in the first time, add users to your account only if they log in and don't select a trusted profile, or never add users to your account and provide access only by using trusted profiles. For more information about trusted profiles, see [Creating trusted profiles](/docs/iam?topic=iam-create-trusted-profile&interface=ui).
 
 ### 02 September 2022
 {: #overview-02september2022}
 {: release-note}
 
 Increased policy limit
-:   The shared limit for IAM policies and context-based restrictions has increased from 2010 to 4020 so that you don't need to [request an increase to the limit in your account](/docs/account?topic=account-account-limits&interface=cli#limit-increase) as you grow your organizational capacity. For more information, see [Known issues and limitations](/docs/account?topic=account-known-issues).
+:   The shared limit for IAM policies and context-based restrictions has increased from 2010 to 4020 so that you don't need to [request an increase to the limit in your account](/docs/iam?topic=iam-account-limits&interface=cli#limit-increase) as you grow your organizational capacity. For more information, see [Known issues and limitations](/docs/account?topic=account-known-issues).
 
 ## August 2022
 {: #august-2022}
@@ -732,7 +732,7 @@ Choose from dark or light themes in the console
 {: release-note}
 
 Monitoring context-based restrictions
-:   To help you predict how context-based restrictions might affect users, applications, and workflows, {{site.data.keyword.cloud_notm}} is excited to release report-only mode for rules. You can enable context-based restrictions during creation, or choose to set the rule to report-only mode. Using {{site.data.keyword.cloudaccesstrailshort}}, you can monitor the impact of enabled rules, or view report-only rules to see how they will affect your users, applications, and workflows without enforcing the rule. For more information, see [Monitoring context-based restrictions](/docs/account?topic=account-cbr-monitor).
+:   To help you predict how context-based restrictions might affect users, applications, and workflows, {{site.data.keyword.cloud_notm}} is excited to release report-only mode for rules. You can enable context-based restrictions during creation, or choose to set the rule to report-only mode. Using {{site.data.keyword.cloudaccesstrailshort}}, you can monitor the impact of enabled rules, or view report-only rules to see how they will affect your users, applications, and workflows without enforcing the rule. For more information, see [Monitoring context-based restrictions](/docs/iam?topic=iam-cbr-monitor).
 
 ### 08 July 2022
 {: #overview-08july2022}
@@ -756,7 +756,7 @@ Onboarding software to sell on {{site.data.keyword.cloud_notm}} by using the API
 {: release-note}
 
 Identify inactive identities
-:   You can create a report in the [{{site.data.keyword.cloud_notm}} console](/iam/inactive-identities) to identify which users, service IDs, trusted profiles, and API keys in your account are inactive. Removing access for inactive identities can reduce the risk of unauthorized access to your {{site.data.keyword.cloud}} resources and help you manage access more efficiently. For more information, see [Identifying inactive identities](/docs/account?topic=account-id-inactive-identities).
+:   You can create a report in the [{{site.data.keyword.cloud_notm}} console](/iam/inactive-identities) to identify which users, service IDs, trusted profiles, and API keys in your account are inactive. Removing access for inactive identities can reduce the risk of unauthorized access to your {{site.data.keyword.cloud}} resources and help you manage access more efficiently. For more information, see [Identifying inactive identities](/docs/iam?topic=iam-id-inactive-identities).
 
 Updated process for assigning access
 :   Assigning IAM, Classic Infrastructure, and {{site.data.keyword.ibmcf_notm}} access just got more streamlined. When assigning access, each service that you select has an in-context description. You can also find all IAM access policy and access group information for an identity under a single tab. Check out the updated process by assigning access to any user, service ID, or trusted profile.
@@ -813,7 +813,7 @@ Adding custom service parameters for your service
 {: release-note}
 
 Trusted profiles are now members of access groups
-:   You can now add trusted profiles as members of access groups like other IAM identities, such as users and service IDs. For more information, see [Creating trusted profiles](/docs/account?topic=account-create-trusted-profile) and [Setting up access groups](/docs/account?topic=account-groups).
+:   You can now add trusted profiles as members of access groups like other IAM identities, such as users and service IDs. For more information, see [Creating trusted profiles](/docs/iam?topic=iam-create-trusted-profile&interface=ui) and [Setting up access groups](/docs/iam?topic=iam-groups&interface=ui).
 
 ### 1 March 2022
 {: #overview-mar0122}

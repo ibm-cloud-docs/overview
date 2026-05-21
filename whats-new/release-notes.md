@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-05-19"
+lastupdated: "2026-05-21"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,16 @@ content-type: release-note
 
 Stay up-to-date with the latest {{site.data.keyword.cloud}} platform updates, new features, and release notes to maximize your cloud experience.
 {: shortdesc}
+
+## May 2026
+{: #may-2026}
+
+### 21 May 2026
+{: #overview-may2126}
+{: release-note}
+
+Copy documentation as Markdown for AI and LLM workflows
+:   A new **Copy as Markdown** button is now available at the top of every {{site.data.keyword.cloud_notm}} documentation page. This feature enables you to instantly copy the full page content to your clipboard in Markdown format, optimized for use with AI assistants and large language models (LLMs). The copied content preserves all essential formatting including headings, code blocks, inline code, tables, and lists while removing unnecessary elements, making it ideal for AI-powered workflows. Use this feature to quickly provide context to AI tools or integrate {{site.data.keyword.cloud_notm}} documentation into your AI-assisted development processes.
 
 ## April 2026
 {: #april-2026}

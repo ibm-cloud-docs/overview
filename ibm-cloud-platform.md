@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-05-21"
 
 keywords: ibm cloud platform, paas, iaas, hybrid cloud, multicloud, console, platform overview, overview, catalog, IBM Cloud catalog
 
@@ -402,10 +402,10 @@ Use the {{site.data.keyword.logs_full}} service to monitor the activity of your 
 ## Viewing status
 {: #status-service}
 
-The {{site.data.keyword.Bluemix_notm}} Status page is the central place to find all unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix_notm}} platform. You can filter these categories by selecting specific locations, components, types of ongoing events, or by using keyword searches. For more information, see [Viewing cloud status](/docs/account?topic=account-viewing-cloud-status&interface=ui#view-status-page).
+The {{site.data.keyword.Bluemix_notm}} Status page is the central place to find all unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix_notm}} platform. You can filter these categories by selecting specific locations, components, types of ongoing events, or by using keyword searches. For more information, see [Viewing cloud status](/docs/support?topic=support-viewing-status).
 
 
 ## Notification preferences
 {: #notification-preference}
 
-Depending on your {{site.data.keyword.Bluemix_notm}} account type, you can choose to receive email notifications about {{site.data.keyword.Bluemix_notm}} platform-related items and resource-related items from the [Notification preferences page](https://cloud.ibm.com/user/notifications){: external}. Platform-related items include announcements, billing and usage, and ordering. Resource-related items include incidents, maintenance, security bulletins, and resource activity. For more information, see [Setting email preferences for notifications](/docs/account?topic=account-email-prefs).
+Depending on your {{site.data.keyword.Bluemix_notm}} account type, you can choose to receive email notifications about {{site.data.keyword.Bluemix_notm}} platform-related items and resource-related items from the [Notification preferences page](https://cloud.ibm.com/user/notifications){: external}. Platform-related items include announcements, billing and usage, and ordering. Resource-related items include incidents, maintenance, security bulletins, and resource activity. For more information, see [Setting email preferences for notifications](/docs/support?topic=support-email-prefs).

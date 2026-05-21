@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-05-21"
 
 keywords: ibm cloud ai assistant, watsonx, ai help, documentation assistant, AI assistant, AI help
 
@@ -66,7 +66,7 @@ When you chat with a live support agent, English and Japanese are the two suppor
 ### Getting support case status
 {: #support-case-status}
 
-You can use the AI assistant in the console to get a quick status on the open cases in the account, if you have the correct access assigned. As an account owner, you have access to all cases, but if you're not the account owner, you must be assigned a specific access policy to view and manage cases. For more information about the required access to work with cases see, [Managing access to support cases](/docs/account?topic=account-access-cases).
+You can use the AI assistant in the console to get a quick status on the open cases in the account, if you have the correct access assigned. As an account owner, you have access to all cases, but if you're not the account owner, you must be assigned a specific access policy to view and manage cases. For more information about the required access to work with cases see, [Managing access to support cases](/docs/support?topic=support-access-cases).
 
 1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **AI assistant**.
 1. Enter **case status** to get a list of all open cases that you have access to, or enter a case number to view the current status of a specific support case.

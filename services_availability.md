@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-05-20"
+lastupdated: "2026-05-21"
 
 keywords: extended support, product lifecycle, service availability, end of support dates, lifecycle, end of support, service availability, deprecation, product availability, product release level, extended support, terms
 
@@ -19,7 +19,7 @@ subcollection: overview
 Review {{site.data.keyword.cloud}} extended support commitments, product release levels, service availability, and end-of-support dates for key products and services.
 {: shortdesc}
 
-{{site.data.keyword.cloud}} is committed to support a set of key products for extended periods. Depending on a product's release level, various levels of [support](/docs/account?topic=account-using-avatar), committed warranties, or service level agreements (SLAs) are available.
+{{site.data.keyword.cloud}} is committed to support a set of key products for extended periods. Depending on a product's release level, various levels of [support](/docs/support?topic=support-using-avatar), committed warranties, or service level agreements (SLAs) are available.
 
 ## Extended support for key products
 {: #extended_support}

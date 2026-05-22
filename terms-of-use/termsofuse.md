@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-05-22"
 
 keywords: terms of use, IBM Cloud, CSA, Cloud Service Agreement, data egress charges, EU data act, French SREN law, France data portability
 
@@ -15,19 +15,19 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# {{site.data.keyword.cloud_notm}} Terms of Use
+# IBM Cloud Terms of Use
 {: #terms}
 
-Review the terms of use and service agreements that apply to your {{site.data.keyword.cloud}} account and use of the {{site.data.keyword.cloud_notm}} services.
+Review the terms of use and service agreements that apply to your IBM Cloud&reg; account and use of the IBM Cloud services.
 {: shortdesc}
 
 ## Agreement Terms
 {: #agreementterms}
 
-The following terms apply to an {{site.data.keyword.cloud}} account and use of the {{site.data.keyword.cloud_notm}} Services:
+The following terms apply to an IBM Cloud&reg; account and use of the IBM Cloud Services:
 
-1. The {{site.data.keyword.cloud_notm}} Service Description available at [https://www.ibm.com/support/customer/csol/terms/?id=i126-6605](https://www.ibm.com/support/customer/csol/terms/?id=i126-6605){: external}.
-2. Additional Service Descriptions (SDs) for each Cloud Service ordered using your {{site.data.keyword.cloud_notm}} account, available in the IBM Cloud catalog or on the [IBM Terms website](https://www.ibm.com/support/customer/csol/terms/?cat=cloud-sd){: external}. Additional SDs contain links to the applicable Data Sheet for each Cloud Service.
+1. The IBM Cloud Service Description available at [https://www.ibm.com/support/customer/csol/terms/?id=i126-6605](https://www.ibm.com/support/customer/csol/terms/?id=i126-6605){: external}.
+2. Additional Service Descriptions (SDs) for each Cloud Service ordered using your IBM Cloud account, available in the IBM Cloud catalog or on the [IBM Terms website](https://www.ibm.com/support/customer/csol/terms/?cat=cloud-sd){: external}. Additional SDs contain links to the applicable Data Sheet for each Cloud Service.
 3. One of the following base agreements based upon selected account type and country.
    - IBM Cloud International B.V. (formerly SoftLayer Dutch Holding B.V.) Cloud Services Agreement available at [https://www.ibm.com/support/customer/csol/terms/?id=Z126-6304_IBMCIBV](https://www.ibm.com/support/customer/csol/terms/?id=Z126-6304_IBMCIBV){: external} which applies to:
       - Enterprise Savings Plan accounts for Clients with business addresses in Italy, Brazil, India, Japan, Israel, or Mexico, invoiced by IBM Cloud International B.V.
@@ -44,28 +44,28 @@ The following terms apply to an {{site.data.keyword.cloud}} account and use of t
 ## Exchange Rate Policy
 {: #exchange-rates}
 
-{{site.data.keyword.cloud_notm}} adjusts the exchange rates used to provide pricing in non-US dollar currencies on a monthly basis. Charges for cloud services are based on US dollars. Non-US dollar pricing is calculated by converting the US dollar rate by using market exchange rates published by leading financial institutions. Market exchange rates will be adjusted monthly, except as prohibited or controlled by applicable law.
+IBM Cloud adjusts the exchange rates used to provide pricing in non-US dollar currencies on a monthly basis. Charges for cloud services are based on US dollars. Non-US dollar pricing is calculated by converting the US dollar rate by using market exchange rates published by leading financial institutions. Market exchange rates will be adjusted monthly, except as prohibited or controlled by applicable law.
 
 
-## {{site.data.keyword.IBM_notm}} Business Associate Addendum
+## IBM Business Associate Addendum
 {: #baa}
 
-If you or your company is a covered entity as defined by the US Health Insurance Portability and Accountability Act (HIPAA) and intend to order Cloud Services that might process protected health information (PHI), you must accept the {{site.data.keyword.IBM}} Business Associate Addendum (BAA) available at [https://www.ibm.com/support/customer/csol/terms/?cat=baa](https://www.ibm.com/support/customer/csol/terms/?cat=baa){: external}. The BAA can be digitally accepted as described in [Enabling the HIPAA Supported setting](/docs/account?topic=account-enabling-hipaa).
+If you or your company is a covered entity as defined by the US Health Insurance Portability and Accountability Act (HIPAA) and intend to order Cloud Services that might process protected health information (PHI), you must accept the IBM&reg; Business Associate Addendum (BAA) available at [https://www.ibm.com/support/customer/csol/terms/?cat=baa](https://www.ibm.com/support/customer/csol/terms/?cat=baa){: external}. The BAA can be digitally accepted as described in [Enabling the HIPAA Supported setting](/docs/account?topic=account-enabling-hipaa).
 
 ## EU Data Act
 {: #eu-data-act}
 
-If you are a client based in the European Union and are planning to migrate your data out of {{site.data.keyword.cloud_notm}}, you are entitled to reduced data egress charges under the terms of the EU Data Act (Regulation (EU) 2023/2854) under its [Data Processing Addendum](https://www.ibm.com/support/customer/csol/terms/?id=Z126-7870&lc=en){: external}. These terms apply to your {{site.data.keyword.cloud_notm}} services. Please contact your {{site.data.keyword.IBM_notm}} or {{site.data.keyword.IBM_notm}} Business Partner representative, or create a new case in the {{site.data.keyword.cloud_notm}} support center for more information and assistance.
+If you are a client based in the European Union and are planning to migrate your data out of IBM Cloud, you are entitled to reduced data egress charges under the terms of the EU Data Act (Regulation (EU) 2023/2854) under its [Data Processing Addendum](https://www.ibm.com/support/customer/csol/terms/?id=Z126-7870&lc=en){: external}. These terms apply to your IBM Cloud services. Please contact your IBM or IBM Business Partner representative, or create a new case in the IBM Cloud support center for more information and assistance.
 
 ## French SREN Law
 {: #french-sren-law}
 
-If you are a client based in France and are planning to migrate your data out of {{site.data.keyword.cloud_notm}}, you are not charged data egress charges under the terms of the French SREN law, which went into effect in January 2026. To request the waiver of data egress charges, contact your {{site.data.keyword.IBM_notm}} Business Partner representative, or create a new case in the {{site.data.keyword.cloud_notm}} support center.
+If you are a client based in France and are planning to migrate your data out of IBM Cloud, you are not charged data egress charges under the terms of the French SREN law, which went into effect in January 2026. To request the waiver of data egress charges, contact your IBM Business Partner representative, or create a new case in the IBM Cloud support center.
 
 ## Abuse reporting and legal contact information
 {: #legal-contact-info}
 
-For subpoenas or for reporting abuse on {{site.data.keyword.cloud_notm}}, contact the following:
+For subpoenas or for reporting abuse on IBM Cloud, contact the following:
 
 ```text
 IBM Cloud c/o SoftLayer Inc*.
@@ -79,7 +79,7 @@ Abuse abuse@softlayer.com
 ```
 {: screen}
 
-\* SoftLayer Inc. is an {{site.data.keyword.IBM_notm}} Company
+\* SoftLayer Inc. is an IBM Company
 
 ### Australian Online Safety Act
 {: #australian-online-safety-act}

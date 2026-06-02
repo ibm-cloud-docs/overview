@@ -17,7 +17,7 @@ content-type: reference
 # Understanding the lifecycle policies for the {{site.data.keyword.cloud_notm}} platform
 {: #cloud-lifecycle-policy}
 
-{{site.data.keyword.cloud}} makes it easy for you to access and take advantage of the latest capabilities within services across the platform, whether that’s the latest operating system, Kubernetes version, database engine or other service features. It might take time to migrate or upgrade workloads to the latest versions in some cases, so we provide lifecycle guidelines to help you plan. {{site.data.keyword.cloud_notm}} is committed to communicating the lifecycle and guidelines for version support throughout the life of a service. It's important that, as a service user, you understand it's lifecycle as it is a series of stages that can help you meet availability and compliance requirements.
+{{site.data.keyword.cloud}} makes it easy for you to access and take advantage of the latest capabilities within services across the platform, whether that’s the latest operating system, Kubernetes version, database engine or other service features. It might take time to migrate or upgrade workloads to the latest versions in some cases, so we provide lifecycle guidelines to help you plan. {{site.data.keyword.cloud_notm}} is committed to communicating the lifecycle and guidelines for version support throughout the life of a service. It's important that, as a service user, you understand the lifecycle as it is a series of stages that can help you meet availability and compliance requirements.
 
 ## {{site.data.keyword.cloud_notm}} lifecycle policy statement 
 {: #policy-statement}

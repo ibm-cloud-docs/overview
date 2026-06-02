@@ -2,7 +2,7 @@
 copyright:
   years: 2022, 2026
 
-lastupdated: "2026-05-21"
+lastupdated: "2026-06-02"
 
 keywords: ibm cloud onboarding, account setup, getting started checklist, cloud migration, onboard to cloud, onboarding, onboarding checklist, get started on {{site.data.keyword.cloud_notm}}, account set up
 

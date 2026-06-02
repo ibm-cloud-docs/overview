@@ -2,7 +2,7 @@
 
 copyright:
   years: 2014, 2022
-lastupdated: "2026-05-19"
+lastupdated: "2026-06-02"
 
 keywords: ibm cloud languages, multilingual support, language translation, console languages, translation, national language support
 

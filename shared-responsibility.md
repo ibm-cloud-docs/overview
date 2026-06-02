@@ -4,7 +4,7 @@ copyright:
 
   years: 2020, 2023
 
-lastupdated: "2026-05-19"
+lastupdated: "2026-06-02"
 
 keywords: shared responsibilities, ibm responsibilities, customer responsibilities, cloud security model, roles and responsibilities, shared responsibilities, IBM responsibility, customer responsibility
 

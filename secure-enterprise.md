@@ -3,7 +3,7 @@
 
 copyright:
   years: 2023, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-06-02"
 
 keywords: secure enterprise workloads, deployable architecture, compliance automation, regulated industries, deployable architecture, secure enterprise workloads
 

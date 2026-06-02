@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2023
-lastupdated: "2026-05-21"
+lastupdated: "2026-06-02"
 
 keywords: ibm cloud sla, service availability, uptime guarantee, service credits, service level agreements, SLA, slas
 

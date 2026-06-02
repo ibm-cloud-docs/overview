@@ -2,7 +2,7 @@
 
 copyright:
   years: 2021
-lastupdated: "2026-05-19"
+lastupdated: "2026-06-02"
 
 keywords: private connectivity, vpe for vpc, service endpoints, secure connections, service endpoints, private endpoints, virtual private endpoints, vpe, vpe for vpc
 

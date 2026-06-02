@@ -5,7 +5,7 @@
 copyright:
 
   years: 2020, 2025
-lastupdated: "2026-05-19"
+lastupdated: "2026-06-02"
 
 keywords: ip address policy, ip ownership, bgp routing, client ip addresses, terms of use, IBM Cloud, ip addresses, IP address policy
 

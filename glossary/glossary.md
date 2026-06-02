@@ -3,7 +3,7 @@
 copyright:
   years: 2016, 2026
 
-lastupdated: "2026-05-20"
+lastupdated: "2026-06-02"
 
 keywords: ibm cloud glossary, cloud terms, technical definitions, cloud computing terms, glossary, IBM Cloud glossary, terms, definitions
 

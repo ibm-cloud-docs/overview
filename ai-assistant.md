@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024, 2026
-lastupdated: "2026-05-21"
+lastupdated: "2026-06-02"
 
 keywords: ibm cloud ai assistant, watsonx, ai help, documentation assistant, AI assistant, AI help
 

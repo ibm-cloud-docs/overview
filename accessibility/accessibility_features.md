@@ -4,7 +4,7 @@
 
 copyright:
   years: 2016, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-06-02"
 
 keywords: ibm cloud accessibility, keyboard navigation, screen reader, assistive technology, quick keys, accessibility, screen reader
 

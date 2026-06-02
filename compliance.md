@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-06-02"
 
 keywords: ibm cloud compliance, security standards, gdpr, hipaa, iso certification, compliance, environmental information, gdpr, compliance reports, financial services, compliance settings, compliance features
 

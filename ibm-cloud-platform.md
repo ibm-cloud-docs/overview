@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2026
-lastupdated: "2026-05-21"
+lastupdated: "2026-06-02"
 
 keywords: ibm cloud platform, paas, iaas, hybrid cloud, multicloud, console, platform overview, overview, catalog, IBM Cloud catalog
 

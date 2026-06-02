@@ -2,7 +2,7 @@
 
 copyright:
    years: 2021, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-06-02"
 
 keywords: free ibm cloud account, lite plans, free cloud services, proof of concept, get started with IBM Cloud, get started, try for free, lite plan
 

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-06-02"
 
 keywords: ibm cloud notices, cloud data, ibm cloud service, notices, IBM Cloud, creative commons, licenses
 

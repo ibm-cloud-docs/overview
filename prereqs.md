@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-06-02"
 
 keywords: ibm cloud prerequisites, supported browsers, platform requirements, prereqs, platform prereqs, platform prerequisites, supported browsers, browsers
 

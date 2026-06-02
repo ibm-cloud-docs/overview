@@ -2,7 +2,7 @@
 
 copyright:
   years: 2021, 2024
-lastupdated: "2026-05-19"
+lastupdated: "2026-06-02"
 
 keywords: encrypt ibm cloud data, byok, kyok, customer managed keys, byok, kyok, key encryption, data encryption, keep your own key, bring your own key, encryption at rest, encryption in transit, data at rest, data in transit
 

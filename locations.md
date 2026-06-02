@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2026
-lastupdated: "2026-05-21"
+lastupdated: "2026-06-02"
 
 keywords: ibm cloud regions, mzr locations, data center locations, availability zones, data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 

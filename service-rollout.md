@@ -3,7 +3,7 @@
 copyright:
 
   years: 2022, 2024
-lastupdated: "2026-05-19"
+lastupdated: "2026-06-02"
 
 keywords: service rollout, service availability, mzr deployment, core services, rollout
 

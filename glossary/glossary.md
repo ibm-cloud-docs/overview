@@ -13,10 +13,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# {{site.data.keyword.cloud_notm}} glossary of terms and definitions
+# IBM Cloud glossary of terms and definitions
 {: #glossary}
 
-Browse the {{site.data.keyword.cloud}} glossary for definitions of cloud computing terms, services, and technical concepts used across the {{site.data.keyword.cloud_notm}} platform.
+Browse the IBM Cloud&reg; glossary for definitions of cloud computing terms, services, and technical concepts used across the IBM Cloud platform.
 {: shortdesc}
 
 The following cross-references are used in this glossary:

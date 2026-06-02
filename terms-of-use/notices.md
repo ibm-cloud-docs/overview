@@ -12,17 +12,17 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# {{site.data.keyword.cloud_notm}} Notices
+# IBM Cloud Notices
 {: #notices}
 
-Review {{site.data.keyword.cloud}} notices, license terms, and conditions for products and services, including patents, warranties, and third-party websites information.
+Review IBM Cloud&reg; notices, license terms, and conditions for products and services, including patents, warranties, and third-party websites information.
 {: shortdesc}
 
-This information was developed for products and services that are offered in the US. This material might be available from {{site.data.keyword.IBM_notm}} in other languages. However, you might be required to own a copy of the product or product version in that language to access it.
+This information was developed for products and services that are offered in the US. This material might be available from IBM in other languages. However, you might be required to own a copy of the product or product version in that language to access it.
 
-{{site.data.keyword.IBM_notm}} may not offer the products, services, or features discussed in this document in other countries. Consult your local {{site.data.keyword.IBM_notm}} representative for information on the products and services currently available in your area. Any reference to an {{site.data.keyword.IBM_notm}} product, program, or service is not intended to state or imply that only that {{site.data.keyword.IBM_notm}} product, program, or service may be used. Any functionally equivalent product, program, or service that does not infringe any {{site.data.keyword.IBM_notm}} intellectual property right may be used instead. However, it is the user's responsibility to evaluate and verify the operation of any non-IBM product, program, or service.
+IBM may not offer the products, services, or features discussed in this document in other countries. Consult your local IBM representative for information on the products and services currently available in your area. Any reference to an IBM product, program, or service is not intended to state or imply that only that IBM product, program, or service may be used. Any functionally equivalent product, program, or service that does not infringe any IBM intellectual property right may be used instead. However, it is the user's responsibility to evaluate and verify the operation of any non-IBM product, program, or service.
 
-{{site.data.keyword.IBM_notm}} may have patents or pending patent applications covering subject matter that is described in this document. The furnishing of this document does not grant you any license to these patents. You can send license inquiries, in writing, to:
+IBM may have patents or pending patent applications covering subject matter that is described in this document. The furnishing of this document does not grant you any license to these patents. You can send license inquiries, in writing, to:
 
 *IBM Director of Licensing*
 *IBM Corporation*
@@ -30,7 +30,7 @@ This information was developed for products and services that are offered in the
 *Armonk, NY 10504-1785*
 *US*
 
-For license inquiries regarding double-byte character set (DBCS) information, contact the {{site.data.keyword.IBM_notm}} Intellectual Property Department in your country or send inquiries, in writing, to:
+For license inquiries regarding double-byte character set (DBCS) information, contact the IBM Intellectual Property Department in your country or send inquiries, in writing, to:
 
 *Intellectual Property Licensing*
 *Legal and Intellectual Property Law*
@@ -40,13 +40,13 @@ For license inquiries regarding double-byte character set (DBCS) information, co
 
 INTERNATIONAL BUSINESS MACHINES CORPORATION PROVIDES THIS PUBLICATION "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Some jurisdictions do not allow disclaimer of express or implied warranties in certain transactions, therefore, this statement may not apply to you.
 
-This information might include technical inaccuracies or typographical errors. Changes are periodically made to the information herein; these changes will be incorporated in new editions of the publication. {{site.data.keyword.IBM_notm}} may make improvements and/or changes in the product(s) and/or the program(s) described in this publication at any time without notice.
+This information might include technical inaccuracies or typographical errors. Changes are periodically made to the information herein; these changes will be incorporated in new editions of the publication. IBM may make improvements and/or changes in the product(s) and/or the program(s) described in this publication at any time without notice.
 
-Portions of {{site.data.keyword.cloud_notm}} documentation may be generated with the assistance of {{site.data.keyword.IBM_notm}} AI technologies.
+Portions of IBM Cloud documentation may be generated with the assistance of IBM AI technologies.
 
-Any references in this information to non-{{site.data.keyword.IBM_notm}} websites are provided for convenience only and do not in any manner serve as an endorsement of those websites. The materials at those websites are not part of the materials for this {{site.data.keyword.IBM_notm}} product and use of those websites is at your own risk.
+Any references in this information to non-IBM websites are provided for convenience only and do not in any manner serve as an endorsement of those websites. The materials at those websites are not part of the materials for this IBM product and use of those websites is at your own risk.
 
-{{site.data.keyword.IBM_notm}} may use or distribute any of the information you provide in any way it believes appropriate without incurring any obligation to you.
+IBM may use or distribute any of the information you provide in any way it believes appropriate without incurring any obligation to you.
 
 Licensees of this program who wish to have information about it for the purpose of enabling: (i) the exchange of information between independently created programs and other programs (including this one) and (ii) the mutual use of the information, which has been exchanged, should contact:
 
@@ -58,15 +58,15 @@ Licensees of this program who wish to have information about it for the purpose 
 
 Such information may be available, subject to appropriate terms and conditions, including in some cases, payment of a fee.
 
-The licensed program described in this document and all licensed material available for it are provided by {{site.data.keyword.IBM_notm}} under terms of the {{site.data.keyword.IBM_notm}} Customer Agreement, {{site.data.keyword.IBM_notm}} International Program License Agreement or any equivalent agreement between us.
+The licensed program described in this document and all licensed material available for it are provided by IBM under terms of the IBM Customer Agreement, IBM International Program License Agreement or any equivalent agreement between us.
 
 The performance data and client examples cited are presented for illustrative purposes only. Actual performance results may vary depending on specific configurations and operating conditions.
 
-Information concerning non-{{site.data.keyword.IBM_notm}} products was obtained from the suppliers of those products, their published announcements or other publicly available sources. {{site.data.keyword.IBM_notm}} has not tested those products and cannot confirm the accuracy of performance, compatibility or any other claims related to non-{{site.data.keyword.IBM_notm}} products. Questions on the capabilities of non-{{site.data.keyword.IBM_notm}} products should be addressed to the suppliers of those products.
+Information concerning non-IBM products was obtained from the suppliers of those products, their published announcements or other publicly available sources. IBM has not tested those products and cannot confirm the accuracy of performance, compatibility or any other claims related to non-IBM products. Questions on the capabilities of non-IBM products should be addressed to the suppliers of those products.
 
-Statements regarding {{site.data.keyword.IBM_notm}}'s future direction or intent are subject to change or withdrawal without notice, and represent goals and objectives only.
+Statements regarding IBM's future direction or intent are subject to change or withdrawal without notice, and represent goals and objectives only.
 
-All {{site.data.keyword.IBM_notm}} prices shown are {{site.data.keyword.IBM_notm}}'s suggested retail prices, are current and are subject to change without notice. Dealer prices may vary.
+All IBM prices shown are IBM's suggested retail prices, are current and are subject to change without notice. Dealer prices may vary.
 
 This information is for planning purposes only. The information herein is subject to change before the products described become available.
 
@@ -74,7 +74,7 @@ This information contains examples of data and reports used in daily business op
 
 COPYRIGHT LICENSE:
 
-This information contains sample application programs in source language, which illustrate programming techniques on various operating platforms. You may copy, modify, and distribute these sample programs in any form without payment to {{site.data.keyword.IBM_notm}}, for the purposes of developing, using, marketing or distributing application programs conforming to the application programming interface for the operating platform for which the sample programs are written. These examples have not been thoroughly tested under all conditions. {{site.data.keyword.IBM_notm}}, therefore, cannot guarantee or imply reliability, serviceability, or function of these programs. The sample programs are provided "AS IS", without warranty of any kind. {{site.data.keyword.IBM_notm}} shall not be liable for any damages arising out of your use of the sample programs.
+This information contains sample application programs in source language, which illustrate programming techniques on various operating platforms. You may copy, modify, and distribute these sample programs in any form without payment to IBM, for the purposes of developing, using, marketing or distributing application programs conforming to the application programming interface for the operating platform for which the sample programs are written. These examples have not been thoroughly tested under all conditions. IBM, therefore, cannot guarantee or imply reliability, serviceability, or function of these programs. The sample programs are provided "AS IS", without warranty of any kind. IBM shall not be liable for any damages arising out of your use of the sample programs.
 
 Each copy or any portion of these sample programs or any derivative work must include a copyright notice as follows:
 
@@ -86,16 +86,16 @@ SANCTIONS & EMBARGOES
 
 The United States prohibits most commercial transactions and other dealings with a handful of countries for foreign policy and national security reasons.  These prohibitions – formally known as trade and economic sanctions or comprehensive embargoes – currently target Iran, Cuba, North Korea, and Syria.
 
-{{site.data.keyword.cloud_notm}} implements network-wide blocking of communications to IP addresses which originate from countries subject to those trade and economic sanctions. This policy affects all {{site.data.keyword.cloud_notm}} data center locations and environments, and blocks access by IP addresses registered to countries subject to U.S. trade and economic sanctions.
+IBM Cloud implements network-wide blocking of communications to IP addresses which originate from countries subject to those trade and economic sanctions. This policy affects all IBM Cloud data center locations and environments, and blocks access by IP addresses registered to countries subject to U.S. trade and economic sanctions.
 
-To identify IP addresses associated with U.S. embargoed countries, {{site.data.keyword.cloud_notm}} references the Geo IP2 Database maintained by [MaxMind](https://www.maxmind.com/en/home){: external}. {{site.data.keyword.cloud_notm}} updates its IP address country mapping on a quarterly basis.
+To identify IP addresses associated with U.S. embargoed countries, IBM Cloud references the Geo IP2 Database maintained by [MaxMind](https://www.maxmind.com/en/home){: external}. IBM Cloud updates its IP address country mapping on a quarterly basis.
 
 Note: This restriction does not apply to content that is not prohibited under U.S. sanctions and embargoes. Please email IBM_Cloud_Embargo_Exemption_Request@wwpdl.vnet.ibm.com if you believe your content is not prohibited under U.S. trade and economic sanctions.
 
 ## Notices and information for excluded components
 {: #cc-notices}
 
-### {{site.data.keyword.Bluemix_notm}} console
+### IBM Cloud console
 {: #console}
 
 This section consists of the following:
@@ -179,7 +179,7 @@ The Program includes some or all of the following works licensed under the Creat
 
 CODE_OF_CONDUCT.MD [enzyme-to-json] (Copyright not found)(http://registry.npmjs.org/enzyme-to-json/-/enzyme-to-json-3.4.3.tgz)
 
-### {{site.data.keyword.Bluemix_notm}} IAM-Token Service
+### IBM Cloud IAM-Token Service
 {: #iam}
 
 This section consists of the following:
@@ -195,10 +195,10 @@ MEMORY_SIZE_SYSTEM [Redis] (No Copyright found)(https://github.com/antirez/redis
 
 ZMALLOC.C [Redis] (No Copyright found) (http://download.redis.io/releases/redis-5.0.6.tar.gz)
 
-### {{site.data.keyword.cloud_notm}} Developer Console
+### IBM Cloud Developer Console
 {: #devcon}
 
-View the [Notices file](/media/docs/downloads/oss-licensing-info/IBMCloud-DeveloperConsole-OSS-Licenses.txt){: external} for the {{site.data.keyword.cloud_notm}} Developer Console.
+View the [Notices file](/media/docs/downloads/oss-licensing-info/IBMCloud-DeveloperConsole-OSS-Licenses.txt){: external} for the IBM Cloud Developer Console.
 
 This section consists of the following:
 
@@ -220,14 +220,14 @@ This section consists of the following:
 #### GNU AFFERO GENERAL PUBLIC LICENSE, VERSION 3
 {: #devcon-agpl}
 
-The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU Affero General Public License. For copies of the source code for this software, send an email to devlic@us.ibm.com identifying the {{site.data.keyword.IBM_notm}} product and the AGPL-licensed program for which you are requesting the source code.
+The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU Affero General Public License. For copies of the source code for this software, send an email to devlic@us.ibm.com identifying the IBM product and the AGPL-licensed program for which you are requesting the source code.
 
 GOLANGCI-LINT
 
 #### Creative Commons Attribution 2.5 license
 {: #devcon-25}
 
-The Program includes some or all of the following that {{site.data.keyword.IBM_notm}} obtained under the Creative Commons Attribute 2.5 License:
+The Program includes some or all of the following that IBM obtained under the Creative Commons Attribute 2.5 License:
 
 GuardedBy.java (https://github.com/stephenc/jcip-annotations/blob/master/src/main/java/net/jcip/annotations/GuardedBy.java),
 JCIP-ANNOTATIONS (https://github.com/stephenc/jcip-annotations),
@@ -259,7 +259,7 @@ NORMALIZE_TEST.GO [x/text](https://github.com/golang/text/tree/22f1617af38ed)
 #### Creative Commons Attribution Share Alike 2.0 license
 {: #devcon-share-20}
 
-The Program includes some or all of the following that {{site.data.keyword.IBM_notm}} obtained under the Creative Commons Attribute Share-Alike 2.0 License. The URL to the license is https://creativecommons.org/licenses/by-sa/2.0/legalcode
+The Program includes some or all of the following that IBM obtained under the Creative Commons Attribute Share-Alike 2.0 License. The URL to the license is https://creativecommons.org/licenses/by-sa/2.0/legalcode
 
 go-digest docs (https://github.com/opencontainers/go-digest/tree/279bed98673dd5bef374d3b6e4b09e2af76183bf), mapstruct documentation (https://github.com/mapstruct/mapstruct/tree/1.2.0.Final), NORMALIZE_TEST.GO [x/text](https://github.com/golang/text/tree/22f1617af38ed)
 
@@ -288,21 +288,21 @@ GO-METRICS (DOC) [moby/moby] (Not Required), DOCS [docker/spdystream](https://gi
 {: #devcon-genv2}
 
 The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU General Public License. For
-copies of the source code for this software, send an email to devlic@us.ibm.com identifying the {{site.data.keyword.IBM_notm}} product and the GPL-licensed program for which you are requesting the source code.
+copies of the source code for this software, send an email to devlic@us.ibm.com identifying the IBM product and the GPL-licensed program for which you are requesting the source code.
 
 default-stylesheet.js, Dockerfile.xml, scanelf, tap-driver.sh, OPENJDK,DEBIAN-ARCHIVE-KEYRING ,DOCKER.INITD,SELINUX, UPX [OpenJDK], GOLANGCI/CHECK, OPENRC [moby/moby], ERRNO-BASE.H [modernc.org/cc], TUNED-PROFILES-ORIGIN-NODE.7 [openshift/origin]
 
 #### GNU General Public License, Version 3
 {: #devcon-genv3}
 
-The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU General Public License. For copies of the source code for this software, send an email to devlic@us.ibm.com identifying the {{site.data.keyword.IBM_notm}} product and the GPL-licensed program for which you are requesting the source code
+The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU General Public License. For copies of the source code for this software, send an email to devlic@us.ibm.com identifying the IBM product and the GPL-licensed program for which you are requesting the source code
 
 OPENPEEDEEP/DEPGUARD, LIMITS.H [modernc.org/cc]
 
 #### GNU Free Documentation License
 {: #devcon-free}
 
-The Program includes some or all of the following available under the GNU Free Documentation License v1.3. For copies of the source code for this software, send an email to devlic@us.ibm.com identifying the {{site.data.keyword.IBM_notm}} product and the GPL-licensed program for which you are requesting the source code.
+The Program includes some or all of the following available under the GNU Free Documentation License v1.3. For copies of the source code for this software, send an email to devlic@us.ibm.com identifying the IBM product and the GPL-licensed program for which you are requesting the source code.
 
 calc (GFDL v1.3) [modernc.org/golex]
 
@@ -316,7 +316,7 @@ The Program maybe provided with third party software programs subject to their o
 #### SIL OFL 1.1
 {: #devcon-ofl-11}
 
-The Program includes some or all of the following that {{site.data.keyword.IBM_notm}} obtained under the SIL Open Font License version 1.1:
+The Program includes some or all of the following that IBM obtained under the SIL Open Font License version 1.1:
 
 Font Awesome 4.1.0 (by @davegandy), Orbitron Font (Copyright (c) 2009,
 Matt McInerney (matt@pixelspread.com)), Oswald Font (Copyright (c) 2011-2012, Vernon Adams (vern@newtypography.co.uk))
@@ -391,10 +391,10 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 Debian, Alpine OS & Its Components
 
-### {{site.data.keyword.cloud_notm}} CLI
+### IBM Cloud CLI
 {: #cli}
 
-View the [Notices file](/media/docs/downloads/oss-licensing-info/IBMCloud-CLI-OSS-Licenses.txt){: external} for the {{site.data.keyword.cloud_notm}} CLI.
+View the [Notices file](/media/docs/downloads/oss-licensing-info/IBMCloud-CLI-OSS-Licenses.txt){: external} for the IBM Cloud CLI.
 
 This section consists of the following:
 
@@ -493,7 +493,7 @@ GLOB LOGO [Glob](http://registry.npmjs.org/glob/-/glob-7.1.6.tgz)
 #### GNU General Public License, Version 2
 {: #cli-genv2}
 
-The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU General Public License. For copies of the source code for this software, send an email to devlic@us.ibm.com identifying the {{site.data.keyword.IBM_notm}} product and the GPL-licensed program for which you are requesting the source code.
+The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU General Public License. For copies of the source code for this software, send an email to devlic@us.ibm.com identifying the IBM product and the GPL-licensed program for which you are requesting the source code.
 
 * DEBIAN-ARCHIVE-KEYRING
 * DEFAULTER.JS [Adm-zip]
@@ -577,7 +577,7 @@ Alpine Linux (main)
 Debian (matching Ubuntu main)
 UBUNTU (MAIN)
 
-### {{site.data.keyword.cloud-shell_notm}}
+### IBM Cloud Shell
 {: #cloudshell}
 
 This section consists of the following:
@@ -655,10 +655,10 @@ The Program includes some or all of the following works licensed under the Creat
 
 DOCS [kubernetes-sigs/cri-tools](https://codeload.github.com/kubernetes-sigs/cri-tools/zip/refs/heads/release-1.7){: external download="kubernetes-sigs/cri-tools"}, GLOB LOGO [Glob](http://registry.npmjs.org/glob/-/glob-7.1.4.tgz), SCREENSHOTS [shortid](http://registry.npmjs.org/shortid/-/shortid-2.2.15.tgz), GO-METRICS DOCS [docker/go-metrics](https://github.com/docker/go-metrics/tree/399ea8c73916), DISPUTES.7 [NodeJS] (Not Required), GLOB [NodeJS](https://github.com/nodejs/node/releases/tag/v10.17.0), GO-DIGEST DOCS [Microsoft/hcsshim](https://pkg.go.dev/github.com/Microsoft/hcsshim@v0.8.7), GO-DIGEST DOCUMENTATION [go-digest](https://pkg.go.dev/github.com/opencontainers/go-digest@v1.0.0-rc1), DISPUTES [npm](http://registry.npmjs.org/npm/-/npm-6.14.4.tgz), DISPUTES DOC [NodeJS] (Not Required), SCREENSHOTS [shortid](https://github.com/dylang/shortid/tree/2.2.16)
 
-### {{site.data.keyword.cloud_notm}} {{site.data.keyword.compliance_short}}
+### IBM Cloud Compliance Manager
 {: #sec-comp}
 
-View the [Notices file](/media/docs/downloads/oss-licensing-info/IBMCloud-SecurityCompliance-OSS-Licenses.txt){: external} for the {{site.data.keyword.compliance_short}}.
+View the [Notices file](/media/docs/downloads/oss-licensing-info/IBMCloud-SecurityCompliance-OSS-Licenses.txt){: external} for the Compliance Manager.
 
 This section consists of the following:
 
@@ -738,7 +738,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 ## Trademarks
 {: #trademarks}
 
-{{site.data.keyword.IBM_notm}}, the {{site.data.keyword.IBM_notm}} logo, and ibm.com are trademarks or registered trademarks of International Business Machines Corp., registered in many jurisdictions worldwide. Other product and service names might be trademarks of {{site.data.keyword.IBM_notm}} or other companies. A current list of {{site.data.keyword.IBM_notm}} trademarks is available on the web at [Copyright and trademark information](https://www.ibm.com/legal/copyright-trademark){: external}.
+IBM, the IBM logo, and ibm.com are trademarks or registered trademarks of International Business Machines Corp., registered in many jurisdictions worldwide. Other product and service names might be trademarks of IBM or other companies. A current list of IBM trademarks is available on the web at [Copyright and trademark information](https://www.ibm.com/legal/copyright-trademark){: external}.
 
 Adobe, the Adobe logo, PostScript, and the PostScript logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States, and/or other countries.
 

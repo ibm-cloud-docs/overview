@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2026
-lastupdated: "2026-05-22"
+lastupdated: "2026-06-02"
 
 keywords: ibm cloud platform, paas, iaas, hybrid cloud, multicloud, console, platform overview, overview, catalog, IBM Cloud catalog
 
@@ -13,21 +13,21 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud platform: Hybrid, multicloud, and VPC capabilities
+# {{site.data.keyword.cloud_notm}} platform: Hybrid, multicloud, and VPC capabilities
 {: #whatis-platform}
 
-Discover IBM Cloud&reg;'s integrated platform as a service (PaaS) and infrastructure as a service (IaaS) platform, featuring hybrid cloud, multicloud, Virtual Private Cloud (VPC), and global data center deployment options for scalable and secure business solutions.
+Discover {{site.data.keyword.cloud}}'s integrated platform as a service (PaaS) and infrastructure as a service (IaaS) platform, featuring hybrid cloud, multicloud, Virtual Private Cloud (VPC), and global data center deployment options for scalable and secure business solutions.
 {: shortdesc}
 
-The IBM Cloud platform combines PaaS with IaaS to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on IBM Cloud&reg; spins up fast and performs reliably in a tested and supported environment you can trust!
+The {{site.data.keyword.cloud_notm}} platform combines PaaS with IaaS to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on {{site.data.keyword.cloud}} spins up fast and performs reliably in a tested and supported environment you can trust!
 
-IBM Cloud provides solutions that enable higher levels of compliance, security, and management, with proven architecture patterns and methods for rapid delivery for running mission-critical workloads. Available in data centers worldwide, with multizone regions in North and South America, Europe, Asia, and Australia, you are enabled to deploy locally with global scalability.
+{{site.data.keyword.cloud_notm}} provides solutions that enable higher levels of compliance, security, and management, with proven architecture patterns and methods for rapid delivery for running mission-critical workloads. Available in data centers worldwide, with multizone regions in North and South America, Europe, Asia, and Australia, you are enabled to deploy locally with global scalability.
 
-IBM Cloud offers the most open and secure public cloud for business with a next-generation hybrid cloud platform, advanced data and AI capabilities, and deep enterprise expertise across 20 industries. Solutions are available depending on your needs for working in the public cloud, on-premises, or a combination:
+{{site.data.keyword.cloud_notm}} offers the most open and secure public cloud for business with a next-generation hybrid cloud platform, advanced data and AI capabilities, and deep enterprise expertise across 20 industries. Solutions are available depending on your needs for working in the public cloud, on-premises, or a combination:
 
-* With public cloud, the resources are made available to you over the public internet. It is a multi-tenant environment, and resources like hardware and infrastructure are managed by IBM&reg;.
-* A [hybrid cloud solution](https://www.ibm.com/solutions/hybrid-cloud){: external} is a combination of public and private giving you the flexibility to move workloads between the two based on your business and technological needs. IBM uses Red Hat OpenShift on IBM Cloud, the market-leading hybrid cloud container platform for hybrid solutions that enables you to build once and deploy anywhere. With IBM Cloud Satellite, you can create a hybrid environment that brings the scalability and on-demand flexibility of public cloud services to the applications and data that runs in your secure private cloud.
-* Support for [multicloud](https://www.ibm.com/think/topics/multicloud){: external} and hybrid multicloud solutions is also available, which makes it easy for you to work with different vendors. [IBM Cloud Paks](https://www.ibm.com/products/cloud-paks){: external} are software products for hybrid clouds that enable you to develop apps once and deploy them anywhere.
+* With public cloud, the resources are made available to you over the public internet. It is a multi-tenant environment, and resources like hardware and infrastructure are managed by {{site.data.keyword.IBM}}.
+* A [hybrid cloud solution](https://www.ibm.com/solutions/hybrid-cloud){: external} is a combination of public and private giving you the flexibility to move workloads between the two based on your business and technological needs. IBM uses {{site.data.keyword.openshiftlong_notm}}, the market-leading hybrid cloud container platform for hybrid solutions that enables you to build once and deploy anywhere. With {{site.data.keyword.satellitelong_notm}}, you can create a hybrid environment that brings the scalability and on-demand flexibility of public cloud services to the applications and data that runs in your secure private cloud.
+* Support for [multicloud](https://www.ibm.com/think/topics/multicloud){: external} and hybrid multicloud solutions is also available, which makes it easy for you to work with different vendors. [{{site.data.keyword.cloud_notm}} Paks](https://www.ibm.com/products/cloud-paks){: external} are software products for hybrid clouds that enable you to develop apps once and deploy them anywhere.
 * [Virtual Private Cloud (VPC)](/docs/vpc?topic=vpc-getting-started) is available as a public cloud service that lets you establish your own private cloud-like computing environment on shared public cloud infrastructure. With VPC, enterprises can define and control a virtual network that is logically isolated from all other public cloud tenants, creating a private, secure place on the public cloud.
 
 With our open source technologies, such as Kubernetes, Red Hat OpenShift, and a full range of compute options, including virtual machines, containers, bare metal, and serverless, you have the control and flexibility that's required to support workloads in your hybrid environment. You can deploy cloud-native apps while also ensuring workload portability.
@@ -37,24 +37,24 @@ Whether you need to migrate apps to the cloud, modernize your existing apps by u
 ## What's built into the platform?
 {: #built-into-platform}
 
-As the following diagram illustrates, the IBM Cloud platform is composed of multiple components that work together to provide a consistent and dependable cloud experience.
+As the following diagram illustrates, the {{site.data.keyword.Bluemix_notm}} platform is composed of multiple components that work together to provide a consistent and dependable cloud experience.
 
 * A robust console that serves as the front end for creating, viewing, managing your cloud resources
-* An identity and access management component that securely authenticates users for both platform services and controls access to resources consistently across IBM Cloud
+* An identity and access management component that securely authenticates users for both platform services and controls access to resources consistently across {{site.data.keyword.Bluemix_notm}}
 * A catalog that consists of hundreds of supported products
 * A search and tagging mechanism for filtering and identifying your resources
 * An account and billing management system that provides exact usage for pricing plans and secure credit card fraud protection
 
-![Components of the IBM Cloud platform.](images/IBM-Cloud-Platform.svg "Diagram showing the major components of the IBM Cloud platform"){: caption="Components of the IBM Cloud platform" caption-side="bottom"}
+![Components of the {{site.data.keyword.cloud_notm}} platform.](images/IBM-Cloud-Platform.svg "Diagram showing the major components of the {{site.data.keyword.cloud_notm}} platform"){: caption="Components of the {{site.data.keyword.cloud_notm}} platform" caption-side="bottom"}
 
-Whether you have existing code that you want to modernize and bring to the cloud or you're developing a brand new application, your developers can tap into the rapidly growing ecosystem of available services and runtime frameworks in IBM Cloud.
+Whether you have existing code that you want to modernize and bring to the cloud or you're developing a brand new application, your developers can tap into the rapidly growing ecosystem of available services and runtime frameworks in {{site.data.keyword.Bluemix_notm}}.
 
 
 
 ## Setting up your account
 {: #set-up-account}
 
-If you're a developer and you're just trying out IBM Cloud, you can go straight to the catalog and browse the products that you'd like to explore. Try filtering for all Lite and Free pricing plans to test out IBM Cloud with no costs. When you're ready to get started with an environment and get apps running in production, consider setting up the basics in your account:
+If you're a developer and you're just trying out {{site.data.keyword.Bluemix_notm}}, you can go straight to the catalog and browse the products that you'd like to explore. Try filtering for all Lite and Free pricing plans to test out {{site.data.keyword.cloud_notm}} with no costs. When you're ready to get started with an environment and get apps running in production, consider setting up the basics in your account:
 
 * Access groups for organizing users and service IDs into one entity to make assigning access a streamlined process
 * Resource groups for organizing your resources to make assigning access to a set of resources quick and easy
@@ -62,7 +62,7 @@ If you're a developer and you're just trying out IBM Cloud, you can go straight 
 
 For more information, see the [best practices for organizing your resources and assigning access](/docs/account?topic=account-account_setup).
 
-As a financial officer for your company, you might be interested in simplifying how you manage billing and usage across multiple teams and departments. With a Subscription account, you can create an IBM Cloud [enterprise](#x2026915){: term}, which offers centralized account management, consolidated billing, and top-down usage reporting. An enterprise consists of an enterprise account, account groups, and individual accounts.
+As a financial officer for your company, you might be interested in simplifying how you manage billing and usage across multiple teams and departments. With a Subscription account, you can create an {{site.data.keyword.Bluemix_notm}} [enterprise](#x2026915){: term}, which offers centralized account management, consolidated billing, and top-down usage reporting. An enterprise consists of an enterprise account, account groups, and individual accounts.
 
 * The enterprise account is the parent account to all other accounts in the enterprise. Billing for the entire enterprise is managed at the enterprise account level.
 * Account groups provide a way to organize related accounts. And, you get a unified view of resource usage costs across all accounts that are included in an account group.
@@ -70,18 +70,18 @@ As a financial officer for your company, you might be interested in simplifying 
 
 For more information, see the [Enterprise account architecture](/docs/enterprise-account-architecture) white paper and the [best practices for setting up an enterprise](/docs/enterprise-management?topic=enterprise-management-enterprise-best-practices).
 
-## IBM Cloud catalog
+## {{site.data.keyword.Bluemix_notm}} catalog
 {: #catalog}
 
-Discover all that IBM Cloud has to offer. From services, software, and [deployable architectures](#x10293733){: term} ranging from containers, compute, security, data, AI, and more, find what you need to transform your business.
+Discover all that {{site.data.keyword.cloud_notm}} has to offer. From services, software, and [deployable architectures](#x10293733){: term} ranging from containers, compute, security, data, AI, and more, find what you need to transform your business.
 
-The available services include options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. The lifecycle and operations of services are the responsibility of IBM.
+The available services include options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. The lifecycle and operations of services are the responsibility of {{site.data.keyword.IBM_notm}}.
 
 You can also find a number of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, Terraform-based templates, Helm charts, and Operators. The preconfigured software solutions help you build faster. And, with a simplified installation process, you can get started quickly. You manage the deployment and configuration of the software on your own compute resources.
 
-If you're looking for more robust solutions for your enterprise business goals, IBM Cloud offers deployable architectures that use cloud automation for deploying common architectural patterns that combine one or more cloud resources that are designed for easy deployment, scalability, and modularity.
+If you're looking for more robust solutions for your enterprise business goals, {{site.data.keyword.cloud_notm}} offers deployable architectures that use cloud automation for deploying common architectural patterns that combine one or more cloud resources that are designed for easy deployment, scalability, and modularity.
 
-And, if you're looking for help in your journey to cloud, check out our professional services. Browse your options for scheduling a consultation with technical experts depending on your needs, such as cloud migration, creating business solutions with IBM Garage, or developing a container security solution that works for you.
+And, if you're looking for help in your journey to cloud, check out our professional services. Browse your options for scheduling a consultation with technical experts depending on your needs, such as cloud migration, creating business solutions with {{site.data.keyword.IBM_notm}} Garage, or developing a container security solution that works for you.
 
 The catalog supports command-line interfaces (CLIs) and a RESTful API for you to use to retrieve information about existing products.
 {: tip}
@@ -90,24 +90,24 @@ The catalog supports command-line interfaces (CLIs) and a RESTful API for you to
 ### Open source offerings
 {: #solutions-open-source}
 
-In addition to the generally available offerings in the IBM Cloud catalog, you can find additional offerings for deploying and building solutions in the module registry and community registry.
+In addition to the generally available offerings in the {{site.data.keyword.Bluemix_notm}} catalog, you can find additional offerings for deploying and building solutions in the module registry and community registry.
 
-[IBM module registry](/catalog?catalog=2){: external}
-:   Discover modules that work with deployable architectures for your customization and building needs. This is a collection of assets that is separate from the IBM Cloud catalog and is governed and maintained by the process in the [`terraform-ibm-modules`](https://github.com/terraform-ibm-modules) GitHub organization. The modules that you find here meet a specific quality checks, indicated by the Graduated or Stable badge, and are confirmed to work with deployable architectures in the IBM catalog. For more information, see [Badges for modules](https://terraform-ibm-modules.github.io/documentation/#/badge-status){: external}. You can view usage information and one or more runnable examples for each module.  Example's aren't deployable from the module registry, but you can copy the usage code to get started with any module.
+[{{site.data.keyword.IBM_notm}} module registry](/catalog?catalog=2){: external}
+:   Discover modules that work with deployable architectures for your customization and building needs. This is a collection of assets that is separate from the {{site.data.keyword.IBM_notm}} Cloud catalog and is governed and maintained by the process in the [`terraform-ibm-modules`](https://github.com/terraform-ibm-modules) GitHub organization. The modules that you find here meet a specific quality checks, indicated by the Graduated or Stable badge, and are confirmed to work with deployable architectures in the {{site.data.keyword.IBM_notm}} catalog. For more information, see [Badges for modules](https://terraform-ibm-modules.github.io/documentation/#/badge-status){: external}. You can view usage information and one or more runnable examples for each module.  Example's aren't deployable from the module registry, but you can copy the usage code to get started with any module.
 
 [Community registry](/catalog?catalog=community-registry){: external}
-:   This is a collection of real world examples of coded industry solutions to jumpstart your building needs. The collection maintained by the owners of the originating GitHub repository and solutions might change frequently or be discontinued at short notice. Note that these solutions are't supported by the IBM Cloud Support Center. If you have questions about the solution, you can open an issue in the originating GitHub repository.
+:   This is a collection of real world examples of coded industry solutions to jumpstart your building needs. The collection maintained by the owners of the originating GitHub repository and solutions might change frequently or be discontinued at short notice. Note that these solutions are't supported by the {{site.data.keyword.Bluemix_notm}} Support Center. If you have questions about the solution, you can open an issue in the originating GitHub repository.
 
 The offerings in the module registry and community registry might include the following badges:
-- `TIM Approved` indicates that the solution is sourced in the [`terraform-ibm-modules`](https://github.com/terraform-ibm-modules/) GitHub organization, a collection of IBM Cloud Terraform modules.
-- `IBM open source` indicates that the solution is sourced in the [`ibm`](https://github.com/ibm) GitHub organization, a collection of open source repositories provided by IBM under the open source software license.
+- `TIM Approved` indicates that the solution is sourced in the [`terraform-ibm-modules`](https://github.com/terraform-ibm-modules/) GitHub organization, a collection of {{site.data.keyword.Bluemix_notm}} Terraform modules.
+- `{{site.data.keyword.IBM_notm}} open source` indicates that the solution is sourced in the [`ibm`](https://github.com/ibm) GitHub organization, a collection of open source repositories provided by IBM under the open source software license.
 - `Recommended` indicates that an internal team of experts has reviewed and endorses the offering for solving common or complex cloud use cases.
 
 
 ### Searching the catalog for services
 {: #catalog-filter-options}
 
-All products that are available in IBM Cloud are displayed by default in the catalog. You can filter the catalog by type to view a specific type of product, for example, only services, software, or deployable architectures. Enter keywords or set additional filters to further scope your view of the catalog. For example, if you want to deploy an analytics instance to Red Hat&reg; OpenShift&reg; on IBM Cloud&reg;, you can select the **Analytics** category, and filter the results by selecting **Red Hat OpenShift** as the deployment target.
+All products that are available in {{site.data.keyword.cloud_notm}} are displayed by default in the catalog. You can filter the catalog by type to view a specific type of product, for example, only services, software, or deployable architectures. Enter keywords or set additional filters to further scope your view of the catalog. For example, if you want to deploy an analytics instance to {{site.data.keyword.openshiftlong}}, you can select the **Analytics** category, and filter the results by selecting **Red Hat OpenShift** as the deployment target.
 
 See the following table for the list of filters that you can use to search the catalog.
 {: #filters}
@@ -138,11 +138,11 @@ See the following table for the list of filters that you can use to search the c
 
 | Option | Description |
 |--------------|-------|
-| EU Supported | Support for the service is restricted to IBM Cloud support team members that are located in the European Union (EU) region. This filter is available only if the [EU Supported setting](/docs/account?topic=account-eu-supported) is enabled in the account.  |
-| Financial Services Validated | Services are designated as Financial Services Validated when the IBM Cloud service or SaaS, or independent software vendor (ISV) product, evidences compliance with the IBM Cloud Framework for Financial Services. This filter is available only for IBM products, and if the [Financial Services Validated setting](/docs/account?topic=account-enabling-fs-validated) is enabled in the account. |
+| EU Supported | Support for the service is restricted to {{site.data.keyword.cloud_notm}} support team members that are located in the European Union (EU) region. This filter is available only if the [EU Supported setting](/docs/account?topic=account-eu-supported) is enabled in the account.  |
+| Financial Services Validated | Services are designated as Financial Services Validated when the {{site.data.keyword.cloud_notm}} service or SaaS, or independent software vendor (ISV) product, evidences compliance with the {{site.data.keyword.cloud_notm}} Framework for Financial Services. This filter is available only for {{site.data.keyword.IBM_notm}} products, and if the [Financial Services Validated setting](/docs/account?topic=account-enabling-fs-validated) is enabled in the account. |
 | HIPAA Enabled | The service is designated as HIPAA ready, meaning processing, storing, and handling Protected Health Information (PHI) in the service is supported. This filter is available only if the [HIPAA Supported setting](/docs/account?topic=account-enabling-hipaa) is enabled in the account. |
-| IAM-enabled | The service is enabled to use IBM Cloud Identity and Access Management (IAM) for access control. Access policies are used to assign users and service IDs access to specific resources in an account.|
-| Service Endpoint Supported | The service can be connected to over the IBM Cloud private network instead of the public network. Connecting directly to service endpoints doesn't require internet access, providing increased security. |
+| IAM-enabled | The service is enabled to use {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM) for access control. Access policies are used to assign users and service IDs access to specific resources in an account.|
+| Service Endpoint Supported | The service can be connected to over the {{site.data.keyword.cloud_notm}} private network instead of the public network. Connecting directly to service endpoints doesn't require internet access, providing increased security. |
 {: caption="Options for filtering by compliance" caption-side="top"}
 {: #compliance-svc}
 {: tab-title="Compliance"}
@@ -174,7 +174,7 @@ See the following table for the list of filters that you can use to search the c
 
 | Option | Description |
 |--------------|-------|
-| IBM supported | Products that are supported by IBM Cloud. |
+| {{site.data.keyword.IBM_notm}} supported | Products that are supported by {{site.data.keyword.cloud_notm}}. |
 | Third party supported | Products that are provided by individual service entities. |
 | Community supported | Products that are provided by open source communities. |
 {: caption="Options for filtering services by support type" caption-side="top"}
@@ -186,10 +186,10 @@ See the following table for the list of filters that you can use to search the c
 
 | Option | Description |
 |--------------|-------|
-| HPC | Products that enable High Performance Computing (HPC) workloads on IBM Cloud. For more information, see [High-performance computing on IBM Cloud](https://www.ibm.com/solutions/high-performance-computing){: external} |
-| SAP certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [IBM Cloud&reg; for SAP](/docs/sap).|
-| Satellite enabled | A service that is enabled for use with IBM Cloud Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. For more information, see [IBM Cloud Satellite](https://www.ibm.com/products/satellite){: external}. |
-| Quantum Technologies | A service that is compatible with quantum technologies. For more information, see [IBM Quantum services](http://cloud.ibm.com/quantum){: external}. |
+| HPC | Products that enable High Performance Computing (HPC) workloads on {{site.data.keyword.cloud_notm}}. For more information, see [High-performance computing on {{site.data.keyword.cloud_notm}}](https://www.ibm.com/solutions/high-performance-computing){: external} |
+| SAP certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [{{site.data.keyword.ibm_cloud_sap}}](/docs/sap).|
+| Satellite enabled | A service that is enabled for use with {{site.data.keyword.cloud_notm}} Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. For more information, see [{{site.data.keyword.cloud_notm}} {{site.data.keyword.satelliteshort}}](https://www.ibm.com/products/satellite){: external}. |
+| Quantum Technologies | A service that is compatible with quantum technologies. For more information, see [{{site.data.keyword.IBM_notm}} Quantum services](http://cloud.ibm.com/quantum){: external}. |
 {: caption="Options for filtering by run-time environment" caption-side="top"}
 {: #supported-env-svc}
 {: tab-title="Works with"}
@@ -246,10 +246,10 @@ The following table lists the filter options you can use when searching the cata
 
 | Option | Description |
 |--------------|-------|
-| IBM Kubernetes Service | Used to create a Kubernetes cluster of compute hosts to deploy and manage containerized apps on IBM Cloud. |
-| IBM Cloud Schematics | Used for infrastructure as code automation by using terraform templates. |
-| Power Virtual Server | Used to create a Power server that is distinct from the IBM Cloud servers with separate networks and direct-attached storage. The internal networks are fenced but offer connectivity options to  IBM Cloud infrastructure or on-premises environments. |
-| Red Hat OpenShift | Used to create a Red Hat OpenShift on IBM Cloud cluster of compute hosts to deploy and manage containerized apps on IBM Cloud. |
+| IBM {{site.data.keyword.containershort}} | Used to create a Kubernetes cluster of compute hosts to deploy and manage containerized apps on {{site.data.keyword.cloud_notm}}. |
+| {{site.data.keyword.bplong_notm}} | Used for infrastructure as code automation by using terraform templates. |
+| {{site.data.keyword.powerSys_notm}} | Used to create a Power server that is distinct from the {{site.data.keyword.cloud_notm}} servers with separate networks and direct-attached storage. The internal networks are fenced but offer connectivity options to  {{site.data.keyword.cloud_notm}} infrastructure or on-premises environments. |
+| Red Hat OpenShift | Used to create a {{site.data.keyword.openshiftshort}} cluster of compute hosts to deploy and manage containerized apps on {{site.data.keyword.cloud_notm}}. |
 | VMware vCenter Server | Provides deployment and management of VMware virtualized environments. |
 | Virtual private cloud | Deploy and manage your server images on virtual private cloud as your infrastructure target. |
 {: caption="Options for filtering by deployment target" caption-side="top"}
@@ -272,7 +272,7 @@ The following table lists the filter options you can use when searching the cata
 
 | Option | Description |
 |--------------|-------|
-| IBM supported | Products that are supported by IBM Cloud. |
+| {{site.data.keyword.IBM_notm}} supported | Products that are supported by {{site.data.keyword.cloud_notm}}. |
 | Third party supported | Products that are provided by individual service entities. |
 | Community supported | Products that are provided by open source communities. |
 {: caption="Options for filtering software by support type" caption-side="top"}
@@ -284,10 +284,10 @@ The following table lists the filter options you can use when searching the cata
 
 | Option | Description |
 |--------------|-------|
-| HPC | Products that enable High Performance Computing (HPC) workloads on IBM Cloud. For more information, see [High-performance computing on IBM Cloud](https://www.ibm.com/solutions/high-performance-computing){: external} |
-| SAP Certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [IBM Cloud&reg; for SAP](/docs/sap).|
-| Satellite Enabled | A service that is enabled for use with IBM Cloud Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. For more information, see [IBM Cloud Satellite](https://www.ibm.com/products/satellite){: external}. |
-| Quantum Technologies | A service that is compatible with quantum technologies. For more information, see [IBM Quantum services](http://cloud.ibm.com/quantum){: external}. |
+| HPC | Products that enable High Performance Computing (HPC) workloads on {{site.data.keyword.cloud_notm}}. For more information, see [High-performance computing on {{site.data.keyword.cloud_notm}}](https://www.ibm.com/solutions/high-performance-computing){: external} |
+| SAP Certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [{{site.data.keyword.ibm_cloud_sap}}](/docs/sap).|
+| Satellite Enabled | A service that is enabled for use with {{site.data.keyword.cloud_notm}} Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. For more information, see [{{site.data.keyword.cloud_notm}} {{site.data.keyword.satelliteshort}}](https://www.ibm.com/products/satellite){: external}. |
+| Quantum Technologies | A service that is compatible with quantum technologies. For more information, see [{{site.data.keyword.IBM_notm}} Quantum services](http://cloud.ibm.com/quantum){: external}. |
 {: caption="Options for filtering software by run-time environment" caption-side="top"}
 {: #supported-env-software}
 {: tab-title="Works with"}
@@ -334,7 +334,7 @@ You can also scope your view of the catalog by using the **Provider** filter to 
 
 You can view the pricing details for each service when you're browsing the catalog. If you choose a service plan with a paid plan, you can estimate your costs by using the cost estimator tool. For more information, see [Estimating your costs](/docs/account?topic=account-cost).
 
-IBM Cloud billing provides multiple services that ensure the IBM Cloud platform can securely manage pricing, accounts, usage, and more.
+{{site.data.keyword.Bluemix_notm}} billing provides multiple services that ensure the {{site.data.keyword.Bluemix_notm}} platform can securely manage pricing, accounts, usage, and more.
 
 ### Account management
 {: #account-mgmt}
@@ -344,7 +344,7 @@ Account management maintains the billing relationship with the customer. Each ac
 ### Usage metering
 {: #metering}
 
-With usage metering, service providers can submit metrics that are collected for resource instances that are created by IBM Cloud users. Third-party service providers that deliver an integrated billing service are required to submit usage for all active service instances every hour.
+With usage metering, service providers can submit metrics that are collected for resource instances that are created by {{site.data.keyword.Bluemix_notm}} users. Third-party service providers that deliver an integrated billing service are required to submit usage for all active service instances every hour.
 
 ### Usage reports
 {: #usage}
@@ -354,58 +354,58 @@ Usage reports return the summary for the account for the specified month. Accoun
 ## Managing security and compliance
 {: #account-security-compliance}
 
-The IBM Cloud Security and Compliance Center Workload Protection offers a single location where you can validate that your resources are meeting continuous security and compliance.
+The {{site.data.keyword.sysdigsecure_full_notm}} offers a single location where you can validate that your resources are meeting continuous security and compliance.
 
-You can create policies and controls to ensure that specific areas of your business adhere to your defined requirements or industry regulations. From the IBM Cloud Security and Compliance Center Workload Protection dashboard, you can download detailed reports that you can use to provide evidence to stakeholders or external auditors. The IBM Cloud Security and Compliance Center Workload Protection also offers security insights that you can use to detect potential threats when observing your account activity. For more information, see [Getting started with IBM Cloud Security and Compliance Center Workload Protection](/docs/workload-protection?topic=workload-protection-getting-started).
+You can create policies and controls to ensure that specific areas of your business adhere to your defined requirements or industry regulations. From the {{site.data.keyword.sysdigsecure_full_notm}} dashboard, you can download detailed reports that you can use to provide evidence to stakeholders or external auditors. The {{site.data.keyword.sysdigsecure_full_notm}} also offers security insights that you can use to detect potential threats when observing your account activity. For more information, see [Getting started with {{site.data.keyword.sysdigsecure_full_notm}}](/docs/workload-protection?topic=workload-protection-getting-started).
 
 ## Creating resources
 {: #provisioning-layer}
 
-The resource controller is the next-generation IBM Cloud platform provisioning layer that manages the lifecycle of IBM Cloud resources in your account. Resources are created globally in an account scope. The resource controller supports the creation of resources both synchronously and asynchronously. Examples of resources include databases, accounts, processors, memory, and storage limits.
+The resource controller is the next-generation {{site.data.keyword.Bluemix_notm}} platform provisioning layer that manages the lifecycle of {{site.data.keyword.Bluemix_notm}} resources in your account. Resources are created globally in an account scope. The resource controller supports the creation of resources both synchronously and asynchronously. Examples of resources include databases, accounts, processors, memory, and storage limits.
 
-In general, resources that are tracked by the provisioning layer are intended to associate usage metrics and billing, but that isn’t always the case. In some cases, the resource might be associated with the provisioning layer to ensure that its lifecycle can be managed along with the account lifecycle. The resource controller uses IBM Cloud Identity and Access Management (IAM) for authentication and authorization of actions that are taken against the provisioning layer.
+In general, resources that are tracked by the provisioning layer are intended to associate usage metrics and billing, but that isn’t always the case. In some cases, the resource might be associated with the provisioning layer to ensure that its lifecycle can be managed along with the account lifecycle. The resource controller uses {{site.data.keyword.Bluemix_notm}} Identity and Access Management (IAM) for authentication and authorization of actions that are taken against the provisioning layer.
 
 The resource controller provides common APIs to control the lifecycle of resources from creating an instance to creating access credentials to removing access to deleting an instance.
 
 ## Managing your resources
 {: #resource-manager}
 
-A collection of resources is managed by [resource groups](/docs/account?topic=account-rgs). A resource group is associated with your account. All IBM Cloud resources must be assigned to a resource group. When you create an account, a default resource group is created for you. All IBM Cloud IAM-enabled resources must be created within a resource group. If you have a Lite account, you can have only one resource group, but with a a Pay-As-You-Go or Subscription account, you can create more than one resource group. If an account is suspended, the corresponding resource group is suspended as well, and all resources within the resource group are suspended.
+A collection of resources is managed by [resource groups](/docs/account?topic=account-rgs). A resource group is associated with your account. All {{site.data.keyword.Bluemix_notm}} resources must be assigned to a resource group. When you create an account, a default resource group is created for you. All {{site.data.keyword.Bluemix_notm}} IAM-enabled resources must be created within a resource group. If you have a Lite account, you can have only one resource group, but with a a Pay-As-You-Go or Subscription account, you can create more than one resource group. If an account is suspended, the corresponding resource group is suspended as well, and all resources within the resource group are suspended.
 
 ## Managing Infrastructure as Code (IaC) deployments with projects
 {: #projects}
 
-IBM Cloud [projects](#x2035151){: term} are a named collection of configurations that are used to manage related resources and Infrastructure as Code (IaC) deployments across accounts. They enable teams to configure, deploy, and monitor deployments by using DevOps best practices. If you select a deployable architecture from the catalog, you can add it to a project to configure and deploy it into your different environments. For more information, see [Learn about IaC deployments with projects](/docs/secure-enterprise?topic=secure-enterprise-understanding-projects).
+{{site.data.keyword.cloud_notm}} [projects](#x2035151){: term} are a named collection of configurations that are used to manage related resources and Infrastructure as Code (IaC) deployments across accounts. They enable teams to configure, deploy, and monitor deployments by using DevOps best practices. If you select a deployable architecture from the catalog, you can add it to a project to configure and deploy it into your different environments. For more information, see [Learn about IaC deployments with projects](/docs/secure-enterprise?topic=secure-enterprise-understanding-projects).
 
 ## Searching and tagging resources
 {: #search-and-tag}
 
-The search service is a global and shared resource properties repository that is integrated within the IBM Cloud platform. It is used for storing and searching a cloud resource's attributes, and it categorizes and classifies resources. Resources are uniquely identified by a [Cloud Resource Name (CRN)](/docs/account?topic=account-crn) identifier. The properties of a resource include tags and system properties. Both properties are defined within an IBM Cloud billing account, and span across many regions.
+The search service is a global and shared resource properties repository that is integrated within the {{site.data.keyword.Bluemix_notm}} platform. It is used for storing and searching a cloud resource's attributes, and it categorizes and classifies resources. Resources are uniquely identified by a [Cloud Resource Name (CRN)](/docs/account?topic=account-crn) identifier. The properties of a resource include tags and system properties. Both properties are defined within an {{site.data.keyword.Bluemix_notm}} billing account, and span across many regions.
 
 This service also manages tags that are associated with a resource. You can create, delete, search, attach, or detach tags with the Tagging API. Tags are uniquely identified by a CRN identifier. Tags have a name, which must be unique within a billing account. You can create tags in key:value pairs or label format.
 
 ## Monitoring your resources
 {: #resources_observability}
 
-Observability offers a single location where you can monitor and observe your applications and services in IBM Cloud.
+Observability offers a single location where you can monitor and observe your applications and services in {{site.data.keyword.Bluemix_notm}}.
 
-With the IBM&reg; Cloud Logs service, you can add log management capabilities to your IBM Cloud architecture so you can manage platform and application logs. IBM Cloud Logs offers advanced features to monitor and troubleshoot, define alerts, and design custom dashboards. For more information, see [Getting started with IBM Cloud Logs](/docs/cloud-logs?topic=cloud-logs-getting-started).
+With the {{site.data.keyword.logs_full}} service, you can add log management capabilities to your {{site.data.keyword.Bluemix_notm}} architecture so you can manage platform and application logs. {{site.data.keyword.logs_full_notm}} offers advanced features to monitor and troubleshoot, define alerts, and design custom dashboards. For more information, see [Getting started with {{site.data.keyword.logs_full_notm}}](/docs/cloud-logs?topic=cloud-logs-getting-started).
 
-You can gain operational visibility into the performance and health of your applications, services, and platforms with the IBM Cloud Monitoring service. It offers a full stack telemetry with advanced features to monitor and troubleshoot, define alerts, and design custom dashboards. For more information, see [Getting started with IBM Cloud Monitoring](/docs/monitoring?topic=monitoring-getting-started#getting-started).
+You can gain operational visibility into the performance and health of your applications, services, and platforms with the {{site.data.keyword.mon_full_notm}} service. It offers a full stack telemetry with advanced features to monitor and troubleshoot, define alerts, and design custom dashboards. For more information, see [Getting started with {{site.data.keyword.monitoringlong_notm}}](/docs/monitoring?topic=monitoring-getting-started#getting-started).
 
 ## Monitoring your account
 {: #account_observability}
 
-Use the IBM&reg; Cloud Logs service to monitor the activity of your IBM Cloud account, investigate abnormal activity and critical actions, and comply with regulatory audit requirements. In addition, you can be alerted on actions as they happen. The events that are collected comply with the Cloud Auditing Data Federation (CADF) standard. For more information, see [Getting started with IBM Cloud Logs](/docs/cloud-logs?topic=cloud-logs-getting-started).
+Use the {{site.data.keyword.logs_full}} service to monitor the activity of your {{site.data.keyword.Bluemix_notm}} account, investigate abnormal activity and critical actions, and comply with regulatory audit requirements. In addition, you can be alerted on actions as they happen. The events that are collected comply with the Cloud Auditing Data Federation (CADF) standard. For more information, see [Getting started with {{site.data.keyword.logs_full_notm}}](/docs/cloud-logs?topic=cloud-logs-getting-started).
 
 
 ## Viewing status
 {: #status-service}
 
-The IBM Cloud Status page is the central place to find all unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the IBM Cloud platform. You can filter these categories by selecting specific locations, components, types of ongoing events, or by using keyword searches. For more information, see [Viewing cloud status](/docs/support?topic=support-viewing-status).
+The {{site.data.keyword.Bluemix_notm}} Status page is the central place to find all unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix_notm}} platform. You can filter these categories by selecting specific locations, components, types of ongoing events, or by using keyword searches. For more information, see [Viewing cloud status](/docs/support?topic=support-viewing-status).
 
 
 ## Notification preferences
 {: #notification-preference}
 
-Depending on your IBM Cloud account type, you can choose to receive email notifications about IBM Cloud platform-related items and resource-related items from the [Notification preferences page](https://cloud.ibm.com/user/notifications){: external}. Platform-related items include announcements, billing and usage, and ordering. Resource-related items include incidents, maintenance, security bulletins, and resource activity. For more information, see [Setting email preferences for notifications](/docs/support?topic=support-email-prefs).
+Depending on your {{site.data.keyword.Bluemix_notm}} account type, you can choose to receive email notifications about {{site.data.keyword.Bluemix_notm}} platform-related items and resource-related items from the [Notification preferences page](https://cloud.ibm.com/user/notifications){: external}. Platform-related items include announcements, billing and usage, and ordering. Resource-related items include incidents, maintenance, security bulletins, and resource activity. For more information, see [Setting email preferences for notifications](/docs/support?topic=support-email-prefs).

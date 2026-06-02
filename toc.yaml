@@ -67,6 +67,13 @@ toc:
           - slas.md
           - services_availability.md
           - pricing-adjustments.md
+          - topicgroup:
+              label: Lifecycle policy
+              topics:
+              - lifecycle-policy.md
+              - services_availability1.md
+              - release-levels.md
+              - include: ../vpc/os-lifecycle.md
   - navgroup:
       id: help
       topics:

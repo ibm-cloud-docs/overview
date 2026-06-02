@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2022, 2026
-lastupdated: "2026-05-22"
+lastupdated: "2026-06-02"
 
 keywords: customer success manager, csm, technical architect, ibm support, csm
 
@@ -11,13 +11,13 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Accelerate your IBM Cloud success with a customer success manager
+# Accelerate your {{site.data.keyword.cloud_notm}} success with a customer success manager
 {: #csm}
 
-Discover how IBM customer success managers (CSMs) help you implement use cases, optimize IBM Cloud&reg; deployments, and achieve business outcomes with IBM Cloud services.
+Discover how IBM customer success managers (CSMs) help you implement use cases, optimize {{site.data.keyword.cloud}} deployments, and achieve business outcomes with {{site.data.keyword.cloud_notm}} services.
 {: shortdesc}
 
-An IBM CSM is a technical architect who works as part of your team to accelerate your time to value and help you achieve your business outcomes as you use IBM Software and IBM Cloud services.
+An IBM CSM is a technical architect who works as part of your team to accelerate your time to value and help you achieve your business outcomes as you use IBM Software and {{site.data.keyword.cloud_notm}} services.
 
 CSMs work with IBM customers to:
 
@@ -44,7 +44,7 @@ At the end of the day, the CSM’s success is your success.
 | [Data Fabric](https://www.ibm.com/think/topics/data-fabric?mhsrc=ibmsearch_a&mhq=data%20fabric) | Data fabric is an architecture that facilitates the end-to-end integration of various data pipelines and cloud environments through the use of intelligent and automated systems. |
 | [Business Automation](https://www.ibm.com/products/cloud-pak-for-business-automation?lnk=STW_US_STESCH&lnk2=learn_CloudPakAtm&pexp=DEF&psrc=NONE&mhsrc=ibmsearch_a&mhq=Business%20Automation) | IBM Cloud Pak for Business Automation is a modular set of integrated software components, built for any hybrid cloud, designed to automate work and accelerate business growth. |
 | [Security](https://www.ibm.com/products/cloud-paks) | IBM Cloud Pak for Security can help you gain deeper insights, mitigate risks and accelerate response. |
-| [IBM Cloud](https://ibm.com/solutions/cloud) | IBM Cloud provides solutions that enable higher levels of compliance, security, and management, with proven architecture patterns and methods for rapid delivery for running mission-critical workloads.  |
+| [IBM Cloud](https://ibm.com/solutions/cloud) | {{site.data.keyword.cloud_notm}} provides solutions that enable higher levels of compliance, security, and management, with proven architecture patterns and methods for rapid delivery for running mission-critical workloads.  |
 {: caption="Examples of services that CSMs support" caption-side="bottom"}
 
 ## Learn how our customers are finding success
@@ -56,7 +56,7 @@ NCHC uses AIOps to improve public network services and proactively prevent outag
 :   In Taiwan, where the pandemic response has been exceptionally effective at limiting outbreaks and death, the National Center for High-performance Computing (NCHC) helps accelerate research and innovation nationwide by providing access to supercomputers and analytics and by facilitating nationwide networks for data sharing and collaboration. Read the [case study](https://www.ibm.com/case-studies/national-center-for-high-performance-computing/){: external}.
 
 Travelping drives connected cars into the data fast lane with cloud-native technologies.
-:   EU data protection regulations and network latency issues can stall advancements in connected vehicle performance. To help auto manufacturers gain real-time Internet of Things (IoT) insights, Travelping used IBM Cloud&reg; infrastructure products and its own Kubernetes deployment to create a cloud-native solution that transports data to the vehicles. Read the [case study](https://www.ibm.com/case-studies/travelping-gmbh-cloud){: external}.
+:   EU data protection regulations and network latency issues can stall advancements in connected vehicle performance. To help auto manufacturers gain real-time Internet of Things (IoT) insights, Travelping used {{site.data.keyword.cloud}} infrastructure products and its own Kubernetes deployment to create a cloud-native solution that transports data to the vehicles. Read the [case study](https://www.ibm.com/case-studies/travelping-gmbh-cloud){: external}.
 
 Karnataka Bank creates single integration platform for its data-driven transformation.
 :   Financial institutions are constantly operating in a complex, competitive and compliance-driven financial environment where making timely and data-driven decisions is key for efficient growth and effective risk management. By leveraging tools such as data lake, advanced analytics, and accessible reporting, a bank can establish baseline performance metrics across applications, deposits, and loans. Read the [article](https://cio.economictimes.indiatimes.com/amp/news/business-analytics/karnataka-bank-sets-up-center-of-excellence-to-become-a-data-driven-bank/90042025){: external}.

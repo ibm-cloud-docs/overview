@@ -2,7 +2,7 @@
 
 copyright:
   years: 2014, 2022
-lastupdated: "2026-05-22"
+lastupdated: "2026-06-02"
 
 keywords: ibm cloud languages, multilingual support, language translation, console languages, translation, national language support
 
@@ -12,21 +12,21 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud language support: Available languages and translations
+# {{site.data.keyword.cloud_notm}} language support: Available languages and translations
 {: #language-support}
 
-Discover IBM Cloud&reg;'s national language support, including available languages, machine translation, and console language settings for a seamless experience.
+Discover {{site.data.keyword.cloud}}'s national language support, including available languages, machine translation, and console language settings for a seamless experience.
 {: shortdesc}
 
-IBM Cloud products and services support nine national languages other than English. However, depending on the release level of the products included in IBM Cloud, the content that is provided might not be translated.
+{{site.data.keyword.cloud_notm}} products and services support nine national languages other than English. However, depending on the release level of the products included in {{site.data.keyword.cloud_notm}}, the content that is provided might not be translated.
 
-The IBM Cloud console and the Support Center display content according to your browser's language setting. You can switch languages for the console user interface and Support Center by going to your browser's settings page and changing the language.
+The {{site.data.keyword.cloud_notm}} console and the Support Center display content according to your browser's language setting. You can switch languages for the console user interface and Support Center by going to your browser's settings page and changing the language.
 
-The IBM Cloud docs are machine translated. You can switch between languages by using the **Language** switcher at the beginning of each page. The language that you select persists between sessions. If it's the first time you're viewing the docs in a particular browser, the docs display the content according to your browser's language setting unless the URL includes a parameter setting the language.
+The {{site.data.keyword.cloud_notm}} docs are machine translated. You can switch between languages by using the **Language** switcher at the beginning of each page. The language that you select persists between sessions. If it's the first time you're viewing the docs in a particular browser, the docs display the content according to your browser's language setting unless the URL includes a parameter setting the language.
 
-The [IBM Cloud AI assistant](/docs/overview?topic=overview-ask-ai-assistant) supports all languages that are supported by IBM Cloud including: Deutsch, English, Español, Français, Italiano, 日本語, 한국어, Português/Brasil, 简体中文, and 繁體中文. To change the language that the AI assistant reponds in, you must ask a question in one of the supported languages first. The browser language setting does not affect generated responses, so simply ask your question in one of the supported languages and get a response back in that same language.
+The [{{site.data.keyword.cloud_notm}} AI assistant](/docs/overview?topic=overview-ask-ai-assistant) supports all languages that are supported by {{site.data.keyword.cloud_notm}} including: Deutsch, English, Español, Français, Italiano, 日本語, 한국어, Português/Brasil, 简体中文, and 繁體中文. To change the language that the AI assistant reponds in, you must ask a question in one of the supported languages first. The browser language setting does not affect generated responses, so simply ask your question in one of the supported languages and get a response back in that same language.
 
-The following table lists the supported national languages and language codes for IBM Cloud.
+The following table lists the supported national languages and language codes for {{site.data.keyword.cloud_notm}}.
 
 | National Language | Language Code |
 |----------|---------|
@@ -45,14 +45,14 @@ The following table lists the supported national languages and language codes fo
 ## National language support for support
 {: #support-language-support}
 
-Support by local technical account managers is available in any of the supported national languages that are listed during local business hours. Our major centers have several bilingual technical support professionals who support local languages as needed. When you chat with a live support agent in the IBM Cloud console, only English and Japanese languages are supported.
+Support by local technical account managers is available in any of the supported national languages that are listed during local business hours. Our major centers have several bilingual technical support professionals who support local languages as needed. When you chat with a live support agent in the {{site.data.keyword.cloud_notm}} console, only English and Japanese languages are supported.
 
 ## National language support for sales
 {: #sales-language-support}
 
-IBM has a local presence in most countries, with sales and technical resources that speak the local language. The [IBM Cloud website](https://www.ibm.com/solutions/cloud){: external} does IP detection to designate the website language, and you can also change your business location in the **Let's talk** button. There, you can find a local phone number and contact information for your country.
+IBM has a local presence in most countries, with sales and technical resources that speak the local language. The [{{site.data.keyword.cloud_notm}} website](https://www.ibm.com/solutions/cloud){: external} does IP detection to designate the website language, and you can also change your business location in the **Let's talk** button. There, you can find a local phone number and contact information for your country.
 
-The following list displays the website URL and local phone number for a selection of locations that IBM Cloud sales supports across the world.
+The following list displays the website URL and local phone number for a selection of locations that {{site.data.keyword.cloud_notm}} sales supports across the world.
 
 * United States [https://www.ibm.com/solutions/cloud](https://www.ibm.com/solutions/cloud){: external} / telephone: +18449525683
 * Brazil [https://www.ibm.com/br-pt/solutions/cloud](https://www.ibm.com/br-pt/solutions/cloud){: external} / telephone: +558007071426

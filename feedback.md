@@ -13,13 +13,13 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Submitting feedback for the {{site.data.keyword.cloud_notm}} documentation and platform
+# Submitting feedback for the IBM Cloud documentation and platform
 {: #feedback}
 
-Learn how to submit feedback for {{site.data.keyword.cloud}}, including pull requests and content updates for documentation and suggestions for product improvements.
+Learn how to submit feedback for IBM Cloud&reg;, including pull requests and content updates for documentation and suggestions for product improvements.
 {: shortdesc}
 
-We want to hear from you! You can submit feedback for the {{site.data.keyword.cloud_notm}} team on the documentation or the console. You can choose from a few different methods to provide feedback.
+We want to hear from you! You can submit feedback for the IBM Cloud team on the documentation or the console. You can choose from a few different methods to provide feedback.
 
 ## Providing a content update with a pull request
 {: #feedback-pr}
@@ -54,11 +54,11 @@ The content team works to address the issues that you open. You can monitor the 
 When you're completing a task in the console, you can find a feedback form from the console menu bar to submit a rave review, a suggestion, or identify an error.
 
 1. Click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Send feedback** from the console menu bar.
-1. Enter a description about what you want to share with the {{site.data.keyword.Bluemix_notm}} team.
+1. Enter a description about what you want to share with the IBM Cloud team.
 1. Rate your experience on a scale from one to five stars, with five stars representing a great experience.
 1. Click **Submit**.
 
 ## Submitting ideas for product improvements
 {: #ideas}
 
-To submit ideas, feature requests for {{site.data.keyword.cloud_notm}}, and services improvements, go to [IBM Cloud Ideas](https://ibmcloud.ideas.ibm.com/){: external}. The Product Management team, which is responsible for the full lifecycle of an {{site.data.keyword.cloud_notm}} product offering, reviews the ideas.
+To submit ideas, feature requests for IBM Cloud, and services improvements, go to [IBM Cloud Ideas](https://ibmcloud.ideas.ibm.com/){: external}. The Product Management team, which is responsible for the full lifecycle of an IBM Cloud product offering, reviews the ideas.

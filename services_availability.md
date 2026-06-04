@@ -35,6 +35,6 @@ The following table lists the products that IBM&reg; will not withdraw support f
 | Object Storage | 2026-12-31 |
 {: caption="Product support" caption-side="top"}
 
-For products that are not included in the previous table, IBM will provide at least 30 days notice of its intention to discontinue or replace a generally available product. If no replacement is provided, IBM will use commercially reasonable means to continue the operation and support of previously deployed instances of the product for a period of at least 12 months.
+For products that are not included in the previous table, IBM will provide at least 12 months notice of its intention to discontinue or replace a generally available product, unless IBM must act sooner to comply with applicable laws, legal obligations, or regulations, to address a security issue, or to avoid undue economic burden. In such circumstances, IBM will take all reasonable actions to provide as much notice to customers as possible.
 
 For more information about the terms of use for products, see [IBM Cloud Terms](/docs/overview?topic=overview-terms).

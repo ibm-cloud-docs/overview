@@ -259,6 +259,7 @@ See the following table for the specific code for each data center.
 
 | Data center  | Code  |
 |--------------|-------|
+|Chennai 01 | CHE01|
 |Osaka 21 | OSA21|
 |Osaka 22 | OSA22|
 |Osaka 23 | OSA23|

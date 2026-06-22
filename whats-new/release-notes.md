@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-06-15"
+lastupdated: "2026-06-22"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -23,7 +23,12 @@ Stay up-to-date with the latest {{site.data.keyword.cloud}} platform updates, ne
 ## June 2026
 {: #june-2026}
 
+### 22 June 2026
+{: #overview-jun2226}
+{: release-note}
 
+Upgrade Basic support plan through Support Center
+:   You can now request an upgrade to your Basic support plan by creating a case directly in the Support Center or by contacting {{site.data.keyword.cloud_notm}} Sales. Upgrading to Advanced or Premium support provides benefits such as continuous access to technical support, faster response times for critical issues, and access to additional support resources. For more information, see [Upgrading your support plan](/docs/support?topic=support-open-case&interface=ui#upgrade-support-plan).
 
 ### 11 June 2026
 {: #overview-jun1026}

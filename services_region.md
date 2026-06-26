@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2025
-lastupdated: "2026-06-20"
+lastupdated: "2026-06-26"
 
 keywords: service availability by region, infrastructure locations, mzr availability, service deployment, resource deployment, location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -55,6 +55,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Container Registry | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
+| Data Virtualization | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | DataStage | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Databases for Elasticsearch | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Databases for MongoDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -145,6 +146,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Container Registry | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | 
+| Data Virtualization |  |  |  | 
 | DataStage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Databases for Elasticsearch | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Databases for MongoDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -235,6 +237,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Container Registry | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Continuous Delivery |  |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
+| Data Virtualization |  |  |  |  |  |  | 
 | DataStage |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Databases for Elasticsearch | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Databases for MongoDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 

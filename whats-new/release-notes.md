@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-06-22"
+lastupdated: "2026-07-06"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -35,7 +35,7 @@ Upgrade Basic support plan through Support Center
 {: release-note}
 
 Chennai 01 (CHE01) data center closes in June 2027
-:   The Chennai 01 (CHE01) data center is scheduled to close 10 June 2027. Clients have one year to plan and complete the migration to another {{site.data.keyword.cloud_notm}} location before services in CHE01 are suspended. For more information, see [Chennai 01 (CHE01) data center closure](/docs/support?topic=support-dc-closure#che01-closure).
+:   The Chennai 01 (CHE01) data center is scheduled to close 10 June 2027. You have one year to plan and complete the migration to another {{site.data.keyword.cloud_notm}} location before services in CHE01 are suspended. For more information, see [Chennai 01 (CHE01) data center closure](/docs/support?topic=support-dc-closure#che01-closure).
 
 ## May 2026
 {: #may-2026}

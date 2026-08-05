@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-06-04"
+lastupdated: "2026-08-05"
 
 keywords: extended support, product lifecycle, service availability, end of support dates, lifecycle, end of support, service availability, deprecation, product availability, product release level, extended support, terms
 
@@ -29,7 +29,6 @@ The following table lists the products that {{site.data.keyword.IBM}} will not w
 | {{site.data.keyword.appid_short}} | 2026-12-31 |
 | {{site.data.keyword.cloudant}} | 2026-12-31 |
 | {{site.data.keyword.databases-for-postgresql}} | 2027-12-31 |
-| {{site.data.keyword.dashdbshort}} | 2026-12-31 |
 | {{site.data.keyword.messagehub}} | 2027-12-31 |
 | {{site.data.keyword.containershort_notm}} | 2027-12-31 |
 | {{site.data.keyword.objectstorageshort}} | 2026-12-31 |

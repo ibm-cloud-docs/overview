@@ -3850,21 +3850,6 @@
     ]
   },
   {
-    "Lemma": "Raft",
-    "ID": "x10127298",
-    "Homonyms": [
-      {
-        "Senses": [
-          {
-            "Definitions": [
-              "A crash fault tolerant ordering service implementation based on the etcd library of the Raft protocol. Raft follows a leader-and-follower model, where a leader node is elected per channel, and its decisions are replicated by the followers."
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "Lemma": "read-mostly",
     "ID": "x7470468",
     "Homonyms": [

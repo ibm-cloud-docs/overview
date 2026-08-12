@@ -3,7 +3,7 @@
 copyright:
   years: 2016, 2026
 
-lastupdated: "2026-06-02"
+lastupdated: "2026-08-12"
 
 keywords: ibm cloud glossary, cloud terms, technical definitions, cloud computing terms, glossary, IBM Cloud glossary, terms, definitions
 
@@ -13,10 +13,10 @@ subcollection: overview
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud glossary of terms and definitions
+# {{site.data.keyword.cloud_notm}} glossary of terms and definitions
 {: #glossary}
 
-Browse the IBM Cloud&reg; glossary for definitions of cloud computing terms, services, and technical concepts used across the IBM Cloud platform.
+Browse the {{site.data.keyword.cloud}} glossary for definitions of cloud computing terms, services, and technical concepts used across the {{site.data.keyword.cloud_notm}} platform.
 {: shortdesc}
 
 The following cross-references are used in this glossary:
@@ -1654,11 +1654,6 @@ The number of resources that can be consumed at an account or service instance l
 ## R
 {: #glossr}
 
-
-### Raft
-{: #x10127298}
-
-A crash fault tolerant ordering service implementation based on the etcd library of the Raft protocol. Raft follows a leader-and-follower model, where a leader node is elected per channel, and its decisions are replicated by the followers.
 
 ### RAG
 {: #x10299280}

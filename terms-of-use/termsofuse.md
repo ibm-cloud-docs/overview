@@ -5,9 +5,9 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-06-26"
+lastupdated: "2026-08-18"
 
-keywords: terms of use, IBM Cloud, CSA, Cloud Service Agreement, data egress charges, EU data act, French SREN law, France data portability
+keywords: terms of use, IBM Cloud, CSA, Cloud Service Agreement, CRA, Client Relationship Agreement, data egress charges, EU data act, French SREN law, France data portability
 
 subcollection: overview
 
@@ -33,10 +33,9 @@ The following terms apply to an {{site.data.keyword.cloud}} account and use of t
       - Enterprise Savings Plan accounts for Clients with business addresses in Italy, Brazil, India, Israel, or Mexico, invoiced by IBM Cloud International B.V.
       - U.S. Dollar Pay as you Go (PayGo) credit card accounts in all countries **except** Australia, Austria, Belgium, Canada, Denmark, Finland, Germany, Ireland, Luxembourg, Netherlands, New Zealand, Norway, Sweden, Switzerland, United Kingdom, or the United States of America.
       - Free/Lite Accounts.
-   - The country-specific IBM Cloud Service Agreement found at [https://www.ibm.com/support/customer/csol/terms/?id=Z126-6304](https://www.ibm.com/support/customer/csol/terms/?id=Z126-6304){: external} applicable to Client's business address which applies to  all other accounts contracted with IBM local country entities, including:
+   - The country-specific IBM Client Relationship Agreement found at [https://ibm.com/terms/?id=z126-6548](https://ibm.com/terms/?id=z126-6548){: external} and, as applicable, the Product Attachment for Cloud Services at [https://ibm.com/terms/?id=z126-6560](https://ibm.com/terms/?id=z126-6560){: external} and the Product Attachment for Services at [https://ibm.com/terms/?id=z126-6559](https://ibm.com/terms/?id=z126-6559){: external} which applies to all accounts contracted with IBM, including:
       - Pay as you go (PayGo) credit card accounts for Australia, Austria, Belgium, Canada, Denmark, Finland, Germany, Ireland, Japan, Luxembourg, Netherlands, New Zealand, Norway, Sweden, Switzerland, United Kingdom, or the United States of America.
       - Invoiced (non-credit card) and local country currency accounts of any type, except for the Enterprise Savings Plan accounts in countries listed above.
-   - The IBM Passport Advantage Agreement you accepted upon enrollment in the Passport Advantage Program available at [https://www.ibm.com/support/customer/csol/terms/?id=i126-5948](https://www.ibm.com/support/customer/csol/terms/?id=i126-5948){: external}.
    - A business partner agreement covering the use of Cloud Services (e.g. use of an IBM Cloud account for an embedded service or downstream distribution, subject to the terms of the IBM Embedded Solution Agreement, as approved by IBM).
    - Another agreement with equivalent cloud services terms signed between the parties.
 
@@ -69,7 +68,7 @@ For subpoenas or for reporting abuse on {{site.data.keyword.cloud_notm}}, contac
 
 ```text
 IBM Cloud c/o SoftLayer Inc*.
-14001 North Dallas Parkway, Suite M100
+14001 North Dallas Parkway, Suite 800
 Dallas, TX 75240
 214.442.0600 Main
 214.442.0605 Abuse

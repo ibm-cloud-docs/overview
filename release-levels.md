@@ -2,7 +2,7 @@
 copyright:
   years: 2024
 
-lastupdated: "2026-06-02"
+lastupdated: "2026-08-26"
 
 keywords: lifecycle policy, lifecycle, end of service, end of marketing, version, terms of service, deprecation
 
@@ -15,7 +15,7 @@ subcollection: overview
 # Product release levels
 {: #release-levels}
 
-Products are available in the IBM Cloud catalog at various release levels, including general availability (GA), select availability, beta, or experimental. The catalog also notes deprecated products, which are at the end of their lifecycle.
+Products are available in the {{site.data.keyword.cloud_notm}} catalog at various release levels, including general availability (GA), select availability, beta, or experimental. The catalog also notes deprecated products, which are at the end of their lifecycle.
 
 * GA products are widely available for sale and delivery to customers or channels, usually across multiple geographies.
 * Select availability products are production-ready, available for sale, and accessible to select customers.

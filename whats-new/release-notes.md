@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-08-20"
+lastupdated: "2026-08-26"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -224,7 +224,7 @@ Montreal single-campus MZR availability
 {: release-note}
 
 Experimental: Customize a deployable architecture from the catalog
-:   You can now customize a deployable architecture by adding optional components in the {{site.data.keyword.cloud_notm}} console. Add the [Cloud automation for {{site.data.keyword.secrets-manager_short}}](https://cloud.ibm.com/catalog/7a4d68b4-cf8b-40cd-a3d1-f49aff526eb3/architecture/testing-deploy-arch-ibm-secrets-manager-5f149ae6-d781-460a-977d-c8c4171ad0fa-global){: external} deployable architecture to a project to get started.
+:   You can now customize a deployable architecture by adding optional components in the {{site.data.keyword.cloud_notm}} console. Add the [Cloud automation for {{site.data.keyword.secrets-manager_short}}](https://cloud.ibm.com/catalog/7a4d68b4-cf8b-40cd-a3d1-f49aff526eb3/architecture/deploy-arch-ibm-secrets-manager-6d6ebc76-7bbd-42f5-8bc7-78f4fabd5944-global?catalog_query=aHR0cHM6Ly9jbG91ZC5pYm0uY29tL2NhdGFsb2cjaGlnaGxpZ2h0cw%3D%3D){: external} deployable architecture to a project to get started.
 
    For more information about onboarding a deployable architecture and specifying optional components that work with it, see [Optional and swappable components for deployable architectures](/docs/secure-enterprise?topic=secure-enterprise-choose-plan-process#optional-swappable).
 

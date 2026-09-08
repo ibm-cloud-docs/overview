@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2026
-lastupdated: "2026-06-12"
+lastupdated: "2026-08-26"
 
 keywords: ibm cloud regions, mzr locations, data center locations, availability zones, data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -110,6 +110,21 @@ The following table lists the SC-MZR locations that are available in {{site.data
 | Mumbai - Airtel (`in-mum`)   | in-mum-1  \n in-mum-2  \n in-mum-3 |
 | Osaka (`jp-osa`)   |jp-osa-1  \n jp-osa-2  \n jp-osa-3 |
 {: caption="single-campus MZRs" caption-side="top"}
+
+### Fault Domains
+{: #fault-domains}
+
+{{site.data.keyword.cloud}} regions are divided into two fault domains. Users can plan their disaster recovery with the knowledge that {{site.data.keyword.cloud}} service endpoints located in a fault domain will fail over to other regions within the same fault domain.
+
+| Geography            | Fault Domain A | Fault Domain B  |
+|----------------------|----------------|-----------------|
+| US and South America | us-south       | us-east, br-sao |
+| Europe               | eu-de          | eu-es, eu-gb    |
+| Asia/Pacific         | jp-tok         | jp-osa, au-syd  |
+| India                | in-che         | in-mum          |
+| Canada               | ca-mon         | ca-tor          |
+{: caption="Fault Domains" caption-side="top"}
+
 
 ### Zone mapping per account
 {: #zone-mapping}

@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2025
-lastupdated: "2026-08-18"
+lastupdated: "2026-09-08"
 
 keywords: service availability by region, infrastructure locations, mzr availability, service deployment, resource deployment, location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -39,7 +39,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Service | Dallas  \n(`us-south`) | Washington DC  \n(`us-east`) | Montreal  \n (`ca-mon`) | Toronto  \n(`ca-tor`) | Sao Paulo  \n(`br-sao`) | 
 |------|------|------|------|------|------|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Backup and Recovery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -128,7 +127,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Service | London  \n(`eu-gb`) | Frankfurt  \n(`eu-de`) | Madrid  \n(`eu-es`) | 
 |----|----|----|----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Analytics Engine |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Backup and Recovery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -146,7 +144,7 @@ Services that are hosted globally create resources that operate across multiple 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Data Virtualization |  |  |  | 
 | DataStage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Databases Independent Backups |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| Databases Independent Backups |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Databases for Elasticsearch | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Databases for MongoDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Databases for MySQL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -217,7 +215,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Service | Chennai 01  \n(`che01`) | Chennai - Airtel  \n(`in-che`) | Mumbai - Airtel  \n(`in-mum`) | Osaka  \n(`jp-osa`) | Sydney  \n(`au-syd`) | Tokyo  \n(`jp-tok`) | 
 |-------|-------|-------|-------|-------|-------|-------|
 | API Connect |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Analytics Engine |  |  |  |  |  |  | 
 | App Configuration |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | App ID |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Backup and Recovery |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -235,7 +232,7 @@ Services that are hosted globally create resources that operate across multiple 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Data Virtualization |  |  |  |  |  |  | 
 | DataStage |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Databases Independent Backups |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
+| Databases Independent Backups |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Databases for Elasticsearch | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Databases for MongoDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Databases for MySQL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 

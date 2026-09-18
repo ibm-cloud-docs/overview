@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-08-26"
+lastupdated: "2026-09-18"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,16 @@ content-type: release-note
 
 Stay up-to-date with the latest {{site.data.keyword.cloud}} platform updates, new features, and release notes to maximize your cloud experience.
 {: shortdesc}
+
+## September 2026
+{: #sep-2026}
+
+### 18 September 2026
+{: #overview-sep1826}
+{: release-note}
+
+Export enterprise billing data in FOCUS format
+:   You can now export {{site.data.keyword.cloud_notm}} enterprise billing and usage data in FinOps Open Cost and Usage Specification (FOCUS) format. FOCUS is a cross-cloud standard developed by the FinOps Foundation that normalizes billing data across cloud providers, so you can analyze {{site.data.keyword.cloud_notm}} costs alongside other providers without extra transformation work. For more information, see [Exporting enterprise usage data in FOCUS format](/docs/enterprise-management?topic=enterprise-management-enterprise-export-focus).
 
 
 

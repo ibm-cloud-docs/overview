@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-09-18"
+lastupdated: "2026-09-23"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -23,14 +23,19 @@ Stay up-to-date with the latest {{site.data.keyword.cloud}} platform updates, ne
 ## September 2026
 {: #sep-2026}
 
+### 23 September 2026
+{: #overview-sep2326}
+{: release-note}
+
+Private offers from independent software vendors
+:   Independent software vendors (ISV) can now create private offers to provide specific clients with a discounted rate on paid products in Partner Center. You can also review and approve private offers that {{site.data.keyword.IBM_notm}} initiates on behalf of a client. For more information, see [Offering discounts through private offers](/docs/sell?topic=sell-private-offers). If you are interested in receiving a private offer from an ISV, contact [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} to begin the process.
+
 ### 18 September 2026
 {: #overview-sep1826}
 {: release-note}
 
 Export enterprise billing data in FOCUS format
 :   You can now export {{site.data.keyword.cloud_notm}} enterprise billing and usage data in FinOps Open Cost and Usage Specification (FOCUS) format. FOCUS is a cross-cloud standard developed by the FinOps Foundation that normalizes billing data across cloud providers, so you can analyze {{site.data.keyword.cloud_notm}} costs alongside other providers without extra transformation work. For more information, see [Exporting enterprise usage data in FOCUS format](/docs/enterprise-management?topic=enterprise-management-enterprise-export-focus).
-
-
 
 ## June 2026
 {: #june-2026}

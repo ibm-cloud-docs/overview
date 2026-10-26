@@ -17,7 +17,7 @@ content-type: release-note
 # {{site.data.keyword.cloud_notm}} platform updates: Latest release notes
 {: #whatsnew}
 
-Stay up-to-date with the latest {{site.data.keyword.cloud}} platform updates, new features, and release notes to maximize your cloud experience.
+Stay up to date with the latest {{site.data.keyword.cloud}} platform updates, new features, and release notes to maximize your cloud experience.
 {: shortdesc}
 
 ## October 2026
@@ -27,10 +27,10 @@ Stay up-to-date with the latest {{site.data.keyword.cloud}} platform updates, ne
 {: #overview-oct2626}
 {: release-note}
 
-Introducing {{site.data.keyword.paver_full}}
-:   {{site.data.keyword.paver}} is an AI agent for infrastructure operations. Unlike general-purpose AI assistants that answer questions, Paver can act on your behalf to help manage your account and infrastructure with the full context of the account you're working in and its resources. Describe the outcome that you need, and {{site.data.keyword.paver}} builds a transparent plan, evaluates risk, and runs it through the tools that your team already uses.
+Introducing {{site.data.keyword.paver_full_notm}}
+:   {{site.data.keyword.paver}} is an AI agent for infrastructure operations. Unlike general-purpose AI assistants that answer questions, Paver can act on your behalf to help manage your account and infrastructure with the full context of the account you're working in and its resources. Describe the outcome that you need, and {{site.data.keyword.paver}} builds a plan, evaluates risk, and runs it through the tools that your team already uses.
 
-:   Use {{site.data.keyword.paver}} to deploy applications, troubleshoot and resolve incidents, optimize utilization and costs, identify security and compliance risks, and understand your resources and dependencies. {{site.data.keyword.paver}} is available in the console from the **Help** menu > **Paver AI assistant** and through the `paver` CLI. For more information, see [Getting started with {{site.data.keyword.paver}} for {{site.data.keyword.cloud_notm}}](/docs/paver?topic=paver-getting-started).
+:   Use {{site.data.keyword.paver}} to deploy applications, troubleshoot and resolve incidents, optimize utilization and costs, identify security and compliance risks, and understand your resources and dependencies. {{site.data.keyword.paver}} is available in the console from the **Help** menu > **Paver AI assistant** and through the `paver` CLI. For more information, see [Introducing {{site.data.keyword.paver_full_notm}}: Your AI agent for {{site.data.keyword.cloud_notm}}](https://community.ibm.com/community/user/blogs/phil-maclaren/2026/10/23/introducing-ibm-paver-your-ai-agent-for-ibm-cloud){: external} and [Getting started with {{site.data.keyword.paver}} for {{site.data.keyword.cloud_notm}}](/docs/paver?topic=paver-getting-started).
 
 
 

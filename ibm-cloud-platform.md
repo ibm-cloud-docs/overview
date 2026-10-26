@@ -3,9 +3,9 @@
 
 copyright:
   years: 2016, 2026
-lastupdated: "2026-08-26"
+lastupdated: "2026-10-26"
 
-keywords: ibm cloud platform, paas, iaas, hybrid cloud, multicloud, console, platform overview, overview, catalog, IBM Cloud catalog
+keywords: ibm cloud platform, paas, iaas, hybrid cloud, multicloud, console, platform overview, overview, catalog, IBM Cloud catalog, paver, IBM Paver, AI operator
 
 subcollection: overview
 
@@ -44,6 +44,7 @@ As the following diagram illustrates, the {{site.data.keyword.Bluemix_notm}} pla
 * A catalog that consists of hundreds of supported products
 * A search and tagging mechanism for filtering and identifying your resources
 * An account and billing management system that provides exact usage for pricing plans and secure credit card fraud protection
+* An interactive AI operator, {{site.data.keyword.IBM_notm}} Paver, that is aware of your account and resources and helps you operate your infrastructure and manage your account
 
 ![Components of the {{site.data.keyword.cloud_notm}} platform.](images/IBM-Cloud-Platform.svg "Diagram showing the major components of the {{site.data.keyword.cloud_notm}} platform"){: caption="Components of the {{site.data.keyword.cloud_notm}} platform" caption-side="bottom"}
 
@@ -398,6 +399,15 @@ You can gain operational visibility into the performance and health of your appl
 
 Use the {{site.data.keyword.logs_full}} service to monitor the activity of your {{site.data.keyword.Bluemix_notm}} account, investigate abnormal activity and critical actions, and comply with regulatory audit requirements. In addition, you can be alerted on actions as they happen. The events that are collected comply with the Cloud Auditing Data Federation (CADF) standard. For more information, see [Getting started with {{site.data.keyword.logs_full_notm}}](/docs/cloud-logs?topic=cloud-logs-getting-started).
 
+
+## Operating your account with {{site.data.keyword.paver_full_notm}}
+{: #paver-platform}
+
+{{site.data.keyword.paver_full}} is an interactive, chat-based AI operator that is built into the {{site.data.keyword.cloud_notm}} platform. {{site.data.keyword.paver}} is aware of the context of your account and all of its resources, so it can help you streamline infrastructure operations and account management, troubleshoot issues, and gain insight into the health and optimization of your resources and costs. You describe what you need in natural language, and {{site.data.keyword.paver}} explains its plan and works within your existing permissions.
+
+You can try {{site.data.keyword.paver}} for free and explore what it can do for you in your account. The Free plan includes a monthly credit allocation, and you can upgrade to the Professional plan at any time. For more information, see [{{site.data.keyword.paver}} plans](/docs/paver?topic=paver-paver-plans).
+
+To start a chat, log in to the {{site.data.keyword.cloud_notm}} console, and click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Paver AI assistant**. For more information, see [Getting started with {{site.data.keyword.paver}}](/docs/paver?topic=paver-getting-started) and [About {{site.data.keyword.paver}}](/docs/paver?topic=paver-paver-about).
 
 ## Viewing status
 {: #status-service}

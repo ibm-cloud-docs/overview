@@ -2,7 +2,7 @@
 
 copyright:
   years: 2014, 2022
-lastupdated: "2026-08-26"
+lastupdated: "2026-10-26"
 
 keywords: ibm cloud languages, multilingual support, language translation, console languages, translation, national language support
 
@@ -24,7 +24,7 @@ The {{site.data.keyword.cloud_notm}} console and the Support Center display cont
 
 The {{site.data.keyword.cloud_notm}} docs are machine translated. You can switch between languages by using the **Language** switcher at the beginning of each page. The language that you select persists between sessions. If it's the first time you're viewing the docs in a particular browser, the docs display the content according to your browser's language setting unless the URL includes a parameter setting the language.
 
-The [{{site.data.keyword.cloud_notm}} AI assistant](/docs/overview?topic=overview-ask-ai-assistant) supports all languages that are supported by {{site.data.keyword.cloud_notm}} including: Deutsch, English, Español, Français, Italiano, 日本語, 한국어, Português/Brasil, 简体中文, and 繁體中文. To change the language that the AI assistant reponds in, you must ask a question in one of the supported languages first. The browser language setting does not affect generated responses, so simply ask your question in one of the supported languages and get a response back in that same language.
+[{{site.data.keyword.paver_full}}](/docs/paver) supports interactive chat sessions in the CLI and the console in the same supported national languages for {{site.data.keyword.cloud_notm}}. You can ask a question in a supported language during a chat session and receive a response in that language. To change the current language setting, use the `/lang` slash command in an interactive chat.
 
 The following table lists the supported national languages and language codes for {{site.data.keyword.cloud_notm}}.
 

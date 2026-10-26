@@ -2,9 +2,9 @@
 
 copyright:
   years: 2015, 2026
-lastupdated: "2026-08-26"
+lastupdated: "2026-10-26"
 
-keywords: ibm cloud notices, cloud data, ibm cloud service, notices, IBM Cloud, creative commons, licenses
+keywords: ibm cloud notices, cloud data, ibm cloud service, notices, IBM Cloud, creative commons, licenses, paver
 
 subcollection: overview
 
@@ -734,6 +734,212 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 
 * FONTAWESOME [smartystreets/goconvey] (Copyright (c) 2016 SmartyStreets, LLC)(https://github.com/smartystreets/goconvey/tree/v1.6.4)
 * OFL.TXT [smartystreets/goconvey] (Copyright (c) 2016 SmartyStreets, LLC)(https://github.com/smartystreets/goconvey/tree/v1.6.4)
+
+### {{site.data.keyword.paver_full_notm}}
+{: #paver-notices}
+
+View the [Notices file](https://cloud.ibm.com/media/docs/downloads/Paver/Paver-Notices-v1.0.0.txt){: external} for {{site.data.keyword.paver_full}}.
+
+This section consists of the following:
+
+* Artistic-2.0
+* BUSL-1.1
+* CC-BY-3.0
+* CC-BY-4.0
+* GPL-3.0
+  * GPL-3.0-or-later
+* LGPL-3.0
+  * LGPL-3.0-or-later
+* MPL-2.0
+* OFL-1.1
+* RedHat UBI MainOS-9.8
+
+#### Artistic License 2.0
+{: #paver-artistic}
+
+The Program includes some or all of the following that {{site.data.keyword.IBM_notm}} obtained under the Artistic License (source code available via the indicated URL):
+
+* binaryextensions (https://registry.npmjs.org/binaryextensions/-/binaryextensions-6.11.0.tgz)
+* editions (https://registry.npmjs.org/editions/-/editions-6.22.0.tgz)
+* istextorbinary (https://registry.npmjs.org/istextorbinary/-/istextorbinary-9.5.0.tgz)
+* npm (https://registry.npmjs.org/npm/-/npm-11.17.0.tgz)
+* textextensions (https://registry.npmjs.org/textextensions/-/textextensions-6.11.0.tgz)
+* version-range (https://registry.npmjs.org/version-range/-/version-range-4.15.0.tgz)
+
+#### Business Source License 1.1
+{: #paver-busl}
+
+The Program includes some or all of the following that {{site.data.keyword.IBM_notm}} obtained under a BUSL-1.1 license:
+
+terraform (copyright (c) 2020 MariaDB Corporation Ab And All Rights Reserved. "Business Source License" is a trademark of MariaDB Corporation Ab.)(https://github.com/hashicorp/terraform/archive/refs/tags/v1.15.8.zip)
+
+#### Creative Commons Attribution 3.0 Generic
+{: #paver-30}
+
+The Program includes some or all of the following works licensed under the Creative Commons. The url to the license is https://creativecommons.org/licenses/by/3.0/legalcode
+
+spdx-exceptions (Copyright and Licensing> Copyright © 2010-2015 Linux Foundation and its Contributors. Licensed)(https://registry.npmjs.org/spdx-exceptions/-/spdx-exceptions-2.5.0.tgz)
+
+#### Creative Commons Attribution 4.0 Generic
+{: #paver-40}
+
+The Program includes some or all of the following works licensed under the Creative Commons. The url to the license is https://creativecommons.org/licenses/by/4.0/legalcode
+
+caniuse-lite (No Copyright Found)(https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001809.tgz)
+
+#### GNU General Public License, Version 3
+{: #paver-genv3}
+
+The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU General Public License. For copies of the source code for this software, contact IBM Support (https://www.ibm.com/mysupport) identifying the {{site.data.keyword.IBM_notm}} product and the GPL-licensed program for which you are requesting the source code.
+
+* Ubuntu MainOS
+* Alpine MainOS
+* Fedora MainOS
+* Debian MainOS
+
+#### GNU Lesser General Public License, Version 3
+{: #paver-lgplv3}
+
+This Program includes some or all of the following Modifiable Third Party Code that {{site.data.keyword.IBM_notm}} obtained under the GNU Lesser General Public License. For copies of the source code for this software, contact IBM Support (https://www.ibm.com/mysupport) identifying the {{site.data.keyword.IBM_notm}} Program and the Modifiable Third Party Code for which you are requesting the source code.
+
+github.com/cloudsoda/sddl (No Copyright Found)
+
+#### Mozilla Public License, Version 2.0
+{: #paver-mpl}
+
+The Program includes some or all of the following that {{site.data.keyword.IBM_notm}} obtained under the Mozilla Public License, Version 2.0 (source code available via the indicated URL):
+
+* dompurify (https://registry.npmjs.org/dompurify/-/dompurify-3.4.13.tgz)
+* github.com/anacrolix/generics (https://proxy.golang.org/github.com/anacrolix/generics/@v/v0.2.0.zip)
+* github.com/anacrolix/log (https://proxy.golang.org/github.com/anacrolix/log/@v/v0.17.0.zip)
+* github.com/go-sql-driver/mysql (https://proxy.golang.org/github.com/go-sql-driver/mysql/@v/v1.8.1.zip)
+* github.com/hashicorp/aws-sdk-go-base/v2 (https://proxy.golang.org/github.com/hashicorp/aws-sdk-go-base/v2/@v/v2.0.0-beta.72.zip)
+* github.com/hashicorp/cli (https://proxy.golang.org/github.com/hashicorp/cli/@v/v1.1.7.zip)
+* github.com/hashicorp/consul/api (https://proxy.golang.org/github.com/hashicorp/consul/api/@v/v1.32.1.zip)
+* github.com/hashicorp/errwrap (https://proxy.golang.org/github.com/hashicorp/errwrap/@v/v1.1.0.zip)
+* github.com/hashicorp/go-azure-helpers (https://proxy.golang.org/github.com/hashicorp/go-azure-helpers/@v/v0.72.0.zip)
+* github.com/hashicorp/go-azure-sdk/resource-manager (https://proxy.golang.org/github.com/hashicorp/go-azure-sdk/resource-manager/@v/v0.20250131.1134653.zip)
+* github.com/hashicorp/go-azure-sdk/sdk (https://proxy.golang.org/github.com/hashicorp/go-azure-sdk/sdk/@v/v0.20250131.1134653.zip)
+* github.com/hashicorp/go-checkpoint (https://proxy.golang.org/github.com/hashicorp/go-checkpoint/@v/v0.5.0.zip)
+* github.com/hashicorp/go-cleanhttp (https://proxy.golang.org/github.com/hashicorp/go-cleanhttp/@v/v0.5.2.zip)
+* github.com/hashicorp/go-cty-funcs (https://proxy.golang.org/github.com/hashicorp/go-cty-funcs/@v/v0.0.0-20250818135842-6aab67130928.zip)
+* github.com/hashicorp/go-getter (https://proxy.golang.org/github.com/hashicorp/go-getter/@v/v1.8.6.zip)
+* github.com/hashicorp/go-immutable-radix (https://proxy.golang.org/github.com/hashicorp/go-immutable-radix/@v/v1.3.1.zip)
+* github.com/hashicorp/go-multierror (https://proxy.golang.org/github.com/hashicorp/go-multierror/@v/v1.1.2-0.20250313123807-1ee6e1a1957a.zip)
+* github.com/hashicorp/go-plugin (https://proxy.golang.org/github.com/hashicorp/go-plugin/@v/v1.7.0.zip)
+* github.com/hashicorp/go-retryablehttp (https://proxy.golang.org/github.com/hashicorp/go-retryablehttp/@v/v0.7.8.zip)
+* github.com/hashicorp/go-rootcerts (https://proxy.golang.org/github.com/hashicorp/go-rootcerts/@v/v1.0.2.zip)
+* github.com/hashicorp/go-secure-stdlib/parseutil (https://proxy.golang.org/github.com/hashicorp/go-secure-stdlib/parseutil/@v/v0.2.0.zip)
+* github.com/hashicorp/go-secure-stdlib/strutil (https://proxy.golang.org/github.com/hashicorp/go-secure-stdlib/strutil/@v/v0.1.2.zip)
+* github.com/hashicorp/go-slug (https://proxy.golang.org/github.com/hashicorp/go-slug/@v/v0.18.1.zip)
+* github.com/hashicorp/go-sockaddr (https://proxy.golang.org/github.com/hashicorp/go-sockaddr/@v/v1.0.7.zip)
+* github.com/hashicorp/go-tfe (https://proxy.golang.org/github.com/hashicorp/go-tfe/@v/v1.94.0.zip)
+* github.com/hashicorp/go-uuid (https://proxy.golang.org/github.com/hashicorp/go-uuid/@v/v1.0.3.zip)
+* github.com/hashicorp/go-version (https://proxy.golang.org/github.com/hashicorp/go-version/@v/v1.9.0.zip)
+* github.com/hashicorp/golang-lru (https://proxy.golang.org/github.com/modern-go/concurrent/@v/v0.0.0-20180306012644-bacd9c7ef1dd.zip)
+* github.com/hashicorp/golang-lru/v2 (https://proxy.golang.org/github.com/hashicorp/golang-lru/v2/@v/v2.0.7.zip)
+* github.com/hashicorp/hc-install (https://proxy.golang.org/github.com/hashicorp/hc-install/@v/v0.9.2.zip)
+* github.com/hashicorp/hcl (https://proxy.golang.org/github.com/hashicorp/hcl/@v/v1.0.1-vault-7.zip)
+* github.com/hashicorp/hcl/v2 (https://proxy.golang.org/github.com/hashicorp/hcl/v2/@v/v2.24.0.zip)
+* github.com/hashicorp/logutils (https://proxy.golang.org/github.com/hashicorp/logutils/@v/v1.0.0.zip)
+* github.com/hashicorp/serf (https://proxy.golang.org/github.com/hashicorp/serf/@v/v0.10.2.zip)
+* github.com/hashicorp/terraform-exec (https://proxy.golang.org/github.com/hashicorp/terraform-exec/@v/v0.24.0.zip)
+* github.com/hashicorp/terraform-json (https://proxy.golang.org/github.com/hashicorp/terraform-json/@v/v0.27.2.zip)
+* github.com/hashicorp/terraform-plugin-framework (https://proxy.golang.org/github.com/hashicorp/terraform-plugin-framework/@v/v1.19.0.zip)
+* github.com/hashicorp/terraform-plugin-framework-validators (https://proxy.golang.org/github.com/hashicorp/terraform-plugin-framework-validators/@v/v0.19.0.zip)
+* github.com/hashicorp/terraform-plugin-go (https://proxy.golang.org/github.com/hashicorp/terraform-plugin-go/@v/v0.31.0.zip)
+* github.com/hashicorp/terraform-plugin-log (https://proxy.golang.org/github.com/hashicorp/terraform-plugin-log/@v/v0.9.0.zip)
+* github.com/hashicorp/terraform-plugin-sdk/v2 (https://proxy.golang.org/github.com/hashicorp/terraform-plugin-sdk/v2/@v/v2.38.1.zip)
+* github.com/hashicorp/terraform-registry-address (https://proxy.golang.org/github.com/hashicorp/terraform-registry-address/@v/v0.4.0.zip)
+* github.com/hashicorp/terraform-svchost (https://proxy.golang.org/github.com/hashicorp/terraform-svchost/@v/v0.2.1.zip)
+* github.com/hashicorp/vault/api (https://proxy.golang.org/github.com/hashicorp/vault/api/@v/v1.22.0.zip)
+* github.com/hashicorp/vault/api/auth/approle (https://proxy.golang.org/github.com/hashicorp/vault/api/auth/approle/@v/v0.8.0.zip)
+* github.com/hashicorp/vault/api/auth/kubernetes (https://proxy.golang.org/github.com/hashicorp/vault/api/auth/kubernetes/@v/v0.8.0.zip)
+* github.com/hashicorp/yamux (https://proxy.golang.org/github.com/hashicorp/yamux/@v/v0.1.2.zip)
+* github.com/letsencrypt/boulder (https://proxy.golang.org/github.com/letsencrypt/boulder/@v/v0.20260420.0.zip)
+* github.com/minsikl/netscaler-nitro-go (https://proxy.golang.org/github.com/minsikl/netscaler-nitro-go/@v/v0.0.0-20170827154432-5b14ce3643e3.zip)
+* lightningcss (https://registry.npmjs.org/lightningcss/-/lightningcss-1.32.0.tgz)
+* lightningcss-android-arm64 (https://registry.npmjs.org/lightningcss-android-arm64/-/lightningcss-android-arm64-1.33.0.tgz)
+* lightningcss-darwin-arm64 (https://registry.npmjs.org/lightningcss-darwin-arm64/-/lightningcss-darwin-arm64-1.33.0.tgz)
+* lightningcss-darwin-x64 (https://registry.npmjs.org/lightningcss-darwin-x64/-/lightningcss-darwin-x64-1.33.0.tgz)
+* lightningcss-freebsd-x64 (https://registry.npmjs.org/lightningcss-freebsd-x64/-/lightningcss-freebsd-x64-1.33.0.tgz)
+* lightningcss-linux-arm-gnueabihf (https://registry.npmjs.org/lightningcss-linux-arm-gnueabihf/-/lightningcss-linux-arm-gnueabihf-1.33.0.tgz)
+* lightningcss-linux-arm64-gnu (https://registry.npmjs.org/lightningcss-linux-arm64-gnu/-/lightningcss-linux-arm64-gnu-1.33.0.tgz)
+* lightningcss-linux-arm64-musl (https://registry.npmjs.org/lightningcss-linux-arm64-musl/-/lightningcss-linux-arm64-musl-1.33.0.tgz)
+* lightningcss-linux-x64-gnu (https://registry.npmjs.org/lightningcss-linux-x64-gnu/-/lightningcss-linux-x64-gnu-1.33.0.tgz)
+* lightningcss-linux-x64-musl (https://registry.npmjs.org/lightningcss-linux-x64-musl/-/lightningcss-linux-x64-musl-1.33.0.tgz)
+* lightningcss-win32-arm64-msvc (https://registry.npmjs.org/lightningcss-win32-arm64-msvc/-/lightningcss-win32-arm64-msvc-1.33.0.tgz)
+* lightningcss-win32-x64-msvc (https://registry.npmjs.org/lightningcss-win32-x64-msvc/-/lightningcss-win32-x64-msvc-1.33.0.tgz)
+
+#### SIL Open Font License 1.1
+{: #paver-sil}
+
+The Program includes some or all of the following that {{site.data.keyword.IBM_notm}} obtained under the SIL Open Font License 1.1:
+
+* @ibm/plex
+* @ibm/plex-mono
+* @ibm/plex-sans
+* @ibm/plex-sans-arabic
+* @ibm/plex-sans-devanagari
+* @ibm/plex-sans-hebrew
+* @ibm/plex-sans-thai
+* @ibm/plex-sans-thai-looped
+* @ibm/plex-serif
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+
+SIL OPEN FONT LICENSE
+
+Version 1.1 - 26 February 2007
+
+PREAMBLE
+
+The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+
+"Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting, or substituting — in part or in whole — any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
+
+"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+
+5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+
+TERMINATION
+
+This license becomes null and void if any of the above conditions are not met.
+
+DISCLAIMER
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
+
+#### RedHat Universal Base Image v9.8
+{: #paver-redhat-universal}
+
+RedHat UBI v9.8 has been taken under EULA > https://www.redhat.com/licenses/eulas
+
+The Program may be provided with third party software programs subject to their own license terms. The license terms either accompany the third party software programs or, in some instances, may be viewed at > https://access.redhat.com/containers/
 
 ## Trademarks
 {: #trademarks}

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2026
-lastupdated: "2026-08-12"
+lastupdated: "2026-10-26"
 
 keywords: ui, platform, console, using the console
 
@@ -34,6 +34,9 @@ Browse available products
 
 Find help when you need it
 :   Click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Docs** to access the product documentation.
+
+Chat with {{site.data.keyword.paver_full}}
+:   Click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Paver AI assistant** to chat with {{site.data.keyword.paver}}, an AI operator with knowledge of your account and resources, in the console to troubleshoot issues you're experiencing or to ask a question about working in {{site.data.keyword.cloud_notm}}.
 
 Get support when something's not working as expected
 :   Click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center** to go to the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: external} page.

@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-10-26"
+lastupdated: "2026-11-02"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -32,8 +32,12 @@ Introducing {{site.data.keyword.paver_full_notm}}
 
 :   Use {{site.data.keyword.paver}} to deploy applications, troubleshoot and resolve incidents, optimize utilization and costs, identify security and compliance risks, and understand your resources and dependencies. {{site.data.keyword.paver}} is available in the console from the **Help** menu > **Paver AI assistant** and through the `paver` CLI. For more information, see [Introducing {{site.data.keyword.paver_full_notm}}: Your AI agent for {{site.data.keyword.cloud_notm}}](https://community.ibm.com/community/user/blogs/phil-maclaren/2026/10/23/introducing-ibm-paver-your-ai-agent-for-ibm-cloud){: external} and [Getting started with {{site.data.keyword.paver}} for {{site.data.keyword.cloud_notm}}](/docs/paver?topic=paver-getting-started).
 
+### 21 October 2026
+{: #overview-oct2126}
+{: release-note}
 
-
+Support charges in usage reports
+:   For accounts on paid support plans, support now appears as the `ibmcloud-platform-support` service in your usage reports. For more information, see [Understanding your account summary report](/docs/account?topic=account-understand-reports#account-summary-csv-version-1-4).
 
 ## September 2026
 {: #sep-2026}

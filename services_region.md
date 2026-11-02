@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2025
-lastupdated: "2026-10-22"
+lastupdated: "2026-10-27"
 
 keywords: service availability by region, infrastructure locations, mzr availability, service deployment, resource deployment, location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -85,6 +85,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Netezza Performance Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | OpenPages | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Partner with Technology Expert Labs | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
+| Paver |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Planning Analytics | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Power Enterprise Pools Metered Capacity Integration | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Power Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
@@ -173,6 +174,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Netezza Performance Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | OpenPages | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Partner with Technology Expert Labs | Hosted Globally | Hosted Globally | Hosted Globally | 
+| Paver |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Planning Analytics | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Power Enterprise Pools Metered Capacity Integration | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Power Virtual Server |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -261,6 +263,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Netezza Performance Server |  |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | OpenPages | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Partner with Technology Expert Labs | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
+| Paver |  |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Planning Analytics | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Power Enterprise Pools Metered Capacity Integration | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Power Virtual Server |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 

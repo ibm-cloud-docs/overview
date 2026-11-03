@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-11-02"
+lastupdated: "2026-11-03"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -20,6 +20,16 @@ content-type: release-note
 Stay up to date with the latest {{site.data.keyword.cloud}} platform updates, new features, and release notes to maximize your cloud experience.
 {: shortdesc}
 
+## November 2026
+{: #nov-2026}
+
+### 3 November 2026
+{: #overview-nov326}
+{: release-note}
+
+Connect with a live support engineer from {{site.data.keyword.paver_full}}
+:   If you have an Advanced or Premium support plan, you can now ask {{site.data.keyword.paver}} to connect you with a live support engineer. Use {{site.data.keyword.paver}} from the {{site.data.keyword.cloud_notm}} Support Center to troubleshoot issues first, and then request to chat with a live support engineer if you need more help. For more information, see [Getting help with {{site.data.keyword.cloud_notm}}: Using the Support Center](/docs/support?topic=support-using-avatar).
+
 ## October 2026
 {: #oct-2026}
 
@@ -27,7 +37,7 @@ Stay up to date with the latest {{site.data.keyword.cloud}} platform updates, ne
 {: #overview-oct2626}
 {: release-note}
 
-Introducing {{site.data.keyword.paver_full_notm}}
+Introducing {{site.data.keyword.paver}}
 :   {{site.data.keyword.paver}} is an AI agent for infrastructure operations. Unlike general-purpose AI assistants that answer questions, Paver can act on your behalf to help manage your account and infrastructure with the full context of the account you're working in and its resources. Describe the outcome that you need, and {{site.data.keyword.paver}} builds a plan, evaluates risk, and runs it through the tools that your team already uses.
 
 :   Use {{site.data.keyword.paver}} to deploy applications, troubleshoot and resolve incidents, optimize utilization and costs, identify security and compliance risks, and understand your resources and dependencies. {{site.data.keyword.paver}} is available in the console from the **Help** menu > **Paver AI assistant** and through the `paver` CLI. For more information, see [Introducing {{site.data.keyword.paver_full_notm}}: Your AI agent for {{site.data.keyword.cloud_notm}}](https://community.ibm.com/community/user/blogs/phil-maclaren/2026/10/23/introducing-ibm-paver-your-ai-agent-for-ibm-cloud){: external} and [Getting started with {{site.data.keyword.paver}} for {{site.data.keyword.cloud_notm}}](/docs/paver?topic=paver-getting-started).

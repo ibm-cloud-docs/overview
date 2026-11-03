@@ -20,7 +20,15 @@ content-type: release-note
 Stay up to date with the latest {{site.data.keyword.cloud}} platform updates, new features, and release notes to maximize your cloud experience.
 {: shortdesc}
 
+## November 2026
+{: #nov-2026}
 
+### 3 November 2026
+{: #overview-nov326}
+{: release-note}
+
+Connect with a live support engineer from {{site.data.keyword.paver_full}}
+:   If you have an Advanced or Premium support plan, you can now ask {{site.data.keyword.paver}} to connect you with a live support engineer. Use {{site.data.keyword.paver}} from the {{site.data.keyword.cloud_notm}} Support Center to troubleshoot issues first, and then request to chat with a live support engineer if you need more help. For more information, see [Getting help with {{site.data.keyword.cloud_notm}}: Using the Support Center](/docs/support?topic=support-using-avatar).
 
 ## October 2026
 {: #oct-2026}

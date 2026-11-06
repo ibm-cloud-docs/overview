@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-11-03"
+lastupdated: "2026-11-06"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -343,7 +343,7 @@ Experimental: Using AI to answer your questions about {{site.data.keyword.cloud_
 :   Wherever you are working in the {{site.data.keyword.cloud_notm}} console, you can launch the AI assistant to help answer your questions about working in {{site.data.keyword.cloud_notm}}. The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models using IBM's [watsonx](https://www.ibm.com/products/watsonx){: external}. For more information, see [Getting help from the AI assistant](/docs/overview?topic=overview-ask-ai-assistant).
 
 Changes to {{site.data.keyword.cloud_notm}} projects API method to list all deployed resources
-:   A change was made to the [`project.config.retrieve-resources`](/apidocs/projects#list-config-resources) API method to improve its performance. This change can cause some of the resources to temporarily disappear from the **Resources** tab in your configurations. The resources were not destroyed. Redeploy the configurations to see the resources again.
+:   A change was made to the [`project.config.retrieve-resources`](/docs/apis/projects#list-config-resources) API method to improve its performance. This change can cause some of the resources to temporarily disappear from the **Resources** tab in your configurations. The resources were not destroyed. Redeploy the configurations to see the resources again.
 
 Experimental: Project Resources tab
 :   Manage the resources in your project in the new **Resources** tab. You can add existing resources to your project without using a configuration. To get started, see [Adding existing resources to a project](/docs/secure-enterprise?topic=secure-enterprise-organize-resources#add-existing-resources).
@@ -688,7 +688,7 @@ IAM Policy Management API V2 release
 {: release-note}
 
 Save and share multiple estimates by using the {{site.data.keyword.cloud_notm}} Cost Estimator
-:   The {{site.data.keyword.cloud_notm}} Cost Estimator now allows a customer to save multiple estimates to their account and share those estimates with users that belong to the same account. For more information, see [Estimating your costs](/docs/account?topic=account-cost).
+:   The {{site.data.keyword.cloud_notm}} Cost Estimator now allows a customer to save multiple estimates to their account and share those estimates with users that belong to the same account. For more information, see [Estimating IBM Cloud service costs with the cost estimator](/docs/account?topic=account-estimate-cost).
 
 ## December 2022
 {: #december-2022}

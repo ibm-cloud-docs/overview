@@ -2,7 +2,7 @@
 copyright:
   years: 2022, 2026
 
-lastupdated: "2026-08-26"
+lastupdated: "2026-11-06"
 
 keywords: ibm cloud onboarding, account setup, getting started checklist, cloud migration, onboard to cloud, onboarding, onboarding checklist, get started on {{site.data.keyword.cloud_notm}}, account set up
 
@@ -98,7 +98,7 @@ Account owners and users with the administrator role on the [billing account man
 | - [ ] **Configure spending alerts for your account** |  You can enable spending notifications for Pay-As-You-Go or Subscription accounts, these alerts are configurable for the entire account or for individual services. [Set up spending notifications](/docs/support?topic=support-spending). |
 | - [ ] **Manage subscriptions and usage** | Setting up a subscription is covered in [Set up accounts and an enterprise checklist](#table2-accounts). You can add more subscriptions and monitor subscription usage on the Commitments and subscriptions page in the {{site.data.keyword.cloud_notm}} console. Learn more about [managing subscriptions](/docs/account?topic=account-subscriptions). |
 | - [ ] **Manage commitments, subscriptions, and usage**  | Setting up a commitment or subscription is covered in Set up accounts and an enterprise checklist. You can add more commitments or subscriptions as well as monitor usage on the Commitments and Subscriptions page in the {{site.data.keyword.cloud_notm}} console. Learn more about [Enterprise Savings Plan](/docs/enterprise-management?topic=enterprise-management-committed-use) and [Managing subscriptions](/docs/account?topic=account-subscriptions). |
-| - [ ] **View invoices and build your own reports**  | To manage and view your invoices, visit the [Invoices](/billing/invoices) page from the billing and usage dashboard in the {{site.data.keyword.cloud_notm}} console. See [Viewing your invoices](/docs/account?topic=account-managing-invoices). You can also build your own reports by using the API and SDK that are available. \n * [Usage Reports API/SDK](/apidocs/metering-reporting) \n * [Enterprise Billing Units API/SDK](/apidocs/enterprise-apis/billing-unit). \n * [Enterprise Usage Reports API/SDK](/apidocs/enterprise-apis/resource-usage-reports). |
+| - [ ] **View invoices and build your own reports**  | To manage and view your invoices, visit the [Invoices](/billing/invoices) page from the billing and usage dashboard in the {{site.data.keyword.cloud_notm}} console. See [Viewing your invoices](/docs/account?topic=account-managing-invoices). You can also build your own reports by using the API and SDK that are available. \n * [Usage Reports API/SDK](/docs/apis/metering-reporting) \n * [Enterprise Billing Units API/SDK](/docs/apis/enterprise-apis/billing-unit). \n * [Enterprise Usage Reports API/SDK](/docs/apis/enterprise-apis/resource-usage-reports). |
 {: caption="Getting started tasks for managing billing and usage" caption-side="top"}
 
 

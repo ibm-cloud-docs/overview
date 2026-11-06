@@ -251,7 +251,7 @@ Experimental: Extend a deployable architecture as you onboard it to a private ca
 {: release-note}
 
 {{site.data.keyword.cloud_notm}} AI assistant can now assist you with getting support
-:   To bring you an updated platform experience, the {{site.data.keyword.cloud_notm}} AI assistant is available to help with your questions about {{site.data.keyword.cloud_notm}} and can assist you with getting support for account, billing, and technical support issues according to your support plan. You can query about your support cases or request to be handed off to a live support agent. For more information, see [Getting help from the AI assistant](/docs/overview?topic=overview-ask-ai-assistant).
+:   To bring you an updated platform experience, the {{site.data.keyword.cloud_notm}} AI assistant is available to help with your questions about {{site.data.keyword.cloud_notm}} and can assist you with getting support for account, billing, and technical support issues according to your support plan. You can query about your support cases or request to be handed off to a live support agent.
 
 ### 13 March 2025
 {: #overview-mar1325}
@@ -294,7 +294,7 @@ Experimental: Connect your project to a Git repository
 {: release-note}
 
 The AI assistant is generally available
-:   The AI assistant is available to help answer your questions about working in {{site.data.keyword.cloud_notm}}. In addition to being able to launch the AI assistant in the {{site.data.keyword.cloud_notm}} console, you can also ask questions from the {{site.data.keyword.cloud_notm}} CLI. For more information, see [Getting help from the AI assistant](/docs/overview?topic=overview-ask-ai-assistant).
+:   The AI assistant is available to help answer your questions about working in {{site.data.keyword.cloud_notm}}. In addition to being able to launch the AI assistant in the {{site.data.keyword.cloud_notm}} console, you can also ask questions from the {{site.data.keyword.cloud_notm}} CLI.
 
 
 ## October 2024
@@ -340,7 +340,7 @@ View counts for all resources in the resource summary widget
 {: release-note}
 
 Experimental: Using AI to answer your questions about {{site.data.keyword.cloud_notm}}
-:   Wherever you are working in the {{site.data.keyword.cloud_notm}} console, you can launch the AI assistant to help answer your questions about working in {{site.data.keyword.cloud_notm}}. The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models using IBM's [watsonx](https://www.ibm.com/products/watsonx){: external}. For more information, see [Getting help from the AI assistant](/docs/overview?topic=overview-ask-ai-assistant).
+:   Wherever you are working in the {{site.data.keyword.cloud_notm}} console, you can launch the AI assistant to help answer your questions about working in {{site.data.keyword.cloud_notm}}. The AI assistant is designed as a retrieval-augmented generation (RAG) implementation that is running against {{site.data.keyword.IBM}} large language models using IBM's [watsonx](https://www.ibm.com/products/watsonx){: external}.
 
 Changes to {{site.data.keyword.cloud_notm}} projects API method to list all deployed resources
 :   A change was made to the [`project.config.retrieve-resources`](/docs/apis/projects#list-config-resources) API method to improve its performance. This change can cause some of the resources to temporarily disappear from the **Resources** tab in your configurations. The resources were not destroyed. Redeploy the configurations to see the resources again.

@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2026
-lastupdated: "2026-10-26"
+lastupdated: "2026-11-06"
 
 keywords: ibm cloud platform, paas, iaas, hybrid cloud, multicloud, console, platform overview, overview, catalog, IBM Cloud catalog, paver, IBM Paver, AI operator
 
@@ -333,7 +333,7 @@ You can also scope your view of the catalog by using the **Provider** filter to 
 ## Pricing and billing
 {: #pricing-billing}
 
-You can view the pricing details for each service when you're browsing the catalog. If you choose a service plan with a paid plan, you can estimate your costs by using the cost estimator tool. For more information, see [Estimating your costs](/docs/account?topic=account-cost).
+You can view the pricing details for each service when you're browsing the catalog. If you choose a service plan with a paid plan, you can estimate your costs by using the cost estimator tool. For more information, see [Estimating IBM Cloud service costs with the cost estimator](/docs/account?topic=account-estimate-cost).
 
 {{site.data.keyword.Bluemix_notm}} billing provides multiple services that ensure the {{site.data.keyword.Bluemix_notm}} platform can securely manage pricing, accounts, usage, and more.
 

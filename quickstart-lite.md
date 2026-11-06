@@ -2,7 +2,7 @@
 
 copyright:
    years: 2021, 2026
-lastupdated: "2026-08-26"
+lastupdated: "2026-11-06"
 
 keywords: free ibm cloud account, lite plans, free cloud services, proof of concept, get started with IBM Cloud, get started, try for free, lite plan
 
@@ -31,8 +31,7 @@ Looking to try out {{site.data.keyword.Bluemix}}? Create an account and start bu
 
 Go to the [{{site.data.keyword.Bluemix_notm}} console](https://{DomainName}) and create an account. You're asked to enter your credit card information to secure your account and verify your identity. There are no costs that are associated with signing up, and you can try out {{site.data.keyword.Bluemix_notm}} for free. You pay only for billable services that you choose to use, with no long-term contracts or commitments.
 
-You're set up with a [Pay-As-You-Go account](/docs/account?topic=account-accounts#paygo), and you can access the full {{site.data.keyword.Bluemix_notm}} catalog, including all Lite and Free plans. You receive a $200 credit to help get you started. You can use the $200 credit on {{site.data.keyword.Bluemix_notm}} products that are used in the first 30 days.
-
+You're set up with a [Pay-As-You-Go account](/docs/account?topic=account-accounts-types#paygo), and you can access the full {{site.data.keyword.Bluemix_notm}} catalog, including all Lite and Free plans. You receive a $200 credit to help get you started. You can use the $200 credit on {{site.data.keyword.Bluemix_notm}} products that are used in the first 30 days.
 
 ## Explore the catalog
 {: #explore-catalog}

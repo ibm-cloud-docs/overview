@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2026
-lastupdated: "2026-08-26"
+lastupdated: "2026-11-06"
 
 keywords: ibm cloud regions, mzr locations, data center locations, availability zones, data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -131,7 +131,7 @@ The following table lists the SC-MZR locations that are available in {{site.data
 
 Within each region, there are three or more zones that are identified in the API, SDK, CLI, and Terraform by using a `regionname-number` syntax, for example `us-south-1`. Each {{site.data.keyword.cloud_notm}} account has a zone mapping for each region that determines the relationship between the zone and the physical location. The zones map to a physical location, which is referred to by a universal zone name by using a `regionname-datacenter-letter` syntax, for example `us-south-dal10-a`.
 
-The account zone mapping is established when the first VPC resource is created in the region and is determined by IBM. You can review the assigned zone mapping for an account on the [VPC Infrastructure Overview](/infrastructure/overview#endpoints) page in the Endpoint section. You can also use the [VPC API](/apidocs/vpc#list-region-zones) to list the mapping for your account. In rare cases, you can work with your technical account manager to request a change, but each request is evaluated on a case-by-case basis.
+The account zone mapping is established when the first VPC resource is created in the region and is determined by IBM. You can review the assigned zone mapping for an account on the [VPC Infrastructure Overview](/infrastructure/overview#endpoints) page in the Endpoint section. You can also use the [VPC API](/docs/apis/vpc/latest#list-region-zones) to list the mapping for your account. In rare cases, you can work with your technical account manager to request a change, but each request is evaluated on a case-by-case basis.
 
 Understanding your account’s zone mapping is helpful if you’re creating a mixed VPC and {{site.data.keyword.powerSys_notm}} application, for example. You can create your VPC resources first, and then review your zone mapping to determine which universal zone the VPC resources are in so that you can ensure that the classic resources are created in the same physical location. Classic infrastructure and {{site.data.keyword.powerSysFull}} services locations are specified by data center while the physical location for VPC resources are specified by the universal zone name.
 {: tip}

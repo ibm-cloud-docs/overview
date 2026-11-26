@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2026
 
-lastupdated: "2026-11-25"
+lastupdated: "2026-11-26"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -27,8 +27,8 @@ Stay up to date with the latest {{site.data.keyword.cloud}} platform updates, ne
 {: #overview-nov2526}
 {: release-note}
 
-Operator management capabilities in the {{site.data.keyword.cloud_notm}} catalog are deprecated
-:   Operator onboarding, publishing, discovery, and installation capabilities in the {{site.data.keyword.cloud_notm}} catalog are deprecated and will be removed on 31 March 2027. To continue discovering and installing operators for {{site.data.keyword.openshiftshort}} environments, migrate to [{{site.data.keyword.redhat_notm}} OperatorHub](https://catalog.redhat.com/en/search?searchType=All&q=operators&p=1){: external}. Operators that are already installed in clusters continue to run after 31 March 2027, but support, maintenance, and updates are no longer provided for operators distributed through the {{site.data.keyword.cloud_notm}} catalog.
+Operator management capabilities in the {{site.data.keyword.cloud_notm}} catalog are being deprecated
+:   Operator onboarding, publishing, discovery, and installation capabilities in the {{site.data.keyword.cloud_notm}} catalog are being deprecated and will be removed on 31 March 2027. To continue discovering and installing operators after that date, use [{{site.data.keyword.redhat_notm}} OperatorHub](https://catalog.redhat.com/en/search?searchType=All&q=operators&p=1){: external}. Operators that are already installed in clusters continue to run after 31 March 2027, but support, maintenance, and updates are no longer provided for operators distributed through the {{site.data.keyword.cloud_notm}} catalog.
 
 ### 3 November 2026
 {: #overview-nov326}
